@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Promocje.pl — porównanie promocji ze sklepów</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F7F4EC;
+    --paper-dim:#EFEADB;
+    --ink:#1C1C1C;
+    --sale:#C41E3A;
+    --highlight:#FFC72C;
+    --muted:#8A8578;
+    --line:#D8D2C2;
+    --green:#2F6B3E;
+  }
+
+  *{box-sizing:border-box; margin:0; padding:0;}
+
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter', sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ---------- HEADER: receipt strip ---------- */
+  header{
+    background:var(--ink);
+    color:var(--paper);
+    padding:28px 24px 22px;
+    position:relative;
+  }
+  .header-inner{
+    max-width:1180px;
+    margin:0 auto;
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    flex-wrap:wrap;
+    gap:16px;
+  }
+  .brand h1{
+    font-family:'Archivo Black', sans-serif;
+    font-size:clamp(28px, 4vw, 42px);
+    letter-spacing:-0.5px;
+    line-height:1;
+  }
+  .brand h1 span{color:var(--highlight);}
+  .brand p{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    color:#C9C4B4;
+    margin-top:8px;
+    letter-spacing:0.02em;
+  }
+  .stamp{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    text-align:right;
+    color:#C9C4B4;
+    border:1px dashed #55524a;
+    padding:8px 12px;
+    line-height:1.6;
+  }
+  .stamp b{color:var(--paper); display:block; font-size:12px; letter-spacing:0.05em;}
+  header::after{
+    content:"";
+    display:block;
+    position:absolute;
+    bottom:-9px; left:0; right:0;
+    height:9px;
+    background:
+      radial-gradient(circle at 8px 0, transparent 8px, var(--ink) 9px) 0 -8px / 16px 100% repeat-x;
+  }
+
+  /* ---------- TOOLBAR ---------- */
+  .toolbar{
+    max-width:1180px;
+    margin:34px auto 0;
+    padding:0 24px;
+  }
+  .stores-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-bottom:16px;
+  }
+  .store-pill{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    font-weight:500;
+    padding:8px 14px;
+    border:1.5px solid var(--ink);
+    border-radius:2px;
+    background:transparent;
+    cursor:pointer;
+    color:var(--ink);
+    transition:background .15s, color .15s;
+  }
+  .store-pill.active{
+    background:var(--ink);
+    color:var(--paper);
+  }
+  .store-pill:focus-visible, .control:focus-visible, .sort-btn:focus-visible{
+    outline:2px solid var(--sale);
+    outline-offset:2px;
+  }
+  .controls-row{
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    align-items:center;
+    padding-bottom:20px;
+    border-bottom:2px solid var(--ink);
+  }
+  .control{
+    font-family:'Inter', sans-serif;
+    font-size:13.5px;
+    padding:9px 12px;
+    border:1px solid var(--line);
+    background:#fff;
+    border-radius:2px;
+    color:var(--ink);
+  }
+  #search{min-width:220px; flex:1;}
+  .result-count{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--muted);
+    margin-left:auto;
+  }
+
+  /* ---------- TABS ---------- */
+  .tabs{
+    max-width:1180px;
+    margin:0 auto;
+    padding:20px 24px 0;
+    display:flex;
+    gap:0;
+    border-bottom:2px solid var(--ink);
+  }
+  .tab-btn{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    font-weight:600;
+    padding:12px 20px;
+    background:transparent;
+    border:none;
+    border-bottom:3px solid transparent;
+    color:var(--muted);
+    cursor:pointer;
+    margin-bottom:-2px;
+  }
+  .tab-btn.active{
+    color:var(--ink);
+    border-bottom-color:var(--sale);
+  }
+  .tab-note{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    color:var(--muted);
+    margin-left:6px;
+    text-transform:none;
+    letter-spacing:0;
+  }
+  .live-dot{
+    display:inline-block;
+    width:7px; height:7px;
+    border-radius:50%;
+    background:var(--green);
+    margin-right:5px;
+  }
+
+  /* ---------- GRID ---------- */
+  main{max-width:1180px; margin:0 auto; padding:26px 24px 60px;}
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(230px, 1fr));
+    gap:18px;
+  }
+
+  /* Signature element: die-cut price tag card */
+  .tag{
+    position:relative;
+    background:#fff;
+    border:1px solid var(--line);
+    border-radius:3px;
+    padding:16px 16px 14px;
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .tag:hover{
+    transform:translateY(-3px);
+    box-shadow:0 10px 22px -12px rgba(0,0,0,0.35);
+  }
+  /* notch like a real price tag */
+  .tag::before{
+    content:"";
+    position:absolute;
+    top:14px; left:-7px;
+    width:14px; height:14px;
+    background:var(--paper);
+    border:1px solid var(--line);
+    border-radius:50%;
+  }
+  .tag-top{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+  }
+  .store-badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    font-weight:600;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    background:var(--paper-dim);
+    padding:3px 7px;
+    border-radius:2px;
+    color:var(--ink);
+  }
+  .discount-badge{
+    font-family:'Archivo Black', sans-serif;
+    font-size:13px;
+    background:var(--sale);
+    color:#fff;
+    padding:4px 8px;
+    border-radius:2px;
+    transform:rotate(2deg);
+  }
+  .icon{font-size:30px; line-height:1;}
+  .prod-name{
+    font-size:15px;
+    font-weight:600;
+    line-height:1.3;
+    min-height:39px;
+  }
+  .cat{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11px;
+    color:var(--muted);
+    text-transform:uppercase;
+    letter-spacing:0.03em;
+  }
+  .price-row{
+    display:flex;
+    align-items:baseline;
+    gap:9px;
+    margin-top:2px;
+  }
+  .old-price{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    color:var(--muted);
+    text-decoration:line-through;
+    text-decoration-color:var(--sale);
+  }
+  .new-price{
+    font-family:'Archivo Black', sans-serif;
+    font-size:22px;
+    color:var(--sale);
+  }
+  .new-price sup{font-size:12px;}
+  .unit-price{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    color:var(--muted);
+  }
+  .valid{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:10.5px;
+    color:var(--muted);
+    border-top:1px dashed var(--line);
+    padding-top:8px;
+    margin-top:2px;
+    display:flex;
+    justify-content:space-between;
+  }
+  .valid b{color:var(--green); font-weight:600;}
+
+  .empty{
+    grid-column:1/-1;
+    text-align:center;
+    padding:60px 20px;
+    color:var(--muted);
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13.5px;
+  }
+
+  footer{
+    border-top:2px solid var(--ink);
+    padding:22px 24px 40px;
+    max-width:1180px;
+    margin:0 auto;
+  }
+  footer p{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--muted);
+    max-width:640px;
+    line-height:1.6;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .tag{transition:none;}
+  }
+
+  @media (max-width:640px){
+    .stamp{display:none;}
+    .controls-row{flex-direction:column; align-items:stretch;}
+    .result-count{margin-left:0;}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="brand">
+      <h1>Promo<span>cje</span>.pl</h1>
+      <p>WSZYSTKIE SKLEPY&nbsp;&nbsp;·&nbsp;&nbsp;JEDNO MIEJSCE&nbsp;&nbsp;·&nbsp;&nbsp;ZERO PRZEPŁACANIA</p>
+    </div>
+    <div class="stamp">
+      <b id="today-stamp">AKTUALIZACJA</b>
+      PARAGON WAŻNY DO ODWOŁANIA<br>
+      NIE JEST DOWODEM ZAKUPU
+    </div>
+  </div>
+</header>
+
+<div class="tabs" id="tabsRow">
+  <button class="tab-btn active" data-tab="sample">Wszystkie sklepy <span class="tab-note">(dane przykładowe)</span></button>
+  <button class="tab-btn" data-tab="lidl-food">Lidl — spożywcze <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
+  <button class="tab-btn" data-tab="lidl-other">Lidl — inne kategorie <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
+  <button class="tab-btn" data-tab="kaufland">Kaufland <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
+  <button class="tab-btn" data-tab="biedronka">Biedronka Home <span class="tab-note">(tylko dom i ogród)</span></button>
+</div>
+
+<div class="toolbar">
+  <div class="stores-row" id="storeRow"></div>
+  <div class="controls-row">
+    <select class="control" id="categoryFilter">
+      <option value="">Wszystkie kategorie</option>
+    </select>
+    <select class="control" id="sortBy">
+      <option value="discount">Sortuj: największy rabat</option>
+      <option value="price-asc">Sortuj: cena rosnąco</option>
+      <option value="price-desc">Sortuj: cena malejąco</option>
+      <option value="ending">Sortuj: kończy się najszybciej</option>
+    </select>
+    <input class="control" id="search" type="text" placeholder="Szukaj produktu, np. masło...">
+    <span class="result-count" id="resultCount"></span>
+  </div>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <p><b>Wszystkie sklepy:</b> dane przykładowe — do podmiany na realne oferty (tablica <code>PROMOTIONS</code>). <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania), więc nie ma tu jeszcze prawdziwych ofert spożywczych z Biedronki.</p>
+</footer>
+
+<script>
+  // ---- EDIT ME: replace with real scraped/API data ----
+  const PROMOTIONS = [
+    {store:"Biedronka", category:"Nabiał", name:"Masło extra 82% 200g", icon:"🧈", oldPrice:9.99, newPrice:6.99, unit:"34,95 zł/kg", validTo:"2026-08-17"},
+    {store:"Lidl", category:"Mięso", name:"Filet z kurczaka 1kg", icon:"🍗", oldPrice:24.99, newPrice:17.99, unit:"17,99 zł/kg", validTo:"2026-08-14"},
+    {store:"Kaufland", category:"Napoje", name:"Woda gazowana 6x1,5l", icon:"💧", oldPrice:14.94, newPrice:8.99, unit:"1,00 zł/l", validTo:"2026-08-19"},
+    {store:"Żabka", category:"Słodycze", name:"Czekolada mleczna 100g", icon:"🍫", oldPrice:6.49, newPrice:3.99, unit:"39,90 zł/kg", validTo:"2026-08-13"},
+    {store:"Auchan", category:"Owoce i warzywa", name:"Banany luz 1kg", icon:"🍌", oldPrice:6.99, newPrice:4.49, unit:"4,49 zł/kg", validTo:"2026-08-16"},
+    {store:"Carrefour", category:"Pieczywo", name:"Chleb żytni na zakwasie 500g", icon:"🍞", oldPrice:7.49, newPrice:5.49, unit:"10,98 zł/kg", validTo:"2026-08-15"},
+    {store:"Biedronka", category:"Chemia", name:"Płyn do prania 2,4l", icon:"🧴", oldPrice:29.99, newPrice:19.99, unit:"8,33 zł/l", validTo:"2026-08-18"},
+    {store:"Lidl", category:"Nabiał", name:"Ser żółty gouda 300g", icon:"🧀", oldPrice:11.99, newPrice:8.49, unit:"28,30 zł/kg", validTo:"2026-08-14"},
+    {store:"Kaufland", category:"Mięso", name:"Szynka wieprzowa plastry 150g", icon:"🥓", oldPrice:8.99, newPrice:5.99, unit:"39,93 zł/kg", validTo:"2026-08-20"},
+    {store:"Żabka", category:"Napoje", name:"Kawa mrożona 250ml", icon:"🥤", oldPrice:7.99, newPrice:5.49, unit:"21,96 zł/l", validTo:"2026-08-13"},
+    {store:"Auchan", category:"Słodycze", name:"Ciastka owsiane 200g", icon:"🍪", oldPrice:5.99, newPrice:3.49, unit:"17,45 zł/kg", validTo:"2026-08-21"},
+    {store:"Carrefour", category:"Owoce i warzywa", name:"Pomidory malinowe 500g", icon:"🍅", oldPrice:8.99, newPrice:5.99, unit:"11,98 zł/kg", validTo:"2026-08-15"},
+    {store:"Biedronka", category:"Pieczywo", name:"Bułki maślane 6szt", icon:"🥐", oldPrice:6.99, newPrice:4.99, unit:"0,83 zł/szt", validTo:"2026-08-17"},
+    {store:"Lidl", category:"Chemia", name:"Płyn do naczyń 900ml", icon:"🧽", oldPrice:8.49, newPrice:5.99, unit:"6,66 zł/l", validTo:"2026-08-14"},
+    {store:"Kaufland", category:"Słodycze", name:"Lody familijne 900ml", icon:"🍦", oldPrice:13.99, newPrice:8.99, unit:"9,99 zł/l", validTo:"2026-08-19"},
+    {store:"Żabka", category:"Nabiał", name:"Jogurt naturalny 400g", icon:"🥛", oldPrice:5.49, newPrice:3.99, unit:"9,98 zł/kg", validTo:"2026-08-13"},
+  ];
+
+  // ---- REAL DATA pulled from Lidl's own product API (lidl.pl/q/api/query/wyprzedaz), 12 Aug 2026 ----
+  // This endpoint only covers non-food clearance items (home, fashion, sport, baby) —
+  // Lidl does not sell fresh groceries through this API, only via the weekly image-based gazetka.
+  const PROMOTIONS_LIDL_OTHER = [
+    {store:"Lidl", category:"Dom i wyposażenie wnętrz", name:"LICHTBLICK Roleta termoizolacyjna Klemmfix, bez wiercenia, od 45 x 150 cm", icon:"🪟", oldPrice:9.99, newPrice:8.99, discountPct:10, image:"https://www.lidl.pl/assets/gcpcbf96c43ba5e48529cd83d35357603e3.jpeg", url:"https://www.lidl.pl/p/lichtblick-roleta-termoizolacyjna-klemmfix-bez-wiercenia-od-45-x-150-cm/p100312502"},
+    {store:"Lidl", category:"Moda i akcesoria", name:"ESMARA KIDS Buty dziecięce", icon:"👟", oldPrice:39.99, newPrice:29.99, discountPct:25, image:"https://www.lidl.pl/assets/gcp1652b6c829e34563a587d0770260f56d.jpg", url:"https://www.lidl.pl/p/esmara-kids-buty-dzieciece/p100407341"},
+    {store:"Lidl", category:"Dom i wyposażenie wnętrz", name:"LIVARNO Komplet 2 ręczników frotté z bawełny, 50 x 100 cm", icon:"🧻", oldPrice:25.99, newPrice:17.99, discountPct:30, image:"https://www.lidl.pl/assets/gcp5ef2c4735dde485ca9c0cf1cc67c8422.jpg", url:"https://www.lidl.pl/p/livarno-komplet-2-recznikow-frotte-z-bawelny-50-x-100-cm/p100395055"},
+    {store:"Lidl", category:"Sport i wypoczynek", name:"CRIVIT Top funkcyjny damski", icon:"🎽", oldPrice:14.99, newPrice:8.99, discountPct:40, image:"https://www.lidl.pl/assets/gcpdfdaa0e268394168a8e098d835ec811b.jpg", url:"https://www.lidl.pl/p/crivit-top-funkcyjny-damski/p100407976"},
+    {store:"Lidl", category:"Sport i wypoczynek", name:"CRIVIT Strój kąpielowy damski", icon:"🩱", oldPrice:49.99, newPrice:39.99, discountPct:20, image:"https://www.lidl.pl/assets/gcpcf34b389642b4beea0060368b421b43f.jpg", url:"https://www.lidl.pl/p/crivit-stroj-kapielowy-damski/p100406001"},
+    {store:"Lidl", category:"Sport i wypoczynek", name:"CRIVIT Rakieta do padla (Czarny/niebieski)", icon:"🏓", oldPrice:79.99, newPrice:39.99, discountPct:50, image:"https://www.lidl.pl/assets/gcp8586dd3ba4b443c083a19d6f7307e2c7.jpg", url:"https://www.lidl.pl/p/crivit-rakieta-do-padla/p100406205001"},
+    {store:"Lidl", category:"Dom i wyposażenie wnętrz", name:"LIVARNO Dywan wewnętrzny i zewnętrzny", icon:"🟫", oldPrice:74.90, newPrice:58.90, discountPct:21, image:"https://www.lidl.pl/assets/gcp0d8cdc119d664d438272d992c08740be.jpg", url:"https://www.lidl.pl/p/livarno-dywan-wewnetrzny-i-zewnetrzny/p100406485"},
+    {store:"Lidl", category:"Sport i wypoczynek", name:"CRIVIT Spódniczka funkcyjna damska", icon:"🎾", oldPrice:34.99, newPrice:27.99, discountPct:20, image:"https://www.lidl.pl/assets/gcpbac352313abd4102b1aea9adab1cc77c.jpg", url:"https://www.lidl.pl/p/crivit-spodniczka-funkcyjna-damska/p100405291"},
+    {store:"Lidl", category:"Moda i akcesoria", name:"ESMARA Sandały na koturnie damskie", icon:"👡", oldPrice:54.99, newPrice:32.99, discountPct:40, image:"https://www.lidl.pl/assets/gcpca1c655a68774d65bd875eb4817a2baf.jpg", url:"https://www.lidl.pl/p/esmara-sandaly-na-koturnie-damskie/p100404647"},
+    {store:"Lidl", category:"Moda i akcesoria", name:"ESMARA MEN Koszulka polo męska", icon:"👕", oldPrice:39.99, newPrice:29.99, discountPct:25, image:"https://www.lidl.pl/assets/gcp10fe290c0f7945e3bc66f7ff6730df9c.jpg", url:"https://www.lidl.pl/p/esmara-men-koszulka-polo-meska/p100407488"},
+  ];
+
+  // ---- REAL DATA pulled from Lidl's own product API (lidl.pl/q/api/search?category.id=10068374), 12 Aug 2026 ----
+  // "Żywność i napoje" — actual fresh groceries. Some prices require the Lidl Plus app coupon
+  // (marked "wymaga aplikacji Lidl Plus" below) or a bulk-purchase quantity — noted per item.
+  const PROMOTIONS_LIDL_FOOD = [
+    {store:"Lidl", category:"Sery, nabiał i jaja", name:"MLEKOVITA Masło z Polskiej Mleczarni 82%", icon:"🧈", oldPrice:4.99, newPrice:1.99, discountPct:60, note:"wymaga aplikacji Lidl Plus, przy zakupie 3 szt.", image:"https://imgproxy-retcat.assets.schwarz/g8JrbxTL9gagSlSeBHTuSPK_y8arQAUR0V2ek7wVKRc/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2RURFQzUxNjhBQkUyQzEwMTFBRUI1Qz/IyQzM3QTMwNDc5NTg3QTM3OERGN0VFNDg5RkEwRDlFQjQxOTZDNkUucG5n.png", url:"https://www.lidl.pl/p/mlekovita-maslo-z-polskiej-mleczarni-82/p10036668"},
+    {store:"Lidl", category:"Mięso i drób", name:"RZEŹNIK Polski kurczak – filety z piersi, XXL", icon:"🍗", oldPrice:24.80, newPrice:14.99, discountPct:39, note:"wymaga aplikacji Lidl Plus, cena za kg", image:"https://imgproxy-retcat.assets.schwarz/-Ayh9CvVUCvkIolYScXd4CNZd6gZoj09f3n966ZBVuc/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY0NDAzQThCNDY0QUQ5NTFERTRFM0EwQT/hCMEUyMzcxQUUxQzYxRkVERDA4N0ZERkFGQ0VENDEzMTM3MDMzRUQucG5n.png", url:"https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p10036669"},
+    {store:"Lidl", category:"Mięso i drób", name:"GRILL&FUN Karkówka wieprzowa w marynacie", icon:"🥩", oldPrice:28.99, newPrice:7.99, discountPct:72, note:"wymaga aplikacji Lidl Plus, cena za kg", image:"https://imgproxy-retcat.assets.schwarz/bvd-v3fyfNMu0kiWuiQ45TL0ivDZ15ndBZwJEo_VWs0/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFBQUM0OTZENzNGODU4RDdDMUZCNDU5MD/c3ODcyNzFBOTIzNzExNTgyRjE4NzFCQTM3NDE0MTA2M0U5MDkwRjkucG5n.png", url:"https://www.lidl.pl/p/grill-fun-karkowka-wieprzowa-w-marynacie/p10036673"},
+    {store:"Lidl", category:"Mięso i drób", name:"PIKOK Kiełbasa śląska, XXL", icon:"🌭", oldPrice:22.90, newPrice:6.90, discountPct:69, note:"wymaga aplikacji Lidl Plus, cena za kg", image:"https://imgproxy-retcat.assets.schwarz/BNCKZizaK1INshiAc3qGo22Osy4mTtbj689PG1jtNME/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzkzODQ2NjkxMzlDM0JGMThBOUMzOUExNj/k1MTdDRDE2NzgzRDAxNzQ1RDU0QzRBQ0IzMzRBMjlFNjE4MUQyMUIucG5n.png", url:"https://www.lidl.pl/p/pikok-kielbasa-slaska-xxl/p10036674"},
+    {store:"Lidl", category:"Sery, nabiał i jaja", name:"PILOS Ser gouda i edam w plastrach, XXL", icon:"🧀", oldPrice:14.99, newPrice:7.49, discountPct:50, note:"przy zakupie 2 opak. (2×250g)", image:"https://imgproxy-retcat.assets.schwarz/UEQ3LlmgOZmlvDLbdUM5X-JnaQ5v2Y67YxoZQh8sHHw/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdFNUM1ODdCMDdDQjMzMjRBRDI0MkUzRk/ZGMzkxNkZGNzVGMEI2MUIzNjY3NDhFODVBNENGRjVDNjI0QkVBMDkucG5n.png", url:"https://www.lidl.pl/p/pilos-ser-gouda-i-edam-w-plastrach-xxl/p10036677"},
+  ];
+
+  // ---- Kaufland / Biedronka Home: no fallback data embedded yet ----
+  // These start empty until scrape_kaufland.py / scrape_biedronka.py have run
+  // for real (via GitHub Actions or locally) and committed their JSON — unlike
+  // the Lidl arrays above, which were seeded from a real one-off pull.
+  // loadLiveData() below fills these in once GITHUB_RAW_BASE points at a repo
+  // that has kaufland_oferta.json / biedronka_home.json.
+  const PROMOTIONS_KAUFLAND = [];
+  const PROMOTIONS_BIEDRONKA = [];
+
+  // ---- Tab registry: each entry describes one dataset and how to filter/group it ----
+  // Datasets below are FALLBACK data (used if the live JSON fetch fails or hasn't
+  // been set up yet). Once GITHUB_RAW_BASE points at your repo, loadLiveData()
+  // below replaces these with whatever the matching scrape_*.py script last committed.
+  //
+  // EDIT ME: replace YOUR_USERNAME/YOUR_REPO with your actual GitHub repo once
+  // it exists — see SETUP.md for how to create it and push these files.
+  const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SuperPromki/superpromki-site/main";
+
+  const TABS = {
+    'sample':      { dataset: PROMOTIONS,           groupKey: 'store',    categoryFilter: true  },
+    'lidl-food':   { dataset: PROMOTIONS_LIDL_FOOD,  groupKey: 'category', categoryFilter: false },
+    'lidl-other':  { dataset: PROMOTIONS_LIDL_OTHER, groupKey: 'category', categoryFilter: false },
+    'kaufland':    { dataset: PROMOTIONS_KAUFLAND,   groupKey: 'category', categoryFilter: false,
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_kaufland.py (lokalnie lub przez GitHub Actions), żeby zapełnić kaufland_oferta.json.' },
+    'biedronka':   { dataset: PROMOTIONS_BIEDRONKA,  groupKey: 'category', categoryFilter: false,
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_home.json.' },
+  };
+  Object.keys(TABS).forEach(key => {
+    TABS[key].activeGroups = new Set(TABS[key].dataset.map(p => p[TABS[key].groupKey]));
+  });
+
+  async function loadLiveData(){
+    const sources = {
+      'lidl-food': 'lidl_food.json',
+      'lidl-other': 'lidl_wyprzedaz.json',
+      'kaufland': 'kaufland_oferta.json',
+      'biedronka': 'biedronka_home.json',
+    };
+    for (const [tabKey, filename] of Object.entries(sources)) {
+      try {
+        const resp = await fetch(`${GITHUB_RAW_BASE}/${filename}`, {cache: 'no-store'});
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const liveItems = await resp.json();
+        if (Array.isArray(liveItems) && liveItems.length > 0) {
+          TABS[tabKey].dataset = liveItems;
+          TABS[tabKey].activeGroups = new Set(liveItems.map(p => p[TABS[tabKey].groupKey]));
+          const noteEl = document.querySelector(`.tab-btn[data-tab="${tabKey}"] .tab-note`);
+          if (noteEl) noteEl.innerHTML = `<span class="live-dot"></span>zaktualizowano dziś`;
+        }
+      } catch (err) {
+        console.warn(`Nie udało się pobrać ${filename} — używam danych zapasowych.`, err);
+      }
+    }
+  }
+
+  let activeTab = 'sample';
+  function currentTab(){ return TABS[activeTab]; }
+  function currentDataset(){ return currentTab().dataset; }
+
+  const storeRow = document.getElementById('storeRow');
+  const categorySelect = document.getElementById('categoryFilter');
+
+  function buildFilterRow(){
+    storeRow.innerHTML = '';
+    const tab = currentTab();
+    const groups = [...new Set(tab.dataset.map(p => p[tab.groupKey]))];
+    groups.forEach(val => {
+      const btn = document.createElement('button');
+      btn.className = 'store-pill' + (tab.activeGroups.has(val) ? ' active' : '');
+      btn.textContent = val;
+      btn.setAttribute('aria-pressed', tab.activeGroups.has(val) ? 'true' : 'false');
+      btn.addEventListener('click', () => {
+        if (tab.activeGroups.has(val)) { tab.activeGroups.delete(val); btn.classList.remove('active'); btn.setAttribute('aria-pressed','false'); }
+        else { tab.activeGroups.add(val); btn.classList.add('active'); btn.setAttribute('aria-pressed','true'); }
+        render();
+      });
+      storeRow.appendChild(btn);
+    });
+
+    categorySelect.innerHTML = '<option value="">Wszystkie kategorie</option>';
+    if (tab.categoryFilter) {
+      const cats = [...new Set(tab.dataset.map(p => p.category))];
+      cats.forEach(cat => {
+        const opt = document.createElement('option');
+        opt.value = cat; opt.textContent = cat;
+        categorySelect.appendChild(opt);
+      });
+      categorySelect.style.display = '';
+    } else {
+      categorySelect.style.display = 'none'; // category is already the pill filter on this tab
+    }
+  }
+
+  document.querySelectorAll('.tab-btn').forEach(btn => {
+    btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+  });
+
+  function switchTab(tab){
+    activeTab = tab;
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.tab === tab));
+    searchInput.value = '';
+    buildFilterRow();
+    render();
+  }
+
+  const grid = document.getElementById('grid');
+  const resultCount = document.getElementById('resultCount');
+  const searchInput = document.getElementById('search');
+  const sortSelect = document.getElementById('sortBy');
+
+  function discountPct(o, n){ return Math.round((1 - n / o) * 100); }
+  function pctFor(p){ return p.discountPct !== undefined ? p.discountPct : discountPct(p.oldPrice, p.newPrice); }
+
+  function formatPrice(p){
+    const [zl, gr] = p.toFixed(2).split('.');
+    return `${zl}<sup>,${gr}</sup> zł`;
+  }
+
+  function formatDate(d){
+    const dt = new Date(d);
+    return dt.toLocaleDateString('pl-PL', {day:'2-digit', month:'2-digit'});
+  }
+
+  function render(){
+    const tab = currentTab();
+    const dataset = tab.dataset;
+    const cat = tab.categoryFilter ? categorySelect.value : '';
+    const term = searchInput.value.trim().toLowerCase();
+    const sort = sortSelect.value;
+
+    let items = dataset.filter(p =>
+      tab.activeGroups.has(p[tab.groupKey]) &&
+      (!cat || p.category === cat) &&
+      (!term || p.name.toLowerCase().includes(term))
+    );
+
+    items.sort((a, b) => {
+      if (sort === 'discount') return pctFor(b) - pctFor(a);
+      if (sort === 'price-asc') return a.newPrice - b.newPrice;
+      if (sort === 'price-desc') return b.newPrice - a.newPrice;
+      if (sort === 'ending') return a.validTo && b.validTo ? new Date(a.validTo) - new Date(b.validTo) : 0;
+      return 0;
+    });
+
+    resultCount.textContent = `${items.length} ${items.length === 1 ? 'oferta' : 'ofert'}`;
+
+    grid.innerHTML = '';
+    if (items.length === 0){
+      const msg = dataset.length === 0 && tab.emptyMessage
+        ? tab.emptyMessage
+        : 'Brak promocji spełniających kryteria — zmień filtry lub wybierz inną kategorię.';
+      grid.innerHTML = `<div class="empty">${msg}</div>`;
+      return;
+    }
+
+    items.forEach(p => {
+      const card = document.createElement('div');
+      card.className = 'tag';
+      const badge = p.store ? `<span class="store-badge">${p.store}</span>` : '';
+      const media = p.image
+        ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:90px;object-fit:contain;background:var(--paper-dim);border-radius:2px;">`
+        : `<div class="icon">${p.icon || '🛒'}</div>`;
+      const validRow = p.validTo
+        ? `<div class="valid">ważne do <b>${formatDate(p.validTo)}</b></div>`
+        : `<div class="valid">źródło: <b>lidl.pl</b></div>`;
+      const link = p.url ? `<a href="${p.url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">` : '';
+      const linkClose = p.url ? `</a>` : '';
+      card.innerHTML = `
+        <div class="tag-top">
+          ${badge}
+          <span class="discount-badge">-${pctFor(p)}%</span>
+        </div>
+        ${link}${media}
+        <div>
+          <div class="cat">${p.category}</div>
+          <div class="prod-name">${p.name}</div>
+        </div>
+        ${linkClose}
+        <div class="price-row">
+          <span class="old-price">${p.oldPrice.toFixed(2)} zł</span>
+          <span class="new-price">${formatPrice(p.newPrice)}</span>
+        </div>
+        ${p.unit ? `<div class="unit-price">${p.unit}</div>` : ''}
+        ${p.note ? `<div class="unit-price" style="color:var(--sale);">⚠ ${p.note}</div>` : ''}
+        ${validRow}
+      `;
+      grid.appendChild(card);
+    });
+  }
+
+  categorySelect.addEventListener('change', render);
+  sortSelect.addEventListener('change', render);
+  searchInput.addEventListener('input', render);
+
+  document.getElementById('today-stamp').textContent =
+    new Date().toLocaleDateString('pl-PL', {day:'2-digit', month:'2-digit', year:'numeric'});
+
+  buildFilterRow();
+  render();
+
+  // Fetch live data in the background; re-render only if the currently visible
+  // tab's data actually changed, so we don't yank filters out from under the user.
+  loadLiveData().then(() => {
+    buildFilterRow();
+    render();
+  });
+</script>
+
+</body>
+</html>
