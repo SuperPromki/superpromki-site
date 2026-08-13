@@ -340,6 +340,7 @@
   <button class="tab-btn" data-tab="lidl-other">Lidl — inne kategorie <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
   <button class="tab-btn" data-tab="kaufland">Kaufland <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
   <button class="tab-btn" data-tab="biedronka">Biedronka Home <span class="tab-note">(tylko dom i ogród)</span></button>
+  <button class="tab-btn" data-tab="biedronka-food">Biedronka — spożywcze <span class="tab-note">(hity z gazetki, via blix.pl)</span></button>
 </div>
 
 <div class="toolbar">
@@ -364,7 +365,7 @@
 </main>
 
 <footer>
-  <p><b>Wszystkie sklepy:</b> dane przykładowe — do podmiany na realne oferty (tablica <code>PROMOTIONS</code>). <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania), więc nie ma tu jeszcze prawdziwych ofert spożywczych z Biedronki.</p>
+  <p><b>Wszystkie sklepy:</b> dane przykładowe — do podmiany na realne oferty (tablica <code>PROMOTIONS</code>). <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek Biedronki na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam Biedronka.</p>
 </footer>
 
 <script>
@@ -423,6 +424,7 @@
   // that has kaufland_oferta.json / biedronka_home.json.
   const PROMOTIONS_KAUFLAND = [];
   const PROMOTIONS_BIEDRONKA = [];
+  const PROMOTIONS_BIEDRONKA_FOOD = [];
 
   // ---- Tab registry: each entry describes one dataset and how to filter/group it ----
   // Datasets below are FALLBACK data (used if the live JSON fetch fails or hasn't
@@ -441,6 +443,8 @@
                       emptyMessage: 'Brak danych jeszcze — uruchom scrape_kaufland.py (lokalnie lub przez GitHub Actions), żeby zapełnić kaufland_oferta.json.' },
     'biedronka':   { dataset: PROMOTIONS_BIEDRONKA,  groupKey: 'category', categoryFilter: false,
                       emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_home.json.' },
+    'biedronka-food': { dataset: PROMOTIONS_BIEDRONKA_FOOD, groupKey: 'category', categoryFilter: false,
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka_food.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_gazetka.json.' },
   };
   Object.keys(TABS).forEach(key => {
     TABS[key].activeGroups = new Set(TABS[key].dataset.map(p => p[TABS[key].groupKey]));
@@ -452,6 +456,7 @@
       'lidl-other': 'lidl_wyprzedaz.json',
       'kaufland': 'kaufland_oferta.json',
       'biedronka': 'biedronka_home.json',
+      'biedronka-food': 'biedronka_gazetka.json',
     };
     for (const [tabKey, filename] of Object.entries(sources)) {
       try {
