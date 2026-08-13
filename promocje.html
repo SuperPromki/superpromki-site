@@ -591,10 +591,16 @@
         : `<div class="valid">źródło: <b>${sourceHost || (p.store || '').toLowerCase() + '.pl'}</b></div>`;
       const link = p.url ? `<a href="${p.url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">` : '';
       const linkClose = p.url ? `</a>` : '';
+      const pct = pctFor(p);
+      const hasDiscount = typeof pct === 'number' && !isNaN(pct);
+      const discountBadge = hasDiscount ? `<span class="discount-badge">-${pct}%</span>` : '';
+      const oldPriceHtml = (p.oldPrice !== null && p.oldPrice !== undefined)
+        ? `<span class="old-price">${p.oldPrice.toFixed(2)} zł</span>`
+        : '';
       card.innerHTML = `
         <div class="tag-top">
           ${badge}
-          <span class="discount-badge">-${pctFor(p)}%</span>
+          ${discountBadge}
         </div>
         ${link}${media}
         <div>
@@ -603,7 +609,7 @@
         </div>
         ${linkClose}
         <div class="price-row">
-          <span class="old-price">${p.oldPrice.toFixed(2)} zł</span>
+          ${oldPriceHtml}
           <span class="new-price">${formatPrice(p.newPrice)}</span>
         </div>
         ${p.unit ? `<div class="unit-price">${p.unit}</div>` : ''}
