@@ -315,6 +315,44 @@
     line-height:1.6;
   }
 
+  .changelog{
+    margin-top:16px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--muted);
+  }
+  .changelog summary{
+    cursor:pointer;
+    list-style:none;
+    color:var(--ink);
+    user-select:none;
+  }
+  .changelog summary::-webkit-details-marker{display:none;}
+  .changelog summary::before{
+    content:'▸';
+    display:inline-block;
+    width:12px;
+    transition:transform .15s;
+  }
+  .changelog[open] summary::before{
+    transform:rotate(90deg);
+  }
+  .changelog ul{
+    margin:10px 0 0 24px;
+    padding:0;
+    list-style:disc;
+    max-width:640px;
+  }
+  .changelog li{
+    margin-bottom:6px;
+    line-height:1.55;
+  }
+  .changelog li .cl-date{
+    color:var(--ink);
+    font-weight:600;
+    margin-right:6px;
+  }
+
   @media (prefers-reduced-motion: reduce){
     .tag{transition:none;}
   }
@@ -376,6 +414,11 @@
 
 <footer>
   <p><b>Wszystkie sklepy:</b> dane przykładowe — do podmiany na realne oferty (tablica <code>PROMOTIONS</code>). <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b> i <b>Żabka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
+
+  <details class="changelog" id="changelogBox">
+    <summary>Zmiany na stronie — ostatnia: <b id="changelogDate">—</b></summary>
+    <ul id="changelogList"></ul>
+  </details>
 </footer>
 
 <script>
@@ -720,8 +763,28 @@
   document.getElementById('today-stamp').textContent =
     new Date().toLocaleDateString('pl-PL', {day:'2-digit', month:'2-digit', year:'numeric'});
 
+  // Hand-maintained log of changes to the SITE ITSELF (code/design), separate
+  // from the "zaktualizowano dziś" tab badges above, which track freshness of
+  // the scraped/fetched DATA. Add a new entry here (newest first) whenever
+  // promocje.html is edited.
+  const CHANGELOG = [
+    {date:'2026-08-13', text:'Dodano własne, odręcznie narysowane ikony kategorii (mięso, nabiał, owoce/warzywa i inne) dla ofert bez zdjęcia — zakładki Żabka i Biedronka — spożywcze.'},
+    {date:'2026-08-13', text:'Scraper Auchan przepisany zgodnie z robots.txt — korzysta wyłącznie z dozwolonej strony /promotions, bez wywołań zablokowanego endpointu /api/.'},
+  ];
+
+  function renderChangelog(){
+    const list = document.getElementById('changelogList');
+    const dateEl = document.getElementById('changelogDate');
+    if (!list || !dateEl || !CHANGELOG.length) return;
+    dateEl.textContent = formatDate(CHANGELOG[0].date);
+    list.innerHTML = CHANGELOG
+      .map(e => `<li><span class="cl-date">${formatDate(e.date)}</span>${e.text}</li>`)
+      .join('');
+  }
+
   buildFilterRow();
   render();
+  renderChangelog();
 
   // Fetch live data in the background; re-render only if the currently visible
   // tab's data actually changed, so we don't yank filters out from under the user.
