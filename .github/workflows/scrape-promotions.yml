@@ -34,6 +34,7 @@ jobs:
 
       - name: Run Lidl scraper
         run: python scrape_lidl.py
+        continue-on-error: true  # Lidl's API can 406 datacenter/CI IPs even with browser-like headers
 
       - name: Run Biedronka Home scraper
         run: python scrape_biedronka.py
@@ -47,6 +48,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json
+          for f in lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json; do
+            [ -f "$f" ] && git add "$f"
+          done
           git diff --staged --quiet || git commit -m "Auto-update promotions ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git push
