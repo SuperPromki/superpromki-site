@@ -54,7 +54,7 @@ jobs:
 
       - name: Run Auchan scraper
         run: python scrape_auchan.py
-        continue-on-error: true  # best-effort — relies on zakupy.auchan.pl's SSR/API shape + may hit their WAF from CI IPs
+        continue-on-error: true  # best-effort — single GET of /promotions (robots.txt-compliant), may still hit their WAF from CI IPs
 
       - name: Commit updated data files
         run: |
