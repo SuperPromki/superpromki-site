@@ -577,9 +577,13 @@
       const media = p.image
         ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:90px;object-fit:contain;background:var(--paper-dim);border-radius:2px;">`
         : `<div class="icon">${p.icon || '🛒'}</div>`;
+      let sourceHost = null;
+      if (p.url) {
+        try { sourceHost = new URL(p.url).hostname.replace(/^www\./, ''); } catch (e) { sourceHost = null; }
+      }
       const validRow = p.validTo
         ? `<div class="valid">ważne do <b>${formatDate(p.validTo)}</b></div>`
-        : `<div class="valid">źródło: <b>lidl.pl</b></div>`;
+        : `<div class="valid">źródło: <b>${sourceHost || (p.store || '').toLowerCase() + '.pl'}</b></div>`;
       const link = p.url ? `<a href="${p.url}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none;">` : '';
       const linkClose = p.url ? `</a>` : '';
       card.innerHTML = `
