@@ -12,6 +12,14 @@ promoted under the food category, which changes day to day. Some prices here
 require the Lidl Plus app coupon or a minimum purchase quantity — see the
 "requiresCoupon" / "note" fields in the output.
 
+Note: Lidl's API sits behind bot-detection that can return "406 Not
+Acceptable" for requests coming from datacenter/CI IPs (e.g. GitHub-hosted
+Actions runners), even with full browser-like headers. If the scheduled
+workflow run shows this step failing, that's most likely why — it's marked
+continue-on-error in the workflow so it doesn't block the Biedronka/Kaufland
+scrapers or the commit step. Re-running from a residential IP, or fetching
+via a proxy, are the usual workarounds if this needs to be made reliable.
+
 Usage:
     pip install requests --break-system-packages
     python scrape_lidl.py
@@ -30,7 +38,10 @@ HEADERS = {
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
         "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
     ),
-    "Accept": "application/json",
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Referer": "https://www.lidl.pl/",
+    "Origin": "https://www.lidl.pl",
 }
 
 FETCH_SIZE = 48
