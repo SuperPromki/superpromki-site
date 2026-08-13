@@ -15,10 +15,6 @@ built on Salesforce Commerce Cloud (Demandware), which server-renders
 product grids, so it's actually scrapable. This mirrors the same
 non-food-only limitation the Lidl scraper already has for lidl.pl/q/api/query/wyprzedaz.
 
-If Biedronka ever exposes real grocery-promo data (or you get hold of an
-internal API), swap PROMO_URL / parse_tile() below — the JSON output shape
-is designed to match scrape_lidl.py so the frontend doesn't need changes.
-
 Usage:
     pip install requests beautifulsoup4 --break-system-packages
     python scrape_biedronka.py
@@ -26,20 +22,29 @@ Usage:
 Output:
     biedronka_home.json — non-food promo items from home.biedronka.pl
 
-NOTE ON RELIABILITY:
-This was written from external research (page text extracted via a fetch
-tool), not a live look at the rendered DOM — I could not inspect the actual
-HTML/CSS in this environment (no browser access, no direct internet from
-the sandbox shell). The selector strategy below tries schema.org Product
-microdata first (common on SFCC storefronts for SEO), then falls back to a
-regex sweep over visible text. Run it once, check the item count and a
-few sample entries, and if it comes back empty or wrong, that almost
-certainly means the live markup doesn't match these guesses — open the
-page's dev tools (Network/Elements tab), find the real product-tile
-selector, and adjust `parse_products_from_html()` accordingly. Happy to
-help fix it once you can share what the real markup looks like, or once
-the Claude-in-Chrome browser extension is connected so I can inspect it
-directly.
+NOTES ON THIS SCRAPER'S HISTORY:
+- Originally written blind (no live DOM access) and only had a schema.org
+  microdata strategy + a regex text-sweep fallback — both came back with 0
+  items once actually run, because the real page uses neither: it's a
+  Salesforce Commerce Cloud storefront with its own BEM-style classes and
+  no Product microdata.
+- Inspected the live page directly in devtools and confirmed (via a raw
+  `fetch()`, not just the post-JS DOM) that /promocje/?start=N&sz=60 returns
+  fully server-rendered product tiles — no JS execution needed. Each tile is
+  a `div.product-tile.js-product-tile` with: name in `.product-tile__name`,
+  brand in `.product-tile__brand-name`, current price in `.price-tile__sales`
+  and original price in `.price-tile__standard` (both split across a bare
+  text node for the whole-zloty part and a nested `.price-tile__decimal`
+  span for the grosze part — e.g. "149" + <span>00</span> = 149.00 zł, with
+  no separator character between them in the raw text), product link on
+  `.product-tile-clickable`'s nearest `a[href]`, and image `src` on the
+  tile's `<img>`. There's no per-tile category text in the markup (category
+  only shows up as sidebar facet counts), so every item is tagged
+  "Dom i ogród" to match what this whole page covers (matches the site's
+  own "Biedronka Home (tylko dom i ogród)" framing in promocje.html).
+- parse_products_tiles() (below) implements this and is now the primary
+  strategy; the old microdata/text-sweep strategies stay as a safety net
+  in case Biedronka changes the markup again.
 """
 
 import json
@@ -47,7 +52,7 @@ import re
 import time
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 
 HEADERS = {
     "User-Agent": (
@@ -55,12 +60,13 @@ HEADERS = {
         "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
     ),
     "Accept": "text/html,application/xhtml+xml",
+    "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
 BASE_URL = "https://home.biedronka.pl"
 PROMO_PATH = "/promocje/"
 PAGE_SIZE = 60
-MAX_PAGES = 20  # safety cap so a parsing bug can't loop forever
+MAX_PAGES = 30  # safety cap so a parsing bug can't loop forever (1697 products / 60 ≈ 29 pages)
 
 
 def fetch_page(start):
@@ -82,8 +88,89 @@ def parse_price(text):
     return float(match.group(1).replace(",", "."))
 
 
+def extract_tile_price(price_el):
+    """
+    Pulls a price out of a `.price-tile__sales` / `.price-tile__standard`
+    element, whose raw structure is a bare text node for the whole-zloty
+    part followed by a nested `.price-tile__decimal` span for the grosze
+    part (e.g. "149" + <span>00</span>), with no separator between them —
+    see the module docstring for how this was confirmed against the live
+    markup.
+    """
+    if not price_el:
+        return None
+    whole = None
+    for content in price_el.contents:
+        if isinstance(content, NavigableString):
+            text = content.strip()
+            if text:
+                whole = re.sub(r"[^\d]", "", text)
+                if whole:
+                    break
+    if not whole:
+        return None
+    decimal_el = price_el.select_one(".price-tile__decimal")
+    decimal = re.sub(r"[^\d]", "", decimal_el.get_text()) if decimal_el else "00"
+    decimal = (decimal or "00")[:2].ljust(2, "0")
+    try:
+        return float(f"{whole}.{decimal}")
+    except ValueError:
+        return None
+
+
+def parse_products_tiles(soup):
+    """Strategy 1 (primary): real `.product-tile` cards — see module docstring."""
+    items = []
+    for tile in soup.select(".product-tile.js-product-tile"):
+        name_el = tile.select_one(".product-tile__name")
+        if not name_el:
+            continue
+        name = name_el.get_text(strip=True)
+        if not name:
+            continue
+
+        brand_el = tile.select_one(".product-tile__brand-name")
+        if brand_el and brand_el.get_text(strip=True):
+            name = f"{brand_el.get_text(strip=True)} {name}"
+
+        new_price = extract_tile_price(tile.select_one(".price-tile__sales"))
+        if new_price is None:
+            continue  # no usable price on this tile — skip rather than guess
+        old_price = extract_tile_price(tile.select_one(".price-tile__standard"))
+
+        discount_pct = (
+            round((1 - new_price / old_price) * 100) if old_price and new_price else None
+        )
+
+        link_el = tile.select_one("a[href]")
+        url = None
+        if link_el and link_el.get("href"):
+            href = link_el["href"]
+            url = BASE_URL + href if href.startswith("/") else href
+
+        img_el = tile.select_one("img")
+        image = None
+        if img_el:
+            image = img_el.get("src") or img_el.get("data-src")
+            if image:
+                image = image.split("?")[0]
+
+        items.append({
+            "store": "Biedronka",
+            "category": "Dom i ogród",
+            "name": name,
+            "oldPrice": old_price,
+            "newPrice": new_price,
+            "discountPct": discount_pct,
+            "image": image,
+            "url": url or (BASE_URL + PROMO_PATH),
+        })
+    return items
+
+
 def parse_products_microdata(soup):
-    """Strategy 1: schema.org Product/Offer microdata (common on SFCC for SEO)."""
+    """Strategy 2: schema.org Product/Offer microdata, kept as a fallback —
+    not present on the live SFCC markup as of this writing."""
     items = []
     for node in soup.select('[itemtype*="schema.org/Product"]'):
         name_el = node.select_one('[itemprop="name"]')
@@ -100,8 +187,6 @@ def parse_products_microdata(soup):
         except ValueError:
             new_price = parse_price(str(new_price))
 
-        # Old/strike-through price usually sits nearby with a "strike"/"old" class —
-        # best-effort search within the same tile.
         old_price = None
         strike_el = node.select_one('.price-standard, .strike-through, [class*="strike"], del')
         if strike_el:
@@ -109,7 +194,7 @@ def parse_products_microdata(soup):
 
         items.append({
             "store": "Biedronka",
-            "category": "Dom i ogród",  # Biedronka Home doesn't expose category text
+            "category": "Dom i ogród",
             "name": name,
             "oldPrice": old_price,
             "newPrice": new_price,
@@ -124,9 +209,9 @@ def parse_products_microdata(soup):
 
 def parse_products_fallback(soup):
     """
-    Strategy 2 (fallback): sweep visible text for "<name> ... <old> zł ... <new> zł"
-    patterns. Much less precise than real selectors — only used if microdata
-    parsing finds nothing, so at least *something* comes out for a first pass.
+    Strategy 3 (last resort): sweep visible text for "<name> ... <old> zł ...
+    <new> zł" patterns. Much less precise than real selectors — only used if
+    both strategies above find nothing.
     """
     items = []
     text_blocks = soup.get_text("\n").split("\n")
@@ -135,7 +220,6 @@ def parse_products_fallback(soup):
     price_pattern = re.compile(r"\d+[.,]\d{2}\s*z[łl]")
     for i, line in enumerate(text_blocks):
         if price_pattern.search(line) and i >= 1:
-            # assume the product name is 1-2 lines above the first price we see
             name_candidate = text_blocks[i - 1]
             if len(name_candidate) < 5 or price_pattern.search(name_candidate):
                 continue
@@ -165,7 +249,9 @@ def parse_products_fallback(soup):
 
 def parse_products_from_html(html):
     soup = BeautifulSoup(html, "html.parser")
-    items = parse_products_microdata(soup)
+    items = parse_products_tiles(soup)
+    if not items:
+        items = parse_products_microdata(soup)
     if not items:
         items = parse_products_fallback(soup)
     return items
@@ -207,6 +293,7 @@ if __name__ == "__main__":
     if not products:
         print(
             "WARNING: 0 items scraped. The live markup almost certainly doesn't "
-            "match the selectors in parse_products_microdata()/parse_products_fallback() "
-            "— open home.biedronka.pl/promocje/ in dev tools and adjust them."
+            "match the selectors in parse_products_tiles()/parse_products_microdata()/"
+            "parse_products_fallback() anymore — open home.biedronka.pl/promocje/ "
+            "in dev tools and adjust them."
         )
