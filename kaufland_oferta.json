@@ -702,16 +702,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 6.99,
-    "newPrice": 2.99,
-    "discountPct": 57,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Niemiecka kiełbasa",
     "oldPrice": 12.99,
     "newPrice": 10.99,
@@ -3122,66 +3112,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Bomann (Odkurzacz BS 9019 CB)",
-    "oldPrice": 249.9,
-    "newPrice": 179.0,
-    "discountPct": 28,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20091725_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "SilverCrest (Czajnik elektryczny)",
-    "oldPrice": 99.99,
-    "newPrice": 69.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D465665_A-V01__23GQ00_FS_KL_NFVP",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esperanza (Opiekacz)",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20822809_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Switch On (Rozdrabniacz uniwersalny\npoj. 300 ml)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066633000554_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "SilverCrest (Odkurzacz ręczny\nSHST 24)",
-    "oldPrice": null,
-    "newPrice": 169.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20933501_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Piłeczki śr. 3,5 cm",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20782465_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Switch on (Kabel do ładowania\ni transmisji danych)",
     "oldPrice": null,
     "newPrice": 6.99,
@@ -3527,6 +3457,766 @@
     "newPrice": 79.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20452329",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bomann (Odkurzacz BS 9019 CB)",
+    "oldPrice": 249.9,
+    "newPrice": 179.0,
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20091725_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "SilverCrest (Czajnik elektryczny)",
+    "oldPrice": 99.99,
+    "newPrice": 69.99,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D465665_A-V01__23GQ00_FS_KL_NFVP",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esperanza (Opiekacz)",
+    "oldPrice": null,
+    "newPrice": 34.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20822809_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Switch On (Rozdrabniacz uniwersalny\npoj. 300 ml)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066633000554_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "SilverCrest (Odkurzacz ręczny\nSHST 24)",
+    "oldPrice": null,
+    "newPrice": 169.0,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20933501_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Piłeczki śr. 3,5 cm",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20782465_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Dzbanek szklany Unimax\npoj. 2 l)",
+    "oldPrice": 89.99,
+    "newPrice": 54.99,
+    "discountPct": 38,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20663122",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik (do przechowywania)",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20933963_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik (do przechowywania)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20933974_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Mata warsztatowa\n60 x 90 cm)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20846261_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Mata warsztatowa\n60 x 90 cm)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20846371_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Ściągaczka)",
+    "oldPrice": null,
+    "newPrice": 15.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4043891391235_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Worek do prania (35 x 18 x 18 cm)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410078094_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Curver (Kosz na pranie\npoj. 47 l)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659836_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zestaw woreczków (do prania\n16 x 10 cm, 2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410076601_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zestaw woreczków (do prania)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080264_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pokrowiec na ubrania (65 x 60 x 135 cm)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410092304_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Suszarka na pranie (dł. linek do suszenia 30 m)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741003667_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Curver Pojemnik (do przechowywania\npoj. 7 l)",
+    "oldPrice": null,
+    "newPrice": 34.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659805_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Curver Pojemnik (do przechowywania\npoj. 20 l)",
+    "oldPrice": null,
+    "newPrice": 42.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659799_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Curver (Pudełko\npoj. 19 l)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659782_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Zmiotka z szufelką 2 w 1)",
+    "oldPrice": 32.99,
+    "newPrice": 17.99,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4023103172326_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Mop obrotowy Turbo)",
+    "oldPrice": 199.0,
+    "newPrice": 129.0,
+    "discountPct": 35,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4023103194113_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Wkład do mopa\nobrotowego Turbo 2 w 1)",
+    "oldPrice": 44.99,
+    "newPrice": 24.99,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00081670_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Deska do prasowania (regulowana wys. do 90 cm\nwym. 110 x 30 cm)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/7640114031045_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pokrowiec na marynarkę (60 x 100 cm)",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080776_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pokrowiec na płaszcz (wym. 60 x 135 cm)",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080783_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Suszarka na pranie (stalowa\n50 x 33 x 13 cm)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741018388_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Organizer\nna akcesoria do sprzątania)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4043891380673_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Wkład do mopa\nUltramax Care)",
+    "oldPrice": null,
+    "newPrice": 33.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20704655_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda Diamont Plus (Deska do prasowania)",
+    "oldPrice": null,
+    "newPrice": 199.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20704646_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zestaw garnków",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20948999_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Ostrzałka do noży)",
+    "oldPrice": 19.99,
+    "newPrice": 17.29,
+    "discountPct": 13,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20833325_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Forma do pieczenia babki\n22,5 x 12 cm)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/CZ20876749_23P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Keksówka stalowa\n32 x 13,4 x 7 cm)",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627607226_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Forma do pieczenia\n26,5 x 8 cm)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627607202_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Tarka kuchenna)",
+    "oldPrice": 14.99,
+    "newPrice": 6.99,
+    "discountPct": 53,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629028487_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Newcential (Termos ze stali)",
+    "oldPrice": 39.99,
+    "newPrice": 25.99,
+    "discountPct": 35,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20674093_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Nóż kuchenny\n9 cm)",
+    "oldPrice": 26.99,
+    "newPrice": 10.49,
+    "discountPct": 61,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20610496_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Pojemnik na artykuły sypkie\npoj. 2 l)",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20718694_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Pojemnik na artykuły sypkie\npoj. 4 l)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20718695_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Nóż do warzyw\n9,7 cm)",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627175701_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Zestaw widelców)",
+    "oldPrice": 19.99,
+    "newPrice": 7.99,
+    "discountPct": 60,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627477959_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Pokrywa szklana)",
+    "oldPrice": 12.99,
+    "newPrice": 6.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20692010_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Pokrywa szklana)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690056_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Pokrywa szklana)",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690055_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Tłuczek do ziemniaków)",
+    "oldPrice": 9.99,
+    "newPrice": 6.99,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690025_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Łopatka do patelni)",
+    "oldPrice": 12.99,
+    "newPrice": 6.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690024_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Chochla)",
+    "oldPrice": 9.99,
+    "newPrice": 6.99,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690020_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Szumówka)",
+    "oldPrice": 12.99,
+    "newPrice": 6.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690017_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Nóż kuchenny\n20 cm)",
+    "oldPrice": 19.99,
+    "newPrice": 4.99,
+    "discountPct": 75,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627078323_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Butelka termiczna\npoj. 0,48 l)",
+    "oldPrice": 24.99,
+    "newPrice": 12.99,
+    "discountPct": 48,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20724293_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Blaumann (Patelnia stalowa\nśr. 24 cm)",
+    "oldPrice": null,
+    "newPrice": 51.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5999108454196_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Blaumann (Patelnia stalowa\nśr.28 cm)",
+    "oldPrice": null,
+    "newPrice": 62.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5999108454219_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką\n7 l, 24 cm)",
+    "oldPrice": null,
+    "newPrice": 44.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779911_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką\n2,3 l, 16 cm)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779906_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pyrex (Brytfanna prostokątna\npoj. 2,6 l)",
+    "oldPrice": null,
+    "newPrice": 22.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/3137610002401_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Kurtka\nr. M-XL)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627925788_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Kurtka\nr. M-XXL)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627880445_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Mop ze spryskiwaczem)",
+    "oldPrice": null,
+    "newPrice": 74.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097268_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Classic (Wieszak na ubrania 3 szt.)",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20674374A_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Branq (Miska Cykoria\npoj. 3 l)",
+    "oldPrice": 4.99,
+    "newPrice": 3.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00054251_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Branq (Miska Cykoria\npoj. 1 l)",
+    "oldPrice": null,
+    "newPrice": 1.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/06306930_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Branq (Miska Cykoria)",
+    "oldPrice": 6.99,
+    "newPrice": 5.99,
+    "discountPct": 14,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/06306931_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Deska do krojenia\n30 x 20,7 cm 2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/RO20682213_23P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Czajnik stalowy",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20727571_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGO! (Tacki papierowe 24 szt.)",
+    "oldPrice": null,
+    "newPrice": 3.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841430150_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGO! (Widelce 6 szt)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708436_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGO! (Noże 6 szt.)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708434_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGO! (Łyżki 6 szt)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708431_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGO! (Kubki papierowe)",
+    "oldPrice": null,
+    "newPrice": 2.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20266403_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGo! (Talerze papierowe 24 sztuki)",
+    "oldPrice": null,
+    "newPrice": 5.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841430112_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "viGo! (Kubki papierowe 6 sztuk)",
+    "oldPrice": null,
+    "newPrice": 3.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841432574_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Koszulka polo\nr.M-XXL)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_A-V01__23XX1J_FS_EU-KL_TXCGI",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Koszulka polo\nr.M-XL)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_C-V01__23XX1J_FS_EU-KL_TXCGI",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Koszulka polo\nr.M-XL)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_B-V01__23XX1J_FS_EU-KL_TXCGI",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4382,706 +5072,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Dafi (Dzbanek szklany Unimax\npoj. 2 l)",
-    "oldPrice": 89.99,
-    "newPrice": 54.99,
-    "discountPct": 38,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20663122",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik (do przechowywania)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20933963_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik (do przechowywania)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20933974_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Mata warsztatowa\n60 x 90 cm)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20846261_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Mata warsztatowa\n60 x 90 cm)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20846371_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Ściągaczka)",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4043891391235_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Worek do prania (35 x 18 x 18 cm)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410078094_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Curver (Kosz na pranie\npoj. 47 l)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659836_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zestaw woreczków (do prania\n16 x 10 cm, 2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 10.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410076601_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zestaw woreczków (do prania)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080264_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pokrowiec na ubrania (65 x 60 x 135 cm)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410092304_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Suszarka na pranie (dł. linek do suszenia 30 m)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741003667_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Curver Pojemnik (do przechowywania\npoj. 7 l)",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659805_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Curver Pojemnik (do przechowywania\npoj. 20 l)",
-    "oldPrice": null,
-    "newPrice": 42.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659799_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Curver (Pudełko\npoj. 19 l)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367659782_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Zmiotka z szufelką 2 w 1)",
-    "oldPrice": 32.99,
-    "newPrice": 17.99,
-    "discountPct": 45,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4023103172326_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Mop obrotowy Turbo)",
-    "oldPrice": 199.0,
-    "newPrice": 129.0,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4023103194113_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Wkład do mopa\nobrotowego Turbo 2 w 1)",
-    "oldPrice": 44.99,
-    "newPrice": 24.99,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00081670_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Deska do prasowania (regulowana wys. do 90 cm\nwym. 110 x 30 cm)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/7640114031045_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pokrowiec na marynarkę (60 x 100 cm)",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080776_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pokrowiec na płaszcz (wym. 60 x 135 cm)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8001410080783_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Suszarka na pranie (stalowa\n50 x 33 x 13 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741018388_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Organizer\nna akcesoria do sprzątania)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4043891380673_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Wkład do mopa\nUltramax Care)",
-    "oldPrice": null,
-    "newPrice": 33.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20704655_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda Diamont Plus (Deska do prasowania)",
-    "oldPrice": null,
-    "newPrice": 199.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20704646_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zestaw garnków",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20948999_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Ostrzałka do noży)",
-    "oldPrice": 19.99,
-    "newPrice": 17.29,
-    "discountPct": 13,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20833325_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Forma do pieczenia babki\n22,5 x 12 cm)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/CZ20876749_23P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Keksówka stalowa\n32 x 13,4 x 7 cm)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627607226_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Forma do pieczenia\n26,5 x 8 cm)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627607202_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Tarka kuchenna)",
-    "oldPrice": 14.99,
-    "newPrice": 6.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629028487_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Newcential (Termos ze stali)",
-    "oldPrice": 39.99,
-    "newPrice": 25.99,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20674093_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Nóż kuchenny\n9 cm)",
-    "oldPrice": 26.99,
-    "newPrice": 10.49,
-    "discountPct": 61,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20610496_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Pojemnik na artykuły sypkie\npoj. 2 l)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20718694_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Pojemnik na artykuły sypkie\npoj. 4 l)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20718695_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Nóż do warzyw\n9,7 cm)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627175701_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Zestaw widelców)",
-    "oldPrice": 19.99,
-    "newPrice": 7.99,
-    "discountPct": 60,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627477959_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Pokrywa szklana)",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20692010_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Pokrywa szklana)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690056_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Pokrywa szklana)",
-    "oldPrice": 14.99,
-    "newPrice": 9.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690055_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Tłuczek do ziemniaków)",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690025_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Łopatka do patelni)",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690024_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Chochla)",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690020_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Szumówka)",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20690017_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Nóż kuchenny\n20 cm)",
-    "oldPrice": 19.99,
-    "newPrice": 4.99,
-    "discountPct": 75,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627078323_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Butelka termiczna\npoj. 0,48 l)",
-    "oldPrice": 24.99,
-    "newPrice": 12.99,
-    "discountPct": 48,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20724293_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Blaumann (Patelnia stalowa\nśr. 24 cm)",
-    "oldPrice": null,
-    "newPrice": 51.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5999108454196_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Blaumann (Patelnia stalowa\nśr.28 cm)",
-    "oldPrice": null,
-    "newPrice": 62.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5999108454219_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką\n7 l, 24 cm)",
-    "oldPrice": null,
-    "newPrice": 44.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779911_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką\n2,3 l, 16 cm)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779906_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pyrex (Brytfanna prostokątna\npoj. 2,6 l)",
-    "oldPrice": null,
-    "newPrice": 22.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/3137610002401_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Kurtka\nr. M-XL)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627925788_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Kurtka\nr. M-XXL)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627880445_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Mop ze spryskiwaczem)",
-    "oldPrice": null,
-    "newPrice": 74.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097268_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Wieszak na ubrania 3 szt.)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20674374A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Branq (Miska Cykoria\npoj. 3 l)",
-    "oldPrice": 4.99,
-    "newPrice": 3.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00054251_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Branq (Miska Cykoria\npoj. 1 l)",
-    "oldPrice": null,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/06306930_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Branq (Miska Cykoria)",
-    "oldPrice": 6.99,
-    "newPrice": 5.99,
-    "discountPct": 14,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/06306931_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Deska do krojenia\n30 x 20,7 cm 2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/RO20682213_23P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Czajnik stalowy",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20727571_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGO! (Tacki papierowe 24 szt.)",
-    "oldPrice": null,
-    "newPrice": 3.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841430150_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGO! (Widelce 6 szt)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708436_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGO! (Noże 6 szt.)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708434_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGO! (Łyżki 6 szt)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708431_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGO! (Kubki papierowe)",
-    "oldPrice": null,
-    "newPrice": 2.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20266403_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGo! (Talerze papierowe 24 sztuki)",
-    "oldPrice": null,
-    "newPrice": 5.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841430112_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "viGo! (Kubki papierowe 6 sztuk)",
-    "oldPrice": null,
-    "newPrice": 3.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902841432574_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Koszulka polo\nr.M-XXL)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_A-V01__23XX1J_FS_EU-KL_TXCGI",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Koszulka polo\nr.M-XL)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_C-V01__23XX1J_FS_EU-KL_TXCGI",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Koszulka polo\nr.M-XL)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D506582_B-V01__23XX1J_FS_EU-KL_TXCGI",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Parkside (20 V Akumulatorowa\ngrzechotka)",
     "oldPrice": null,
     "newPrice": 129.0,
@@ -5297,6 +5287,16 @@
     "newPrice": 10.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632049295_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Countryside Lets BBQ (Kominek do rozpałki\nz uchwytem)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627091476_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6127,6 +6127,16 @@
     "newPrice": 49.99,
     "discountPct": 16,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20884934_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Akumulatorowa kosiarka 20 V)",
+    "oldPrice": null,
+    "newPrice": 199.0,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20906084_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7207,446 +7217,6 @@
     "newPrice": 10.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20802649_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Akumulatorowa kosiarka 20 V)",
-    "oldPrice": null,
-    "newPrice": 199.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20906084_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Maty do grillowania\n2 sztuki w zestawie)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20905822_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Komin rozpalający",
-    "oldPrice": null,
-    "newPrice": 10.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20924730_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let'sBBQ (Szczypce do grilla\nZe stali szlachetnej)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627671197_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let'sBBQ (Haki do wędzenia\nW kształcie litery S)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627671234_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let'sBBQ (Szczotka do grilla\n3w1 z krótką rączką)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627671296_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let'sBBQ (Prasa do burgerów\nJednakowa grubość kotletów)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627671258_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Kamień do pizzy)",
-    "oldPrice": null,
-    "newPrice": 10.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627677335_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Okrągły ruszt do grilla (Wymiary: 44 cm)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4018833958517_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Kamień do pizzy\nwym. 30 x 38 cm)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627807770_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Pojemnik do marynowania\nZe stali szlachetnej)",
-    "oldPrice": null,
-    "newPrice": 12.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20902725_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Żeliwna patelnia)",
-    "oldPrice": null,
-    "newPrice": 12.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627816116_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Patelnia żeliwna\nGrubość dna: 4,1 mm)",
-    "oldPrice": null,
-    "newPrice": 20.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627808067_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Patelnia żeliwna do grill.\nŚrednica: 28 cm)",
-    "oldPrice": null,
-    "newPrice": 20.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627808074_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Kociołek żeliwny\nPojemność: 4,2 l)",
-    "oldPrice": null,
-    "newPrice": 35.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627812972_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Grillmeister (Kamień do pizzy\nśr. 38 cm)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627807763_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Grill turystyczny wiadro\nØ rusztu: 26 cm)",
-    "oldPrice": null,
-    "newPrice": 20.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20794177_23P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Szczypce do grilla\nze stali szlachetnej)",
-    "oldPrice": null,
-    "newPrice": 3.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632081844_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Szczotka do grilla)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632081899_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Szczotka do grilla)",
-    "oldPrice": null,
-    "newPrice": 2.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20692637_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "",
-    "oldPrice": null,
-    "newPrice": 12.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20276608_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Szpikulce grillowe XXL\n5 elementów w zestawie)",
-    "oldPrice": null,
-    "newPrice": 5.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632042531_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Ruszt do grilla\ndo pieczenia ryb)",
-    "oldPrice": null,
-    "newPrice": 0.5,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20276556_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Pasta paliwowa\n1L)",
-    "oldPrice": null,
-    "newPrice": 3.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20345121_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Zestaw mat na ruszt\ndo grillowania)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632049103_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Lets BBQ (Kominek do rozpałki\nz uchwytem)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627091476_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Lets BBQ (Grill okrągły\nwys. 38 cm)",
-    "oldPrice": null,
-    "newPrice": 60.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20274741_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Grill na węgiel)",
-    "oldPrice": null,
-    "newPrice": 125.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20274751_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Grill kulisty\nWymiary: 48 x 87,5 x 60 cm)",
-    "oldPrice": null,
-    "newPrice": 50.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632081912_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Grill kansas\n44,5 x 25,5 x 13,5 cm)",
-    "oldPrice": null,
-    "newPrice": 80.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20811453_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (3-palnikowy grill gazowy\nMemphis 103 x 103 x 57 cm)",
-    "oldPrice": null,
-    "newPrice": 225.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20811667_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Teleskopowe szpikulce\ndo grilla 2 szt.)",
-    "oldPrice": null,
-    "newPrice": 2.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627311499_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Zestaw do przyrządzania\npulled pork 4 el)",
-    "oldPrice": null,
-    "newPrice": 2.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627295324_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mill (Do czyszczenia grilla)",
-    "oldPrice": null,
-    "newPrice": 5.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20285197_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Landmann (Grill Portago 11525)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20703851_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Grill węglowy do szaszłyków\nWymiary: 50 x 50 x 30 cm)",
-    "oldPrice": null,
-    "newPrice": 40.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627181641_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Mini grill na węgiel drzewny\nWymiar: 73 x 95 x 45 cm)",
-    "oldPrice": null,
-    "newPrice": 125.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627204579_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Grill gazowy kompaktowy\n102,2 x 44,7 x 35,5 cm)",
-    "oldPrice": null,
-    "newPrice": 150.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20811880_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice & Soul (Pojemniki do\ngrillowania 2szt.)",
-    "oldPrice": null,
-    "newPrice": 2.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627096488_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Kosz do grillowania)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367064357_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside Let's BBQ (Brytfanna do grillowania)",
-    "oldPrice": null,
-    "newPrice": 20.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20098592_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Countryside (Grill gazowy\nz emaliowaną pokrywą)",
-    "oldPrice": null,
-    "newPrice": 75.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367060786_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Przenośny grill (walizkowy\nwym. 43 x 28cm)",
-    "oldPrice": null,
-    "newPrice": 50.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20170275_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kociołek myśliwski (żeliwny 8 L)",
-    "oldPrice": null,
-    "newPrice": 35.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20170296_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
