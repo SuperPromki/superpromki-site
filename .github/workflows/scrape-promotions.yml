@@ -48,11 +48,19 @@ jobs:
         run: python scrape_biedronka_food.py
         continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
 
+      - name: Run Żabka gazetka scraper
+        run: python scrape_zabka.py
+        continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
+
+      - name: Run Auchan scraper
+        run: python scrape_auchan.py
+        continue-on-error: true  # best-effort — relies on zakupy.auchan.pl's SSR/API shape + may hit their WAF from CI IPs
+
       - name: Commit updated data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          for f in lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json biedronka_gazetka.json; do
+          for f in lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json biedronka_gazetka.json zabka_gazetka.json auchan_promocje.json; do
             [ -f "$f" ] && git add "$f"
           done
           git diff --staged --quiet || git commit -m "Auto-update promotions ($(date -u +'%Y-%m-%d %H:%M UTC'))"
