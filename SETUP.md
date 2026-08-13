@@ -10,9 +10,10 @@ the scrapers that feed it live promo data.
   `https://raw.githubusercontent.com/SuperPromki/superpromki-site/main`,
   so once JSON files land in this repo, the live site picks them up
   automatically on next page load — no rebuild needed.
-- `.github/workflows/scrape-promotions.yml` runs all three scrapers
-  (`scrape_lidl.py`, `scrape_biedronka.py`, `scrape_kaufland.py`) daily at
-  06:00 UTC and commits whatever changed.
+- `.github/workflows/scrape-promotions.yml` runs all six scrapers
+  (`scrape_lidl.py`, `scrape_biedronka.py`, `scrape_kaufland.py`,
+  `scrape_biedronka_food.py`, `scrape_zabka.py`, `scrape_auchan.py`) daily
+  at 06:00 UTC and commits whatever changed.
 
 ## Next steps
 
