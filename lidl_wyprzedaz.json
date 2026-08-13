@@ -92,12 +92,12 @@
   {
     "store": "Lidl",
     "category": "Zabawa i sporty zespołowe",
-    "name": "CRIVIT Rakieta do padla (Czarny/ niebieski)",
+    "name": "CRIVIT Rakieta do padla",
     "oldPrice": 79.99,
     "newPrice": 39.99,
     "discountPct": 50,
-    "image": "https://www.lidl.pl/assets/gcp8586dd3ba4b443c083a19d6f7307e2c7.jpg",
-    "url": "https://www.lidl.pl/p/crivit-rakieta-do-padla/p100406205001"
+    "image": "https://www.lidl.pl/assets/gcp452a458d43214905b16dd5c87ffc567a.jpg",
+    "url": "https://www.lidl.pl/p/crivit-rakieta-do-padla/p100406205"
   },
   {
     "store": "Lidl",
@@ -181,6 +181,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Samochód i motocykl",
+    "name": "ULTIMATE SPEED® Podnośnik hydrauliczny",
+    "oldPrice": 159.0,
+    "newPrice": 139.0,
+    "discountPct": 12,
+    "image": "https://www.lidl.pl/assets/gcp4947e69a97224995af2fc3250c440081.jpg",
+    "url": "https://www.lidl.pl/p/ultimate-speed-podnosnik-hydrauliczny/p100400454"
+  },
+  {
+    "store": "Lidl",
     "category": "Narzędzia akumulatorowe",
     "name": "PARKSIDE® Akumulator litowo-jonowy, 20 V, 4 Ah, PAP 204 A1 z ładowarką, 4,5 A, PLG 20 C3",
     "oldPrice": 149.0,
@@ -201,16 +211,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Moda damska",
-    "name": "ESMARA® Spodnie wide leg damskie z lnem",
-    "oldPrice": 39.99,
-    "newPrice": 33.99,
-    "discountPct": 15,
-    "image": "https://www.lidl.pl/assets/gcpbc4af6be06ae47f993e7dbd0e834fe22.jpg",
-    "url": "https://www.lidl.pl/p/esmara-spodnie-wide-leg-damskie-z-lnem/p100405502"
-  },
-  {
-    "store": "Lidl",
     "category": "Odzież męska",
     "name": "ESMARA MEN Szorty dresowe męskie",
     "oldPrice": 39.99,
@@ -218,16 +218,6 @@
     "discountPct": 25,
     "image": "https://www.lidl.pl/assets/gcp9b81b371e57642f8933e02ef07acf29b.jpg",
     "url": "https://www.lidl.pl/p/esmara-men-szorty-dresowe-meskie/p100407092"
-  },
-  {
-    "store": "Lidl",
-    "category": "Samochód i motocykl",
-    "name": "ULTIMATE SPEED® Podnośnik hydrauliczny",
-    "oldPrice": 159.0,
-    "newPrice": 139.0,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcp4947e69a97224995af2fc3250c440081.jpg",
-    "url": "https://www.lidl.pl/p/ultimate-speed-podnosnik-hydrauliczny/p100400454"
   },
   {
     "store": "Lidl",
@@ -261,16 +251,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Fitness",
-    "name": "CRIVIT Szorty funkcyjne damskie",
-    "oldPrice": 24.99,
-    "newPrice": 19.99,
-    "discountPct": 20,
-    "image": "https://www.lidl.pl/assets/gcpb0ba4de3ccee432da84e6410185f3e69.jpg",
-    "url": "https://www.lidl.pl/p/crivit-szorty-funkcyjne-damskie/p100408035"
-  },
-  {
-    "store": "Lidl",
     "category": "Moda damska",
     "name": "ESMARA® Szorty jeansowe damskie z bawełny",
     "oldPrice": 59.9,
@@ -278,6 +258,16 @@
     "discountPct": 16,
     "image": "https://www.lidl.pl/assets/gcpd92499ea146f4fc19b19c7623660d20b.jpg",
     "url": "https://www.lidl.pl/p/esmara-szorty-jeansowe-damskie-z-bawelny/p100390132"
+  },
+  {
+    "store": "Lidl",
+    "category": "Fitness",
+    "name": "CRIVIT Szorty funkcyjne damskie",
+    "oldPrice": 24.99,
+    "newPrice": 19.99,
+    "discountPct": 20,
+    "image": "https://www.lidl.pl/assets/gcpb0ba4de3ccee432da84e6410185f3e69.jpg",
+    "url": "https://www.lidl.pl/p/crivit-szorty-funkcyjne-damskie/p100408035"
   },
   {
     "store": "Lidl",
@@ -348,16 +338,6 @@
     "discountPct": 49,
     "image": "https://www.lidl.pl/assets/gcpc03501a51b5a4ae8be2f989326d37289.jpg",
     "url": "https://www.lidl.pl/p/lupilu-pajacyki-niemowlece-z-biobawelny-2-sztuki/p100398436"
-  },
-  {
-    "store": "Lidl",
-    "category": "Samochód i motocykl",
-    "name": "ULTIMATE SPEED® Pokrowiec na motocykl",
-    "oldPrice": 69.9,
-    "newPrice": 44.99,
-    "discountPct": 35,
-    "image": "https://www.lidl.pl/assets/gcpf7e1a7ff5bd243748f999206878f9fa8.jpg",
-    "url": "https://www.lidl.pl/p/ultimate-speed-pokrowiec-na-motocykl/p100397835"
   },
   {
     "store": "Lidl",
@@ -451,6 +431,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Warsztat i sprzęt",
+    "name": "PARKSIDE® Miska lub zestaw tacek magnetycznych (kwadratowy duży)",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://www.lidl.pl/assets/gcpa6e5544aa7a14d5f84043180c4eb5cc7.jpg",
+    "url": "https://www.lidl.pl/p/parkside-miska-lub-zestaw-tacek-magnetycznych/p100398248005"
+  },
+  {
+    "store": "Lidl",
     "category": "Moda damska",
     "name": "ESMARA® Top damski",
     "oldPrice": 13.99,
@@ -478,6 +468,16 @@
     "discountPct": 30,
     "image": "https://www.lidl.pl/assets/gcpbe8d5c1c26bb4765aa7f1ce47cadf3be.jpg",
     "url": "https://www.lidl.pl/p/esmara-men-buty-meskie/p100405876"
+  },
+  {
+    "store": "Lidl",
+    "category": "Samochód i motocykl",
+    "name": "ULTIMATE SPEED® Pokrowiec na motocykl",
+    "oldPrice": 69.9,
+    "newPrice": 44.99,
+    "discountPct": 35,
+    "image": "https://www.lidl.pl/assets/gcpf7e1a7ff5bd243748f999206878f9fa8.jpg",
+    "url": "https://www.lidl.pl/p/ultimate-speed-pokrowiec-na-motocykl/p100397835"
   },
   {
     "store": "Lidl",
@@ -631,6 +631,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Pokój dla niemowląt i dzieci",
+    "name": "INFANTINO Lampka nocna i projektor Projektor i lampka nocna Lampa nocna z projektorem Projektor z lampką nocną",
+    "oldPrice": 71.49,
+    "newPrice": 62.36,
+    "discountPct": 12,
+    "image": "https://www.lidl.pl/assets/gcpc312e5b6876c4107a6a80d92d863f541.png",
+    "url": "https://www.lidl.pl/p/infantino-lampka-nocna-i-projektor-projektor-i-lampka-nocna-lampa-nocna-z-projektorem-projektor-z-lampka-nocna/p100391606"
+  },
+  {
+    "store": "Lidl",
     "category": "Sprzęt ogrodniczy i narzędzia ogrodnicze",
     "name": "PARKSIDE PERFORMANCE® Zestaw Akumulatorowa kosiarka, 40 V z 2 akumulatorami, 4 Ah i podwójną ładowarką, 2 x 4,5 A",
     "oldPrice": 1554.2,
@@ -658,16 +668,6 @@
     "discountPct": 22,
     "image": "https://www.lidl.pl/assets/gcpc961532bef94432d8cb69d9bfa57635c.jpg",
     "url": "https://www.lidl.pl/p/livarno-regal-stojacy/p100399737"
-  },
-  {
-    "store": "Lidl",
-    "category": "Pokój dla niemowląt i dzieci",
-    "name": "INFANTINO Lampka nocna i projektor Projektor i lampka nocna Lampa nocna z projektorem Projektor z lampką nocną",
-    "oldPrice": 71.49,
-    "newPrice": 62.36,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcpc312e5b6876c4107a6a80d92d863f541.png",
-    "url": "https://www.lidl.pl/p/infantino-lampka-nocna-i-projektor-projektor-i-lampka-nocna-lampa-nocna-z-projektorem-projektor-z-lampka-nocna/p100391606"
   },
   {
     "store": "Lidl",
@@ -701,16 +701,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Moda damska",
-    "name": "Sneakersy damskie / męskie z bawełną",
-    "oldPrice": 39.99,
-    "newPrice": 23.99,
-    "discountPct": 40,
-    "image": "https://www.lidl.pl/assets/gcp1870799cce054c66ab712182689b9072.jpg",
-    "url": "https://www.lidl.pl/p/sneakersy-damskie-meskie-z-bawelna/p100387253"
-  },
-  {
-    "store": "Lidl",
     "category": "Odzież męska",
     "name": "ESMARA MEN Szorty męskie",
     "oldPrice": 49.99,
@@ -741,16 +731,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Odzież dziecięca",
-    "name": "LUPILU® Spodnie niemowlęce z biobawełny, 2 pary",
-    "oldPrice": 17.99,
-    "newPrice": 14.98,
-    "discountPct": 16,
-    "image": "https://www.lidl.pl/assets/gcpa9809a6e3e0b45d0bfaa3d9641a55002.jpg",
-    "url": "https://www.lidl.pl/p/lupilu-spodnie-niemowlece-z-biobawelny-2-pary/p100399056"
-  },
-  {
-    "store": "Lidl",
     "category": "Fitness",
     "name": "CRIVIT Kolarki funkcyjne damskie",
     "oldPrice": 26.99,
@@ -778,6 +758,16 @@
     "discountPct": 25,
     "image": "https://www.lidl.pl/assets/gcp8e0dd2f255404bd5b26482676f9f8619.jpg",
     "url": "https://www.lidl.pl/p/parkside-pneumatyczny-waz-spiralny-10-m-pdss-10-a1/p100398998"
+  },
+  {
+    "store": "Lidl",
+    "category": "Moda damska",
+    "name": "Sneakersy damskie / męskie z bawełną",
+    "oldPrice": 39.99,
+    "newPrice": 23.99,
+    "discountPct": 40,
+    "image": "https://www.lidl.pl/assets/gcp1870799cce054c66ab712182689b9072.jpg",
+    "url": "https://www.lidl.pl/p/sneakersy-damskie-meskie-z-bawelna/p100387253"
   },
   {
     "store": "Lidl",
@@ -1001,16 +991,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Elektronarzędzia",
-    "name": "PARKSIDE® Nożyce do blachy, 550 W, PMK 550 C2, 5 elementów",
-    "oldPrice": 159.0,
-    "newPrice": 119.0,
-    "discountPct": 25,
-    "image": "https://www.lidl.pl/assets/gcpb833ff4c83b3427197a48ddbc5cfd632.jpg",
-    "url": "https://www.lidl.pl/p/parkside-nozyce-do-blachy-550-w-pmk-550-c2-5-elementow/p100395455"
-  },
-  {
-    "store": "Lidl",
     "category": "Samochód i motocykl",
     "name": "ULTIMATE SPEED® Organizer na fotel samochodowy (czarny)",
     "oldPrice": 19.99,
@@ -1181,13 +1161,13 @@
   },
   {
     "store": "Lidl",
-    "category": "Samochód i motocykl",
-    "name": "ULTIMATE SPEED® Blokada kierownicy lub przyczepy (Blokada kierownicy)",
-    "oldPrice": 54.9,
-    "newPrice": 44.99,
-    "discountPct": 18,
-    "image": "https://www.lidl.pl/assets/gcpecbbc125813d4da2869b0aff7f3da8cf.jpg",
-    "url": "https://www.lidl.pl/p/ultimate-speed-blokada-kierownicy-lub-przyczepy/p100395304001"
+    "category": "Odzież robocza",
+    "name": "PARKSIDE® Szorty robocze damskie",
+    "oldPrice": 59.9,
+    "newPrice": 49.99,
+    "discountPct": 16,
+    "image": "https://www.lidl.pl/assets/gcp02a474cd19994e779150c46e1ec70e5b.jpg",
+    "url": "https://www.lidl.pl/p/parkside-szorty-robocze-damskie/p100400477"
   },
   {
     "store": "Lidl",
@@ -1201,16 +1181,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Sprzątanie domu",
-    "name": "BISSELL Rolka szczotki CrossWave do podłóg drewnianych",
-    "oldPrice": 55.49,
-    "newPrice": 37.98,
-    "discountPct": 31,
-    "image": "https://www.lidl.pl/assets/gcp6ad055703ee14a7b917effc74dc61ffd.jpeg",
-    "url": "https://www.lidl.pl/p/bissell-rolka-szczotki-crosswave-do-podlog-drewnianych/p100364192"
-  },
-  {
-    "store": "Lidl",
     "category": "Odzież dziecięca 2-8 lat",
     "name": "LUPILU® Jeansy dziecięce",
     "oldPrice": 24.99,
@@ -1221,6 +1191,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Sprzątanie domu",
+    "name": "BISSELL Rolka szczotki CrossWave do podłóg drewnianych",
+    "oldPrice": 55.49,
+    "newPrice": 37.98,
+    "discountPct": 31,
+    "image": "https://www.lidl.pl/assets/gcp6ad055703ee14a7b917effc74dc61ffd.jpeg",
+    "url": "https://www.lidl.pl/p/bissell-rolka-szczotki-crosswave-do-podlog-drewnianych/p100364192"
+  },
+  {
+    "store": "Lidl",
     "category": "Narzędzia akumulatorowe",
     "name": "PARKSIDE® Zestaw 2 akumulatorów 20 V, 4 Ah",
     "oldPrice": 245.1,
@@ -1228,16 +1208,6 @@
     "discountPct": 7,
     "image": "https://www.lidl.pl/assets/gcp3693ca29980544ad9af2065f6c0a4374.jpeg",
     "url": "https://www.lidl.pl/p/parkside-zestaw-2-akumulatorow-20-v-4-ah/p800012138"
-  },
-  {
-    "store": "Lidl",
-    "category": "Odzież robocza",
-    "name": "PARKSIDE® Szorty robocze damskie",
-    "oldPrice": 59.9,
-    "newPrice": 49.99,
-    "discountPct": 16,
-    "image": "https://www.lidl.pl/assets/gcp02a474cd19994e779150c46e1ec70e5b.jpg",
-    "url": "https://www.lidl.pl/p/parkside-szorty-robocze-damskie/p100400477"
   },
   {
     "store": "Lidl",
@@ -1268,6 +1238,16 @@
     "discountPct": 16,
     "image": "https://www.lidl.pl/assets/gcp37e03605f6af45d8a1bef5412852ee04.jpg",
     "url": "https://www.lidl.pl/p/parkside-zestaw-kluczy-kolkowych/p100387633"
+  },
+  {
+    "store": "Lidl",
+    "category": "Samochód i motocykl",
+    "name": "ULTIMATE SPEED® Blokada kierownicy lub przyczepy (Blokada kierownicy)",
+    "oldPrice": 54.9,
+    "newPrice": 44.99,
+    "discountPct": 18,
+    "image": "https://www.lidl.pl/assets/gcpecbbc125813d4da2869b0aff7f3da8cf.jpg",
+    "url": "https://www.lidl.pl/p/ultimate-speed-blokada-kierownicy-lub-przyczepy/p100395304001"
   },
   {
     "store": "Lidl",
@@ -1671,16 +1651,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Zabawki",
-    "name": "CASDON Odkurzacz do zabawy Dyson©",
-    "oldPrice": 125.68,
-    "newPrice": 109.5,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcpd0bbd41761f844e9898154034b8c4022.jpg",
-    "url": "https://www.lidl.pl/p/casdon-odkurzacz-do-zabawy-dyson/p100381107"
-  },
-  {
-    "store": "Lidl",
     "category": "Kemping i outdoor",
     "name": "CRIVIT Namiot kempingowy dla 2 osób (Szary)",
     "oldPrice": 139.0,
@@ -1718,6 +1688,16 @@
     "discountPct": 54,
     "image": "https://www.lidl.pl/assets/gcpf068039d59ac4e22855378e9a8e45a1e.jpeg",
     "url": "https://www.lidl.pl/p/fiskars-teleskopowy-sekator-nozycowy-dla-osob-praworecznych-i-leworecznych/p100378022"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawki",
+    "name": "CASDON Odkurzacz do zabawy Dyson©",
+    "oldPrice": 125.68,
+    "newPrice": 109.5,
+    "discountPct": 12,
+    "image": "https://www.lidl.pl/assets/gcpd0bbd41761f844e9898154034b8c4022.jpg",
+    "url": "https://www.lidl.pl/p/casdon-odkurzacz-do-zabawy-dyson/p100381107"
   },
   {
     "store": "Lidl",
