@@ -12,49 +12,61 @@ highlight list like the Blix.pl-sourced scrapers.
 HOW THIS WORKS (confirmed live in a browser while building this):
 zakupy.auchan.pl is a React app that server-renders its INITIAL page load,
 embedding a `window.__INITIAL_STATE__ = {...}` JSON blob directly in a
-<script> tag. That blob already contains, with no JS execution needed:
-  - `session.csrf.token` — a CSRF token required by the site's own API
-  - `data.products.catalogue.data.productGroups[0].products` — the full
-    list of product IDs (UUIDs) in the current promotions listing (~300)
+<script> tag. That blob's `data.products.productEntities` map already
+contains FULL product objects — name, original/current price, discount
+description, category path, image URL, retailer product ID — for every
+product tile actually rendered in that first server-rendered page (~50
+items). This scraper does exactly one GET request (the page load itself)
+and reads that embedded data. No further requests are made.
 
-The page itself only renders product NAME + price for the first ~50 tiles;
-the rest of each product's details (price, promo price, category, image)
-come from a second call the site's own JS makes as you scroll:
+WHY THIS SHAPE, NOT THE FULLER ONE (READ THIS BEFORE "IMPROVING" IT):
+An earlier version of this scraper also pulled the *full* ~300-item
+product-id list out of `data.products.catalogue.data.productGroups[0]
+.products` and batch-fetched full details for all of them via:
     PUT https://zakupy.auchan.pl/api/webproductpagews/v6/products
-    body: JSON array of product-id strings
-    header: X-CSRF-TOKEN: <token from __INITIAL_STATE__>
-This returns full product objects (name, price, promoPrice, categoryPath,
-images, promotions[]) for whatever IDs you send it — confirmed working via
-a direct fetch() using only the token pulled from a plain HTML fetch, no
-browser-only APIs involved. That's the pipeline this scraper replicates:
-  1. GET /promotions, extract __INITIAL_STATE__ from the response HTML
-  2. Pull out the CSRF token + the full product-id list from that same JSON
-  3. PUT the id list to the products API in batches, collect full details
+This is the same call the site's own JS makes as you scroll further down
+the page. It worked when this was first built by hand in a browser, but:
+  1. https://zakupy.auchan.pl/robots.txt disallows `Disallow: /api/`
+     outright. Calling that endpoint programmatically — even with a
+     legitimate-looking browser User-Agent — goes against the site's own
+     stated crawling policy. /promotions itself and /products/<id> pages
+     are NOT disallowed, which is why this version sticks to a plain GET
+     of /promotions only.
+  2. It's also blocked in practice: every batch call 403'd when run from
+     GitHub Actions' IPs (AWS WAF bot detection), confirmed across a real
+     workflow run. So it wasn't reliable even ignoring point 1.
+Net effect: this scraper deliberately caps itself at whatever's already
+embedded in the one allowed page load (~50 items) rather than chasing the
+larger but disallowed/blocked list. That's a real trade — fewer items —
+made on purpose for both the legal/compliance reason and the reliability
+one. Do not "fix" this by re-adding the /api/ batch calls.
 
 CSS-class-based scraping was ruled out: Auchan's product tiles are built
 with styled-components, whose classes (e.g. "sc-mmemlz-0 fEEncK") are
 hashed per build and not stable across deploys — see scrape_kaufland.py /
 scrape_biedronka.py for how BEM-style stable classes were used there
-instead; Auchan's markup doesn't offer that, hence this API-based approach.
+instead; Auchan's markup doesn't offer that, hence this SSR-JSON approach.
 
 IMPORTANT — READ BEFORE RELYING ON THIS DATA:
-- This covers whatever product-id list is embedded in the /promotions
-  page's initial server-rendered payload — confirmed to be ~300 items at
-  the time this was built (there's a `nextPageToken` suggesting more may
-  exist beyond that; this scraper does not currently page past the initial
-  list, matching the "list what one page/load gives you" scope every other
-  scraper in this repo also settles for).
-- zakupy.auchan.pl sits behind AWS WAF (a `mp_verify` bot-detection request
-  fires on page load, and there's an `aws-waf-token` cookie). The plain
-  `requests` calls here worked fine when this was built, but if this step
-  starts failing in CI, bot-detection blocking the datacenter/CI IP — same
-  risk noted in scrape_lidl.py — is the most likely reason. It's marked
-  continue-on-error in the workflow for that reason.
-- Product URLs are best-effort: Auchan's real product URLs are
-  /products/<slugified-name>/<retailerProductId>, and the slug is rebuilt
-  here rather than read from the API (which doesn't return it directly).
-  If the rebuilt slug doesn't exactly match Auchan's own, the numeric ID at
-  the end of the URL should still be enough for their site to resolve it.
+- This is a partial list: whatever's embedded in the /promotions page's
+  first server-rendered load, confirmed to be ~50 items at the time this
+  was built — not Auchan's full current promotions catalog (~300 items,
+  per `totalProducts` in the same payload), and not the full store
+  catalog. Same "list what one page/load gives you" scope every other
+  scraper in this repo also settles for, just a smaller page here because
+  the rest requires the disallowed API.
+- zakupy.auchan.pl sits behind AWS WAF (a `mp_verify` bot-detection
+  request fires on page load, and there's an `aws-waf-token` cookie).
+  Simple GETs of ordinary pages worked fine every time this was tested; if
+  this step starts failing in CI, bot-detection blocking the datacenter/CI
+  IP — same risk noted in scrape_lidl.py — is the most likely reason. It's
+  marked continue-on-error in the workflow for that reason.
+- Product URLs use Auchan's real /products/<slug>/<retailerProductId>
+  format. The slug is rebuilt from the product name with `slugify()`
+  rather than read from an explicit field (none is present in the SSR
+  data) — confirmed to exactly match Auchan's own slugs for every sampled
+  product while building this, but treat it as best-effort; the numeric ID
+  at the end should still resolve correctly even if a slug ever mismatches.
 
 Usage:
     pip install requests --break-system-packages
@@ -79,11 +91,7 @@ HEADERS = {
 }
 
 BASE_URL = "https://zakupy.auchan.pl"
-PROMOTIONS_PATH = "/promotions"
-PRODUCTS_API = "/api/webproductpagews/v6/products"
-BATCH_SIZE = 30  # conservative — only ever confirmed the API with small batches while building this
-
-STATE_PREFIX_RE = re.compile(r"^\s*window\.__INITIAL_STATE__\s*=\s*")
+PROMOTIONS_PATH = "/promotions"  # allowed by robots.txt — this is the only URL this scraper fetches
 
 
 def slugify(name):
@@ -101,9 +109,8 @@ def slugify(name):
 
 
 def fetch_initial_state():
-    """GET the promotions page and pull the embedded __INITIAL_STATE__ JSON
-    out of its <script> tag — see module docstring for how this was
-    confirmed to already contain everything needed, no JS execution."""
+    """GET the promotions page (the only request this scraper makes) and
+    pull the embedded __INITIAL_STATE__ JSON out of its <script> tag."""
     resp = requests.get(BASE_URL + PROMOTIONS_PATH, headers=HEADERS, timeout=20)
     resp.raise_for_status()
     html = resp.text
@@ -150,44 +157,44 @@ def fetch_initial_state():
     return json.loads(json_str)
 
 
-def extract_price(price_obj):
-    if not price_obj or price_obj.get("amount") is None:
-        return None
-    try:
-        return float(price_obj["amount"])
-    except (TypeError, ValueError):
-        return None
-
-
-def parse_product(p):
+def parse_entity(p):
+    """Parse one entry from data.products.productEntities — the SSR-embedded
+    shape, distinct from the (unused) API response shape:
+    price is {original: {amount}, current: {amount}}, and the discount
+    blurb lives at offer.description rather than promotions[0].description."""
     name = p.get("name")
     if not name:
         return None
 
-    old_price = extract_price(p.get("price"))
-    new_price = extract_price(p.get("promoPrice")) or old_price
+    price = p.get("price") or {}
+    old_price = (price.get("original") or {}).get("amount")
+    new_price = (price.get("current") or {}).get("amount")
     if new_price is None:
         return None
-    if old_price is not None and new_price is not None and old_price <= new_price:
+    try:
+        old_price = float(old_price) if old_price is not None else None
+        new_price = float(new_price)
+    except (TypeError, ValueError):
+        return None
+    if old_price is not None and old_price <= new_price:
         old_price = None  # not actually discounted — don't show a fake strikethrough
 
     discount_pct = (
         round((1 - new_price / old_price) * 100) if old_price and new_price else None
     )
 
-    # Only surface the raw promo description as a note when we couldn't cleanly
-    # derive a discount % from price/promoPrice (e.g. bundle deals like
-    # "2+1 za grosz") — otherwise it'd just duplicate the discount badge.
-    promotions = p.get("promotions") or []
-    note = promotions[0]["description"] if promotions and discount_pct is None else None
+    # Only surface the raw promo blurb as a note when we couldn't cleanly
+    # derive a discount % from original/current price (e.g. bundle deals
+    # like "2+1 za grosz") — otherwise it'd just duplicate the discount badge.
+    offer = p.get("offer") or {}
+    note = offer.get("description") if offer.get("description") and discount_pct is None else None
 
     category_path = p.get("categoryPath") or []
     category = category_path[1] if len(category_path) > 1 else (
         category_path[0] if category_path else "Inne"
     )
 
-    images = p.get("images") or []
-    image = images[0]["src"] if images and images[0].get("src") else None
+    image = (p.get("image") or {}).get("src")
 
     retailer_id = p.get("retailerProductId")
     url = (
@@ -210,45 +217,21 @@ def parse_product(p):
 
 def fetch_all():
     state = fetch_initial_state()
-    token = state["session"]["csrf"]["token"]
-    catalogue = state["data"]["products"]["catalogue"]["data"]
-    product_ids = catalogue["productGroups"][0]["products"]
-    total_products = catalogue.get("totalProducts")
-    print(f"Found {len(product_ids)} product IDs in the promotions listing (totalProducts={total_products})")
-
-    api_headers = {
-        **HEADERS,
-        "Content-Type": "application/json",
-        "Accept": "application/json",
-        "X-CSRF-TOKEN": token,
-    }
+    products_state = state["data"]["products"]
+    entities = products_state.get("productEntities") or {}
+    total_products = (products_state.get("catalogue") or {}).get("data", {}).get("totalProducts")
+    print(
+        f"Found {len(entities)} fully-detailed products embedded in the /promotions "
+        f"page load (totalProducts across the whole listing: {total_products}, "
+        f"but the rest requires the disallowed /api/ endpoint — see module docstring)"
+    )
 
     items = []
-    for i in range(0, len(product_ids), BATCH_SIZE):
-        batch = product_ids[i:i + BATCH_SIZE]
-        try:
-            resp = requests.put(
-                BASE_URL + PRODUCTS_API,
-                headers=api_headers,
-                data=json.dumps(batch),
-                timeout=20,
-            )
-            resp.raise_for_status()
-            data = resp.json()
-        except requests.RequestException as exc:
-            print(f"  batch {i}-{i+len(batch)}: request failed ({exc}), skipping")
-            continue
-        except ValueError:
-            print(f"  batch {i}-{i+len(batch)}: response wasn't valid JSON, skipping")
-            continue
-
-        batch_items = 0
-        for p in data.get("products", []):
-            item = parse_product(p)
-            if item:
-                items.append(item)
-                batch_items += 1
-        print(f"  batch {i}-{i+len(batch)}: {batch_items} items parsed")
+    for p in entities.values():
+        item = parse_entity(p)
+        if item:
+            items.append(item)
+    print(f"Parsed {len(items)} items")
 
     return items
 
@@ -260,8 +243,7 @@ if __name__ == "__main__":
     print(f"Saved {len(products)} items to auchan_promocje.json")
     if not products:
         print(
-            "WARNING: 0 items scraped. Either Auchan changed their SSR/API setup "
-            "(check fetch_initial_state()'s brace-matching and the products API "
-            "response shape), or their WAF blocked this run's IP — see the "
-            "module docstring's WAF caveat."
+            "WARNING: 0 items scraped. Either Auchan changed their SSR page's "
+            "productEntities shape (check parse_entity()), or the plain GET of "
+            "/promotions itself got blocked — see the module docstring's WAF caveat."
         )
