@@ -2,11 +2,21 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Ogórki gruntowe (luzem)",
+    "name": "Nektarynki (układane, luzem)",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Śliwki podłużne (luzem)",
     "oldPrice": 6.99,
-    "newPrice": 2.99,
-    "discountPct": 57,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -187,16 +197,6 @@
     "newPrice": 1.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20178116_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Danio (Serek homogenizowany)",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20179897_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -627,16 +627,6 @@
     "newPrice": 6.88,
     "discountPct": 48,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367411380_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 6.99,
-    "newPrice": 2.99,
-    "discountPct": 57,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
