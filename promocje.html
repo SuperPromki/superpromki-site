@@ -357,10 +357,90 @@
     .tag{transition:none;}
   }
 
+  /* ---------- HERO: coupon strip ---------- */
+  .promo-hero{max-width:1180px;margin:24px auto 0;padding:0 24px;}
+  .promo-hero-inner{
+    position:relative;
+    background:var(--paper-dim);
+    border:1px solid var(--line);
+    border-radius:4px;
+    padding:28px 30px 26px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:28px;
+    overflow:hidden;
+  }
+  .promo-hero-inner::before{
+    content:"";position:absolute;inset:0;
+    background-image:radial-gradient(var(--line) 1px, transparent 1.3px);
+    background-size:13px 13px;opacity:.35;pointer-events:none;
+  }
+  .promo-hero-inner::after{
+    content:"";position:absolute;top:-8px;left:34px;width:15px;height:15px;
+    background:var(--paper);border:1px solid var(--line);border-radius:50%;
+  }
+  .hero-copy{position:relative;z-index:1;}
+  .hero-kicker{
+    display:flex;align-items:center;gap:7px;
+    font-family:'IBM Plex Mono', monospace;font-size:11.5px;font-weight:600;
+    letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;
+  }
+  .hero-dot{
+    width:6px;height:6px;border-radius:50%;background:var(--sale);
+    animation:hero-pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes hero-pulse{0%,100%{opacity:1;}50%{opacity:.35;}}
+  @media (prefers-reduced-motion:reduce){.hero-dot{animation:none;}}
+  .hero-head{
+    font-family:'Archivo Black', sans-serif;
+    font-size:clamp(24px,3vw,32px);
+    line-height:1.08;letter-spacing:-.3px;color:var(--ink);
+  }
+  .hero-head em{color:var(--sale);font-style:normal;}
+  .hero-lede{
+    font-family:'Inter', sans-serif;font-size:13.5px;color:var(--muted);
+    max-width:300px;margin-top:10px;line-height:1.55;
+  }
+  .hero-coupons{
+    display:flex;align-items:center;gap:16px;position:relative;z-index:1;flex-shrink:0;
+  }
+  .coupon{
+    position:relative;
+    width:76px;height:92px;
+    background:#fff;border:1px solid var(--line);border-radius:3px;
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;
+    box-shadow:0 6px 14px -9px rgba(0,0,0,.3);
+  }
+  .coupon::before{
+    content:"";position:absolute;top:9px;left:-6px;width:11px;height:11px;
+    background:var(--paper-dim);border:1px solid var(--line);border-radius:50%;
+  }
+  .coupon svg{width:28px;height:28px;}
+  .coupon .pct{
+    position:absolute;top:-10px;right:-10px;
+    background:var(--sale);color:#fff;
+    font-family:'IBM Plex Mono', monospace;font-weight:600;font-size:10px;
+    padding:3px 6px;border-radius:2px;box-shadow:0 2px 5px rgba(0,0,0,.22);
+  }
+  .c1{transform:rotate(-6deg) translateY(-3px);}
+  .c1 .pct{transform:rotate(4deg);}
+  .c2{transform:rotate(4deg) translateY(4px);}
+  .c2 .pct{transform:rotate(-6deg);}
+  .c3{transform:rotate(-3deg) translateY(-5px);}
+  .c3 .pct{transform:rotate(7deg);}
+  .c4{transform:rotate(5deg) translateY(2px);}
+  .c4 .pct{transform:rotate(-4deg);}
+  .c5{transform:rotate(-4deg) translateY(3px);}
+  .c5 .pct{transform:rotate(5deg);}
+
   @media (max-width:640px){
     .stamp{display:none;}
     .controls-row{flex-direction:column; align-items:stretch;}
     .result-count{margin-left:0;}
+    .promo-hero-inner{flex-direction:column;align-items:flex-start;padding:22px 20px;gap:18px;}
+    .hero-coupons{align-self:stretch;flex-wrap:wrap;justify-content:flex-start;}
+    .hero-head{font-size:clamp(22px,7vw,27px);}
   }
 </style>
 </head>
@@ -379,6 +459,23 @@
     </div>
   </div>
 </header>
+
+<section class="promo-hero" aria-label="Skrót gazetki">
+  <div class="promo-hero-inner">
+    <div class="hero-copy">
+      <p class="hero-kicker"><span class="hero-dot"></span>gazetka na dziś</p>
+      <h2 class="hero-head">Ceny, których nie chcesz <em>przegapić</em>!</h2>
+      <p class="hero-lede">7 sklepów, jedna lista, aktualizowana każdego ranka o 6:00.</p>
+    </div>
+    <div class="hero-coupons" aria-hidden="true">
+      <div class="coupon c1"><svg viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="#E8C878"><path d="M16 10h16l4 6v22a2 2 0 0 1-2 2H14a2 2 0 0 1-2-2V16z"/><path fill="none" d="M16 10l4-4h8l4 4"/></svg><span class="pct">-50%</span></div>
+      <div class="coupon c2"><svg viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="#C1652F"><ellipse cx="25" cy="27" rx="16" ry="10.5" transform="rotate(-25 25 27)"/><ellipse cx="10" cy="15" rx="5.5" ry="8.5" transform="rotate(-25 10 15)" fill="#F7F4EC"/><path fill="none" stroke-width="1.6" d="M18 32c2 2 5 3 8 2"/></svg><span class="pct">-72%</span></div>
+      <div class="coupon c3"><svg viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="#6B8F5E"><path d="M24 18c-7-4-16 0-16 10 0 8 6 14 12 14 2 0 3-1 4-1s2 1 4 1c6 0 12-6 12-14 0-10-9-14-16-10z"/><path fill="none" d="M23 18v-6"/><path d="M23 13c2-3 6-3 7 0-1 3-5 4-7 0z" fill="#C1652F" stroke="none"/></svg><span class="pct">-33%</span></div>
+      <div class="coupon c4"><svg viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="#5A87A0"><path d="M20 6h8v6l3 4v24a2 2 0 0 1-2 2H19a2 2 0 0 1-2-2V16l3-4z"/><path fill="none" d="M18 24h12"/></svg><span class="pct">-60%</span></div>
+      <div class="coupon c5"><svg viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="#D9A441"><path d="M8 30c0-10 7-18 16-18s16 8 16 18v4a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2z"/><path fill="none" d="M16 22c1 3 1 6 0 9M24 20c1 4 1 8 0 12M32 22c1 3 1 6 0 9"/></svg><span class="pct">-45%</span></div>
+    </div>
+  </div>
+</section>
 
 <div class="tabs" id="tabsRow">
   <button class="tab-btn active" data-tab="all">Wszystkie sklepy <span class="tab-note">połączone dane ze wszystkich zakładek</span></button>
@@ -607,32 +704,37 @@
   // Blix.pl's flyer text (Żabka, Biedronka — spożywcze), which never comes
   // with an image. Picked per item by keyword-matching the product name so
   // similar-looking placeholder icons aren't all the same generic cart.
-  const ICON_SVG_ATTRS = 'viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"';
+  // Two-tone: black "currentColor" outline (same linework as before) plus a
+  // flat fill drawn from a curated 6-color retail palette, picked per icon
+  // to match the real-world color of the product (rust for meat, ochre for
+  // bread/grain, sage for produce, dusty blue for drinks, berry for
+  // wine/sweets, warm grey for neutral goods) — not a random rainbow.
+  const ICON_BASE = 'viewBox="0 0 48 48" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"';
   const CATEGORY_ICONS = {
-    meat: `<svg ${ICON_SVG_ATTRS}><path d="M10 20c2-6 8-9 14-8 5 1 6 5 10 5 5 0 8 4 7 9-1 6-7 11-14 11-9 0-15-6-17-13a8 8 0 0 1 0-4z"/><path d="M15 20l6 6M24 17l7 9M31 15l5 7" stroke-width="1.8"/></svg>`,
-    dairy: `<svg ${ICON_SVG_ATTRS}><path d="M16 10h16l4 6v22a2 2 0 0 1-2 2H14a2 2 0 0 1-2-2V16z"/><path d="M16 10l4-4h8l4 4"/></svg>`,
-    bread: `<svg ${ICON_SVG_ATTRS}><path d="M8 30c0-10 7-18 16-18s16 8 16 18v4a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2z"/><path d="M16 22c1 3 1 6 0 9M24 20c1 4 1 8 0 12M32 22c1 3 1 6 0 9"/></svg>`,
-    fruitveg: `<svg ${ICON_SVG_ATTRS}><path d="M24 18c-7-4-16 0-16 10 0 8 6 14 12 14 2 0 3-1 4-1s2 1 4 1c6 0 12-6 12-14 0-10-9-14-16-10z"/><path d="M23 18v-6"/><path d="M23 13c2-3 6-3 7 0-1 3-5 4-7 0z" fill="var(--green)" stroke="none"/></svg>`,
-    fish: `<svg ${ICON_SVG_ATTRS}><ellipse cx="18" cy="24" rx="12" ry="7"/><path d="M30 24l8-6v12z"/><circle cx="12" cy="22" r="1.4" fill="currentColor" stroke="none"/></svg>`,
-    icecream: `<svg ${ICON_SVG_ATTRS}><path d="M18 22a6 6 0 1 1 12 0z"/><path d="M18 22l6 18 6-18z"/><circle cx="24" cy="16" r="2" fill="var(--sale)" stroke="none"/></svg>`,
-    drinks: `<svg ${ICON_SVG_ATTRS}><path d="M20 6h8v6l3 4v24a2 2 0 0 1-2 2H19a2 2 0 0 1-2-2V16l3-4z"/><path d="M18 24h12"/></svg>`,
-    coffee: `<svg ${ICON_SVG_ATTRS}><path d="M10 18h20v12a8 8 0 0 1-8 8h-4a8 8 0 0 1-8-8z"/><path d="M30 20h4a4 4 0 0 1 0 8h-4"/><path d="M15 12c1-2-1-3 0-5M21 12c1-2-1-3 0-5"/></svg>`,
-    beer: `<svg ${ICON_SVG_ATTRS}><path d="M10 16h18v20a2 2 0 0 1-2 2H12a2 2 0 0 1-2-2z"/><path d="M28 20h5a4 4 0 0 1 0 8h-5"/><path d="M10 16c0-4 4-6 9-6s9 2 9 6"/></svg>`,
-    wine: `<svg ${ICON_SVG_ATTRS}><path d="M16 8h16l-2 12a6 6 0 0 1-12 0z"/><path d="M24 26v10"/><path d="M17 40h14"/></svg>`,
-    spirits: `<svg ${ICON_SVG_ATTRS}><path d="M14 14h20l-2 24a2 2 0 0 1-2 2H18a2 2 0 0 1-2-2z"/><rect x="19" y="24" width="5" height="5" rx="1"/><rect x="25" y="29" width="5" height="5" rx="1"/></svg>`,
-    snacks: `<svg ${ICON_SVG_ATTRS}><path d="M14 14l2-6h16l2 6v22a2 2 0 0 1-2 2H16a2 2 0 0 1-2-2z"/><path d="M14 14l4 2 4-2 4 2 4-2 4 2"/></svg>`,
-    sweets: `<svg ${ICON_SVG_ATTRS}><rect x="8" y="14" width="32" height="20" rx="2"/><path d="M16 14v20M24 14v20M32 14v20M8 24h32"/></svg>`,
-    soup: `<svg ${ICON_SVG_ATTRS}><path d="M6 24a18 8 0 0 0 36 0"/><path d="M6 24h36"/><path d="M18 14c-2 2 0 4-2 6M26 14c-2 2 0 4-2 6"/></svg>`,
-    pizza: `<svg ${ICON_SVG_ATTRS}><path d="M24 8l16 32H8z"/><path d="M8 40q16 6 32 0"/><circle cx="20" cy="24" r="1.6" fill="var(--sale)" stroke="none"/><circle cx="27" cy="30" r="1.6" fill="var(--sale)" stroke="none"/></svg>`,
-    cleaning: `<svg ${ICON_SVG_ATTRS}><rect x="14" y="18" width="14" height="24" rx="3"/><path d="M18 18v-4a2 2 0 0 1 2-2h2"/><path d="M22 12h9"/><path d="M31 12v4"/></svg>`,
-    school: `<svg ${ICON_SVG_ATTRS}><path d="M12 36l3-9 17-17 6 6-17 17z"/><path d="M15 27l6 6"/><path d="M10 42l2-6 4 4z"/></svg>`,
-    toys: `<svg ${ICON_SVG_ATTRS}><path d="M6 30l3-8a3 3 0 0 1 3-2h20a3 3 0 0 1 3 2l3 8"/><rect x="4" y="30" width="40" height="6" rx="2"/><circle cx="14" cy="38" r="4"/><circle cx="34" cy="38" r="4"/></svg>`,
-    kitchen: `<svg ${ICON_SVG_ATTRS}><rect x="10" y="20" width="28" height="16" rx="2"/><path d="M6 24h4M38 24h4"/><path d="M8 20h32"/><circle cx="24" cy="16" r="2"/></svg>`,
-    clothing: `<svg ${ICON_SVG_ATTRS}><path d="M17 9 9 15l4 6 4-3v22h14V18l4 3 4-6-8-6"/><path d="M18 9a6 6 0 0 0 12 0"/></svg>`,
-    beauty: `<svg ${ICON_SVG_ATTRS}><rect x="16" y="14" width="16" height="26" rx="3"/><rect x="20" y="8" width="8" height="6" rx="1"/></svg>`,
-    plant: `<svg ${ICON_SVG_ATTRS}><path d="M14 40h20l-2-10H16z"/><path d="M24 30v-8"/><path d="M24 22c-6-2-8-8-4-12 4 4 4 10 4 12z" stroke="var(--green)"/><path d="M24 22c6-2 8-8 4-12-4 4-4 10-4 12z" stroke="var(--green)"/></svg>`,
-    pet: `<svg ${ICON_SVG_ATTRS}><circle cx="15" cy="16" r="4"/><circle cx="24" cy="12" r="4"/><circle cx="33" cy="16" r="4"/><ellipse cx="24" cy="30" rx="10" ry="8"/></svg>`,
-    fallback: `<svg ${ICON_SVG_ATTRS}><path d="M12 16h24l2 24a2 2 0 0 1-2 2H12a2 2 0 0 1-2-2z"/><path d="M17 16v-2a7 7 0 0 1 14 0v2"/></svg>`,
+    meat: `<svg ${ICON_BASE} fill="#C1652F"><ellipse cx="25" cy="27" rx="16" ry="10.5" transform="rotate(-25 25 27)"/><ellipse cx="10" cy="15" rx="5.5" ry="8.5" transform="rotate(-25 10 15)" fill="#F7F4EC"/><path fill="none" stroke-width="1.6" d="M18 32c2 2 5 3 8 2"/></svg>`,
+    dairy: `<svg ${ICON_BASE} fill="#E8C878"><path d="M16 10h16l4 6v22a2 2 0 0 1-2 2H14a2 2 0 0 1-2-2V16z"/><path fill="none" d="M16 10l4-4h8l4 4"/></svg>`,
+    bread: `<svg ${ICON_BASE} fill="#D9A441"><path d="M8 30c0-10 7-18 16-18s16 8 16 18v4a2 2 0 0 1-2 2H10a2 2 0 0 1-2-2z"/><path fill="none" d="M16 22c1 3 1 6 0 9M24 20c1 4 1 8 0 12M32 22c1 3 1 6 0 9"/></svg>`,
+    fruitveg: `<svg ${ICON_BASE} fill="#6B8F5E"><path d="M24 18c-7-4-16 0-16 10 0 8 6 14 12 14 2 0 3-1 4-1s2 1 4 1c6 0 12-6 12-14 0-10-9-14-16-10z"/><path fill="none" d="M23 18v-6"/><path d="M23 13c2-3 6-3 7 0-1 3-5 4-7 0z" fill="#C1652F" stroke="none"/></svg>`,
+    fish: `<svg ${ICON_BASE} fill="#5A87A0"><ellipse cx="18" cy="24" rx="12" ry="7"/><path d="M30 24l8-6v12z"/><circle cx="12" cy="22" r="1.4" fill="#1C1C1C" stroke="none"/></svg>`,
+    icecream: `<svg ${ICON_BASE} fill="#93435A"><path d="M18 22a6 6 0 1 1 12 0z"/><path fill="#D9A441" d="M18 22l6 18 6-18z"/><circle cx="24" cy="16" r="2" fill="#1C1C1C" stroke="none"/></svg>`,
+    drinks: `<svg ${ICON_BASE} fill="#5A87A0"><path d="M20 6h8v6l3 4v24a2 2 0 0 1-2 2H19a2 2 0 0 1-2-2V16l3-4z"/><path fill="none" d="M18 24h12"/></svg>`,
+    coffee: `<svg ${ICON_BASE} fill="#8B5E3C"><path d="M10 18h20v12a8 8 0 0 1-8 8h-4a8 8 0 0 1-8-8z"/><path fill="none" d="M30 20h4a4 4 0 0 1 0 8h-4"/><path fill="none" d="M15 12c1-2-1-3 0-5M21 12c1-2-1-3 0-5"/></svg>`,
+    beer: `<svg ${ICON_BASE} fill="#D9A441"><path d="M10 16h18v20a2 2 0 0 1-2 2H12a2 2 0 0 1-2-2z"/><path fill="none" d="M28 20h5a4 4 0 0 1 0 8h-5"/><path fill="none" d="M10 16c0-4 4-6 9-6s9 2 9 6"/></svg>`,
+    wine: `<svg ${ICON_BASE} fill="#93435A"><path d="M16 8h16l-2 12a6 6 0 0 1-12 0z"/><path fill="none" d="M24 26v10"/><path fill="none" d="M17 40h14"/></svg>`,
+    spirits: `<svg ${ICON_BASE} fill="#F7F4EC"><path d="M13 16h22l-1.8 22.5a2 2 0 0 1-2 1.9H16.8a2 2 0 0 1-2-1.9z"/><path fill="none" d="M13.6 33h20.8"/><rect fill="#5A87A0" x="17" y="20" width="8" height="8" rx="1.3" transform="rotate(15 21 24)"/></svg>`,
+    snacks: `<svg ${ICON_BASE} fill="#C1652F"><path d="M14 14l2-6h16l2 6v22a2 2 0 0 1-2 2H16a2 2 0 0 1-2-2z"/><path fill="none" d="M14 14l4 2 4-2 4 2 4-2 4 2"/></svg>`,
+    sweets: `<svg ${ICON_BASE} fill="#9C6B3E"><rect x="8" y="14" width="32" height="20" rx="2"/><path fill="none" d="M16 14v20M24 14v20M32 14v20M8 24h32"/></svg>`,
+    soup: `<svg ${ICON_BASE} fill="#C1652F"><path d="M6 24a18 8 0 0 0 36 0"/><path fill="none" d="M6 24h36"/><path fill="none" d="M18 14c-2 2 0 4-2 6M26 14c-2 2 0 4-2 6"/></svg>`,
+    pizza: `<svg ${ICON_BASE} fill="#D9A441"><path d="M24 8l16 32H8z"/><path fill="none" d="M8 40q16 6 32 0"/><circle cx="20" cy="24" r="1.8" fill="#C1652F" stroke="none"/><circle cx="27" cy="30" r="1.8" fill="#C1652F" stroke="none"/></svg>`,
+    cleaning: `<svg ${ICON_BASE} fill="#5A87A0"><rect x="14" y="18" width="14" height="24" rx="3"/><path fill="none" d="M18 18v-4a2 2 0 0 1 2-2h2"/><path fill="none" d="M22 12h9"/><path fill="none" d="M31 12v4"/></svg>`,
+    school: `<svg ${ICON_BASE} fill="#5A87A0"><path d="M12 36l3-9 17-17 6 6-17 17z"/><path fill="none" d="M15 27l6 6"/><path fill="#1C1C1C" stroke="none" d="M10 42l2-6 4 4z"/></svg>`,
+    toys: `<svg ${ICON_BASE} fill="#D9A441"><path d="M6 30l3-8a3 3 0 0 1 3-2h20a3 3 0 0 1 3 2l3 8"/><rect x="4" y="30" width="40" height="6" rx="2"/><circle cx="14" cy="38" r="4" fill="#8B8378"/><circle cx="34" cy="38" r="4" fill="#8B8378"/></svg>`,
+    kitchen: `<svg ${ICON_BASE} fill="#8B8378"><rect x="10" y="20" width="28" height="16" rx="2"/><path fill="none" d="M6 24h4M38 24h4"/><path fill="none" d="M8 20h32"/><circle cx="24" cy="16" r="2" fill="#8B8378"/></svg>`,
+    clothing: `<svg ${ICON_BASE} fill="#5A87A0"><path d="M17 9 9 15l4 6 4-3v22h14V18l4 3 4-6-8-6"/><path fill="none" d="M18 9a6 6 0 0 0 12 0"/></svg>`,
+    beauty: `<svg ${ICON_BASE} fill="#93435A"><rect x="16" y="14" width="16" height="26" rx="3"/><rect fill="#8B8378" x="20" y="8" width="8" height="6" rx="1"/></svg>`,
+    plant: `<svg ${ICON_BASE} fill="#8B5E3C"><path d="M14 40h20l-2-10H16z"/><path fill="none" d="M24 30v-8"/><path fill="#6B8F5E" d="M24 22c-6-2-8-8-4-12 4 4 4 10 4 12z"/><path fill="#6B8F5E" d="M24 22c6-2 8-8 4-12-4 4-4 10-4 12z"/></svg>`,
+    pet: `<svg ${ICON_BASE} fill="#8B8378"><circle cx="15" cy="16" r="4"/><circle cx="24" cy="12" r="4"/><circle cx="33" cy="16" r="4"/><ellipse cx="24" cy="30" rx="10" ry="8"/></svg>`,
+    fallback: `<svg ${ICON_BASE} fill="#8B8378"><path d="M12 16h24l2 24a2 2 0 0 1-2 2H12a2 2 0 0 1-2-2z"/><path fill="none" d="M17 16v-2a7 7 0 0 1 14 0v2"/></svg>`,
   };
   // Checked top to bottom — more specific categories first so e.g. pet food
   // ("karma ... z kurczakiem") isn't mistaken for meat.
@@ -766,6 +868,7 @@
   // the scraped/fetched DATA. Add a new entry here (newest first) whenever
   // promocje.html is edited.
   const CHANGELOG = [
+    {date:'2026-08-20', text:'Dodano pasek "gazetka na dziś" pod nagłówkiem oraz przekolorowano ikony kategorii (spójna paleta 6 stonowanych barw dobranych do produktu, np. terakota dla mięsa, ochra dla pieczywa) — poprawiono też czytelność ikon mięsa i alkoholi mocnych.'},
     {date:'2026-08-16', text:'Zakładka "Wszystkie sklepy" nie pokazuje już przykładowych danych — usunięto tablicę PROMOTIONS i zastąpiono ją widokiem łączącym aktualne dane ze wszystkich siedmiu zakładek sklepowych (buildAllStoresDataset()).'},
     {date:'2026-08-16', text:'scrape_lidl.py: naprawiono skrajny przypadek, gdy API zwraca oldPrice: 0 zamiast pominąć pole (np. p10036365) — takie „0,00 zł” przekreślone obok nowej ceny już się nie pojawi.'},
     {date:'2026-08-13', text:'Dodano własne, odręcznie narysowane ikony kategorii (mięso, nabiał, owoce/warzywa i inne) dla ofert bez zdjęcia — zakładki Żabka i Biedronka — spożywcze.'},
