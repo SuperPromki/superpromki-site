@@ -381,7 +381,7 @@
 </header>
 
 <div class="tabs" id="tabsRow">
-  <button class="tab-btn active" data-tab="sample">Wszystkie sklepy <span class="tab-note">(dane przykładowe)</span></button>
+  <button class="tab-btn active" data-tab="all">Wszystkie sklepy <span class="tab-note">połączone dane ze wszystkich zakładek</span></button>
   <button class="tab-btn" data-tab="lidl-food">Lidl — spożywcze <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
   <button class="tab-btn" data-tab="lidl-other">Lidl — inne kategorie <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
   <button class="tab-btn" data-tab="kaufland">Kaufland <span class="tab-note"><span class="live-dot"></span>dane aktualne</span></button>
@@ -413,7 +413,7 @@
 </main>
 
 <footer>
-  <p><b>Wszystkie sklepy:</b> dane przykładowe — do podmiany na realne oferty (tablica <code>PROMOTIONS</code>). <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b> i <b>Żabka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
+  <p><b>Wszystkie sklepy:</b> połączone oferty ze wszystkich zakładek poniżej — nie osobne źródło, tylko widok zbiorczy. <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b> i <b>Żabka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
 
   <details class="changelog" id="changelogBox">
     <summary>Zmiany na stronie — ostatnia: <b id="changelogDate">—</b></summary>
@@ -422,26 +422,6 @@
 </footer>
 
 <script>
-  // ---- EDIT ME: replace with real scraped/API data ----
-  const PROMOTIONS = [
-    {store:"Biedronka", category:"Nabiał", name:"Masło extra 82% 200g", icon:"🧈", oldPrice:9.99, newPrice:6.99, unit:"34,95 zł/kg", validTo:"2026-08-17"},
-    {store:"Lidl", category:"Mięso", name:"Filet z kurczaka 1kg", icon:"🍗", oldPrice:24.99, newPrice:17.99, unit:"17,99 zł/kg", validTo:"2026-08-14"},
-    {store:"Kaufland", category:"Napoje", name:"Woda gazowana 6x1,5l", icon:"💧", oldPrice:14.94, newPrice:8.99, unit:"1,00 zł/l", validTo:"2026-08-19"},
-    {store:"Żabka", category:"Słodycze", name:"Czekolada mleczna 100g", icon:"🍫", oldPrice:6.49, newPrice:3.99, unit:"39,90 zł/kg", validTo:"2026-08-13"},
-    {store:"Auchan", category:"Owoce i warzywa", name:"Banany luz 1kg", icon:"🍌", oldPrice:6.99, newPrice:4.49, unit:"4,49 zł/kg", validTo:"2026-08-16"},
-    {store:"Carrefour", category:"Pieczywo", name:"Chleb żytni na zakwasie 500g", icon:"🍞", oldPrice:7.49, newPrice:5.49, unit:"10,98 zł/kg", validTo:"2026-08-15"},
-    {store:"Biedronka", category:"Chemia", name:"Płyn do prania 2,4l", icon:"🧴", oldPrice:29.99, newPrice:19.99, unit:"8,33 zł/l", validTo:"2026-08-18"},
-    {store:"Lidl", category:"Nabiał", name:"Ser żółty gouda 300g", icon:"🧀", oldPrice:11.99, newPrice:8.49, unit:"28,30 zł/kg", validTo:"2026-08-14"},
-    {store:"Kaufland", category:"Mięso", name:"Szynka wieprzowa plastry 150g", icon:"🥓", oldPrice:8.99, newPrice:5.99, unit:"39,93 zł/kg", validTo:"2026-08-20"},
-    {store:"Żabka", category:"Napoje", name:"Kawa mrożona 250ml", icon:"🥤", oldPrice:7.99, newPrice:5.49, unit:"21,96 zł/l", validTo:"2026-08-13"},
-    {store:"Auchan", category:"Słodycze", name:"Ciastka owsiane 200g", icon:"🍪", oldPrice:5.99, newPrice:3.49, unit:"17,45 zł/kg", validTo:"2026-08-21"},
-    {store:"Carrefour", category:"Owoce i warzywa", name:"Pomidory malinowe 500g", icon:"🍅", oldPrice:8.99, newPrice:5.99, unit:"11,98 zł/kg", validTo:"2026-08-15"},
-    {store:"Biedronka", category:"Pieczywo", name:"Bułki maślane 6szt", icon:"🥐", oldPrice:6.99, newPrice:4.99, unit:"0,83 zł/szt", validTo:"2026-08-17"},
-    {store:"Lidl", category:"Chemia", name:"Płyn do naczyń 900ml", icon:"🧽", oldPrice:8.49, newPrice:5.99, unit:"6,66 zł/l", validTo:"2026-08-14"},
-    {store:"Kaufland", category:"Słodycze", name:"Lody familijne 900ml", icon:"🍦", oldPrice:13.99, newPrice:8.99, unit:"9,99 zł/l", validTo:"2026-08-19"},
-    {store:"Żabka", category:"Nabiał", name:"Jogurt naturalny 400g", icon:"🥛", oldPrice:5.49, newPrice:3.99, unit:"9,98 zł/kg", validTo:"2026-08-13"},
-  ];
-
   // ---- REAL DATA pulled from Lidl's own product API (lidl.pl/q/api/query/wyprzedaz), 12 Aug 2026 ----
   // This endpoint only covers non-food clearance items (home, fashion, sport, baby) —
   // Lidl does not sell fresh groceries through this API, only via the weekly image-based gazetka.
@@ -490,8 +470,15 @@
   // it exists — see SETUP.md for how to create it and push these files.
   const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/SuperPromki/superpromki-site/main";
 
+  // Store keys whose datasets get pooled together into the 'all' tab below —
+  // every real per-store tab except 'all' itself.
+  const ALL_STORES_SOURCE_KEYS = [
+    'lidl-food', 'lidl-other', 'kaufland', 'biedronka',
+    'biedronka-food', 'zabka-food', 'auchan',
+  ];
+
   const TABS = {
-    'sample':      { dataset: PROMOTIONS,           groupKey: 'store',    categoryFilter: true  },
+    'all':         { dataset: [],                   groupKey: 'store',    categoryFilter: true  },
     'lidl-food':   { dataset: PROMOTIONS_LIDL_FOOD,  groupKey: 'category', categoryFilter: false },
     'lidl-other':  { dataset: PROMOTIONS_LIDL_OTHER, groupKey: 'category', categoryFilter: false },
     'kaufland':    { dataset: PROMOTIONS_KAUFLAND,   groupKey: 'category', categoryFilter: false,
@@ -508,6 +495,17 @@
   Object.keys(TABS).forEach(key => {
     TABS[key].activeGroups = new Set(TABS[key].dataset.map(p => p[TABS[key].groupKey]));
   });
+
+  // Pools every real per-store tab's current dataset into the 'all' tab —
+  // called once up front (using whatever fallback data each tab starts
+  // with) and again after loadLiveData() resolves, so 'all' always reflects
+  // the same data the individual store tabs are showing.
+  function buildAllStoresDataset(){
+    const combined = ALL_STORES_SOURCE_KEYS.flatMap(key => TABS[key].dataset);
+    TABS['all'].dataset = combined;
+    TABS['all'].activeGroups = new Set(combined.map(p => p.store));
+  }
+  buildAllStoresDataset();
 
   async function loadLiveData(){
     const sources = {
@@ -536,7 +534,7 @@
     }
   }
 
-  let activeTab = 'sample';
+  let activeTab = 'all';
   function currentTab(){ return TABS[activeTab]; }
   function currentDataset(){ return currentTab().dataset; }
 
@@ -768,6 +766,8 @@
   // the scraped/fetched DATA. Add a new entry here (newest first) whenever
   // promocje.html is edited.
   const CHANGELOG = [
+    {date:'2026-08-16', text:'Zakładka "Wszystkie sklepy" nie pokazuje już przykładowych danych — usunięto tablicę PROMOTIONS i zastąpiono ją widokiem łączącym aktualne dane ze wszystkich siedmiu zakładek sklepowych (buildAllStoresDataset()).'},
+    {date:'2026-08-16', text:'scrape_lidl.py: naprawiono skrajny przypadek, gdy API zwraca oldPrice: 0 zamiast pominąć pole (np. p10036365) — takie „0,00 zł” przekreślone obok nowej ceny już się nie pojawi.'},
     {date:'2026-08-13', text:'Dodano własne, odręcznie narysowane ikony kategorii (mięso, nabiał, owoce/warzywa i inne) dla ofert bez zdjęcia — zakładki Żabka i Biedronka — spożywcze.'},
     {date:'2026-08-13', text:'Scraper Auchan przepisany zgodnie z robots.txt — korzysta wyłącznie z dozwolonej strony /promotions, bez wywołań zablokowanego endpointu /api/.'},
   ];
@@ -789,6 +789,7 @@
   // Fetch live data in the background; re-render only if the currently visible
   // tab's data actually changed, so we don't yank filters out from under the user.
   loadLiveData().then(() => {
+    buildAllStoresDataset();
     buildFilterRow();
     render();
   });

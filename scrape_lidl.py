@@ -78,6 +78,22 @@ def fetch_all(url, base_params, item_parser):
     return items_out
 
 
+def clean_old_price(old_price, new_price):
+    """
+    The API occasionally returns oldPrice: 0 instead of omitting the field
+    (seen on p10036365, "Zakładowy Nie Jestem Robotem" — a real product,
+    despite the name). A 0 zł "was" price is never real and breaks the
+    discount math downstream (pctFor() on the frontend would divide by
+    zero), so treat oldPrice <= 0, or oldPrice <= newPrice (no actual
+    markdown), the same as "not provided".
+    """
+    if old_price is None or new_price is None:
+        return old_price
+    if old_price <= 0 or old_price <= new_price:
+        return None
+    return old_price
+
+
 def parse_wyprzedaz_item(item):
     """Non-food clearance item (simple price/discount shape)."""
     try:
@@ -89,7 +105,7 @@ def parse_wyprzedaz_item(item):
             "store": "Lidl",
             "category": gridbox["keyfacts"].get("wonCategoryPrimary", "").split("/")[-1] or "Inne",
             "name": gridbox["fullTitle"],
-            "oldPrice": price.get("oldPrice"),
+            "oldPrice": clean_old_price(price.get("oldPrice"), price.get("price")),
             "newPrice": price.get("price"),
             "discountPct": discount.get("percentageDiscount"),
             "image": gridbox.get("image"),
@@ -134,7 +150,7 @@ def parse_food_item(item):
             "store": "Lidl",
             "category": category,
             "name": gridbox["fullTitle"],
-            "oldPrice": price_block.get("oldPrice"),
+            "oldPrice": clean_old_price(price_block.get("oldPrice"), price_block.get("price")),
             "newPrice": price_block.get("price"),
             "discountPct": discount.get("percentageDiscount"),
             "note": "; ".join(note_parts) if note_parts else None,

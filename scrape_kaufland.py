@@ -90,7 +90,11 @@ def parse_products_tiles(soup):
 
         for tile in section.select(".k-product-tile"):
             title_el = tile.select_one(".k-product-tile__title")
-            if not title_el:
+            if not title_el or not title_el.get_text(strip=True):
+                # A handful of live tiles (confirmed: 4 out of 648 on 16 Aug
+                # 2026) have a .k-product-tile__title element that's present
+                # but empty — likely ad/placeholder slots mixed into the
+                # grid. Skip rather than emit a blank product card.
                 continue
             name = title_el.get_text(strip=True)
             subtitle_el = tile.select_one(".k-product-tile__subtitle")
