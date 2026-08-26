@@ -2,12 +2,34 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
+    "name": "Masło ekstra z Polskiej Mleczarni",
+    "oldPrice": null,
+    "newPrice": 1.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519234/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
     "name": "Brzoskwinia na wagę",
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/518670/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519234/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Filet z indyka pakowany próżniowo Kraina Mięs",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519231/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -18,40 +40,7 @@
     "newPrice": 4.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/518670/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Masło ekstra z Polskiej Mleczarni",
-    "oldPrice": null,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/518670/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Maskotka Gang Zaradniaków",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/518667/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Breloczek Gang Zaradniaków",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/518667/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519231/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -277,6 +266,61 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
+    "name": "Jogurt Fruvita Wyśmienity gruszkowy",
+    "oldPrice": null,
+    "newPrice": 0.89,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519141/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Serek twarogowy Delikate brzoskwiniowy",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519141/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Serek twarogowy Delikate waniliowy",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519141/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Serek twarogowy Delikate truskawkowy",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519141/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Serek twarogowy Delikate naturalny",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/519141/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
     "name": "Karma dla psa Bult bogata w dziczyznę",
     "oldPrice": null,
     "newPrice": 4.99,
@@ -376,6 +420,28 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
+    "name": "Breloczek Gang Zaradniaków",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/518664/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Maskotka Gang Zaradniaków",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/518664/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
     "name": "Przybory i akcesoria kuchenne",
     "oldPrice": null,
     "newPrice": 12.99,
@@ -426,72 +492,6 @@
     "discountPct": null,
     "image": null,
     "url": "https://blix.pl/sklep/biedronka/gazetka/518676/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ser sałatkowo-kanapkowy Delikate tłusty",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Masło ekstra Polskie Mlekovita",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ser żółty w plastrach Światowid Morski",
-    "oldPrice": null,
-    "newPrice": 7.49,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ser żółty w plastrach Światowid Gouda",
-    "oldPrice": null,
-    "newPrice": 7.49,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Twaróg klinek półtłusty Delikate",
-    "oldPrice": null,
-    "newPrice": 3.39,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ser żółty Edamski Światowid",
-    "oldPrice": null,
-    "newPrice": 5.49,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/517548/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {

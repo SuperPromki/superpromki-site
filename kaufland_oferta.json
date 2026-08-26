@@ -22,7 +22,7 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Maliny (200g opak.)",
+    "name": "Maliny",
     "oldPrice": 17.99,
     "newPrice": 8.99,
     "discountPct": 50,
@@ -782,7 +782,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Maliny (200g opak.)",
+    "name": "Maliny",
     "oldPrice": 17.99,
     "newPrice": 8.99,
     "discountPct": 50,
@@ -1213,9 +1213,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "SM Michowianka (Twarożek Babuni)",
-    "oldPrice": null,
+    "oldPrice": 16.9,
     "newPrice": 12.9,
-    "discountPct": null,
+    "discountPct": 23,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20715764",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2167,6 +2167,16 @@
     "newPrice": 6.99,
     "discountPct": 30,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00400185_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Milka Choco (Wafelki z kremem)",
+    "oldPrice": 9.99,
+    "newPrice": 6.99,
+    "discountPct": 30,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00100595_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
