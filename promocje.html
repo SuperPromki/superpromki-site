@@ -4,18 +4,49 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Promocje.pl — porównanie promocji ze sklepów</title>
+<meta name="description" content="Porównuj promocje z Lidla, Kauflandu, Biedronki, Żabki i Auchan w jednym miejscu. Dane aktualizowane każdego ranka o 6:00 — szukaj, sortuj i filtruj po cenie, rabacie i kategorii.">
+<meta name="theme-color" content="#1C1C1C">
+<link rel="canonical" href="https://superpromki.github.io/superpromki-site/promocje.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Promocje.pl — porównanie promocji ze sklepów">
+<meta property="og:description" content="7 sklepów, jedna lista, aktualizowana każdego ranka o 6:00.">
+<meta property="og:url" content="https://superpromki.github.io/superpromki-site/promocje.html">
+<meta property="og:locale" content="pl_PL">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8F%B7%EF%B8%8F%3C/text%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
     --paper:#F7F4EC;
     --paper-dim:#EFEADB;
+    --card-bg:#FFFFFF;
     --ink:#1C1C1C;
     --sale:#C41E3A;
     --highlight:#FFC72C;
     --muted:#8A8578;
     --line:#D8D2C2;
     --green:#2F6B3E;
+  }
+
+  /* Dark mode: --ink is reused as the adaptive foreground color here (it
+     flips from near-black to a warm off-white), which automatically makes
+     every text/border/"filled toggle button" rule below that already uses
+     var(--ink) invert correctly. The header stays a fixed dark strip in
+     both themes on purpose (see the hardcoded #1C1C1C / #F7F4EC a few
+     rules down) — it's the one deliberately theme-independent element. */
+  @media (prefers-color-scheme: dark){
+    :root{
+      --paper:#161310;
+      --paper-dim:#211C15;
+      --card-bg:#26201A;
+      --ink:#EDE6D6;
+      --sale:#FF6B6E;
+      --highlight:#FFC72C;
+      --muted:#A39A89;
+      --line:#3A3226;
+      --green:#5CBB70;
+    }
   }
 
   *{box-sizing:border-box; margin:0; padding:0;}
@@ -28,9 +59,12 @@
   }
 
   /* ---------- HEADER: receipt strip ---------- */
+  /* Deliberately fixed dark-on-light-text in BOTH themes (not var(--ink)/
+     var(--paper), which now flip) — the receipt-strip header is a constant
+     brand accent, same reasoning as a persistent-color navbar. */
   header{
-    background:var(--ink);
-    color:var(--paper);
+    background:#1C1C1C;
+    color:#F7F4EC;
     padding:28px 24px 22px;
     position:relative;
   }
@@ -66,7 +100,7 @@
     padding:8px 12px;
     line-height:1.6;
   }
-  .stamp b{color:var(--paper); display:block; font-size:12px; letter-spacing:0.05em;}
+  .stamp b{color:#F7F4EC; display:block; font-size:12px; letter-spacing:0.05em;}
   header::after{
     content:"";
     display:block;
@@ -74,7 +108,7 @@
     bottom:-9px; left:0; right:0;
     height:9px;
     background:
-      radial-gradient(circle at 8px 0, transparent 8px, var(--ink) 9px) 0 -8px / 16px 100% repeat-x;
+      radial-gradient(circle at 8px 0, transparent 8px, #1C1C1C 9px) 0 -8px / 16px 100% repeat-x;
   }
 
   /* ---------- TOOLBAR ---------- */
@@ -122,7 +156,7 @@
     font-size:13.5px;
     padding:9px 12px;
     border:1px solid var(--line);
-    background:#fff;
+    background:var(--card-bg);
     border-radius:2px;
     color:var(--ink);
   }
@@ -142,6 +176,9 @@
     display:flex;
     gap:0;
     border-bottom:2px solid var(--ink);
+    overflow-x:auto;
+    -webkit-overflow-scrolling:touch;
+    scrollbar-width:thin;
   }
   .tab-btn{
     font-family:'IBM Plex Mono', monospace;
@@ -154,6 +191,8 @@
     color:var(--muted);
     cursor:pointer;
     margin-bottom:-2px;
+    white-space:nowrap;
+    flex-shrink:0;
   }
   .tab-btn.active{
     color:var(--ink);
@@ -186,7 +225,7 @@
   /* Signature element: die-cut price tag card */
   .tag{
     position:relative;
-    background:#fff;
+    background:var(--card-bg);
     border:1px solid var(--line);
     border-radius:3px;
     padding:16px 16px 14px;
@@ -301,6 +340,105 @@
     font-size:13.5px;
   }
 
+  .load-more-wrap{text-align:center; margin-top:28px;}
+  .load-more-btn{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    font-weight:600;
+    padding:12px 26px;
+    border:1.5px solid var(--ink);
+    border-radius:2px;
+    background:var(--ink);
+    color:var(--paper);
+    cursor:pointer;
+    transition:opacity .15s;
+  }
+  .load-more-btn:hover{opacity:.82;}
+  .load-more-btn:focus-visible{outline:2px solid var(--sale); outline-offset:2px;}
+
+  .visually-hidden{
+    position:absolute;
+    width:1px; height:1px;
+    padding:0; margin:-1px;
+    overflow:hidden;
+    clip:rect(0,0,0,0);
+    white-space:nowrap;
+    border:0;
+  }
+
+  /* ---------- Data freshness: warning banner + loading note ---------- */
+  .data-warning{
+    max-width:1180px;
+    margin:16px auto 0;
+    padding:12px 20px;
+    background:var(--paper-dim);
+    border:1px solid var(--highlight);
+    border-left:4px solid var(--highlight);
+    border-radius:3px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink);
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:14px;
+    line-height:1.5;
+  }
+  .data-warning[hidden]{display:none;}
+  .data-warning button{
+    font-family:inherit;
+    font-size:11px;
+    flex-shrink:0;
+    background:transparent;
+    border:1px solid var(--ink);
+    border-radius:2px;
+    padding:5px 10px;
+    cursor:pointer;
+    color:var(--ink);
+  }
+  .loading-note{
+    margin-top:10px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--muted);
+    display:flex;
+    align-items:center;
+    gap:7px;
+  }
+  .loading-note[hidden]{display:none;}
+  .loading-dot{
+    width:6px; height:6px; border-radius:50%;
+    background:var(--highlight);
+    animation:hero-pulse 1.2s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion:reduce){.loading-dot{animation:none;}}
+
+  /* ---------- Favorites ---------- */
+  .fav-toggle{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    cursor:pointer;
+    transition:background .15s, color .15s, border-color .15s;
+  }
+  .fav-toggle.active{
+    background:var(--highlight);
+    border-color:var(--highlight);
+    color:#1C1C1C;
+    font-weight:600;
+  }
+  .tag-top-right{display:flex; align-items:center; gap:6px;}
+  .fav-star{
+    background:transparent;
+    border:none;
+    cursor:pointer;
+    font-size:17px;
+    line-height:1;
+    padding:2px;
+    color:var(--muted);
+  }
+  .fav-star.active{color:var(--sale);}
+  .fav-star:focus-visible{outline:2px solid var(--sale); outline-offset:2px;}
+
   footer{
     border-top:2px solid var(--ink);
     padding:22px 24px 40px;
@@ -408,7 +546,7 @@
   .coupon{
     position:relative;
     width:76px;height:92px;
-    background:#fff;border:1px solid var(--line);border-radius:3px;
+    background:var(--card-bg);border:1px solid var(--line);border-radius:3px;
     display:flex;flex-direction:column;align-items:center;justify-content:center;gap:7px;
     box-shadow:0 6px 14px -9px rgba(0,0,0,.3);
   }
@@ -460,6 +598,8 @@
   </div>
 </header>
 
+<div class="data-warning" id="dataWarning" hidden role="status"></div>
+
 <section class="promo-hero" aria-label="Skrót gazetki">
   <div class="promo-hero-inner">
     <div class="hero-copy">
@@ -491,26 +631,32 @@
 <div class="toolbar">
   <div class="stores-row" id="storeRow"></div>
   <div class="controls-row">
-    <select class="control" id="categoryFilter">
+    <select class="control" id="categoryFilter" aria-label="Filtruj po kategorii">
       <option value="">Wszystkie kategorie</option>
     </select>
-    <select class="control" id="sortBy">
+    <select class="control" id="sortBy" aria-label="Sortuj wyniki">
       <option value="discount">Sortuj: największy rabat</option>
       <option value="price-asc">Sortuj: cena rosnąco</option>
       <option value="price-desc">Sortuj: cena malejąco</option>
       <option value="ending">Sortuj: kończy się najszybciej</option>
     </select>
-    <input class="control" id="search" type="text" placeholder="Szukaj produktu, np. masło...">
-    <span class="result-count" id="resultCount"></span>
+    <label for="search" class="visually-hidden">Szukaj produktu</label>
+    <input class="control" id="search" type="text" placeholder="Szukaj produktu, np. masło..." aria-label="Szukaj produktu">
+    <button class="control fav-toggle" id="favToggle" type="button" aria-pressed="false">☆ Ulubione</button>
+    <span class="result-count" id="resultCount" aria-live="polite"></span>
   </div>
+  <p class="loading-note" id="loadingNote" role="status"><span class="loading-dot"></span>Ładowanie najnowszych ofert ze wszystkich sklepów…</p>
 </div>
 
 <main>
   <div class="grid" id="grid"></div>
+  <div class="load-more-wrap">
+    <button class="load-more-btn" id="loadMoreBtn" style="display:none;" type="button">Pokaż więcej ofert</button>
+  </div>
 </main>
 
 <footer>
-  <p><b>Wszystkie sklepy:</b> połączone oferty ze wszystkich zakładek poniżej — nie osobne źródło, tylko widok zbiorczy. <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe, aktualne oferty pobrane z API sklepu Lidl (12.08.2026). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b> i <b>Żabka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
+  <p><b>Wszystkie sklepy:</b> połączone oferty ze wszystkich zakładek poniżej — nie osobne źródło, tylko widok zbiorczy. <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe oferty pobrane z API sklepu Lidl, odświeżane automatycznie każdego dnia o 6:00 (gdy pobranie się nie powiedzie, wyświetlana jest ostatnia zapisana wersja). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b> i <b>Żabka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
 
   <details class="changelog" id="changelogBox">
     <summary>Zmiany na stronie — ostatnia: <b id="changelogDate">—</b></summary>
@@ -604,6 +750,49 @@
   }
   buildAllStoresDataset();
 
+  // ---- Local cache of the last successfully fetched data per store ----
+  // If today's fetch from GitHub fails (network hiccup, GitHub Actions
+  // scraper run failed, etc.), falling all the way back to the hardcoded
+  // Aug-12 sample data (or an empty array for stores that have none) is a
+  // worse experience than showing yesterday's real, live-scraped prices.
+  // So every successful fetch is cached in localStorage, and a failed
+  // fetch tries the cache before giving up.
+  const CACHE_PREFIX = 'superpromki_cache_';
+
+  function readCache(tabKey){
+    try {
+      const raw = localStorage.getItem(CACHE_PREFIX + tabKey);
+      if (!raw) return null;
+      const parsed = JSON.parse(raw);
+      if (!parsed || !Array.isArray(parsed.items) || !parsed.savedAt) return null;
+      return parsed;
+    } catch (e) { return null; }
+  }
+
+  function writeCache(tabKey, items){
+    try {
+      localStorage.setItem(CACHE_PREFIX + tabKey, JSON.stringify({items, savedAt: Date.now()}));
+    } catch (e) { /* storage full or unavailable (private mode) — caching is best-effort */ }
+  }
+
+  const STORE_LABELS = {
+    'lidl-food': 'Lidl spożywcze', 'lidl-other': 'Lidl inne kategorie', 'kaufland': 'Kaufland',
+    'biedronka': 'Biedronka Home', 'biedronka-food': 'Biedronka spożywcze',
+    'zabka-food': 'Żabka', 'auchan': 'Auchan',
+  };
+
+  function showDataWarningBanner(failed, cached){
+    const el = document.getElementById('dataWarning');
+    if (!el) return;
+    if (failed.length === 0 && cached.length === 0) { el.hidden = true; return; }
+    const parts = [];
+    if (cached.length) parts.push(`dane sprzed jakiegoś czasu (z pamięci przeglądarki) dla: ${cached.map(k => STORE_LABELS[k] || k).join(', ')}`);
+    if (failed.length) parts.push(`brak danych dla: ${failed.map(k => STORE_LABELS[k] || k).join(', ')}`);
+    el.innerHTML = `<span>⚠ Nie udało się pobrać dzisiejszych danych ze wszystkich sklepów — ${parts.join('; ')}.</span><button type="button" id="dismissWarning">Zamknij</button>`;
+    el.hidden = false;
+    document.getElementById('dismissWarning').addEventListener('click', () => { el.hidden = true; });
+  }
+
   async function loadLiveData(){
     const sources = {
       'lidl-food': 'lidl_food.json',
@@ -614,7 +803,13 @@
       'zabka-food': 'zabka_gazetka.json',
       'auchan': 'auchan_promocje.json',
     };
-    for (const [tabKey, filename] of Object.entries(sources)) {
+    const failedSources = [];
+    const usedCacheSources = [];
+    // Fetched in parallel (not one-by-one) — with 7 files, the largest of which
+    // (biedronka_home.json) is ~900KB, a sequential await loop meant every
+    // smaller/faster store was stuck waiting behind whichever big file happened
+    // to be first in the list. Promise.all lets them race independently.
+    await Promise.all(Object.entries(sources).map(async ([tabKey, filename]) => {
       try {
         const resp = await fetch(`${GITHUB_RAW_BASE}/${filename}`, {cache: 'no-store'});
         if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
@@ -622,13 +817,28 @@
         if (Array.isArray(liveItems) && liveItems.length > 0) {
           TABS[tabKey].dataset = liveItems;
           TABS[tabKey].activeGroups = new Set(liveItems.map(p => p[TABS[tabKey].groupKey]));
+          writeCache(tabKey, liveItems);
           const noteEl = document.querySelector(`.tab-btn[data-tab="${tabKey}"] .tab-note`);
           if (noteEl) noteEl.innerHTML = `<span class="live-dot"></span>zaktualizowano dziś`;
         }
       } catch (err) {
-        console.warn(`Nie udało się pobrać ${filename} — używam danych zapasowych.`, err);
+        console.warn(`Nie udało się pobrać ${filename} — próbuję danych z pamięci podręcznej.`, err);
+        const cached = readCache(tabKey);
+        if (cached && cached.items.length > 0) {
+          TABS[tabKey].dataset = cached.items;
+          TABS[tabKey].activeGroups = new Set(cached.items.map(p => p[TABS[tabKey].groupKey]));
+          const ageMs = Date.now() - cached.savedAt;
+          const ageDays = Math.round(ageMs / 86400000);
+          const ageLabel = ageDays <= 0 ? 'z ostatnich godzin' : ageDays === 1 ? 'sprzed 1 dnia' : `sprzed ${ageDays} dni`;
+          const noteEl = document.querySelector(`.tab-btn[data-tab="${tabKey}"] .tab-note`);
+          if (noteEl) noteEl.innerHTML = `<span class="live-dot" style="background:var(--highlight);"></span>dane ${ageLabel} (z pamięci przeglądarki)`;
+          usedCacheSources.push(tabKey);
+        } else {
+          failedSources.push(tabKey);
+        }
       }
-    }
+    }));
+    showDataWarningBanner(failedSources, usedCacheSources);
   }
 
   let activeTab = 'all';
@@ -650,7 +860,7 @@
       btn.addEventListener('click', () => {
         if (tab.activeGroups.has(val)) { tab.activeGroups.delete(val); btn.classList.remove('active'); btn.setAttribute('aria-pressed','false'); }
         else { tab.activeGroups.add(val); btn.classList.add('active'); btn.setAttribute('aria-pressed','true'); }
-        render();
+        resetAndRender();
       });
       storeRow.appendChild(btn);
     });
@@ -678,13 +888,64 @@
     document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.tab === tab));
     searchInput.value = '';
     buildFilterRow();
-    render();
+    resetAndRender();
   }
 
   const grid = document.getElementById('grid');
   const resultCount = document.getElementById('resultCount');
   const searchInput = document.getElementById('search');
   const sortSelect = document.getElementById('sortBy');
+
+  // ---- Favorites: starred items, kept in localStorage, filterable ----
+  const FAVORITES_KEY = 'superpromki_favorites';
+  function loadFavorites(){
+    try {
+      const raw = localStorage.getItem(FAVORITES_KEY);
+      return raw ? new Set(JSON.parse(raw)) : new Set();
+    } catch (e) { return new Set(); }
+  }
+  function saveFavorites(set){
+    try { localStorage.setItem(FAVORITES_KEY, JSON.stringify([...set])); } catch (e) { /* best-effort */ }
+  }
+  // Items have no stable id from the scrapers — the product URL is unique
+  // when present, otherwise fall back to a store+name+category composite.
+  function favKey(p){ return p.url || `${p.store}|${p.name}|${p.category}`; }
+
+  const favorites = loadFavorites();
+  let favoritesOnly = false;
+  const favToggle = document.getElementById('favToggle');
+
+  function updateFavToggleLabel(){
+    favToggle.textContent = `${favoritesOnly ? '★' : '☆'} Ulubione${favorites.size ? ` (${favorites.size})` : ''}`;
+  }
+  updateFavToggleLabel();
+
+  favToggle.addEventListener('click', () => {
+    favoritesOnly = !favoritesOnly;
+    favToggle.classList.toggle('active', favoritesOnly);
+    favToggle.setAttribute('aria-pressed', favoritesOnly ? 'true' : 'false');
+    updateFavToggleLabel();
+    resetAndRender();
+  });
+
+  // Delegated once on the grid container (not per-card) since grid.innerHTML
+  // is rebuilt on every render() — a per-card listener would leak/duplicate.
+  grid.addEventListener('click', (e) => {
+    const btn = e.target.closest('.fav-star');
+    if (!btn) return;
+    const key = decodeURIComponent(btn.dataset.key);
+    if (favorites.has(key)) favorites.delete(key); else favorites.add(key);
+    saveFavorites(favorites);
+    updateFavToggleLabel();
+    if (favoritesOnly) {
+      render(); // item may need to disappear from the "only favorites" view
+    } else {
+      btn.classList.toggle('active');
+      btn.textContent = favorites.has(key) ? '★' : '☆';
+      btn.setAttribute('aria-pressed', favorites.has(key) ? 'true' : 'false');
+      btn.setAttribute('aria-label', favorites.has(key) ? 'Usuń z ulubionych' : 'Dodaj do ulubionych');
+    }
+  });
 
   function discountPct(o, n){ return Math.round((1 - n / o) * 100); }
   function pctFor(p){ return p.discountPct !== undefined ? p.discountPct : discountPct(p.oldPrice, p.newPrice); }
@@ -777,7 +1038,16 @@
     return 'fallback';
   }
 
-  function render(){
+  // Some tabs hold well over a thousand items (e.g. Biedronka Home ~1800,
+  // Kaufland ~1100) and the "Wszystkie sklepy" tab pools all of them —
+  // 3000+ cards with images. Rendering every matching item into the DOM at
+  // once made typing in the search box and toggling filters visibly janky.
+  // Instead we render one page at a time and let the user ask for more.
+  const PAGE_SIZE = 48;
+  let currentPage = 1;
+  const loadMoreBtn = document.getElementById('loadMoreBtn');
+
+  function getFilteredSortedItems(){
     const tab = currentTab();
     const dataset = tab.dataset;
     const cat = tab.categoryFilter ? categorySelect.value : '';
@@ -787,7 +1057,8 @@
     let items = dataset.filter(p =>
       tab.activeGroups.has(p[tab.groupKey]) &&
       (!cat || p.category === cat) &&
-      (!term || p.name.toLowerCase().includes(term))
+      (!term || p.name.toLowerCase().includes(term)) &&
+      (!favoritesOnly || favorites.has(favKey(p)))
     );
 
     items.sort((a, b) => {
@@ -797,24 +1068,38 @@
       if (sort === 'ending') return a.validTo && b.validTo ? new Date(a.validTo) - new Date(b.validTo) : 0;
       return 0;
     });
+    return items;
+  }
 
-    resultCount.textContent = `${items.length} ${items.length === 1 ? 'oferta' : 'ofert'}`;
+  function resetAndRender(){
+    currentPage = 1;
+    render();
+  }
+
+  function render(){
+    const tab = currentTab();
+    const dataset = tab.dataset;
+    const allItems = getFilteredSortedItems();
+    const visibleItems = allItems.slice(0, currentPage * PAGE_SIZE);
+
+    resultCount.textContent = `${allItems.length} ${allItems.length === 1 ? 'oferta' : 'ofert'}`;
 
     grid.innerHTML = '';
-    if (items.length === 0){
+    if (allItems.length === 0){
       const msg = dataset.length === 0 && tab.emptyMessage
         ? tab.emptyMessage
         : 'Brak promocji spełniających kryteria — zmień filtry lub wybierz inną kategorię.';
       grid.innerHTML = `<div class="empty">${msg}</div>`;
+      loadMoreBtn.style.display = 'none';
       return;
     }
 
-    items.forEach(p => {
+    visibleItems.forEach(p => {
       const card = document.createElement('div');
       card.className = 'tag';
       const badge = p.store ? `<span class="store-badge">${p.store}</span>` : '';
       const media = p.image
-        ? `<img src="${p.image}" alt="${p.name}" style="width:100%;height:90px;object-fit:contain;background:var(--paper-dim);border-radius:2px;">`
+        ? `<img src="${p.image}" alt="${p.name}" loading="lazy" decoding="async" style="width:100%;height:90px;object-fit:contain;background:var(--paper-dim);border-radius:2px;">`
         : p.icon
           ? `<div class="icon">${p.icon}</div>`
           : `<div class="cat-icon">${CATEGORY_ICONS[pickCategoryIcon(p.name)]}</div>`;
@@ -833,10 +1118,16 @@
       const oldPriceHtml = (p.oldPrice !== null && p.oldPrice !== undefined)
         ? `<span class="old-price">${p.oldPrice.toFixed(2)} zł</span>`
         : '';
+      const favKeyVal = favKey(p);
+      const isFav = favorites.has(favKeyVal);
+      const favStar = `<button class="fav-star${isFav ? ' active' : ''}" type="button" aria-pressed="${isFav}" aria-label="${isFav ? 'Usuń z ulubionych' : 'Dodaj do ulubionych'}" data-key="${encodeURIComponent(favKeyVal)}">${isFav ? '★' : '☆'}</button>`;
       card.innerHTML = `
         <div class="tag-top">
           ${badge}
-          ${discountBadge}
+          <div class="tag-top-right">
+            ${favStar}
+            ${discountBadge}
+          </div>
         </div>
         ${link}${media}
         <div>
@@ -854,11 +1145,28 @@
       `;
       grid.appendChild(card);
     });
+
+    const remaining = allItems.length - visibleItems.length;
+    if (remaining > 0) {
+      loadMoreBtn.style.display = '';
+      loadMoreBtn.textContent = `Pokaż więcej ofert (jeszcze ${remaining})`;
+    } else {
+      loadMoreBtn.style.display = 'none';
+    }
   }
 
-  categorySelect.addEventListener('change', render);
-  sortSelect.addEventListener('change', render);
-  searchInput.addEventListener('input', render);
+  loadMoreBtn.addEventListener('click', () => {
+    currentPage++;
+    render();
+  });
+
+  let searchDebounceTimer;
+  categorySelect.addEventListener('change', resetAndRender);
+  sortSelect.addEventListener('change', resetAndRender);
+  searchInput.addEventListener('input', () => {
+    clearTimeout(searchDebounceTimer);
+    searchDebounceTimer = setTimeout(resetAndRender, 180);
+  });
 
   document.getElementById('today-stamp').textContent =
     new Date().toLocaleDateString('pl-PL', {day:'2-digit', month:'2-digit', year:'numeric'});
@@ -868,6 +1176,8 @@
   // the scraped/fetched DATA. Add a new entry here (newest first) whenever
   // promocje.html is edited.
   const CHANGELOG = [
+    {date:'2026-08-27', text:'Dodano tryb ciemny (dopasowany do ustawień systemu), ulubione produkty (gwiazdka na karcie + filtr "tylko ulubione", zapamiętywane w przeglądarce), dane strukturalne JSON-LD dla wyszukiwarek/asystentów AI, robots.txt i sitemap.xml. Gdy pobranie dzisiejszych danych się nie powiedzie, strona pokazuje teraz ostatnie zapisane w przeglądarce dane zamiast starych z 12 sierpnia i wyświetla widoczny komunikat zamiast cichej porażki. Dodano też delikatny wskaźnik ładowania przy starcie.'},
+    {date:'2026-08-27', text:'Wydajność: dane 7 sklepów pobierają się teraz równolegle zamiast po kolei (Promise.all zamiast pętli await), a listy z ponad tysiącem pozycji (Biedronka Home, Kaufland, zakładka "Wszystkie sklepy") renderują się stronami po 48 ofert z przyciskiem "pokaż więcej" zamiast tysięcy kart naraz. Dodano lazy-loading zdjęć, debounce wyszukiwarki, przewijalny pasek zakładek na telefonie, etykiety ARIA dla czytników ekranu oraz meta tagi SEO (opis, Open Graph, favicon, canonical).'},
     {date:'2026-08-20', text:'Dodano pasek "gazetka na dziś" pod nagłówkiem oraz przekolorowano ikony kategorii (spójna paleta 6 stonowanych barw dobranych do produktu, np. terakota dla mięsa, ochra dla pieczywa) — poprawiono też czytelność ikon mięsa i alkoholi mocnych.'},
     {date:'2026-08-16', text:'Zakładka "Wszystkie sklepy" nie pokazuje już przykładowych danych — usunięto tablicę PROMOTIONS i zastąpiono ją widokiem łączącym aktualne dane ze wszystkich siedmiu zakładek sklepowych (buildAllStoresDataset()).'},
     {date:'2026-08-16', text:'scrape_lidl.py: naprawiono skrajny przypadek, gdy API zwraca oldPrice: 0 zamiast pominąć pole (np. p10036365) — takie „0,00 zł” przekreślone obok nowej ceny już się nie pojawi.'},
@@ -885,6 +1195,51 @@
       .join('');
   }
 
+  // Injects/updates a schema.org ItemList of the current top discounts so
+  // search engines and AI crawlers can see real offer data, not just prose.
+  // Rebuilt after every live-data refresh rather than hardcoded once, since
+  // hardcoding it would drift from what's actually on the page within a day.
+  function updateStructuredData(){
+    try {
+      const top = TABS['all'].dataset
+        .slice()
+        .sort((a, b) => pctFor(b) - pctFor(a))
+        .slice(0, 24);
+      const data = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: 'Aktualne promocje — Promocje.pl',
+        itemListElement: top.map((p, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          item: {
+            '@type': 'Product',
+            name: p.name,
+            category: p.category,
+            offers: {
+              '@type': 'Offer',
+              price: p.newPrice,
+              priceCurrency: 'PLN',
+              availability: 'https://schema.org/InStock',
+              url: p.url || 'https://superpromki.github.io/superpromki-site/promocje.html',
+              seller: { '@type': 'Organization', name: p.store },
+            },
+          },
+        })),
+      };
+      let scriptEl = document.getElementById('ld-json');
+      if (!scriptEl) {
+        scriptEl = document.createElement('script');
+        scriptEl.type = 'application/ld+json';
+        scriptEl.id = 'ld-json';
+        document.head.appendChild(scriptEl);
+      }
+      scriptEl.textContent = JSON.stringify(data);
+    } catch (e) { console.warn('Nie udało się zaktualizować danych strukturalnych (JSON-LD)', e); }
+  }
+
+  const loadingNote = document.getElementById('loadingNote');
+
   buildFilterRow();
   render();
   renderChangelog();
@@ -894,7 +1249,9 @@
   loadLiveData().then(() => {
     buildAllStoresDataset();
     buildFilterRow();
-    render();
+    resetAndRender();
+    updateStructuredData();
+    loadingNote.hidden = true;
   });
 </script>
 
