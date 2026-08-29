@@ -1013,9 +1013,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bielmar (Olej Beskidzki)",
-    "oldPrice": 8.49,
+    "oldPrice": null,
     "newPrice": 4.99,
-    "discountPct": 41,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00119946_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1312,16 +1312,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Udo z indyka",
-    "oldPrice": null,
-    "newPrice": 18.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000405A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Mięso z uda kurczaka",
     "oldPrice": null,
     "newPrice": 15.99,
@@ -1523,9 +1513,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Gzella (Salami)",
-    "oldPrice": 4.99,
+    "oldPrice": null,
     "newPrice": 3.49,
-    "discountPct": 30,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2825490000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2097,6 +2087,16 @@
     "newPrice": 2.69,
     "discountPct": 32,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5901713001221_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Ocet spirytusowy)",
+    "oldPrice": 2.69,
+    "newPrice": 2.29,
+    "discountPct": 14,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20951002_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2957,6 +2957,16 @@
     "newPrice": 2.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20098403_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Owolovo (Mus)",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20830996_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8203,9 +8213,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "OSM Rawicz (Twaróg półtłusty)",
-    "oldPrice": null,
+    "oldPrice": 21.9,
     "newPrice": 17.9,
-    "discountPct": null,
+    "discountPct": 18,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20765659",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -8702,26 +8712,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-POP Demon Hunters (Plecak szkolny)",
-    "oldPrice": null,
-    "newPrice": 190.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20961628_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-POP Demon Hunters (Worek szkolny)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20961629_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Zabawka (antystresowa)",
     "oldPrice": null,
     "newPrice": 4.99,
@@ -8877,6 +8867,26 @@
     "newPrice": 1.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20859721C_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-POP Demon Hunters (Plecak szkolny)",
+    "oldPrice": null,
+    "newPrice": 169.9,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20961628_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-POP Demon Hunters (Worek szkolny)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20961629_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10732,6 +10742,36 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Jaja ściółkowe)",
+    "oldPrice": 16.89,
+    "newPrice": 10.99,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097307",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Nektarynki (układane, luzem)",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Crunchips (Chipsy)",
+    "oldPrice": null,
+    "newPrice": 4.79,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893771",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "UNO Toy Story (Gra karciana)",
     "oldPrice": null,
     "newPrice": 29.99,
@@ -11083,9 +11123,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bielmar (Olej Beskidzki)",
-    "oldPrice": 8.49,
+    "oldPrice": null,
     "newPrice": 4.99,
-    "discountPct": 41,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00119946_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
