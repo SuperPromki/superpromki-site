@@ -682,6 +682,26 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Cytryny",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mlekovita (Ser żółty w plastrach)",
+    "oldPrice": 11.98,
+    "newPrice": 7.98,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00501801_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Milka (Czekolada)",
     "oldPrice": 20.97,
     "newPrice": 13.98,
@@ -8702,6 +8722,106 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Coca-Cola, Coca-Cola zero, (Fanta, Sprite\nNapój gazowany)",
+    "oldPrice": null,
+    "newPrice": 9.98,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876513_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kukurydza",
+    "oldPrice": 7.99,
+    "newPrice": 5.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/25051803_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Melon żółty (luzem)",
+    "oldPrice": 8.99,
+    "newPrice": 4.99,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00011564_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Por (luzem)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830040000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska rzodkiewka (pęczek)",
+    "oldPrice": 2.69,
+    "newPrice": 1.69,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski seler (korzeń, luzem)",
+    "oldPrice": 4.79,
+    "newPrice": 2.99,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830060000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Ziemniaki (jadalne, luzem)",
+    "oldPrice": 1.99,
+    "newPrice": 0.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700010_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cytryny",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mlekovita (Ser żółty w plastrach)",
+    "oldPrice": 11.98,
+    "newPrice": 7.98,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00501801_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona ciemne",
+    "oldPrice": 11.99,
+    "newPrice": 6.99,
+    "discountPct": 41,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830020000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "K-POP Demon Hunters (Gra elektroniczna)",
     "oldPrice": null,
     "newPrice": 69.99,
@@ -10737,36 +10857,6 @@
     "newPrice": 8.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00122653",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Jaja ściółkowe)",
-    "oldPrice": 16.89,
-    "newPrice": 10.99,
-    "discountPct": 34,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097307",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Crunchips (Chipsy)",
-    "oldPrice": null,
-    "newPrice": 4.79,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893771",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
