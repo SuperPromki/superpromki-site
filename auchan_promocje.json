@@ -46,23 +46,23 @@
   {
     "store": "Auchan",
     "category": "Sery",
-    "name": "Mozzarella light Auchan 125 g ",
-    "oldPrice": 3.45,
-    "newPrice": 2.79,
-    "discountPct": 19,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e33d2a83-64ea-4fdd-90a8-670e7b009cb8/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mozzarella-light-auchan-125-g/00916434",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
     "name": "Ser mozzarella w zalewie solankowej Auchan 125 g",
     "oldPrice": 3.45,
     "newPrice": 2.79,
     "discountPct": 19,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8e4639b4-7574-495d-9ef6-6e429480181b/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ser-mozzarella-w-zalewie-solankowej-auchan-125-g/00693084",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Mozzarella light Auchan 125 g ",
+    "oldPrice": 3.45,
+    "newPrice": 2.79,
+    "discountPct": 19,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e33d2a83-64ea-4fdd-90a8-670e7b009cb8/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mozzarella-light-auchan-125-g/00916434",
     "note": null
   },
   {
@@ -100,17 +100,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser gouda plastry   Auchan 150 g ",
-    "oldPrice": 4.98,
-    "newPrice": 3.99,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b22f0b42-c903-4b02-b6c4-62872b703e80/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-gouda-plastry-auchan-150-g/00840569",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Wędliny",
     "name": "Szynka eksportowa wieprzowa Krakus 120 g",
     "oldPrice": null,
@@ -119,17 +108,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4c0d3240-5022-429c-8740-55eb907e9bea/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/szynka-eksportowa-wieprzowa-krakus-120-g/00199872",
     "note": "Drugi 50% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Sokoliki parówki drobiowo cielęce bez glutenu i laktozy Sokołów 140 g",
-    "oldPrice": null,
-    "newPrice": 4.28,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5039ea2c-a9bd-406c-950e-bde53770b428/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/sokoliki-parowki-drobiowo-cielece-bez-glutenu-i-laktozy-sokolow-140-g/00874616",
-    "note": "Drugi 40% taniej"
   },
   {
     "store": "Auchan",
@@ -144,25 +122,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Chusteczki higieniczne Harmonia Regina 100 sztuk",
-    "oldPrice": null,
-    "newPrice": 6.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5dcf05ba-301a-4fca-a6b1-d30e1ed3edf2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/chusteczki-higieniczne-harmonia-regina-100-sztuk/00475674",
-    "note": "2+1 za grosz"
+    "category": "Sery",
+    "name": "Ser gouda plastry   Auchan 150 g ",
+    "oldPrice": 4.98,
+    "newPrice": 3.99,
+    "discountPct": 20,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b22f0b42-c903-4b02-b6c4-62872b703e80/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-gouda-plastry-auchan-150-g/00840569",
+    "note": null
   },
   {
     "store": "Auchan",
     "category": "Wędliny",
-    "name": "Gryzzale kabanosy z kurczaka Tarczyński 90 g",
-    "oldPrice": 6.48,
-    "newPrice": 4.99,
-    "discountPct": 23,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/6a5f2f82-a511-463a-bf79-956c1a5ecdee/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/gryzzale-kabanosy-z-kurczaka-tarczynski-90-g/00213579",
-    "note": null
+    "name": "Sokoliki parówki drobiowo cielęce bez glutenu i laktozy Sokołów 140 g",
+    "oldPrice": null,
+    "newPrice": 4.28,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5039ea2c-a9bd-406c-950e-bde53770b428/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/sokoliki-parowki-drobiowo-cielece-bez-glutenu-i-laktozy-sokolow-140-g/00874616",
+    "note": "Drugi 40% taniej"
   },
   {
     "store": "Auchan",
@@ -177,6 +155,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Gryzzale kabanosy z kurczaka Tarczyński 90 g",
+    "oldPrice": 6.48,
+    "newPrice": 4.99,
+    "discountPct": 23,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/6a5f2f82-a511-463a-bf79-956c1a5ecdee/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/gryzzale-kabanosy-z-kurczaka-tarczynski-90-g/00213579",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Papryka czerwona podłużna Warzywa Auchan 500 g",
     "oldPrice": 9.99,
@@ -188,6 +177,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Chusteczki higieniczne Harmonia Regina 100 sztuk",
+    "oldPrice": null,
+    "newPrice": 6.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5dcf05ba-301a-4fca-a6b1-d30e1ed3edf2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/chusteczki-higieniczne-harmonia-regina-100-sztuk/00475674",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
     "category": "Napoje",
     "name": "Napój gazowany Zero o smaku cola  Coca-Cola 330 ml",
     "oldPrice": null,
@@ -196,17 +196,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9e4aa7ff-9f10-4c58-b268-1f90afe34065/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-o-smaku-cola-coca-cola-330-ml/00633700",
     "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Twaróg półtłusty Auchan 250 g",
-    "oldPrice": 3.77,
-    "newPrice": 3.35,
-    "discountPct": 11,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1709bbfa-896d-4fa8-8ed5-b36c08637f84/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/twarog-poltlusty-auchan-250-g/00535325",
-    "note": null
   },
   {
     "store": "Auchan",
@@ -232,6 +221,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Twaróg półtłusty Auchan 250 g",
+    "oldPrice": 3.77,
+    "newPrice": 3.35,
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1709bbfa-896d-4fa8-8ed5-b36c08637f84/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/twarog-poltlusty-auchan-250-g/00535325",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Winogrona mix bezpestkowe Owoce  Auchan 500 g",
     "oldPrice": 10.99,
@@ -240,17 +240,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/828094f3-6b1c-4f38-83d6-a34c7707336d/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/winogrona-mix-bezpestkowe-owoce-auchan-500-g/00022459",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Szynka z piersi kurczaka parzona Krakus 100 g",
-    "oldPrice": null,
-    "newPrice": 6.29,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/af4c16de-3d62-4a3a-ba1e-ab4443a61a3d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szynka-z-piersi-kurczaka-parzona-krakus-100-g/00695097",
-    "note": "Drugi 50% taniej"
   },
   {
     "store": "Auchan",
@@ -272,39 +261,6 @@
     "discountPct": 46,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/bce6a390-5e9d-42e5-ba52-7910dfa59e7e/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/winogrona-jasne-bezpestkowe-owoce-auchan-500-g/00022437",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser camembert lekki 12% tłuszczu Président 120 g",
-    "oldPrice": 7.28,
-    "newPrice": 4.88,
-    "discountPct": 33,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/397c511a-30de-4df8-8c93-432c44300920/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-camembert-lekki-12-tluszczu-pr-sident-120-g/00362910",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Napoje",
-    "name": "Syrop o smaku malinowym  Herbapol 420 ml",
-    "oldPrice": null,
-    "newPrice": 7.28,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1bce00f7-e492-4ad4-af07-f4aa9d4b13b7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/syrop-o-smaku-malinowym-herbapol-420-ml/00195112",
-    "note": "2  za 10,96 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Produkty BIO",
-    "name": "BIO Ogórki kiszone    CHARSZNICKIE POLE NATURY 1000 g",
-    "oldPrice": 10.99,
-    "newPrice": 8.99,
-    "discountPct": 18,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e169a06f-3271-4945-95c8-6590023558e8/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/bio-ogorki-kiszone-charsznickie-pole-natury-1000-g/00322788",
     "note": null
   },
   {
@@ -331,6 +287,83 @@
   },
   {
     "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Szynka z piersi kurczaka parzona Krakus 100 g",
+    "oldPrice": null,
+    "newPrice": 6.29,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/af4c16de-3d62-4a3a-ba1e-ab4443a61a3d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/szynka-z-piersi-kurczaka-parzona-krakus-100-g/00695097",
+    "note": "Drugi 50% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Napoje",
+    "name": "Syrop o smaku malinowym  Herbapol 420 ml",
+    "oldPrice": null,
+    "newPrice": 7.28,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1bce00f7-e492-4ad4-af07-f4aa9d4b13b7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/syrop-o-smaku-malinowym-herbapol-420-ml/00195112",
+    "note": "2  za 10,96 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Produkty BIO",
+    "name": "BIO Ogórki kiszone    CHARSZNICKIE POLE NATURY 1000 g",
+    "oldPrice": 10.99,
+    "newPrice": 8.99,
+    "discountPct": 18,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e169a06f-3271-4945-95c8-6590023558e8/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/bio-ogorki-kiszone-charsznickie-pole-natury-1000-g/00322788",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Nawilżany papier toaletowy dla dzieci Auchan 60 sztuk",
+    "oldPrice": null,
+    "newPrice": 4.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ba5b8c99-e409-4090-b88c-f66ab43ac07d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-dla-dzieci-auchan-60-sztuk/00297351",
+    "note": "Drugi 80% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Nawilżany papier toaletowy rumiankowy Auchan 60 sztuk",
+    "oldPrice": null,
+    "newPrice": 4.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/618e41bf-3b66-4ace-8c44-6e81d7285aac/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-rumiankowy-auchan-60-sztuk/00297352",
+    "note": "Drugi 80% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Ser camembert lekki 12% tłuszczu Président 120 g",
+    "oldPrice": 7.28,
+    "newPrice": 4.88,
+    "discountPct": 33,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/397c511a-30de-4df8-8c93-432c44300920/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-camembert-lekki-12-tluszczu-pr-sident-120-g/00362910",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "7 zbóż men jogurt z jagodą czarną porzeczką i zbożami Bakoma 300 g",
+    "oldPrice": 5.74,
+    "newPrice": 3.95,
+    "discountPct": 31,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/06697def-6c1b-4325-a213-e6d771a84ab2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-jagoda-czarna-porzeczka-i-zbozami-bakoma-300-g/00879333",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
     "name": "Twaróg chudy Auchan 250 g",
     "oldPrice": 3.65,
@@ -338,17 +371,6 @@
     "discountPct": 8,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/534a9808-9836-4ae3-8130-481d0ec9c9d4/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/twarog-chudy-auchan-250-g/00535322",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "7 Zbóż men jogurt z brzoskwinią gruszką i zbożami Bakoma 300 g",
-    "oldPrice": 5.74,
-    "newPrice": 3.95,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f18e8e8f-fe67-4f43-b2e9-ff89c1ec2aa2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-brzoskwinia-gruszka-i-zbozami-bakoma-300-g/00782620",
     "note": null
   },
   {
@@ -365,13 +387,24 @@
   {
     "store": "Auchan",
     "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Nawilżany papier toaletowy dla dzieci Auchan 60 sztuk",
+    "name": "Nawilżany papier toaletowy Pure Auchan 60 sztuk",
     "oldPrice": null,
     "newPrice": 4.48,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ba5b8c99-e409-4090-b88c-f66ab43ac07d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-dla-dzieci-auchan-60-sztuk/00297351",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d60b7610-7e45-4ab1-a5e8-7f7b463a33e3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-pure-auchan-60-sztuk/00297363",
     "note": "Drugi 80% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Chusteczki higieniczne 110 sztuk Regina sztuka",
+    "oldPrice": null,
+    "newPrice": 7.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d6cfcc02-b021-4a2d-86fb-4b3c8c044dc4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/chusteczki-higieniczne-110-sztuk-regina-sztuka/00951764",
+    "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -386,46 +419,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Ryby i owoce morza",
-    "name": "Łosoś atlantycki, wędzony na zimno, plastrowany Suempol 100 g",
-    "oldPrice": 13.48,
-    "newPrice": 11.99,
-    "discountPct": 11,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a88f98d7-1b25-4a06-a6ca-7331e0a9b3ea/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/losos-atlantycki-wedzony-na-zimno-plastrowany-suempol-100-g/00566278",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Danio serek o smaku waniliowym Danone 120 g",
-    "oldPrice": null,
-    "newPrice": 3.78,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60535a9c-3c44-4783-8541-c5aa5315842f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/danio-serek-o-smaku-waniliowym-danone-120-g/00501514",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Nawilżany papier toaletowy rumiankowy Auchan 60 sztuk",
-    "oldPrice": null,
-    "newPrice": 4.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/618e41bf-3b66-4ace-8c44-6e81d7285aac/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-rumiankowy-auchan-60-sztuk/00297352",
-    "note": "Drugi 80% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "7 zbóż men jogurt z jagodą czarną porzeczką i zbożami Bakoma 300 g",
-    "oldPrice": 5.74,
-    "newPrice": 3.95,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/06697def-6c1b-4325-a213-e6d771a84ab2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-jagoda-czarna-porzeczka-i-zbozami-bakoma-300-g/00879333",
+    "category": "Słone przekąski",
+    "name": "Chrupki ziemniaczane solone Monster Munch 100 g",
+    "oldPrice": 7.78,
+    "newPrice": 4.98,
+    "discountPct": 36,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/586d3ee8-6ed5-4de0-bb20-0729df40f907/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/chrupki-ziemniaczane-solone-monster-munch-100-g/00467435",
     "note": null
   },
   {
@@ -441,90 +441,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Słone przekąski",
-    "name": "Chrupki ziemniaczane solone Monster Munch 100 g",
-    "oldPrice": 7.78,
-    "newPrice": 4.98,
-    "discountPct": 36,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/586d3ee8-6ed5-4de0-bb20-0729df40f907/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/chrupki-ziemniaczane-solone-monster-munch-100-g/00467435",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Chusteczki higieniczne 110 sztuk Regina sztuka",
-    "oldPrice": null,
-    "newPrice": 7.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d6cfcc02-b021-4a2d-86fb-4b3c8c044dc4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/chusteczki-higieniczne-110-sztuk-regina-sztuka/00951764",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mięso i drób",
-    "name": "Ćwiartka z kurczaka luz Auchan na wagę ok. 600 g",
-    "oldPrice": 5.64,
-    "newPrice": 4.14,
-    "discountPct": 27,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/04234e2a-5263-47a6-bc8c-5f761f5ee951/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/cwiartka-z-kurczaka-luz-auchan-na-wage-ok-600-g/00245270",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Ziemniaki   Pewni Dobrego 2 kg",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/339853f2-db62-4243-8e00-29464ea2896c/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ziemniaki-pewni-dobrego-2-kg/00793547",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Twój Smak puszysty serek śmietankowy ze szczypiorkiem Piątnica 150 g",
-    "oldPrice": null,
-    "newPrice": 5.18,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2414908b-bb98-40b8-931a-af919488322b/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/twoj-smak-puszysty-serek-smietankowy-ze-szczypiorkiem-piatnica-150-g/00440977",
-    "note": "2  za 7,00 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mięso i drób",
-    "name": "Karkówka wieprzowa bez kości kotlety MAP Auchan 560 g",
-    "oldPrice": null,
-    "newPrice": 16.78,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/6d2c9e3e-f1cf-4ffe-b4c2-f777789a9b2e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/karkowka-wieprzowa-bez-kosci-kotlety-map-auchan-560-g/00571559",
-    "note": "Drugi 60% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Nawilżany papier toaletowy Pure Auchan 60 sztuk",
-    "oldPrice": null,
-    "newPrice": 4.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d60b7610-7e45-4ab1-a5e8-7f7b463a33e3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/nawilzany-papier-toaletowy-pure-auchan-60-sztuk/00297363",
-    "note": "Drugi 80% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Orzech laskowy w karmelu w kremie orzechowym i czekoladzie Toffifee 125 g",
-    "oldPrice": 9.98,
-    "newPrice": 7.98,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/079b4a2b-e39a-4315-8219-256b48a7bc33/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/orzech-laskowy-w-karmelu-w-kremie-orzechowym-i-czekoladzie-toffifee-125-g/00067278",
+    "category": "Mleko, nabiał i jaja",
+    "name": "7 Zbóż men jogurt z brzoskwinią gruszką i zbożami Bakoma 300 g",
+    "oldPrice": 5.74,
+    "newPrice": 3.95,
+    "discountPct": 31,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f18e8e8f-fe67-4f43-b2e9-ff89c1ec2aa2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-brzoskwinia-gruszka-i-zbozami-bakoma-300-g/00782620",
     "note": null
   },
   {
@@ -540,13 +463,90 @@
   },
   {
     "store": "Auchan",
+    "category": "Mięso i drób",
+    "name": "Ćwiartka z kurczaka luz Auchan na wagę ok. 600 g",
+    "oldPrice": 5.64,
+    "newPrice": 4.14,
+    "discountPct": 27,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/04234e2a-5263-47a6-bc8c-5f761f5ee951/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/cwiartka-z-kurczaka-luz-auchan-na-wage-ok-600-g/00245270",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Twój Smak puszysty serek śmietankowy ze szczypiorkiem Piątnica 150 g",
+    "oldPrice": null,
+    "newPrice": 5.18,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2414908b-bb98-40b8-931a-af919488322b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/twoj-smak-puszysty-serek-smietankowy-ze-szczypiorkiem-piatnica-150-g/00440977",
+    "note": "2  za 7,00 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mrożonki",
+    "name": "Filety z mintaja w panierce z ziołami FRoSTA 250 g",
+    "oldPrice": null,
+    "newPrice": 12.39,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4bb11bda-96f1-4247-b3e5-20e05b4e350d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/filety-z-mintaja-w-panierce-z-ziolami-frosta-250-g/00285802",
+    "note": "Drugi 60% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mięso i drób",
+    "name": "Ćwiartka tylna z kurczaka Auchan vacum ok.1,5 kg",
+    "oldPrice": 15.72,
+    "newPrice": 12.19,
+    "discountPct": 22,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/04234e2a-5263-47a6-bc8c-5f761f5ee951/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/cwiartka-tylna-z-kurczaka-auchan-vacum-ok-1-5-kg/00748725",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Danio Serek multipack waniliowy Danone 4 x 130 g",
-    "oldPrice": 8.98,
-    "newPrice": 5.95,
-    "discountPct": 34,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c83ad6df-ec26-48a0-bda0-1bf45cc954ad/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/danio-serek-multipack-waniliowy-danone-4-x-130-g/00418674",
+    "name": "Danio serek o smaku waniliowym Danone 120 g",
+    "oldPrice": null,
+    "newPrice": 3.78,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60535a9c-3c44-4783-8541-c5aa5315842f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/danio-serek-o-smaku-waniliowym-danone-120-g/00501514",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Ryby i owoce morza",
+    "name": "Łosoś atlantycki, wędzony na zimno, plastrowany Suempol 100 g",
+    "oldPrice": 13.48,
+    "newPrice": 11.99,
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a88f98d7-1b25-4a06-a6ca-7331e0a9b3ea/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/losos-atlantycki-wedzony-na-zimno-plastrowany-suempol-100-g/00566278",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mrożonki",
+    "name": "Złote paluszki rybne FRoSTA 450 g",
+    "oldPrice": null,
+    "newPrice": 18.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9ebc2f6d-1d54-42ad-a07c-3b0cb367ac35/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/zlote-paluszki-rybne-frosta-450-g/00307822",
+    "note": "Drugi 60% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Ziemniaki   Pewni Dobrego 2 kg",
+    "oldPrice": 9.99,
+    "newPrice": 5.99,
+    "discountPct": 40,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/339853f2-db62-4243-8e00-29464ea2896c/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ziemniaki-pewni-dobrego-2-kg/00793547",
     "note": null
   }
 ]

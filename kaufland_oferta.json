@@ -162,7 +162,7 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "K-Classic (Ser żółty)",
+    "name": "K-Stąd Takie Dobre (Ser żółty)",
     "oldPrice": 14.89,
     "newPrice": 9.99,
     "discountPct": 32,
@@ -1056,6 +1056,16 @@
     "oldPrice": null,
     "newPrice": 11.99,
     "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00032112_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Milka (Alpejskie mleczko)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02502891_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1692,7 +1702,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Classic (Ser żółty)",
+    "name": "K-Stąd Takie Dobre (Ser żółty)",
     "oldPrice": 14.89,
     "newPrice": 9.99,
     "discountPct": 32,
@@ -4856,7 +4866,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20729878_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634036538_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10957,6 +10967,16 @@
     "newPrice": 11.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/7622210282835_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Milka (Alpejskie mleczko)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00032112_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
