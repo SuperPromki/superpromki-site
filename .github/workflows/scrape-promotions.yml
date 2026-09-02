@@ -9,59 +9,68 @@ name: Scrape store promotions
 
 on:
   schedule:
-    # Runs every day at 06:00 UTC (08:00 Poland time in summer, 07:00 in winter).
-    # Cron syntax: minute hour day month weekday
-    - cron: '0 6 * * *'
-  workflow_dispatch: {}  # lets you also trigger it manually from the Actions tab
+      # Runs every day at 06:00 UTC (08:00 Poland time in summer, 07:00 in winter).
+          # Cron syntax: minute hour day month weekday
+              - cron: '0 6 * * *'
+                workflow_dispatch: {}  # lets you also trigger it manually from the Actions tab
 
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write  # needed so the workflow can commit the updated JSON files
+                jobs:
+                  scrape:
+                      runs-on: ubuntu-latest
+                          permissions:
+                                contents: write  # needed so the workflow can commit the updated JSON files
 
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+                                    steps:
+                                          - name: Check out repository
+                                                  uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+                                                        - name: Set up Python
+                                                                uses: actions/setup-python@v5
+                                                                        with:
+                                                                                  python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
+                                                                                        - name: Install dependencies
+                                                                                                run: pip install requests beautifulsoup4
 
-      - name: Run Lidl scraper
-        run: python scrape_lidl.py
-        continue-on-error: true  # Lidl's API can 406 datacenter/CI IPs even with browser-like headers
-
-      - name: Run Biedronka Home scraper
-        run: python scrape_biedronka.py
-        continue-on-error: true  # don't let one flaky/changed-markup store block the others
-
-      - name: Run Kaufland scraper
-        run: python scrape_kaufland.py
-        continue-on-error: true
-
-      - name: Run Biedronka gazetka (food) scraper
-        run: python scrape_biedronka_food.py
-        continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
-
-      - name: Run Żabka gazetka scraper
-        run: python scrape_zabka.py
-        continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
-
-      - name: Run Auchan scraper
-        run: python scrape_auchan.py
-        continue-on-error: true  # best-effort — single GET of /promotions (robots.txt-compliant), may still hit their WAF from CI IPs
-
-      - name: Commit updated data files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          for f in lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json biedronka_gazetka.json zabka_gazetka.json auchan_promocje.json; do
-            [ -f "$f" ] && git add "$f"
-          done
-          git diff --staged --quiet || git commit -m "Auto-update promotions ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-          git push
+                                                                                                      - name: Run Lidl scraper
+                                                                                                              run: python scrape_lidl.py
+                                                                                                                      continue-on-error: true  # Lidl's API can 406 datacenter/CI IPs even with browser-like headers
+                                                                                                                      
+                                                                                                                            - name: Run Biedronka Home scraper
+                                                                                                                                    run: python scrape_biedronka.py
+                                                                                                                                            continue-on-error: true  # don't let one flaky/changed-markup store block the others
+                                                                                                                                            
+                                                                                                                                                  - name: Run Kaufland scraper
+                                                                                                                                                          run: python scrape_kaufland.py
+                                                                                                                                                                  continue-on-error: true
+                                                                                                                                                                  
+                                                                                                                                                                        - name: Run Biedronka gazetka (food) scraper
+                                                                                                                                                                                run: python scrape_biedronka_food.py
+                                                                                                                                                                                        continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
+                                                                                                                                                                                        
+                                                                                                                                                                                              - name: Run Żabka gazetka scraper
+                                                                                                                                                                                                      run: python scrape_zabka.py
+                                                                                                                                                                                                              continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
+                                                                                                                                                                                                              
+                                                                                                                                                                                                                    - name: Run Netto gazetka scraper
+                                                                                                                                                                                                                            run: python scrape_netto.py
+                                                                                                                                                                                                                                    continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
+                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                          - name: Run Stokrotka gazetka scraper
+                                                                                                                                                                                                                                                  run: python scrape_stokrotka.py
+                                                                                                                                                                                                                                                          continue-on-error: true  # best-effort — relies on blix.pl's page structure staying stable
+                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                - name: Run Auchan scraper
+                                                                                                                                                                                                                                                                        run: python scrape_auchan.py
+                                                                                                                                                                                                                                                                                continue-on-error: true  # best-effort — single GET of /promotions (robots.txt-compliant), may still hit their WAF from CI IPs
+                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                      - name: Commit updated data files
+                                                                                                                                                                                                                                                                                              run: |
+                                                                                                                                                                                                                                                                                                        git config user.name "github-actions[bot]"
+                                                                                                                                                                                                                                                                                                                  git config user.email "github-actions[bot]@users.noreply.github.com"
+                                                                                                                                                                                                                                                                                                                            for f in lidl_wyprzedaz.json lidl_food.json biedronka_home.json kaufland_oferta.json biedronka_gazetka.json zabka_gazetka.json netto_gazetka.json stokrotka_gazetka.json auchan_promocje.json; do
+                                                                                                                                                                                                                                                                                                                                        [ -f "$f" ] && git add "$f"
+                                                                                                                                                                                                                                                                                                                                                  done
+                                                                                                                                                                                                                                                                                                                                                            git diff --staged --quiet || git commit -m "Auto-update promotions ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+                                                                                                                                                                                                                                                                                                                                                                      git push
+                                                                                                                                                                                                                                                                                                                                                                      
