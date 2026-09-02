@@ -63,6 +63,10 @@ HEADERS = {
     "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
+# robots.txt (home.biedronka.pl/robots.txt) checked 2026-09-02: disallows a
+# long list of demandware account/checkout/search paths and query patterns
+# (e.g. /cart, /wishlist, /search, /*q=*) — /promocje/ itself, and the plain
+# ?start=N&sz=M pagination this scraper uses, aren't among them.
 BASE_URL = "https://home.biedronka.pl"
 PROMO_PATH = "/promocje/"
 PAGE_SIZE = 60

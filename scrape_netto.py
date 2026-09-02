@@ -49,10 +49,20 @@ import time
 
 import requests
 
+# Identifies honestly as a bot rather than spoofing a real browser — unlike
+# the store-facing scrapers (Lidl/Kaufland/Biedronka Home/Auchan), which
+# need browser-like headers just to get past those sites' bot detection
+# (see their own docstrings), blix.pl has no such gate, so there's no
+# functional cost to being transparent here, and it's better practice:
+# whoever looks at blix.pl's access logs can see exactly what's hitting
+# them and why, rather than something pretending to be Chrome.
+# robots.txt (blix.pl/robots.txt) checked 2026-09-02: only disallows
+# /lista-zakupow/, /shoppinglist/*, /api/* — none of which this touches.
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
+        "SuperPromkiBot/1.0 (+https://superpromki.github.io/superpromki-site/; "
+        "niekomercyjne, hobbystyczne porównanie cen; kontakt przez GitHub Issues "
+        "na github.com/SuperPromki/superpromki-site)"
     ),
     "Accept": "text/html,application/xhtml+xml",
     "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",

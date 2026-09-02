@@ -59,6 +59,9 @@ HEADERS = {
     "Accept-Language": "pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
+# robots.txt (sklep.kaufland.pl/robots.txt) checked 2026-09-02: only
+# disallows /etc.clientlibs/ (with an /etc.clientlibs/kaufland exception) —
+# /oferta/przeglad.html isn't covered by anything there.
 OFFER_URL = "https://sklep.kaufland.pl/oferta/przeglad.html"
 
 PRICE_RE = re.compile(r"\d+[.,]\d{2}\s*(?:zł|PLN)", re.IGNORECASE)

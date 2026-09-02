@@ -406,6 +406,17 @@
     gap:7px;
   }
   .loading-note[hidden]{display:none;}
+  .source-banner{
+    margin-top:10px;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:11.5px;
+    color:var(--muted);
+    background:var(--paper-dim);
+    border:1px dashed var(--line);
+    border-radius:3px;
+    padding:7px 10px;
+  }
+  .source-banner a{ color:var(--sale); font-weight:600; text-decoration:underline; }
   .loading-dot{
     width:6px; height:6px; border-radius:50%;
     background:var(--highlight);
@@ -648,6 +659,7 @@
     <span class="result-count" id="resultCount" aria-live="polite"></span>
   </div>
   <p class="loading-note" id="loadingNote" role="status"><span class="loading-dot"></span>Ładowanie najnowszych ofert ze wszystkich sklepów…</p>
+  <p class="source-banner" id="sourceBanner" style="display:none;" role="note"></p>
 </div>
 
 <main>
@@ -658,7 +670,7 @@
 </main>
 
 <footer>
-  <p><b>Wszystkie sklepy:</b> połączone oferty ze wszystkich zakładek poniżej — nie osobne źródło, tylko widok zbiorczy. <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe oferty pobrane z API sklepu Lidl, odświeżane automatycznie każdego dnia o 6:00 (gdy pobranie się nie powiedzie, wyświetlana jest ostatnia zapisana wersja). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b>, <b>Żabka</b>, <b>Netto</b> i <b>Stokrotka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
+  <p><b>Promocje.pl nie jest powiązane z żadnym z wymienionych sklepów</b> — to niezależne, nieoficjalne porównanie cen, prowadzone hobbystycznie. Ceny mogą się zmienić zanim dotrzesz do kasy — zawsze sprawdź aktualną cenę na miejscu. <b>Wszystkie sklepy:</b> połączone oferty ze wszystkich zakładek poniżej — nie osobne źródło, tylko widok zbiorczy. <b>Lidl — spożywcze</b> i <b>Lidl — inne kategorie:</b> prawdziwe oferty pobrane z API sklepu Lidl, odświeżane automatycznie każdego dnia o 6:00 (gdy pobranie się nie powiedzie, wyświetlana jest ostatnia zapisana wersja). Część ofert spożywczych wymaga aplikacji Lidl Plus lub zakupu określonej ilości — zaznaczone przy produkcie. <b>Kaufland:</b> oferty spożywcze i inne pobrane ze sklep.kaufland.pl/oferta/. <b>Biedronka Home:</b> tylko dom, ogród i elektronika — Biedronka nie udostępnia publicznie swoich promocji spożywczych poza aplikacją mobilną (wymaga logowania). <b>Biedronka — spożywcze</b>, <b>Żabka</b>, <b>Netto</b> i <b>Stokrotka:</b> nie pełny katalog, tylko wybrane pozycje wymienione w opisach aktualnych gazetek na blix.pl (produkt + aktualna cena, bez ceny "przed" ani rabatu %) — źródłem jest Blix, nie sam sklep. <b>Auchan:</b> prawdziwe, aktualne oferty promocyjne (cena, rabat, kategoria, zdjęcie) pobrane bezpośrednio z pierwszej strony zakupy.auchan.pl/promotions — ok. 50 pozycji na raz, celowo bez pełnej listy (~300), bo reszta wymaga endpointu API zablokowanego w robots.txt tego sklepu.</p>
 
   <details class="changelog" id="changelogBox">
     <summary>Zmiany na stronie — ostatnia: <b id="changelogDate">—</b></summary>
@@ -733,13 +745,17 @@
     'biedronka':   { dataset: PROMOTIONS_BIEDRONKA,  groupKey: 'category', categoryFilter: false,
                       emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_home.json.' },
     'biedronka-food': { dataset: PROMOTIONS_BIEDRONKA_FOOD, groupKey: 'category', categoryFilter: false,
-                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka_food.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_gazetka.json.' },
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_biedronka_food.py (lokalnie lub przez GitHub Actions), żeby zapełnić biedronka_gazetka.json.',
+                      sourceCredit: 'blix.pl' },
     'zabka-food':  { dataset: PROMOTIONS_ZABKA_FOOD, groupKey: 'category', categoryFilter: false,
-                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_zabka.py (lokalnie lub przez GitHub Actions), żeby zapełnić zabka_gazetka.json.' },
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_zabka.py (lokalnie lub przez GitHub Actions), żeby zapełnić zabka_gazetka.json.',
+                      sourceCredit: 'blix.pl' },
     'netto-food':  { dataset: PROMOTIONS_NETTO_FOOD, groupKey: 'category', categoryFilter: false,
-                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_netto.py (lokalnie lub przez GitHub Actions), żeby zapełnić netto_gazetka.json.' },
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_netto.py (lokalnie lub przez GitHub Actions), żeby zapełnić netto_gazetka.json.',
+                      sourceCredit: 'blix.pl' },
     'stokrotka-food': { dataset: PROMOTIONS_STOKROTKA_FOOD, groupKey: 'category', categoryFilter: false,
-                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_stokrotka.py (lokalnie lub przez GitHub Actions), żeby zapełnić stokrotka_gazetka.json.' },
+                      emptyMessage: 'Brak danych jeszcze — uruchom scrape_stokrotka.py (lokalnie lub przez GitHub Actions), żeby zapełnić stokrotka_gazetka.json.',
+                      sourceCredit: 'blix.pl' },
     'auchan':      { dataset: PROMOTIONS_AUCHAN, groupKey: 'category', categoryFilter: false,
                       emptyMessage: 'Brak danych jeszcze — uruchom scrape_auchan.py (lokalnie lub przez GitHub Actions), żeby zapełnić auchan_promocje.json.' },
   };
@@ -899,6 +915,21 @@
     searchInput.value = '';
     buildFilterRow();
     resetAndRender();
+    updateSourceBanner();
+  }
+
+  // Shows a visible credit + outbound link to blix.pl on tabs whose data
+  // comes from blix.pl's gazetka descriptions rather than from the store
+  // itself — makes the attribution obvious up front, not just per-item.
+  const sourceBanner = document.getElementById('sourceBanner');
+  function updateSourceBanner(){
+    const tab = currentTab();
+    if (tab.sourceCredit === 'blix.pl') {
+      sourceBanner.innerHTML = 'Dane w tej zakładce pochodzą z gazetek zeskanowanych i opisanych przez <a href="https://blix.pl" target="_blank" rel="noopener">blix.pl ↗</a> — to oni wybrali te hity, my tylko je zestawiamy. Pełna gazetka i więcej ofert: zajrzyj na blix.pl.';
+      sourceBanner.style.display = '';
+    } else {
+      sourceBanner.style.display = 'none';
+    }
   }
 
   const grid = document.getElementById('grid');
@@ -1186,6 +1217,7 @@
   // the scraped/fetched DATA. Add a new entry here (newest first) whenever
   // promocje.html is edited.
   const CHANGELOG = [
+    {date:'2026-09-02', text:'Dodano wyraźny disclaimer o braku afiliacji ze sklepami w stopce oraz widoczny kredyt/link do blix.pl na zakładkach Biedronka — spożywcze, Żabka, Netto i Stokrotka (nie tylko przy pojedynczym produkcie). Scrapery korzystające z blix.pl (scrape_zabka.py, scrape_biedronka_food.py, scrape_netto.py, scrape_stokrotka.py) przedstawiają się teraz jawnie jako bot (SuperPromkiBot/1.0 z linkiem i kontaktem) zamiast udawać przeglądarkę — zweryfikowano też zgodność ze wszystkimi odwiedzanymi robots.txt.'},
     {date:'2026-09-02', text:'Dodano dwa nowe sklepy: <b>Netto</b> i <b>Stokrotka</b> — hity z aktualnych gazetek pobierane przez blix.pl, tym samym sprawdzonym sposobem co dotychczasowe zakładki Żabka i Biedronka — spożywcze (nowe skrypty scrape_netto.py i scrape_stokrotka.py w codziennym zadaniu GitHub Actions). Strona porównuje teraz promocje z 9, nie 7, sklepów.'},
     {date:'2026-08-27', text:'Dodano tryb ciemny (dopasowany do ustawień systemu), ulubione produkty (gwiazdka na karcie + filtr "tylko ulubione", zapamiętywane w przeglądarce), dane strukturalne JSON-LD dla wyszukiwarek/asystentów AI, robots.txt i sitemap.xml. Gdy pobranie dzisiejszych danych się nie powiedzie, strona pokazuje teraz ostatnie zapisane w przeglądarce dane zamiast starych z 12 sierpnia i wyświetla widoczny komunikat zamiast cichej porażki. Dodano też delikatny wskaźnik ładowania przy starcie.'},
     {date:'2026-08-27', text:'Wydajność: dane 7 sklepów pobierają się teraz równolegle zamiast po kolei (Promise.all zamiast pętli await), a listy z ponad tysiącem pozycji (Biedronka Home, Kaufland, zakładka "Wszystkie sklepy") renderują się stronami po 48 ofert z przyciskiem "pokaż więcej" zamiast tysięcy kart naraz. Dodano lazy-loading zdjęć, debounce wyszukiwarki, przewijalny pasek zakładek na telefonie, etykiety ARIA dla czytników ekranu oraz meta tagi SEO (opis, Open Graph, favicon, canonical).'},
@@ -1254,6 +1286,7 @@
   buildFilterRow();
   render();
   renderChangelog();
+  updateSourceBanner();
 
   // Fetch live data in the background; re-render only if the currently visible
   // tab's data actually changed, so we don't yank filters out from under the user.

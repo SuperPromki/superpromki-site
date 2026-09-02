@@ -44,6 +44,17 @@ HEADERS = {
     "Origin": "https://www.lidl.pl",
 }
 
+# robots.txt (lidl.pl/robots.txt) checked 2026-09-02: disallows /cc.js*,
+# /cdn/assets/cwv/, /user-api/*, /cqe/*, and query-string patterns matching
+# the literal substrings "*search?q=*", "*?offset=*", "*id=*", "*sort=*",
+# etc. Note the "*?offset=*" rule specifically requires "offset" to be the
+# FIRST query param (right after the "?") to match — since fetch_all() below
+# always spreads base_params before adding "offset" (so it lands last in
+# the query string, e.g. "...&offset=0" not "?offset=0"), the requests this
+# scraper makes don't match that rule as literally written. This is fragile
+# to param-ordering changes, though, so don't reorder fetch_all()'s params
+# dict without re-checking this.
+
 FETCH_SIZE = 48
 
 
