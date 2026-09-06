@@ -2,6 +2,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Polskie ogórki",
+    "oldPrice": 6.99,
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700033_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "K-Stąd Takie Dobre (Masa kajmakowa)",
     "oldPrice": 6.27,
     "newPrice": 3.99,
@@ -12,41 +22,11 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Ziemniaki (jadalne, luzem)",
-    "oldPrice": 1.99,
-    "newPrice": 0.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700010_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Cytryny (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 5.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700052_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "K-Stąd Takie Dobre (Rwaniec drożdżowy)",
     "oldPrice": 8.99,
     "newPrice": 4.99,
     "discountPct": 44,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00142365",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Czosnek",
-    "oldPrice": 2.49,
-    "newPrice": 1.49,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/czosnek",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -197,6 +177,26 @@
     "newPrice": 8.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00100069_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Madej Wróbel (Kiełbasa krakowska parzona)",
+    "oldPrice": 2.99,
+    "newPrice": 1.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943504_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Madej Wróbel (Kiełbasa toruńska)",
+    "oldPrice": 2.69,
+    "newPrice": 1.79,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20611223_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -647,86 +647,6 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20957882",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ziemniaki (jadalne, luzem)",
-    "oldPrice": 1.99,
-    "newPrice": 0.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700010_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cytryny (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 5.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700052_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Filodendron don. 11cm",
-    "oldPrice": null,
-    "newPrice": 16.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20982814",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzos dwukolorowy (śr. don. 10,5 cm)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016154_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzos (śr. don. 12 cm)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903680-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zamiokulkas (śr. don. 12 cm)",
-    "oldPrice": null,
-    "newPrice": 16.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5706629617142_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Chryzantema średniokwiatowa (śr. don. 10,5 cm)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09902200_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Czosnek",
-    "oldPrice": 2.49,
-    "newPrice": 1.49,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/czosnek",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7922,6 +7842,146 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Kurki",
+    "oldPrice": 19.99,
+    "newPrice": 8.99,
+    "discountPct": 55,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00072181_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Makłowicz i Synowie (Makaron penne)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20617684",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Makłowicz i Synowie (Makaron Trofie)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20617686_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Makłowicz i Synowie (Makaron)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20617289_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Makłowicz i Synowie (Makaron Fusilli)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20617839_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Krakus (Szynka konserwowa)",
+    "oldPrice": null,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900244025621_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dumle Original (Cukierki toffi w czekoladzie)",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_02702182_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kukurydza",
+    "oldPrice": 7.99,
+    "newPrice": 5.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/25051803_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona ciemne",
+    "oldPrice": 11.99,
+    "newPrice": 6.99,
+    "discountPct": 41,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830020000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie ogórki",
+    "oldPrice": 6.99,
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700033_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K- Stąd Takie Dobre (Polskie pomidory cherry)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20715759_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K- Stąd Takie Dobre (Polski brokuł)",
+    "oldPrice": 5.99,
+    "newPrice": 4.99,
+    "discountPct": 16,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700660_P-3",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Polskie truskawki)",
+    "oldPrice": 12.99,
+    "newPrice": 9.99,
+    "discountPct": 23,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/truskawki-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Brzoskwinie (układane, luzem)",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700045_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "OSM Międzybórz (Śmietana 18% tł.)",
     "oldPrice": 4.99,
     "newPrice": 4.19,
@@ -8052,136 +8112,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Mango",
-    "oldPrice": 5.99,
-    "newPrice": 4.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008586_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ananas XL",
-    "oldPrice": 14.99,
-    "newPrice": 9.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8718868968081_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska cukinia (luzem)",
-    "oldPrice": 3.99,
-    "newPrice": 2.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700061C_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wąwoźny (Ogórki kiszone)",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20820608",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska marchew młoda",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702290A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cebula żółta",
-    "oldPrice": 3.49,
-    "newPrice": 1.99,
-    "discountPct": 42,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903111860080_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski arbuz",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Maliny",
-    "oldPrice": 12.99,
-    "newPrice": 8.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20266838",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MK Café Premium (Kawa mielona)",
-    "oldPrice": 37.99,
-    "newPrice": 24.99,
-    "discountPct": 34,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02403130",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pepsi, 7Up, Mirinda, (Mountain Dew\nNapój gazowany)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20882227_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 6.99,
-    "newPrice": 3.49,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Foxy (Papier toaletowy 3-warstwowy)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900935001538_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Dash (Proszek do prania)",
     "oldPrice": null,
     "newPrice": 55.99,
@@ -8272,6 +8202,26 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Maretti Bruschette (Pieczone krążki chlebowe)",
+    "oldPrice": null,
+    "newPrice": 2.69,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123146-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tarczyński (Kabanosy Exclusive)",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00134582_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Saturator Terra (+2 butelki i syrop)",
     "oldPrice": null,
     "newPrice": 249.0,
@@ -8337,26 +8287,6 @@
     "newPrice": 44.99,
     "discountPct": 18,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20818800_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Maretti Bruschette (Pieczone krążki chlebowe)",
-    "oldPrice": null,
-    "newPrice": 2.69,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123146-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tarczyński (Kabanosy Exclusive)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00134582_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   }
 ]

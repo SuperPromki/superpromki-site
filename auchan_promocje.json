@@ -2,13 +2,13 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Jaja z wolnego wybiegu rozmiar M Auchan 10 sztuk",
-    "oldPrice": 11.48,
-    "newPrice": 10.25,
-    "discountPct": 11,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3054adca-3599-4881-affb-a2f0123f4bde/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jaja-z-wolnego-wybiegu-rozmiar-m-auchan-10-sztuk/00706845",
-    "note": null
+    "name": "Mleko UHT 3.2%  Auchan 1 l",
+    "oldPrice": null,
+    "newPrice": 2.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f88308a5-4bc0-451e-93eb-d3b51e9a6a15/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mleko-uht-3-2-auchan-1-l/00781527",
+    "note": "3+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -24,13 +24,13 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Mleko UHT 3.2%  Auchan 1 l",
-    "oldPrice": null,
-    "newPrice": 2.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f88308a5-4bc0-451e-93eb-d3b51e9a6a15/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mleko-uht-3-2-auchan-1-l/00781527",
-    "note": "3+1 za grosz"
+    "name": "Jaja z wolnego wybiegu rozmiar M Auchan 10 sztuk",
+    "oldPrice": 11.48,
+    "newPrice": 10.25,
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3054adca-3599-4881-affb-a2f0123f4bde/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jaja-z-wolnego-wybiegu-rozmiar-m-auchan-10-sztuk/00706845",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -79,28 +79,6 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Mleko Zambrowskie 3.2% Mlekpol 1 l",
-    "oldPrice": 4.59,
-    "newPrice": 2.65,
-    "discountPct": 42,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f3d45282-81b7-4d89-9dfc-8f3d2aafdae9/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mleko-zambrowskie-3-2-mlekpol-1-l/00041726",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Mleko Zambrowskie 1.5% Mlekpol 1 l",
-    "oldPrice": 4.59,
-    "newPrice": 2.65,
-    "discountPct": 42,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a72da001-2215-405c-86c0-38cfd2ee0d98/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mleko-zambrowskie-1-5-mlekpol-1-l/00042852",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
     "name": "Śmietanka kremowa 30% Zott 200 g",
     "oldPrice": null,
     "newPrice": 5.34,
@@ -122,14 +100,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Soki, nektary",
-    "name": "Sok pomarańczowy 100% Hortex 1 l",
-    "oldPrice": null,
-    "newPrice": 6.89,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e2c6f77f-0a9b-47d4-9922-ef2bd6d65e91/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/sok-pomaranczowy-100-hortex-1-l/00028375",
-    "note": "3  za 16,14 zł"
+    "category": "Mleko, nabiał i jaja",
+    "name": "Mleko Zambrowskie 3.2% Mlekpol 1 l",
+    "oldPrice": 4.59,
+    "newPrice": 2.65,
+    "discountPct": 42,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f3d45282-81b7-4d89-9dfc-8f3d2aafdae9/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mleko-zambrowskie-3-2-mlekpol-1-l/00041726",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Mango Owoce  Auchan sztuka",
+    "oldPrice": 5.98,
+    "newPrice": 3.49,
+    "discountPct": 42,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/beb0a74f-ce9e-4f6d-bcec-3e8cced836c1/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mango-owoce-auchan-sztuka/00034053",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -144,28 +133,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Ręcznik papierowy 2 warstwowy mocny 82 listki Auchan 2 rolki",
-    "oldPrice": 5.48,
-    "newPrice": 4.99,
-    "discountPct": 9,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0b41d3c5-e069-4353-b0f2-a7d7107ce683/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/recznik-papierowy-2-warstwowy-mocny-82-listki-auchan-2-rolki/00116533",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Artykuły papiernicze",
-    "name": "Papier Xero A4 MMnexo biały 80g MMnexo Everyday 1 sztuka",
-    "oldPrice": 14.98,
-    "newPrice": 11.95,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/54a79028-168e-4d9b-96d1-f28e08cdb9cb/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papier-xero-a4-mmnexo-bialy-80g-mmnexo-everyday-1-sztuka/00948273",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Napoje",
     "name": "Napój gazowany Zero Cukru o smaku cola nieposiadający wartości energetycznej PEPSI 1,5 l",
     "oldPrice": null,
@@ -177,13 +144,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Mango Owoce  Auchan sztuka",
-    "oldPrice": 5.98,
-    "newPrice": 3.49,
+    "category": "Mleko, nabiał i jaja",
+    "name": "Mleko Zambrowskie 1.5% Mlekpol 1 l",
+    "oldPrice": 4.59,
+    "newPrice": 2.65,
     "discountPct": 42,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/beb0a74f-ce9e-4f6d-bcec-3e8cced836c1/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mango-owoce-auchan-sztuka/00034053",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a72da001-2215-405c-86c0-38cfd2ee0d98/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mleko-zambrowskie-1-5-mlekpol-1-l/00042852",
     "note": null
   },
   {
@@ -199,13 +166,24 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Skyr jogurt typu islandzkiego naturalny   Piątnica 330 g",
+    "category": "Soki, nektary",
+    "name": "Sok pomarańczowy 100% Hortex 1 l",
+    "oldPrice": null,
+    "newPrice": 6.89,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e2c6f77f-0a9b-47d4-9922-ef2bd6d65e91/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/sok-pomaranczowy-100-hortex-1-l/00028375",
+    "note": "3  za 16,14 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Ręcznik papierowy 2 warstwowy mocny 82 listki Auchan 2 rolki",
     "oldPrice": 5.48,
-    "newPrice": 4.75,
-    "discountPct": 13,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1b235a3e-9359-404a-b26c-267fdaf50b18/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-naturalny-piatnica-330-g/00528688",
+    "newPrice": 4.99,
+    "discountPct": 9,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0b41d3c5-e069-4353-b0f2-a7d7107ce683/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/recznik-papierowy-2-warstwowy-mocny-82-listki-auchan-2-rolki/00116533",
     "note": null
   },
   {
@@ -221,35 +199,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Skyr jogurt typu islandzkiego wiśnia Piątnica 330 ml",
-    "oldPrice": 5.48,
-    "newPrice": 4.75,
-    "discountPct": 13,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60702f7d-9974-4878-8115-a69d5d8cb6be/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-wisnia-piatnica-330-ml/00437120",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Skyr jogurt typu islandzkiego jagoda Piątnica 330 ml",
-    "oldPrice": 5.48,
-    "newPrice": 4.75,
-    "discountPct": 13,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/32b84762-6d64-4e47-aa96-dbc07d3debd4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-jagoda-piatnica-330-ml/00903406",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafelek mleczny Góralki 45 g",
-    "oldPrice": 1.94,
-    "newPrice": 1.39,
-    "discountPct": 28,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/072dc7f4-5f41-402f-97a6-03e0d891a299/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafelek-mleczny-goralki-45-g/00165512",
+    "category": "Artykuły papiernicze",
+    "name": "Papier Xero A4 MMnexo biały 80g MMnexo Everyday 1 sztuka",
+    "oldPrice": 14.98,
+    "newPrice": 11.95,
+    "discountPct": 20,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/54a79028-168e-4d9b-96d1-f28e08cdb9cb/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papier-xero-a4-mmnexo-bialy-80g-mmnexo-everyday-1-sztuka/00948273",
     "note": null
   },
   {
@@ -265,14 +221,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Skyr jogurt typu islandzkiego mango i marakuja Piątnica 330 ml",
-    "oldPrice": 5.48,
-    "newPrice": 4.75,
-    "discountPct": 13,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554ae9c7-aaf2-49ba-ba0a-206a85df6575/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-mango-i-marakuja-piatnica-330-ml/00903403",
-    "note": null
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Czosnek suszony Prymat 20 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cd80e71c-19f6-4eaf-99d3-354cabae9439/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/czosnek-suszony-prymat-20-g/00192104",
+    "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -298,25 +254,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Mięso i drób",
-    "name": "Mięso mielone z łopatki wieprzowej  MAP Auchan 500 g",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9d513943-2014-4c73-8ebc-8d6fc78d163c/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mieso-mielone-z-lopatki-wieprzowej-map-auchan-500-g/00571950",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Czosnek suszony Prymat 20 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cd80e71c-19f6-4eaf-99d3-354cabae9439/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czosnek-suszony-prymat-20-g/00192104",
-    "note": "2+1 za grosz"
+    "category": "Słodycze",
+    "name": "Wafelek mleczny Góralki 45 g",
+    "oldPrice": 1.94,
+    "newPrice": 1.39,
+    "discountPct": 28,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/072dc7f4-5f41-402f-97a6-03e0d891a299/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafelek-mleczny-goralki-45-g/00165512",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -327,17 +272,6 @@
     "discountPct": 20,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/29ed779c-59ae-41bc-aae2-e31efe85e730/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ser-gouda-w-plastrach-hochland-135-g/00445093",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Szynka z kurczaka Morliny 200 g",
-    "oldPrice": 11.48,
-    "newPrice": 8.99,
-    "discountPct": 22,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1fc12e49-f142-467d-9bdc-fc7c4cd83a54/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szynka-z-kurczaka-morliny-200-g/00359158",
     "note": null
   },
   {
@@ -353,6 +287,50 @@
   },
   {
     "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt typu islandzkiego naturalny   Piątnica 330 g",
+    "oldPrice": 5.48,
+    "newPrice": 4.75,
+    "discountPct": 13,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1b235a3e-9359-404a-b26c-267fdaf50b18/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-naturalny-piatnica-330-g/00528688",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt typu islandzkiego jagoda Piątnica 330 ml",
+    "oldPrice": 5.48,
+    "newPrice": 4.75,
+    "discountPct": 13,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/32b84762-6d64-4e47-aa96-dbc07d3debd4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-jagoda-piatnica-330-ml/00903406",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt typu islandzkiego wiśnia Piątnica 330 ml",
+    "oldPrice": 5.48,
+    "newPrice": 4.75,
+    "discountPct": 13,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60702f7d-9974-4878-8115-a69d5d8cb6be/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-wisnia-piatnica-330-ml/00437120",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Szynka z kurczaka Morliny 200 g",
+    "oldPrice": 11.48,
+    "newPrice": 8.99,
+    "discountPct": 22,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1fc12e49-f142-467d-9bdc-fc7c4cd83a54/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/szynka-z-kurczaka-morliny-200-g/00359158",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Makaron spaghetti Auchan 500 g",
     "oldPrice": null,
@@ -361,6 +339,61 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5ad1ae43-8f2c-475a-8c45-5f73c290eb19/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/makaron-spaghetti-auchan-500-g/00692445",
     "note": "2  za 5,48 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt typu islandzkiego mango i marakuja Piątnica 330 ml",
+    "oldPrice": 5.48,
+    "newPrice": 4.75,
+    "discountPct": 13,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554ae9c7-aaf2-49ba-ba0a-206a85df6575/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-mango-i-marakuja-piatnica-330-ml/00903403",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Wafelek czekoladowy Góralki 45 g",
+    "oldPrice": 1.94,
+    "newPrice": 1.39,
+    "discountPct": 28,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fb84e79b-a043-466e-94a5-3a4d9a84a6b6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafelek-czekoladowy-goralki-45-g/00163869",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Pieprz czarny mielony Prymat 20 g",
+    "oldPrice": null,
+    "newPrice": 1.28,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e5212ea-a52d-4c23-abf8-50200da7e130/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/pieprz-czarny-mielony-prymat-20-g/00192066",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Przyprawa do kurczaka Prymat 30 g",
+    "oldPrice": null,
+    "newPrice": 1.74,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d1906e10-6254-457f-8876-8ed9524d63b7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/przyprawa-do-kurczaka-prymat-30-g/00192076",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Jogurt naturalny 0% tłuszczu lekki Bieluch 180 g",
+    "oldPrice": 2.44,
+    "newPrice": 1.19,
+    "discountPct": 51,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e2261d04-ba1d-43b0-a112-5c75866da5b7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-0-tluszczu-lekki-bieluch-180-g/00128309",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -386,47 +419,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafelek czekoladowy Góralki 45 g",
-    "oldPrice": 1.94,
-    "newPrice": 1.39,
-    "discountPct": 28,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fb84e79b-a043-466e-94a5-3a4d9a84a6b6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafelek-czekoladowy-goralki-45-g/00163869",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Przyprawa do kurczaka Prymat 30 g",
+    "name": "Pomidory suszone w oleju krojone Auchan 150 g",
     "oldPrice": null,
-    "newPrice": 1.74,
+    "newPrice": 7.48,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d1906e10-6254-457f-8876-8ed9524d63b7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/przyprawa-do-kurczaka-prymat-30-g/00192076",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Pieprz czarny mielony Prymat 20 g",
-    "oldPrice": null,
-    "newPrice": 1.28,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e5212ea-a52d-4c23-abf8-50200da7e130/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/pieprz-czarny-mielony-prymat-20-g/00192066",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Jogurt naturalny 0% tłuszczu lekki Bieluch 180 g",
-    "oldPrice": 2.44,
-    "newPrice": 1.19,
-    "discountPct": 51,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e2261d04-ba1d-43b0-a112-5c75866da5b7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-0-tluszczu-lekki-bieluch-180-g/00128309",
-    "note": null
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/39391c2a-3d5f-47d9-9906-3a2c6d79c6b0/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/pomidory-suszone-w-oleju-krojone-auchan-150-g/00513532",
+    "note": "2  za 12,98 zł"
   },
   {
     "store": "Auchan",
@@ -442,13 +442,46 @@
   {
     "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Pomidory suszone w oleju krojone Auchan 150 g",
+    "name": "Filety z makreli w sosie pomidorowym GRAAL 170 g",
+    "oldPrice": 8.99,
+    "newPrice": 6.99,
+    "discountPct": 22,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8d1e646d-73aa-43f3-83fb-41cae35ee13f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/filety-z-makreli-w-sosie-pomidorowym-graal-170-g/00108742",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Pieczywo i wyroby cukiernicze",
+    "name": "Chleb Wiejski pszenno-żytni z naturalnym zakwasem żytnim Oskroba 500 g",
+    "oldPrice": 4.39,
+    "newPrice": 3.29,
+    "discountPct": 25,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d4afdcb0-1ce3-46da-9572-1c0d9364d73f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/chleb-wiejski-pszenno-zytni-z-naturalnym-zakwasem-zytnim-oskroba-500-g/00552179",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Oregano suszone.  Prymat 8 g",
     "oldPrice": null,
-    "newPrice": 7.48,
+    "newPrice": 1.68,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/39391c2a-3d5f-47d9-9906-3a2c6d79c6b0/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/pomidory-suszone-w-oleju-krojone-auchan-150-g/00513532",
-    "note": "2  za 12,98 zł"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5598dc53-2e8a-4cc6-b6be-474b1b14efd7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/oregano-suszone-prymat-8-g/00326756",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Parówki 100% z kurczaka Tarczyński 80 g",
+    "oldPrice": 7.88,
+    "newPrice": 6.99,
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/79301ab9-c4f5-4d48-86d6-9833451baa27/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/parowki-100-z-kurczaka-tarczynski-80-g/00181520",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -463,13 +496,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Parówki 100% z kurczaka Tarczyński 80 g",
-    "oldPrice": 7.88,
-    "newPrice": 6.99,
-    "discountPct": 11,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/79301ab9-c4f5-4d48-86d6-9833451baa27/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/parowki-100-z-kurczaka-tarczynski-80-g/00181520",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Jogurt kremowy z malinami i granolą  Bakoma 230 g",
+    "oldPrice": 6.28,
+    "newPrice": 4.85,
+    "discountPct": 23,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3847d377-0ac0-42ef-8504-fc779e370a15/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-kremowy-z-malinami-i-granola-bakoma-230-g/00701567",
     "note": null
   },
   {
@@ -485,68 +518,35 @@
   },
   {
     "store": "Auchan",
-    "category": "Pieczywo i wyroby cukiernicze",
-    "name": "Chleb Wiejski pszenno-żytni z naturalnym zakwasem żytnim Oskroba 500 g",
-    "oldPrice": 4.39,
-    "newPrice": 3.29,
-    "discountPct": 25,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d4afdcb0-1ce3-46da-9572-1c0d9364d73f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/chleb-wiejski-pszenno-zytni-z-naturalnym-zakwasem-zytnim-oskroba-500-g/00552179",
+    "category": "Sery",
+    "name": "Ser maasdamer w plastrach Hochland 135 g",
+    "oldPrice": 6.49,
+    "newPrice": 5.55,
+    "discountPct": 14,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/938b2151-f4aa-4166-b40c-e0011e4b6c64/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-maasdamer-w-plastrach-hochland-135-g/00445096",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Mięso i drób",
-    "name": "Mięso mielone z szynki MAP Auchan 500 g",
-    "oldPrice": null,
-    "newPrice": 13.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cd3f6bca-d9a2-470c-becb-fe13fa16deb7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mieso-mielone-z-szynki-map-auchan-500-g/00571948",
-    "note": "1+1 za grosz"
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt wysokobiałkowy naturalny Mlekovita 330 g",
+    "oldPrice": 6.39,
+    "newPrice": 4.25,
+    "discountPct": 33,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c165a388-a193-41c5-a0b8-8f1f0cae22f7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-wysokobialkowy-naturalny-mlekovita-330-g/00781175",
+    "note": null
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Filety z makreli w sosie pomidorowym GRAAL 170 g",
-    "oldPrice": 8.99,
+    "category": "Wędliny",
+    "name": "Parówki z szynki Naturalnie 100% Tarczyński 100 g",
+    "oldPrice": 7.88,
     "newPrice": 6.99,
-    "discountPct": 22,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8d1e646d-73aa-43f3-83fb-41cae35ee13f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/filety-z-makreli-w-sosie-pomidorowym-graal-170-g/00108742",
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fc0568c8-5b89-495e-ad7a-df3cc7225a56/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/parowki-z-szynki-naturalnie-100-tarczynski-100-g/00187626",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Szynka od Szwagra wieprzowa Krakus 120 g",
-    "oldPrice": null,
-    "newPrice": 8.19,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/83446be7-dfe8-488d-b517-44858d2cb5a7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szynka-od-szwagra-wieprzowa-krakus-120-g/00399266",
-    "note": "Drugi 50% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Schab od szwagra Krakus 90 g",
-    "oldPrice": null,
-    "newPrice": 7.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a9cbd12e-cc74-48d9-99a9-60810936154e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/schab-od-szwagra-krakus-90-g/00295526",
-    "note": "2  za 11,98 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Oregano suszone.  Prymat 8 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5598dc53-2e8a-4cc6-b6be-474b1b14efd7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/oregano-suszone-prymat-8-g/00326756",
-    "note": "2+1 za grosz"
   }
 ]
