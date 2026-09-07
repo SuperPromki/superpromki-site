@@ -22,11 +22,31 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Cytryny (luzem)",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700052_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "K-Stąd Takie Dobre (Rwaniec drożdżowy)",
     "oldPrice": 8.99,
     "newPrice": 4.99,
     "discountPct": 44,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00142365",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Czosnek",
+    "oldPrice": 2.49,
+    "newPrice": 1.49,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/czosnek",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -177,26 +197,6 @@
     "newPrice": 8.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00100069_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Madej Wróbel (Kiełbasa krakowska parzona)",
-    "oldPrice": 2.99,
-    "newPrice": 1.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943504_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Madej Wróbel (Kiełbasa toruńska)",
-    "oldPrice": 2.69,
-    "newPrice": 1.79,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20611223_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -647,6 +647,76 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20957882",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cytryny (luzem)",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700052_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Filodendron don. 11cm",
+    "oldPrice": null,
+    "newPrice": 16.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20982814",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Wrzos dwukolorowy (śr. don. 10,5 cm)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016154_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Wrzos (śr. don. 12 cm)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903680-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zamiokulkas (śr. don. 12 cm)",
+    "oldPrice": null,
+    "newPrice": 16.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5706629617142_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Chryzantema średniokwiatowa (śr. don. 10,5 cm)",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09902200_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Czosnek",
+    "oldPrice": 2.49,
+    "newPrice": 1.49,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/czosnek",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7906,7 +7976,7 @@
     "oldPrice": null,
     "newPrice": 6.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_02702182_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02702182",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
