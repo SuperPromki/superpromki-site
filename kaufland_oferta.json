@@ -12,6 +12,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Polska papryka czerwona",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Polskie buraki czerwone",
     "oldPrice": 8.99,
     "newPrice": 4.49,
@@ -52,16 +62,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Polska papryka czerwona",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Krakus (Szynka w stylu włoskim)",
     "oldPrice": 5.19,
     "newPrice": 2.99,
@@ -76,7 +76,7 @@
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00138723_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -372,6 +372,116 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Mandarynki",
+    "oldPrice": 11.99,
+    "newPrice": 11.38,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20687700",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska mirabelka",
+    "oldPrice": 7.99,
+    "newPrice": 7.58,
+    "discountPct": 5,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20875260_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dynia ozdobna",
+    "oldPrice": 3.99,
+    "newPrice": 3.79,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702372_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dynia makaronowa",
+    "oldPrice": 4.99,
+    "newPrice": 4.74,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00046074_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dynia prowansalska",
+    "oldPrice": 4.99,
+    "newPrice": 4.74,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00046080_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mango Osteen",
+    "oldPrice": 9.99,
+    "newPrice": 9.48,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20095335-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 7.58,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski kalafior",
+    "oldPrice": 8.99,
+    "newPrice": 8.53,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Nektarynki (układane, luzem)",
+    "oldPrice": 12.99,
+    "newPrice": 12.33,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Ogórki gruntowe (luzem)",
+    "oldPrice": 6.99,
+    "newPrice": 6.63,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Bio (Arbuz)",
+    "oldPrice": 10.99,
+    "newPrice": 10.43,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20087090_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Polska pietruszka korzeń",
     "oldPrice": 19.99,
     "newPrice": 14.99,
@@ -437,16 +547,6 @@
     "newPrice": 5.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367108518_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polskie pieczarki)",
-    "oldPrice": 8.99,
-    "newPrice": 6.99,
-    "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00070883_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -624,8 +724,8 @@
     "category": "Inne",
     "name": "Polska papryka czerwona",
     "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
+    "newPrice": 5.99,
+    "discountPct": 53,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -676,7 +776,7 @@
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00138723_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1676,7 +1776,7 @@
     "oldPrice": 1.09,
     "newPrice": 0.69,
     "discountPct": 36,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2842110000000_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00025235_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1932,6 +2032,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Bagietka rustykalna",
+    "oldPrice": 3.99,
+    "newPrice": 3.19,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20962593",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "K-Classic (Przyprawa uniwersalna)",
     "oldPrice": 9.49,
     "newPrice": 7.99,
@@ -2067,6 +2177,66 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20973692_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bagietka na kamieniu (bez drożdży)",
+    "oldPrice": 3.99,
+    "newPrice": 3.19,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20947901_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bagietka czosnkowa",
+    "oldPrice": 2.99,
+    "newPrice": 2.39,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00052067C_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Półbagietka",
+    "oldPrice": 1.25,
+    "newPrice": 1.0,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00054809_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bagietka pszenna",
+    "oldPrice": 2.19,
+    "newPrice": 1.75,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900868002459_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bułka paryska",
+    "oldPrice": 3.13,
+    "newPrice": 2.5,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20612805_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bagietka pszenna (duża)",
+    "oldPrice": 2.89,
+    "newPrice": 2.31,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20781422_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2346,7 +2516,7 @@
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20928316_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20928316",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2896,7 +3066,7 @@
     "oldPrice": 9.99,
     "newPrice": 5.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20773316_23P-4064791013744-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20773316_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
