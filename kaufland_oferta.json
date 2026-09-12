@@ -76,7 +76,7 @@
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00138723_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -142,16 +142,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Polska rzodkiewka (pęczek)",
-    "oldPrice": 2.69,
-    "newPrice": 1.69,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Spomlek Old Poland (Ser\nGrand Radamer/Grand Gouda)",
     "oldPrice": 4.79,
     "newPrice": 2.99,
@@ -197,6 +187,16 @@
     "newPrice": 2.59,
     "discountPct": 35,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00047261_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Łaciate (Ser Mascarpone)",
+    "oldPrice": 10.79,
+    "newPrice": 6.99,
+    "discountPct": 35,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20219167_1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -382,16 +382,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polska mirabelka",
-    "oldPrice": 7.99,
-    "newPrice": 7.58,
-    "discountPct": 5,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20875260_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Dynia ozdobna",
     "oldPrice": 3.99,
     "newPrice": 3.79,
@@ -432,16 +422,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Śliwki podłużne (luzem)",
-    "oldPrice": 7.99,
-    "newPrice": 7.58,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polski kalafior",
     "oldPrice": 8.99,
     "newPrice": 8.53,
@@ -473,9 +453,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "K-Bio (Arbuz)",
-    "oldPrice": 10.99,
+    "oldPrice": 12.99,
     "newPrice": 10.43,
-    "discountPct": 5,
+    "discountPct": 19,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20087090_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -712,16 +692,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polska rzodkiewka (pęczek)",
-    "oldPrice": 2.69,
-    "newPrice": 1.69,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polska papryka czerwona",
     "oldPrice": 12.99,
     "newPrice": 5.99,
@@ -776,7 +746,7 @@
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00138723_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1776,7 +1746,7 @@
     "oldPrice": 1.09,
     "newPrice": 0.69,
     "discountPct": 36,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00025235_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2842110000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2233,9 +2203,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bagietka pszenna (duża)",
-    "oldPrice": 2.89,
+    "oldPrice": null,
     "newPrice": 2.31,
-    "discountPct": 20,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20781422_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2533,9 +2503,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Curly (Chrupki)",
-    "oldPrice": 4.99,
+    "oldPrice": null,
     "newPrice": 3.99,
-    "discountPct": 20,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02800712_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2932,6 +2902,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Persil (Proszek do prania)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20685353_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Home Sweet Home (Ściereczki z mikrofibry)",
     "oldPrice": null,
     "newPrice": 9.99,
@@ -3066,7 +3046,7 @@
     "oldPrice": 9.99,
     "newPrice": 5.99,
     "discountPct": 40,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20773316_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/DE20773316_23P-4064791013744-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3722,7 +3702,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Energizer (Baterie Max Mignon\nAA 14 sztuk)",
+    "name": "Energizer (Baterie Max Mignon AA\n14 sztuk)",
     "oldPrice": null,
     "newPrice": 10.0,
     "discountPct": null,
@@ -3732,7 +3712,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Energizer (Baterie  Max Micro\nAAA 14 szt)",
+    "name": "Energizer (Baterie  Max Micro AAA\n14 sztuk)",
     "oldPrice": null,
     "newPrice": 10.0,
     "discountPct": null,
@@ -4453,9 +4433,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Podgrzewacze (czas palenia 3,5 h 50 szt)",
-    "oldPrice": 8.99,
+    "oldPrice": null,
     "newPrice": 7.99,
-    "discountPct": 11,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5906927010472_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -7782,6 +7762,36 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Coca-Cola (Napój gazowany)",
+    "oldPrice": null,
+    "newPrice": 17.96,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876816",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski kalafior",
+    "oldPrice": 8.99,
+    "newPrice": 4.99,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Nektarynki (układane, luzem)",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Oshee (Napój izotoniczny)",
     "oldPrice": null,
     "newPrice": 2.99,
@@ -7807,46 +7817,6 @@
     "newPrice": 19.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20783894_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "SodaStreem (Gaz niebieski)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20837330_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "SodaStream (Gaz różowy z cylindrem)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20837335_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Cylinder QuickClick)",
-    "oldPrice": 24.99,
-    "newPrice": 14.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20795343_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Cylinder CO2\npoj. 60 l)",
-    "oldPrice": 24.99,
-    "newPrice": 14.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20795344_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
