@@ -2,81 +2,11 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Polska marchew",
-    "oldPrice": 19.99,
-    "newPrice": 6.99,
-    "discountPct": 65,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700464_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Polska papryka czerwona",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Polskie buraki czerwone",
-    "oldPrice": 8.99,
-    "newPrice": 4.49,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700468_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Polski seler korzeń",
-    "oldPrice": 19.99,
-    "newPrice": 9.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702133_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Polska cebula żółta",
-    "oldPrice": 14.99,
-    "newPrice": 7.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700461_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Winogrona jasne",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700015_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Krakus (Szynka w stylu włoskim)",
     "oldPrice": 5.19,
     "newPrice": 2.99,
     "discountPct": 42,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20283180_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Polski arbuz",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -152,16 +82,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Kapusta kiszona",
-    "oldPrice": 18.99,
-    "newPrice": 11.99,
-    "discountPct": 36,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060225_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Krakus (Kiełbasa krucha od Szwagra)",
     "oldPrice": 4.69,
     "newPrice": 2.99,
@@ -201,12 +121,82 @@
   },
   {
     "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie ziemniaki jadalne",
-    "oldPrice": 9.99,
+    "category": "Hity tygodnia",
+    "name": "Polmak (Makaron 4-jajeczny)",
+    "oldPrice": 4.59,
+    "newPrice": 2.99,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5908310960234_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Mlekovita La Polle (Ser Pleśniowy\nCamembert, Brie)",
+    "oldPrice": 5.99,
     "newPrice": 3.99,
-    "discountPct": 60,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00105169_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Danio (Serek homogenizowany)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20179897_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Delicje Szampańskie (Biszkopty z galaretką)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02801870_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Doritos (Nachosy)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20099168_512",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Madej Wróbel (Szynka lub Schab)",
+    "oldPrice": 7.49,
+    "newPrice": 4.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20939056",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "K-Gold Edition (Szynka włoska dojrzewająca)",
+    "oldPrice": 11.99,
+    "newPrice": 7.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20920971",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Tarczyński (Krakowska sucha z szynki)",
+    "oldPrice": 29.99,
+    "newPrice": 19.99,
+    "discountPct": 33,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20087816_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -367,386 +357,6 @@
     "newPrice": 19.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20783894_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mandarynki",
-    "oldPrice": 11.99,
-    "newPrice": 11.38,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20687700",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dynia ozdobna",
-    "oldPrice": 3.99,
-    "newPrice": 3.79,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702372_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dynia makaronowa",
-    "oldPrice": 4.99,
-    "newPrice": 4.74,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00046074_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dynia prowansalska",
-    "oldPrice": 4.99,
-    "newPrice": 4.74,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00046080_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mango Osteen",
-    "oldPrice": 9.99,
-    "newPrice": 9.48,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20095335-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski kalafior",
-    "oldPrice": 8.99,
-    "newPrice": 8.53,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 12.33,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 6.99,
-    "newPrice": 6.63,
-    "discountPct": 5,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Bio (Arbuz)",
-    "oldPrice": 12.99,
-    "newPrice": 10.43,
-    "discountPct": 19,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20087090_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska pietruszka korzeń",
-    "oldPrice": 19.99,
-    "newPrice": 14.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876440",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska marchew",
-    "oldPrice": 19.99,
-    "newPrice": 6.99,
-    "discountPct": 65,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700464_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie buraki czerwone",
-    "oldPrice": 8.99,
-    "newPrice": 4.49,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700468_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kapusta kiszona",
-    "oldPrice": 18.99,
-    "newPrice": 11.99,
-    "discountPct": 36,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060225_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ogórki kiszone",
-    "oldPrice": 22.99,
-    "newPrice": 17.99,
-    "discountPct": 21,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060607_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski seler korzeń",
-    "oldPrice": 19.99,
-    "newPrice": 9.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702133_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cytryny",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367108518_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polskie jabłka\nmiks)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903240625017_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Gruszki",
-    "oldPrice": 14.99,
-    "newPrice": 9.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5907441288378_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie ziemniaki jadalne",
-    "oldPrice": 9.99,
-    "newPrice": 3.99,
-    "discountPct": 60,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzos",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20756170",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Rozplenica japońska",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943533",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Trawa czerwona (Red Baron)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943506",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Bambus ogrodowy (wąskolistny)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984773",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Jesienne krzewinki",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903322_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tuja Szmaragd",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5907714354014_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie wrzosy 6-pak",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20880673",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski wrzos pączkowy",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016153_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzosiec",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903535_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Figi",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20986580_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska cebula żółta",
-    "oldPrice": 14.99,
-    "newPrice": 7.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700461_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska kapusta (na gołąbki)",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00091932_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Winogrona jasne",
-    "oldPrice": 12.99,
-    "newPrice": 6.99,
-    "discountPct": 46,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700015_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska papryka czerwona",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kiwi",
-    "oldPrice": 1.99,
-    "newPrice": 1.49,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008562_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mango",
-    "oldPrice": 5.99,
-    "newPrice": 4.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008586_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polska sałata lodowa)",
-    "oldPrice": 4.99,
-    "newPrice": 3.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658913",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Seler naciowy)",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658941",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski arbuz",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7762,31 +7372,61 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Coca-Cola (Napój gazowany)",
+    "name": "Maggi (Przyprawa w płynie)",
+    "oldPrice": 16.69,
+    "newPrice": 9.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900085011937_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tiger (Napój energetyzujący)",
     "oldPrice": null,
-    "newPrice": 17.96,
+    "newPrice": 3.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876816",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20877706",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polski kalafior",
-    "oldPrice": 8.99,
-    "newPrice": 4.99,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "name": "Dallmayr Prodomo (Kawa ziarnista)",
+    "oldPrice": 49.99,
+    "newPrice": 34.99,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4008167103219_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
+    "name": "Lay's (Chipsy ziemniaczane)",
+    "oldPrice": null,
     "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20602328_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Ogórki gruntowe (luzem)",
+    "oldPrice": 6.99,
+    "newPrice": 3.49,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tena Lady (Podpaski urologiczne)",
+    "oldPrice": 12.99,
+    "newPrice": 9.99,
+    "discountPct": 23,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20769770",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
