@@ -202,6 +202,26 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.49,
+    "discountPct": 56,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie ziemniaki jadalne",
+    "oldPrice": 9.99,
+    "newPrice": 3.99,
+    "discountPct": 60,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Golonka wieprzowa tylna (cięta od szynki)",
     "oldPrice": 14.99,
     "newPrice": 9.99,
@@ -362,6 +382,306 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.49,
+    "discountPct": 56,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska pietruszka korzeń",
+    "oldPrice": 19.99,
+    "newPrice": 14.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876440",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska marchew",
+    "oldPrice": 19.99,
+    "newPrice": 6.99,
+    "discountPct": 65,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700464_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie buraki czerwone",
+    "oldPrice": 8.99,
+    "newPrice": 4.49,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700468_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kapusta kiszona",
+    "oldPrice": 18.99,
+    "newPrice": 11.99,
+    "discountPct": 36,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060225_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Ogórki kiszone",
+    "oldPrice": 22.99,
+    "newPrice": 17.99,
+    "discountPct": 21,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060607_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski seler korzeń",
+    "oldPrice": 19.99,
+    "newPrice": 9.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702133_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cytryny",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367108518_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Polskie jabłka\nmiks)",
+    "oldPrice": 12.99,
+    "newPrice": 9.99,
+    "discountPct": 23,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903240625017_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Gruszki",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5907441288378_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie ziemniaki jadalne",
+    "oldPrice": 9.99,
+    "newPrice": 3.99,
+    "discountPct": 60,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Wrzos",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20756170",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Rozplenica japońska",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943533",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Trawa czerwona (Red Baron)",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20943506",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bambus ogrodowy (wąskolistny)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984773",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Jesienne krzewinki",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903322_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tuja Szmaragd",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5907714354014_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie wrzosy 6-pak",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20880673",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski wrzos pączkowy",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016153_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Wrzosiec",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09903535_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Figi",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20986580_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska cebula żółta",
+    "oldPrice": 14.99,
+    "newPrice": 7.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700461_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska kapusta (na gołąbki)",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00091932_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona jasne",
+    "oldPrice": 12.99,
+    "newPrice": 6.99,
+    "discountPct": 46,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700015_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska papryka czerwona",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kiwi",
+    "oldPrice": 1.99,
+    "newPrice": 1.49,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008562_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mango",
+    "oldPrice": 5.99,
+    "newPrice": 4.99,
+    "discountPct": 16,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008586_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Polska sałata lodowa)",
+    "oldPrice": 4.99,
+    "newPrice": 3.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658913",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Seler naciowy)",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658941",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski arbuz",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Golonka wieprzowa tylna (cięta od szynki)",
     "oldPrice": 14.99,
     "newPrice": 9.99,
@@ -437,16 +757,6 @@
     "newPrice": 15.99,
     "discountPct": 23,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00100065_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Podgardle wieprzowe (bez skóry)",
-    "oldPrice": 8.49,
-    "newPrice": 6.99,
-    "discountPct": 17,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100728_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -722,86 +1032,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "DROSED (Polędwica z kaczki)",
-    "oldPrice": null,
-    "newPrice": 16.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20905864",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-STOISKO MIĘSNE (Królik tuszka z podrobami)",
-    "oldPrice": 34.99,
-    "newPrice": 29.99,
-    "discountPct": 14,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00300771_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Udo lub Podudzie z kurczaka)",
-    "oldPrice": 25.99,
-    "newPrice": 19.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20854372-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Udo lub Podudzie z kurczaka)",
-    "oldPrice": 25.99,
-    "newPrice": 19.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20853320-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Tuszka kurczaka)",
-    "oldPrice": 19.99,
-    "newPrice": 15.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20853256-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Filet z piersi kurczaka)",
-    "oldPrice": 44.9,
-    "newPrice": 39.99,
-    "discountPct": 10,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20853253-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Mięso mielone z kurczaka)",
-    "oldPrice": 12.99,
-    "newPrice": 11.99,
-    "discountPct": 7,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20853894-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Porcja rosołowa z kurczaka)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20853895-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Dobrowolscy (Kiełbasa parówkowa)",
     "oldPrice": 2.69,
     "newPrice": 1.89,
@@ -812,71 +1042,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Favourites (Argentyński rumsztyk)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20754524_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Mintaj filet bez skóry)",
-    "oldPrice": 4.99,
-    "newPrice": 3.79,
-    "discountPct": 24,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00141106A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Dorsz polędwica)",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20342056_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Connoisseur (Łosoś pocyficzny)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090097",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Pstrąg tęczowy łososiowy)",
-    "oldPrice": 5.79,
-    "newPrice": 4.99,
-    "discountPct": 13,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00116170E_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "SuperFish (Krewetki białe)",
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20866849_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Makrela tusza)",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2842660000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1847,16 +2017,6 @@
     "newPrice": 5.49,
     "discountPct": 31,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20950174_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "M.W. Janczewscy (Sernik)",
-    "oldPrice": 15.99,
-    "newPrice": 11.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20788965_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {

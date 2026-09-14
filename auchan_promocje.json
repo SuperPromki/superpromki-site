@@ -56,17 +56,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Akcesoria do sprzątania",
-    "name": "Worki na śmieci 60L Auchan 20 sztuk",
-    "oldPrice": 4.59,
-    "newPrice": 3.39,
-    "discountPct": 26,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3959e14d-555e-4180-8461-69c75cf83460/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/worki-na-smieci-60l-auchan-20-sztuk/00321264",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Soki, nektary",
     "name": "Sok 100% jabłko Tymbark 1 l",
     "oldPrice": 5.68,
@@ -74,6 +63,28 @@
     "discountPct": 30,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/39d9342e-1241-4bad-b467-24c01a21de21/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/sok-100-jablko-tymbark-1-l/00019370",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sypkie i produkty zbożowe",
+    "name": "Makaron spaghetti Barilla 500 g",
+    "oldPrice": null,
+    "newPrice": 5.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/43dca27f-9f09-48b8-aa2f-e5a77690bfb2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/makaron-spaghetti-barilla-500-g/00297240",
+    "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Akcesoria do sprzątania",
+    "name": "Worki na śmieci 60L Auchan 20 sztuk",
+    "oldPrice": 4.59,
+    "newPrice": 3.39,
+    "discountPct": 26,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3959e14d-555e-4180-8461-69c75cf83460/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/worki-na-smieci-60l-auchan-20-sztuk/00321264",
     "note": null
   },
   {
@@ -89,28 +100,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Koncentrat pomidorowy 30 %  Pudliszki 190 g",
-    "oldPrice": null,
-    "newPrice": 4.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f5a38b00-c12f-4a1c-a907-8fe03f9ad41b/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/koncentrat-pomidorowy-30-pudliszki-190-g/00174718",
-    "note": "2  za 6,96 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Makaron spaghetti Barilla 500 g",
-    "oldPrice": null,
-    "newPrice": 5.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/43dca27f-9f09-48b8-aa2f-e5a77690bfb2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/makaron-spaghetti-barilla-500-g/00297240",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Mrożonki",
     "name": "Truskawki bez szypułek Auchan 450 g",
     "oldPrice": 6.85,
@@ -119,6 +108,17 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a14a44ae-0f38-4f58-9b9c-09d34a1b48e1/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/truskawki-bez-szypulek-auchan-450-g/00904677",
     "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Koncentrat pomidorowy 30 %  Pudliszki 190 g",
+    "oldPrice": null,
+    "newPrice": 4.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f5a38b00-c12f-4a1c-a907-8fe03f9ad41b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/koncentrat-pomidorowy-30-pudliszki-190-g/00174718",
+    "note": "2  za 6,96 zł"
   },
   {
     "store": "Auchan",
@@ -133,17 +133,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Kuchnie Świata",
-    "name": "Makaron Fusilli z semoliny z pszenicy durum Barilla 500 g",
-    "oldPrice": null,
-    "newPrice": 5.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f26d3778-030b-414e-85bb-6282c697be80/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/makaron-fusilli-z-semoliny-z-pszenicy-durum-barilla-500-g/00476890",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Makaron Penne Rigate rurki Barilla 500 g",
     "oldPrice": null,
@@ -151,6 +140,17 @@
     "discountPct": null,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/64f7c09b-ec42-4aa1-b094-861d424922bd/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/makaron-penne-rigate-rurki-barilla-500-g/00297245",
+    "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Kuchnie Świata",
+    "name": "Makaron Fusilli z semoliny z pszenicy durum Barilla 500 g",
+    "oldPrice": null,
+    "newPrice": 5.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f26d3778-030b-414e-85bb-6282c697be80/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/makaron-fusilli-z-semoliny-z-pszenicy-durum-barilla-500-g/00476890",
     "note": "1+1 za grosz"
   },
   {
@@ -166,17 +166,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Ogórki konserwowe Krakus 865 ml",
-    "oldPrice": 9.89,
-    "newPrice": 7.69,
-    "discountPct": 22,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2a659f95-91e5-4fb3-bee0-5d80858c9749/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ogorki-konserwowe-krakus-865-ml/00017240",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Włoszczyzna XXL Warzywa Auchan 1 sztuka",
     "oldPrice": 9.99,
@@ -188,14 +177,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Boczek wieprzowy wędzony kostka Auchan 150 g",
-    "oldPrice": 8.49,
-    "newPrice": 5.99,
-    "discountPct": 29,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/dc9565b0-3b23-4b51-a5fe-0f80474f7ff7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/boczek-wieprzowy-wedzony-kostka-auchan-150-g/00614102",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Ogórki konserwowe Krakus 865 ml",
+    "oldPrice": 9.89,
+    "newPrice": 7.69,
+    "discountPct": 22,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2a659f95-91e5-4fb3-bee0-5d80858c9749/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ogorki-konserwowe-krakus-865-ml/00017240",
     "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Papier toaletowy 3 warstwy Auchan 10 rolek",
+    "oldPrice": null,
+    "newPrice": 13.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f9c41222-43fc-4413-9020-496a55ef0ae1/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papier-toaletowy-3-warstwy-auchan-10-rolek/00328347",
+    "note": "Drugi 50% taniej"
   },
   {
     "store": "Auchan",
@@ -221,14 +221,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser camembert naturalny Turek 120 g",
-    "oldPrice": 6.98,
-    "newPrice": 4.99,
+    "category": "Wędliny",
+    "name": "Boczek wieprzowy wędzony kostka Auchan 150 g",
+    "oldPrice": 8.49,
+    "newPrice": 5.99,
     "discountPct": 29,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/04bff5c6-4623-4673-9555-532dbc40cf40/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-camembert-naturalny-turek-120-g/00127237",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/dc9565b0-3b23-4b51-a5fe-0f80474f7ff7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/boczek-wieprzowy-wedzony-kostka-auchan-150-g/00614102",
     "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Majonez Dekoracyjny Winiary 700 ml",
+    "oldPrice": null,
+    "newPrice": 15.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/851de05e-b010-4af6-8e22-2a50f088ded8/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/majonez-dekoracyjny-winiary-700-ml/00121842",
+    "note": "1+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -243,28 +254,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Biszkopty z galaretką pomarańczową oblane czekoladą  Delicje 147 g",
-    "oldPrice": null,
-    "newPrice": 5.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/47726a00-e359-438d-b760-8cda85644ee6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/biszkopty-z-galaretka-pomaranczowa-oblane-czekolada-delicje-147-g/00270583",
-    "note": "2+2 za grosz każdy"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Majonez Dekoracyjny Winiary 700 ml",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/851de05e-b010-4af6-8e22-2a50f088ded8/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/majonez-dekoracyjny-winiary-700-ml/00121842",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Papier toaletowy, ręczniki i chusteczki",
     "name": "Najdłuższy ręcznik. Ręcznik kuchenny Regina 2 rolki",
     "oldPrice": 10.98,
@@ -272,6 +261,17 @@
     "discountPct": 18,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1a88758e-cabb-46fd-b369-300fd74af71f/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/najdluzszy-recznik-recznik-kuchenny-regina-2-rolki/00453627",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Ser camembert naturalny Turek 120 g",
+    "oldPrice": 6.98,
+    "newPrice": 4.99,
+    "discountPct": 29,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/04bff5c6-4623-4673-9555-532dbc40cf40/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-camembert-naturalny-turek-120-g/00127237",
     "note": null
   },
   {
@@ -298,17 +298,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Kapusta główka Warzywa Auchan na wagę ok. 2kg ",
-    "oldPrice": 3.98,
-    "newPrice": 2.58,
-    "discountPct": 35,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/405568a3-4f4b-474a-abc2-fe2f85dc2ab4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/kapusta-glowka-warzywa-auchan-na-wage-ok-2kg/00027891",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
     "name": "Serek homogenizowany ciasteczkowy Piątnica 150 g",
     "oldPrice": 3.18,
@@ -331,17 +320,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Szynka wieprzowa Szubryt 80 g",
-    "oldPrice": 7.49,
-    "newPrice": 6.99,
-    "discountPct": 7,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/771ab2e1-c495-4747-8389-e6a4418255bd/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szynka-wieprzowa-szubryt-80-g/00464997",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
     "name": "Mullermilch o smaku czekoladowym Müller 400 g",
     "oldPrice": null,
@@ -353,57 +331,46 @@
   },
   {
     "store": "Auchan",
-    "category": "Kuchnie Świata",
-    "name": "Przecier pomidorowy Primo Gusto 500 g",
+    "category": "Słodycze",
+    "name": "Biszkopty z galaretką pomarańczową oblane czekoladą  Delicje 147 g",
     "oldPrice": null,
-    "newPrice": 6.18,
+    "newPrice": 5.48,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/504fb957-80c6-425e-a696-b520c14494c4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/przecier-pomidorowy-primo-gusto-500-g/00018562",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/47726a00-e359-438d-b760-8cda85644ee6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/biszkopty-z-galaretka-pomaranczowa-oblane-czekolada-delicje-147-g/00270583",
+    "note": "2+2 za grosz każdy"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Kapusta główka Warzywa Auchan na wagę ok. 2kg ",
+    "oldPrice": 3.98,
+    "newPrice": 2.58,
+    "discountPct": 35,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/405568a3-4f4b-474a-abc2-fe2f85dc2ab4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/kapusta-glowka-warzywa-auchan-na-wage-ok-2kg/00027891",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Napoje",
+    "name": "Woda kokosowa Vita 1 l",
+    "oldPrice": null,
+    "newPrice": 10.69,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b122eb62-50fb-40e6-b168-430c6c4087f1/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/woda-kokosowa-vita-1-l/00232889",
     "note": "Drugi 60% taniej"
   },
   {
     "store": "Auchan",
-    "category": "Higiena ciała",
-    "name": "Mydło kostka regular  Dove 90 g",
-    "oldPrice": 5.98,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4b7eaa36-d7c9-4e86-b97d-9db97960939b/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mydlo-kostka-regular-dove-90-g/00273615",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Kefir polski naturalny Mlekovita 1 l",
-    "oldPrice": 5.69,
-    "newPrice": 3.95,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b32eea22-4379-4b89-bf86-21ccc1d67b9a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/kefir-polski-naturalny-mlekovita-1-l/00267265",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Oliwki zielone drylowane Auchan 320 g",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fb15640b-e036-4e14-b0e7-99399c6b6503/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/oliwki-zielone-drylowane-auchan-320-g/00513525",
-    "note": "2  za 7,98 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Tradycyjne masło irlandzkie 82% Kerrygold 200 g",
-    "oldPrice": 10.68,
-    "newPrice": 9.85,
-    "discountPct": 8,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/512ad840-be4f-4c25-82ef-fedeb86550bf/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/tradycyjne-maslo-irlandzkie-82-kerrygold-200-g/00188827",
+    "category": "Wędliny",
+    "name": "Szynka wieprzowa Szubryt 80 g",
+    "oldPrice": 7.49,
+    "newPrice": 6.99,
+    "discountPct": 7,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/771ab2e1-c495-4747-8389-e6a4418255bd/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/szynka-wieprzowa-szubryt-80-g/00464997",
     "note": null
   },
   {
@@ -419,13 +386,35 @@
   },
   {
     "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Oliwki zielone drylowane Auchan 320 g",
+    "oldPrice": null,
+    "newPrice": 4.49,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fb15640b-e036-4e14-b0e7-99399c6b6503/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/oliwki-zielone-drylowane-auchan-320-g/00513525",
+    "note": "2  za 7,98 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Kuchnie Świata",
+    "name": "Przecier pomidorowy Primo Gusto 500 g",
+    "oldPrice": null,
+    "newPrice": 6.18,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/504fb957-80c6-425e-a696-b520c14494c4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/przecier-pomidorowy-primo-gusto-500-g/00018562",
+    "note": "Drugi 60% taniej"
+  },
+  {
+    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Jogurt Skyr mango -  marakuja   Bakoma 300 g",
-    "oldPrice": 6.59,
-    "newPrice": 4.85,
-    "discountPct": 26,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/762a88a2-fba3-4872-8927-f8c03e6135e7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jogurt-skyr-mango-marakuja-bakoma-300-g/00609637",
+    "name": "Kefir polski naturalny Mlekovita 1 l",
+    "oldPrice": 5.69,
+    "newPrice": 3.95,
+    "discountPct": 31,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b32eea22-4379-4b89-bf86-21ccc1d67b9a/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/kefir-polski-naturalny-mlekovita-1-l/00267265",
     "note": null
   },
   {
@@ -441,17 +430,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Napoje",
-    "name": "Woda kokosowa Vita 1 l",
-    "oldPrice": null,
-    "newPrice": 10.69,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b122eb62-50fb-40e6-b168-430c6c4087f1/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/woda-kokosowa-vita-1-l/00232889",
-    "note": "Drugi 60% taniej"
-  },
-  {
-    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Jabłka Owoce  Auchan 3 kg",
     "oldPrice": 8.99,
@@ -463,25 +441,36 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Jogurt Skyr malina – truskawka  Bakoma 300 g",
-    "oldPrice": 6.59,
-    "newPrice": 4.85,
-    "discountPct": 26,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/87d89fa4-1588-49d0-852b-19051c1ad1a6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jogurt-skyr-malina-truskawka-bakoma-300-g/00609638",
+    "category": "Higiena ciała",
+    "name": "Mydło kostka regular  Dove 90 g",
+    "oldPrice": 5.98,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4b7eaa36-d7c9-4e86-b97d-9db97960939b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mydlo-kostka-regular-dove-90-g/00273615",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Napoje",
-    "name": "Niegazowany napój herbaciany ZERO z ekstraktem z zielonej herbaty Lipton 1,5 l",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a2483ce1-1396-49b2-bb49-c8496892e20d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/niegazowany-napoj-herbaciany-zero-z-ekstraktem-z-zielonej-herbaty-lipton-1-5-l/00634200",
-    "note": "2+1 za grosz"
+    "category": "Mleko, nabiał i jaja",
+    "name": "Jogurt Skyr mango -  marakuja   Bakoma 300 g",
+    "oldPrice": 6.59,
+    "newPrice": 4.85,
+    "discountPct": 26,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/762a88a2-fba3-4872-8927-f8c03e6135e7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-skyr-mango-marakuja-bakoma-300-g/00609637",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Tradycyjne masło irlandzkie 82% Kerrygold 200 g",
+    "oldPrice": 10.68,
+    "newPrice": 9.85,
+    "discountPct": 8,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/512ad840-be4f-4c25-82ef-fedeb86550bf/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/tradycyjne-maslo-irlandzkie-82-kerrygold-200-g/00188827",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -492,28 +481,6 @@
     "discountPct": 17,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fd558076-1ea6-45ae-a68d-03025e695cb9/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/warzywa-na-patelnie-po-wlosku-auchan-450-g/00220514",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Biszkopty z galaretką wiśniową oblane czekoladą Delicje 147 g",
-    "oldPrice": null,
-    "newPrice": 6.38,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0ccb532f-b5a8-4e5b-b369-19feeba9de3d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/biszkopty-z-galaretka-wisniowa-oblane-czekolada-delicje-147-g/00270580",
-    "note": "2+2 za grosz każdy"
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Buraki gotowane tarte  Auchan 500 g ",
-    "oldPrice": 4.19,
-    "newPrice": 3.49,
-    "discountPct": 17,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/47b7538a-d3fb-4b19-a4a0-a67855aa2296/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/buraki-gotowane-tarte-auchan-500-g/00859722",
     "note": null
   },
   {
@@ -529,13 +496,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Czekolada mleczna z całymi orzechami laskowymi Nussbeisser 100 g",
-    "oldPrice": 9.48,
-    "newPrice": 8.98,
-    "discountPct": 5,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ac9db161-80e8-4280-8ff7-8c3c40ee6ff2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czekolada-mleczna-z-calymi-orzechami-laskowymi-nussbeisser-100-g/00056873",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Jogurt Skyr malina – truskawka  Bakoma 300 g",
+    "oldPrice": 6.59,
+    "newPrice": 4.85,
+    "discountPct": 26,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/87d89fa4-1588-49d0-852b-19051c1ad1a6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-skyr-malina-truskawka-bakoma-300-g/00609638",
     "note": null
   },
   {
@@ -548,5 +515,38 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/89e96e51-d059-43c6-8094-4c7c2275d057/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/makaron-bavette-z-semoliny-z-pszenicy-durum-barilla-500-g/00297235",
     "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Buraki gotowane tarte  Auchan 500 g ",
+    "oldPrice": 4.19,
+    "newPrice": 3.49,
+    "discountPct": 17,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/47b7538a-d3fb-4b19-a4a0-a67855aa2296/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/buraki-gotowane-tarte-auchan-500-g/00859722",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Czekolada mleczna z całymi orzechami laskowymi Nussbeisser 100 g",
+    "oldPrice": 9.48,
+    "newPrice": 8.98,
+    "discountPct": 5,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ac9db161-80e8-4280-8ff7-8c3c40ee6ff2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/czekolada-mleczna-z-calymi-orzechami-laskowymi-nussbeisser-100-g/00056873",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Dżem z truskawek o obniżonej zawartości cukrów Łowicz 210 g",
+    "oldPrice": 9.89,
+    "newPrice": 6.99,
+    "discountPct": 29,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/eddc4dd0-360c-4cc3-abc4-db1aeac9c483/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/dzem-z-truskawek-o-obnizonej-zawartosci-cukrow-lowicz-210-g/00355275",
+    "note": null
   }
 ]
