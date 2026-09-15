@@ -133,17 +133,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": 4.99,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus; zy zakupie 3 opak. Limi",
-    "image": "https://imgproxy-retcat.assets.schwarz/oiApEpmca0EhY1FqxgeWtvsV5g2CorVgPckjafTOIHA/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9EODU0OUY3RDFERjU4RTA4RTNGRTVDNjc/4REZFMkFEMDkwNUFGRThEMTk4OUE1QTcyQTI0QURFRTBBMTMyRjE2LmpwZw.jpg",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p10037390"
-  },
-  {
-    "store": "Lidl",
     "category": "Mleko i śmietana",
     "name": "MLEKOVITA Mleko UHT 3,2% Twój Kubek",
     "oldPrice": 3.99,
@@ -163,17 +152,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://imgproxy-retcat.assets.schwarz/SQEaU12lAf5g3dwhRaPxngswK5QNlQ8YzTiVphD8SjY/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY4QUZFMDA1RDQ1MDU0QUNGODM1MjlCNj/lCQ0FCNzExQUVCRjJDMkFBODQwRjlFQzZEMUIxNjY5RkE4NTk2REEucG5n.png",
     "url": "https://www.lidl.pl/p/rzeznik-lopatka-wieprzowa/p10037392"
-  },
-  {
-    "store": "Lidl",
-    "category": "Suszone owoce i orzechy",
-    "name": "ALESTO Orzechy nerkowca",
-    "oldPrice": null,
-    "newPrice": 9.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://imgproxy-retcat.assets.schwarz/pd1ozN-yyCMO01UFwfdNAoo3g7IRldjS8eWa0kfHlek/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZENEQ2RDQwQjFFRTI3MjY3REM5QkNBRj/JDMEFCRjk2NjlEN0Q0MjgxQjkxQjM1Njc0Mjk5QTkyOThFOTZCNjEucG5n.png",
-    "url": "https://www.lidl.pl/p/alesto-orzechy-nerkowca/p10037394"
   },
   {
     "store": "Lidl",
@@ -595,6 +573,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Owoce",
+    "name": "Limetki",
+    "oldPrice": 1.99,
+    "newPrice": 0.99,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://imgproxy-retcat.assets.schwarz/Lp-RsZypLbcH85wQO_4NBOSAvKPwYzayuHY0vmfgo4M/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M3NEQ0RDNFNzBEQTBEOTkyQzIxQzEzNj/ZDMjNGNTlENDA5QjAwMDNCQUEwMjQ3MTM0RDA4NDE5NEFGNjgxNkMucG5n.png",
+    "url": "https://www.lidl.pl/p/limetki/p10037442"
+  },
+  {
+    "store": "Lidl",
     "category": "Piwo i cydr",
     "name": "Funky Fluid Double Peacharine",
     "oldPrice": null,
@@ -845,6 +834,17 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/O-VkF5lQC15wRuks980mR1TXzZUiRlClLN1IOTe9uzg/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS81MjVCQ0JGNTA0QURFNzQ1ODRDMjIxM0Y/wQzNFNEU1MzBBRjFBOUJBMDY1NzVDNUY0QkRDQkM0RDNFNDU3NkI2LmpwZw.jpg",
     "url": "https://www.lidl.pl/p/stu-mostow-black-ipa/p10036998"
+  },
+  {
+    "store": "Lidl",
+    "category": "Artykuły ogrodnicze",
+    "name": "PARKSIDE® Zestaw mat kokosowych, 10 sztuk (Okrągły)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp1ca1365d726045469b33af678cbea6c1.jpg",
+    "url": "https://www.lidl.pl/p/parkside-zestaw-mat-kokosowych-10-sztuk/p100411895001"
   },
   {
     "store": "Lidl",

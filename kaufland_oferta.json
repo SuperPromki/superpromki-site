@@ -2,31 +2,81 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Krakus (Szynka w stylu włoskim)",
-    "oldPrice": 5.19,
-    "newPrice": 2.99,
-    "discountPct": 42,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20283180_P",
+    "name": "Polska marchew",
+    "oldPrice": 19.99,
+    "newPrice": 6.99,
+    "discountPct": 65,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700464_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Krakus (Szynka konserwowa eksportowa)",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00037837_P",
+    "name": "Polska papryka czerwona",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Olewnik (Szynka wędzarza)",
+    "name": "Polskie buraki czerwone",
+    "oldPrice": 8.99,
+    "newPrice": 4.49,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700468_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Polski seler korzeń",
+    "oldPrice": 19.99,
+    "newPrice": 9.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702133_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Kaczka tuszka",
+    "oldPrice": 16.99,
+    "newPrice": 8.99,
+    "discountPct": 47,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2816830000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Polska cebula żółta",
+    "oldPrice": 14.99,
+    "newPrice": 7.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700461_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Winogrona jasne",
+    "oldPrice": 12.99,
+    "newPrice": 6.99,
+    "discountPct": 46,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700015_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Polski arbuz",
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823290000000_PL_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -52,26 +102,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Krakus (Boczek od Szwagra)",
-    "oldPrice": 4.89,
-    "newPrice": 2.99,
-    "discountPct": 38,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20676557_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Sokołów (Szynka jak u Dziadka)",
-    "oldPrice": 4.89,
-    "newPrice": 2.99,
-    "discountPct": 38,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20949186_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Spomlek Old Poland (Ser\nGrand Radamer/Grand Gouda)",
     "oldPrice": 4.79,
     "newPrice": 2.99,
@@ -82,11 +112,11 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Krakus (Kiełbasa krucha od Szwagra)",
-    "oldPrice": 4.69,
-    "newPrice": 2.99,
+    "name": "Kapusta kiszona",
+    "oldPrice": 18.99,
+    "newPrice": 11.99,
     "discountPct": 36,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20787463_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902003060225_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -132,81 +162,41 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Mlekovita La Polle (Ser Pleśniowy\nCamembert, Brie)",
+    "name": "Cytryny",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367108518_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Gruszki",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5907441288378_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Polska kapusta (na gołąbki)",
     "oldPrice": 5.99,
     "newPrice": 3.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00105169_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00091932_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Danio (Serek homogenizowany)",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
+    "name": "K-Stąd Takie Dobre (Seler naciowy)",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20179897_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Delicje Szampańskie (Biszkopty z galaretką)",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02801870_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Doritos (Nachosy)",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20099168_512",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Madej Wróbel (Szynka lub Schab)",
-    "oldPrice": 7.49,
-    "newPrice": 4.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20939056",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "K-Gold Edition (Szynka włoska dojrzewająca)",
-    "oldPrice": 11.99,
-    "newPrice": 7.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20920971",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Tarczyński (Krakowska sucha z szynki)",
-    "oldPrice": 29.99,
-    "newPrice": 19.99,
-    "discountPct": 33,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20087816_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Śliwki podłużne (luzem)",
-    "oldPrice": 7.99,
-    "newPrice": 3.49,
-    "discountPct": 56,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658941",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -217,6 +207,16 @@
     "newPrice": 3.99,
     "discountPct": 60,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.49,
+    "discountPct": 56,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -377,16 +377,6 @@
     "newPrice": 19.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20783894_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Śliwki podłużne (luzem)",
-    "oldPrice": 7.99,
-    "newPrice": 3.49,
-    "discountPct": 56,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -677,6 +667,36 @@
     "newPrice": 2.99,
     "discountPct": 40,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2832740000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.49,
+    "discountPct": 56,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kaczka tuszka",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00053876_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kaczka tuszka",
+    "oldPrice": 16.99,
+    "newPrice": 8.99,
+    "discountPct": 47,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2816830000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3192,6 +3212,236 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Esperanza (Maszynka do strzyżenia)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901299949634_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Suszarko-lokówka (CBWC1000 A1)",
+    "oldPrice": null,
+    "newPrice": 69.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627816604_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parownica PC-DG 3124",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20946631_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esperanza (Golarka do ubrań Cuddly)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901299931011_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Remington (Prostownica S3700\nmoc 230 W)",
+    "oldPrice": null,
+    "newPrice": 117.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20788089_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Clatronic (Suszarka do włosów)",
+    "oldPrice": null,
+    "newPrice": 34.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4006160300901_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tronic (Baterie guzikowe XXL\n48 elem.)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627930225_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "GP Poland (Baterie Super)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20670842_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "GP Poland (Baterie Super)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20670843_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Osram (Żarówka LED A60E27)",
+    "oldPrice": null,
+    "newPrice": 11.49,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123944_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tristar (Bezprzewodowy\nodkurzacz SZ-1920KL)",
+    "oldPrice": null,
+    "newPrice": 190.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8711658525099_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tristar (Mikser ręczny MX-4204KL\nmoc: 200 W)",
+    "oldPrice": null,
+    "newPrice": 34.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8711658525211_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Blender ręczny (MX-4850KL\nmoc 250 W)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8712836999787_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "BOSCH (Robot kuchenny\nMUMS2AW00)",
+    "oldPrice": null,
+    "newPrice": 379.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4242005252114_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tristar (Opiekacz do kanapek\nSA-3052KL 750 W)",
+    "oldPrice": null,
+    "newPrice": 32.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8712836999978_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Switch ON (Czajnik cyfrowy 1,7L\nmoc 3000 W)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627575853_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Książka (różne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977429_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Książka (różne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977430_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Książka (różne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 16.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977431_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Książka (różne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980385_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Książka (różne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975844_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Taśma pakowa\n6 sztuk)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634024849_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Taśma pakowa\n6 sztuk)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634024856_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "SilverCrest (Maszyna do szycia SNM 33)",
     "oldPrice": null,
     "newPrice": 399.0,
@@ -3487,236 +3737,6 @@
     "newPrice": 10.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/7638900438277_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esperanza (Maszynka do strzyżenia)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901299949634_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Suszarko-lokówka (CBWC1000 A1)",
-    "oldPrice": null,
-    "newPrice": 69.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627816604_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parownica PC-DG 3124",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20946631_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esperanza (Golarka do ubrań Cuddly)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901299931011_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Remington (Prostownica S3700\nmoc 230 W)",
-    "oldPrice": null,
-    "newPrice": 117.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20788089_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Clatronic (Suszarka do włosów)",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4006160300901_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tronic (Baterie guzikowe XXL\n48 elem.)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627930225_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "GP Poland (Baterie Super)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20670842_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "GP Poland (Baterie Super)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20670843_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Osram (Żarówka LED A60E27)",
-    "oldPrice": null,
-    "newPrice": 11.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123944_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tristar (Bezprzewodowy\nodkurzacz SZ-1920KL)",
-    "oldPrice": null,
-    "newPrice": 190.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8711658525099_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tristar (Mikser ręczny MX-4204KL\nmoc: 200 W)",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8711658525211_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Blender ręczny (MX-4850KL\nmoc 250 W)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8712836999787_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "BOSCH (Robot kuchenny\nMUMS2AW00)",
-    "oldPrice": null,
-    "newPrice": 379.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4242005252114_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tristar (Opiekacz do kanapek\nSA-3052KL 750 W)",
-    "oldPrice": null,
-    "newPrice": 32.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8712836999978_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Switch ON (Czajnik cyfrowy 1,7L\nmoc 3000 W)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627575853_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Książka (różne rodzaje)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977429_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Książka (różne rodzaje)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977430_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Książka (różne rodzaje)",
-    "oldPrice": null,
-    "newPrice": 16.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20977431_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Książka (różne rodzaje)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980385_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Książka (różne rodzaje)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975844_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Taśma pakowa\n6 sztuk)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634024849_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Taśma pakowa\n6 sztuk)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634024856_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5062,986 +5082,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Parkside (Kabura narzędziowa)",
-    "oldPrice": null,
-    "newPrice": 21.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627897917_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Kabura narzędziowa)",
-    "oldPrice": null,
-    "newPrice": 21.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627897924_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Akumulatorowa szlifierka\nkątowa)",
-    "oldPrice": null,
-    "newPrice": 399.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627850684_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Akumulatorowy laser krzyżowy)",
-    "oldPrice": null,
-    "newPrice": 499.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627855795_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Tester okablowania)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627424274_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Tester napięcia)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627424267_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Akumulator inteligentny 20V)",
-    "oldPrice": null,
-    "newPrice": 129.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627708176_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Inteligentny akumulator 20V)",
-    "oldPrice": null,
-    "newPrice": 199.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627708220_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Obuwie ochronne S3)",
-    "oldPrice": null,
-    "newPrice": 129.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627880643_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Akumulatorowy sekator 20V)",
-    "oldPrice": null,
-    "newPrice": 119.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541222_V01__23DA00_FS_EU-KL_NFVP-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw kluczy z grzechotką\ni bitami)",
-    "oldPrice": null,
-    "newPrice": 49.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627856716_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Odkurzacz na mokro i sucho)",
-    "oldPrice": null,
-    "newPrice": 149.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627127564_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Akumulator Smart)",
-    "oldPrice": null,
-    "newPrice": 129.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632000890_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Inteligentny akumulator)",
-    "oldPrice": null,
-    "newPrice": 199.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20715657_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Multimetr zaciskowy)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627148125_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Multimetr kołkowy)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627148132_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Livarno (Dywanik kuchenny\nwym. 65x180 cm)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D540978_S-B-Kuechenlaeufer-65x180cm-Vinyl-VA-65x180cm-v01__23XX1A_FS_EU-KL_NFVP",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Livarno (Dywanik kuchenny\nwym. 65x180 cm)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D540978_S-A-Kuechenlaeufer-65x180cm-Vinyl-VA-65x180cm-v01__23XX1A_FS_EU-KL_NFVP",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870422_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870392_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Kurtka przeciwdeszczowa)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910739_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Kurtka przeciwdeszczowa)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910791_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Kurtka przeciwdeszczowa)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910760_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870293_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Płaszcz przeciwdeszczowy)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910630_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870255_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Płaszcz przeciwdeszczowy)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910661_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Płaszcz przeciwdeszczowy)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910609_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Wiertarko-wkrętarka)",
-    "oldPrice": null,
-    "newPrice": 349.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627843044_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Lupilu (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870620_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Lupilu (Kalosze)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870675_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Koszulka polo (rozm. 110-152\n2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853630_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Koszulka polo (rozm. 110-152\n2 szt.)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853678_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Koszulki polo (rozm. 110-152\n2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853715_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Koszulki polo (rozm. 110-152\n2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853753_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Coca Cola (Bokserki\nrozm. M-XXL, 2 pary)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5420026677904_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Jeansy\nrozm. 36-46)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541224_S-B-D-Jeans-Elastic-Waist-Wide-Leg-RCS-CO-PES-36-vs-v01__23XX1A_FS_EU-KL_NFVP",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Jeansy\nrozm. 36-44)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541224_S-A-D-Jeans-Elastic-Waist-Wide-Leg-RCS-CO-PES-36-vs-v01__23XX1A_FS_EU-KL_NFVP",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
-    "oldPrice": null,
-    "newPrice": 26.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883378_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
-    "oldPrice": null,
-    "newPrice": 26.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883347_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
-    "oldPrice": null,
-    "newPrice": 26.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883408_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Crivit (Skarpetki sportowe\nrozm. 35-46)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627826382_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Crivit (Skarpetki sportowe\nrozm. 35-40)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627826337_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Crivit (Skarpetki sportowe\nrozm. 35-40)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627762871_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Skarpety\nrozm. 39-46)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627890147_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Skarpety\nrozm. 39-46)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627890123_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kapcie dziecięce (rozm. 28-35)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20897883_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Bluey (Majtki dziewczęce\nróżne wzory i kolory)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4044208800600_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara Men (Podkoszulki\nrozm. M-XL)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627934797_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Topy 5 par\nrozm. M-L)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627893537_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "ICLO (Skarpetki)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20608291_%281%29",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Puma (Buty\nrozm. 37-46)",
-    "oldPrice": null,
-    "newPrice": 149.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367434792_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Bokserki",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20740735_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Szczęki/E.T. (Piżama damska)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367373558_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Folie ochronne\n2 sztuki)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686733_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Pistolet do wyciskania)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686771_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Wałek do malowania\ndługość: 180 mm)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686726_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw szpachlówek\n2 elementy)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686788_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw zapasowych wałków\n2 elementy)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686702_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Szpachla i wygładzacz\n2 elementy)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686740_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw do ręcznego ścierania\n3 elementy)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686757_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Drążek rozsuwany\ndługość: 73 cm)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686764_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw wałków malarskich\n8 elementów)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686696_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw pędzli\n5 elementów)",
-    "oldPrice": null,
-    "newPrice": 7.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686719_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Regał 3 półkowy (80x30x95 cm)",
-    "oldPrice": null,
-    "newPrice": 75.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981576_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Scotch® (Taśma naprawcza orange)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20868416_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (4V Spryskiwacz ciśnieniowy)",
-    "oldPrice": null,
-    "newPrice": 25.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627782923_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Henkel (Pattex FIX\nTaśma dwustronna)",
-    "oldPrice": null,
-    "newPrice": 15.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00048640_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw tarcz tnących 12 szt)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627775949_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Tarcze ścierne na rzep)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627775543_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Odrdzewiacz)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747397_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Olej do wiercenia i cięcia)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747373_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Smar litowy)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747359_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Olej PTFE)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747335_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Smar grafitowy)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747311_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Olej silikonowy)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747298_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw śrubokrętów RCS)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627906688_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Wiertła HSS 130-części)",
-    "oldPrice": null,
-    "newPrice": 49.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883125_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Olej wielofunkcyjny)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747274_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "PARKSIDE (Zestaw szczypiec do nitów)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20761638_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw wierteł 7 elem.)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552984_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw bitów i pogłębiaczy)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552977_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "PARKSIDE (Zest. wierteł i gwintowników)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552953_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "PARKSIDE (Zestaw bitów i gwintowników)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552960_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Ściski jednoręczne 2 szt)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629070042_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Ściski jednoręczne)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629070059_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Szlifierka kątowa)",
-    "oldPrice": null,
-    "newPrice": 79.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066631047131_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw tarcz listkowych)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030031_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Tarcze do polerowania 2 szt)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030048_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Tarcza do czyszczenia)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030079_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw włókniny)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030062_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw tarcz do zdzierania)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030086_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Zestaw tarcz diamentowych)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627157738_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Wózek transportowy okrągły)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634087462_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Wózek transportowy)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634087455_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parasol (śr. 92 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20290406_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Parasol śr. 105 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627921063_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Parasol śr. 105 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627921056_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "PARKSIDE (Wyrzynarka akumulatorowa 20V)",
     "oldPrice": null,
     "newPrice": 129.0,
@@ -7327,6 +6367,986 @@
     "newPrice": 149.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20977801_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Kabura narzędziowa)",
+    "oldPrice": null,
+    "newPrice": 21.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627897917_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Kabura narzędziowa)",
+    "oldPrice": null,
+    "newPrice": 21.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627897924_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Akumulatorowa szlifierka\nkątowa)",
+    "oldPrice": null,
+    "newPrice": 399.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627850684_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Akumulatorowy laser krzyżowy)",
+    "oldPrice": null,
+    "newPrice": 499.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627855795_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Tester okablowania)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627424274_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Tester napięcia)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627424267_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Akumulator inteligentny 20V)",
+    "oldPrice": null,
+    "newPrice": 129.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627708176_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Inteligentny akumulator 20V)",
+    "oldPrice": null,
+    "newPrice": 199.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627708220_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Obuwie ochronne S3)",
+    "oldPrice": null,
+    "newPrice": 129.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627880643_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Akumulatorowy sekator 20V)",
+    "oldPrice": null,
+    "newPrice": 119.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541222_V01__23DA00_FS_EU-KL_NFVP-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw kluczy z grzechotką\ni bitami)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627856716_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Odkurzacz na mokro i sucho)",
+    "oldPrice": null,
+    "newPrice": 149.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627127564_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Akumulator Smart)",
+    "oldPrice": null,
+    "newPrice": 129.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066632000890_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Inteligentny akumulator)",
+    "oldPrice": null,
+    "newPrice": 199.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20715657_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Multimetr zaciskowy)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627148125_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Multimetr kołkowy)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627148132_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Livarno (Dywanik kuchenny\nwym. 65x180 cm)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D540978_S-B-Kuechenlaeufer-65x180cm-Vinyl-VA-65x180cm-v01__23XX1A_FS_EU-KL_NFVP",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Livarno (Dywanik kuchenny\nwym. 65x180 cm)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D540978_S-A-Kuechenlaeufer-65x180cm-Vinyl-VA-65x180cm-v01__23XX1A_FS_EU-KL_NFVP",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870422_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870392_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Kurtka przeciwdeszczowa)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910739_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Kurtka przeciwdeszczowa)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910791_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Kurtka przeciwdeszczowa)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910760_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870293_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Płaszcz przeciwdeszczowy)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910630_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870255_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Płaszcz przeciwdeszczowy)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910661_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Płaszcz przeciwdeszczowy)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627910609_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Wiertarko-wkrętarka)",
+    "oldPrice": null,
+    "newPrice": 349.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627843044_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lupilu (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870620_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lupilu (Kalosze)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627870675_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Koszulka polo (rozm. 110-152\n2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853630_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Koszulka polo (rozm. 110-152\n2 szt.)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853678_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Koszulki polo (rozm. 110-152\n2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853715_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Koszulki polo (rozm. 110-152\n2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627853753_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Coca Cola (Bokserki\nrozm. M-XXL, 2 pary)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5420026677904_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Jeansy\nrozm. 36-46)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541224_S-B-D-Jeans-Elastic-Waist-Wide-Leg-RCS-CO-PES-36-vs-v01__23XX1A_FS_EU-KL_NFVP",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Jeansy\nrozm. 36-44)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D541224_S-A-D-Jeans-Elastic-Waist-Wide-Leg-RCS-CO-PES-36-vs-v01__23XX1A_FS_EU-KL_NFVP",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
+    "oldPrice": null,
+    "newPrice": 26.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883378_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
+    "oldPrice": null,
+    "newPrice": 26.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883347_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Spodnie dresowe\nrozm. S-L)",
+    "oldPrice": null,
+    "newPrice": 26.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883408_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Crivit (Skarpetki sportowe\nrozm. 35-46)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627826382_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Crivit (Skarpetki sportowe\nrozm. 35-40)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627826337_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Crivit (Skarpetki sportowe\nrozm. 35-40)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627762871_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Skarpety\nrozm. 39-46)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627890147_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Skarpety\nrozm. 39-46)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627890123_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kapcie dziecięce (rozm. 28-35)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20897883_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bluey (Majtki dziewczęce\nróżne wzory i kolory)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4044208800600_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara Men (Podkoszulki\nrozm. M-XL)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627934797_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Esmara (Topy 5 par\nrozm. M-L)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627893537_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "ICLO (Skarpetki)",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20608291_%281%29",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Puma (Buty\nrozm. 37-46)",
+    "oldPrice": null,
+    "newPrice": 149.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367434792_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bokserki",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20740735_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Szczęki/E.T. (Piżama damska)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4063367373558_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Folie ochronne\n2 sztuki)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686733_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Pistolet do wyciskania)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686771_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Wałek do malowania\ndługość: 180 mm)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686726_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw szpachlówek\n2 elementy)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686788_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw zapasowych wałków\n2 elementy)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686702_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Szpachla i wygładzacz\n2 elementy)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686740_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw do ręcznego ścierania\n3 elementy)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686757_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Drążek rozsuwany\ndługość: 73 cm)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686764_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw wałków malarskich\n8 elementów)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686696_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw pędzli\n5 elementów)",
+    "oldPrice": null,
+    "newPrice": 7.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627686719_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Regał 3 półkowy (80x30x95 cm)",
+    "oldPrice": null,
+    "newPrice": 75.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981576_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Scotch® (Taśma naprawcza orange)",
+    "oldPrice": null,
+    "newPrice": 15.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20868416_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (4V Spryskiwacz ciśnieniowy)",
+    "oldPrice": null,
+    "newPrice": 25.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627782923_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Henkel (Pattex FIX\nTaśma dwustronna)",
+    "oldPrice": null,
+    "newPrice": 15.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00048640_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw tarcz tnących 12 szt)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627775949_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Tarcze ścierne na rzep)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627775543_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Odrdzewiacz)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747397_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Olej do wiercenia i cięcia)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747373_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Smar litowy)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747359_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Olej PTFE)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747335_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Smar grafitowy)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747311_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Olej silikonowy)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747298_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw śrubokrętów RCS)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627906688_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Wiertła HSS 130-części)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627883125_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Olej wielofunkcyjny)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627747274_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "PARKSIDE (Zestaw szczypiec do nitów)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20761638_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw wierteł 7 elem.)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552984_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw bitów i pogłębiaczy)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552977_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "PARKSIDE (Zest. wierteł i gwintowników)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552953_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "PARKSIDE (Zestaw bitów i gwintowników)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627552960_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Ściski jednoręczne 2 szt)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629070042_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Ściski jednoręczne)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066629070059_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Szlifierka kątowa)",
+    "oldPrice": null,
+    "newPrice": 79.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066631047131_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw tarcz listkowych)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030031_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Tarcze do polerowania 2 szt)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030048_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Tarcza do czyszczenia)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030079_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw włókniny)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030062_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw tarcz do zdzierania)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634030086_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Zestaw tarcz diamentowych)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627157738_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Wózek transportowy okrągły)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634087462_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Wózek transportowy)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066634087455_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parasol (śr. 92 cm)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20290406_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Parasol śr. 105 cm)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627921063_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside (Parasol śr. 105 cm)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627921056_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
