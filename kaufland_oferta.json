@@ -22,16 +22,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Flora (Tłuszcz do smarowania\n400 g opakowanie)",
     "oldPrice": 11.89,
     "newPrice": 5.99,
@@ -57,16 +47,6 @@
     "newPrice": 2.99,
     "discountPct": 41,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2852490000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Imbir (luzem)",
-    "oldPrice": 24.9,
-    "newPrice": 14.9,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700065_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -162,16 +142,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Polskie pieczarki",
-    "oldPrice": 13.99,
-    "newPrice": 8.99,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830220000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Żeberka wieprzowe (ekstramięsne)",
     "oldPrice": 16.99,
     "newPrice": 10.99,
@@ -197,6 +167,36 @@
     "newPrice": 2.49,
     "discountPct": 34,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20944303_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Łaciata (Śmietana 18% tł.)",
+    "oldPrice": 5.39,
+    "newPrice": 3.59,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00110821_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "K-Classic (Ser Mozzarella)",
+    "oldPrice": 2.99,
+    "newPrice": 1.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4008432022023_23P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Belin (Herbata liściasta)",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20750015",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -737,86 +737,6 @@
     "newPrice": 149.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627850806_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie pieczarki",
-    "oldPrice": 13.99,
-    "newPrice": 8.99,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830220000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski wrzos pączkowy",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016153_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzos dwukolorowy (śr. don. 10,5 cm)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016154_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Storczyk 1-pędowy (śr. don. 12 cm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09900239_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Chryzantema średniokwiatowa (śr. don. 10,5 cm)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09902200_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Imbir (luzem)",
-    "oldPrice": 24.9,
-    "newPrice": 14.9,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700065_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cytryny",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4792,31 +4712,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Parkside (Akumulator 20 V  4 Ah)",
-    "oldPrice": 129.0,
-    "newPrice": 119.0,
-    "discountPct": 7,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627977176_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Parkside (Dmuchawa do liści)",
     "oldPrice": null,
     "newPrice": 149.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627406300_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "PARKSIDE (Akumulator 20V 4Ah)",
-    "oldPrice": 129.0,
-    "newPrice": 119.0,
-    "discountPct": 7,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627093326_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5717,26 +5617,6 @@
     "newPrice": 99.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627852640_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "PARKSIDE (Akumulator 20V 2Ah)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627088094_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside (Akumulator 20V 2Ah)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066628072559_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7547,16 +7427,6 @@
     "newPrice": 3.99,
     "discountPct": 20,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700061C_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska sałata masłowa",
-    "oldPrice": 3.99,
-    "newPrice": 2.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008555_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {

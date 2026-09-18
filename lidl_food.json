@@ -34,17 +34,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Pepsi, Pepsi Zero, Pepsi Twist, Mirinda lub 7UP",
-    "oldPrice": null,
-    "newPrice": 10.15,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://imgproxy-retcat.assets.schwarz/s3TZ71PCVn-Pn28s6htgV_5-TxS_cN4bXZBs-5mnsb4/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzcxQzg3RkY2RUY3ODk2NTVBRkY2RUE0NT/cxNzIxRjA4Q0IyMjk5QUE1NkZGOEFBMEU0RTMwNkQ2N0M4QzQ4NDMucG5n.png",
-    "url": "https://www.lidl.pl/p/pepsi-pepsi-zero-pepsi-twist-mirinda-lub-7up/p10037444"
-  },
-  {
-    "store": "Lidl",
     "category": "Wieprzowina",
     "name": "RZEŹNIK Mięso mielone z łopatki wieprzowej",
     "oldPrice": null,
@@ -317,6 +306,17 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/cnTITtZEzM2ldvu8CM7kv-2PhlvkXC0aRD8QlWa-lgY/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q1Rjg2RDdFNTc3MzQ4Mjc1NjZCOTczQT/JGQjRFRjgyMkU5QjY2QjU0N0MyMkYxQkZCMDQ4OTQzNzY2MzFCNEIucG5n.png",
     "url": "https://www.lidl.pl/p/mandarynki-luzem/p10037475"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Polskie pieczarki",
+    "oldPrice": 7.99,
+    "newPrice": 4.99,
+    "discountPct": 37,
+    "note": null,
+    "image": "https://imgproxy-retcat.assets.schwarz/oisMdszFAmeFpGd17AFpASJIiZNuHK9CidaS4YGSYh4/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZBQjk2NTc3NDNDMTA2RUQzOUY3Mzg5NU/I1MkY4NjE5QjdGRTI5QjU0QkYxMjY3NUIxRUVGRDU3NDdDM0M1NkMucG5n.png",
+    "url": "https://www.lidl.pl/p/polskie-pieczarki/p10037476"
   },
   {
     "store": "Lidl",
@@ -823,16 +823,5 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp1ca1365d726045469b33af678cbea6c1.jpg",
     "url": "https://www.lidl.pl/p/parkside-zestaw-mat-kokosowych-10-sztuk/p100411895001"
-  },
-  {
-    "store": "Lidl",
-    "category": "Gotowe posiłki",
-    "name": "Barszcz ukraiński",
-    "oldPrice": 13.99,
-    "newPrice": 12.99,
-    "discountPct": 7,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/xXP0Tax1CS6c5Kk1pl90X5_wlB6cQ0aGgQN_iMpkckM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9FRkJEQTg5RUJFNEY2QTQ1NkI1NzNCOTN/BMDg3MTk5RUQ0ODcxOUEwRTY0RjFBNzI4NDY4NzJEQkIxMzNEMzZCLmpwZw.jpg",
-    "url": "https://www.lidl.pl/p/barszcz-ukrainski/p4689017"
   }
 ]
