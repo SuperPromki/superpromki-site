@@ -52,6 +52,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Imbir (luzem)",
+    "oldPrice": 24.9,
+    "newPrice": 14.9,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700065_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Ser Mimolette",
     "oldPrice": 4.99,
     "newPrice": 2.99,
@@ -172,31 +182,21 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Cytryny",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Łaciata (Śmietana 18% tł.)",
     "oldPrice": 5.39,
     "newPrice": 3.59,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00110821_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "K-Classic (Ser Mozzarella)",
-    "oldPrice": 2.99,
-    "newPrice": 1.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4008432022023_23P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Belin (Herbata liściasta)",
-    "oldPrice": 14.99,
-    "newPrice": 9.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20750015",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -737,6 +737,66 @@
     "newPrice": 149.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627850806_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski wrzos pączkowy",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016153_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Wrzos dwukolorowy (śr. don. 10,5 cm)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00016154_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Storczyk 1-pędowy (śr. don. 12 cm)",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09900239_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Chryzantema średniokwiatowa (śr. don. 10,5 cm)",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09902200_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Imbir (luzem)",
+    "oldPrice": 24.9,
+    "newPrice": 14.9,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700065_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cytryny",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2806,7 +2866,7 @@
     "oldPrice": null,
     "newPrice": 2.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20963729_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20807431_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3393,9 +3453,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Subito (Wkład LED)",
-    "oldPrice": 7.99,
+    "oldPrice": null,
     "newPrice": 4.99,
-    "discountPct": 37,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20953886_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3453,9 +3513,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz solarny krzyż (wys. 22,5 cm, śr. 15 cm)",
-    "oldPrice": 59.99,
+    "oldPrice": null,
     "newPrice": 39.99,
-    "discountPct": 33,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20960733_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -7352,7 +7412,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polskie (borówki amerykańskie)",
+    "name": "Borówki amerykańskie",
     "oldPrice": 7.99,
     "newPrice": 5.99,
     "discountPct": 25,
@@ -7437,6 +7497,56 @@
     "newPrice": 4.49,
     "discountPct": 25,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/25008586_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bracia Koral (Lody)",
+    "oldPrice": null,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00053075_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MK CAFÉ CREMA (Kawa mielona)",
+    "oldPrice": 39.99,
+    "newPrice": 23.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20690634_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kosz wiklinowy (na grzyby)",
+    "oldPrice": null,
+    "newPrice": 69.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20974258",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mandarynki (luzem)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Polskie pomidory malinowe)",
+    "oldPrice": 13.99,
+    "newPrice": 5.89,
+    "discountPct": 57,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20898831_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
