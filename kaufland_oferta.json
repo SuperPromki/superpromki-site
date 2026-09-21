@@ -152,16 +152,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Żeberka wieprzowe (ekstramięsne)",
-    "oldPrice": 16.99,
-    "newPrice": 10.99,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100220_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Joyfood (Danie gotowe\nróżne rodzaje)",
     "oldPrice": 15.49,
     "newPrice": 9.99,
@@ -197,6 +187,16 @@
     "newPrice": 3.59,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00110821_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "K-Classic (Ser Mozzarella)",
+    "oldPrice": 2.99,
+    "newPrice": 1.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4008432022023_23P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -802,16 +802,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Mięso na gulasz (z szynki)",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100060_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Duda (Kiełbasa Mnicha)",
     "oldPrice": 3.99,
     "newPrice": 2.79,
@@ -847,116 +837,6 @@
     "newPrice": 3.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20169825",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Żeberka wieprzowe (płaty)",
-    "oldPrice": 15.99,
-    "newPrice": 11.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20098578_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Żeberka wieprzowe (ekstramięsne)",
-    "oldPrice": 16.99,
-    "newPrice": 10.99,
-    "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100220_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Szponder wołowy (krojony)",
-    "oldPrice": 35.99,
-    "newPrice": 31.9,
-    "discountPct": 11,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2800860000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Skiba (Kiełbasa biała surowa)",
-    "oldPrice": 11.99,
-    "newPrice": 8.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20915796",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Polędwiczka wieprzowa)",
-    "oldPrice": 29.99,
-    "newPrice": 26.99,
-    "discountPct": 10,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00094159_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-STOISKO MIĘSNE (Mięso mielone wołowe)",
-    "oldPrice": 16.99,
-    "newPrice": 12.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900562543500_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Filet z piersi indyka",
-    "oldPrice": 33.99,
-    "newPrice": 23.99,
-    "discountPct": 29,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_01000402_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Skrzydła z kurczaka",
-    "oldPrice": 8.99,
-    "newPrice": 6.99,
-    "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000394_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Udo z indyka",
-    "oldPrice": null,
-    "newPrice": 18.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000405A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Kaczka faszerowana)",
-    "oldPrice": 20.99,
-    "newPrice": 15.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20878219",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Drosed (Perliczka tuszka)",
-    "oldPrice": 39.99,
-    "newPrice": 29.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00300940A_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1027,16 +907,6 @@
     "newPrice": 3.69,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20987323",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Favourites (Argentyński Rib Eye\nstek)",
-    "oldPrice": null,
-    "newPrice": 129.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20754523_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1202,61 +1072,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Stoisko Mięsne (Noga z indyka)",
-    "oldPrice": null,
-    "newPrice": 13.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20979819_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Connoisseur (Pstrąg skandynawski)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20693675_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Brzuszki z łososia (wędzonego na gorąco)",
     "oldPrice": 3.49,
     "newPrice": 2.49,
     "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20950370",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Abramczyk (Dorsz czarny)",
-    "oldPrice": null,
-    "newPrice": 3.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981451_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mowi (Łosoś norweski\nze skórą)",
-    "oldPrice": 37.89,
-    "newPrice": 29.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20840344_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Abramczyk (Polędwiczki z mintaja)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20848154_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1842,16 +1662,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Cukiernia P. Chojecki (Ciasto Tiramisu)",
-    "oldPrice": 2.99,
-    "newPrice": 2.39,
-    "discountPct": 20,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20094431_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "7DAYS (Rogal giga)",
     "oldPrice": null,
     "newPrice": 4.99,
@@ -2217,6 +2027,16 @@
     "newPrice": 1.39,
     "discountPct": 30,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20172502_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Belin (Herbata ziołowa)",
+    "oldPrice": 1.99,
+    "newPrice": 1.39,
+    "discountPct": 30,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20172500_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2827,6 +2647,16 @@
     "newPrice": 22.99,
     "discountPct": 32,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20270385-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Moller's Omega - 3 (Żelki rybki dla dzieci)",
+    "oldPrice": 33.99,
+    "newPrice": 22.99,
+    "discountPct": 32,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20866495_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7352,6 +7182,276 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Drosed (Nuggetsy, Filety)",
+    "oldPrice": 13.99,
+    "newPrice": 9.99,
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00109058_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Starbucks Nespresso (Kapsułki)",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20345957-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Starbucks (Kawa w kapsułkach)",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00143843_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Starbucks (Kawa w kapsułkach)",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00143846_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kiwi",
+    "oldPrice": 1.99,
+    "newPrice": 1.49,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008562_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska papryka czerwona",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Jaja z chowu ściółkowego)",
+    "oldPrice": 11.49,
+    "newPrice": 7.49,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00089258_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Teekanne (Herbata zielona lub biała)",
+    "oldPrice": 5.49,
+    "newPrice": 3.99,
+    "discountPct": 27,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02401530_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Teekanne (Herbata zielona)",
+    "oldPrice": 5.49,
+    "newPrice": 3.99,
+    "discountPct": 27,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02402861_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Teekanne (Herbata zielona)",
+    "oldPrice": 5.49,
+    "newPrice": 3.99,
+    "discountPct": 27,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20682159",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Teekanne (Herbata biała\nMalina-Cytryna)",
+    "oldPrice": 5.49,
+    "newPrice": 3.99,
+    "discountPct": 27,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20797650",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Coca-Cola, Coca-Cola zero, (Fanta, Sprite\nNapój gazowany)",
+    "oldPrice": null,
+    "newPrice": 9.98,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876513_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Coca-Cola zero (Napój gazowany)",
+    "oldPrice": null,
+    "newPrice": 9.98,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20877205_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lindt Excellence (Czekolada)",
+    "oldPrice": 15.99,
+    "newPrice": 11.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/3046920028004_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lindt Excellence (Czekolada gorzka)",
+    "oldPrice": 15.99,
+    "newPrice": 11.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/3046920028370_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lindt Excellence (Czekolada gorzka 85%)",
+    "oldPrice": 15.99,
+    "newPrice": 11.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/3046920028363_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Lindt Excellence (Czekolada z chilli)",
+    "oldPrice": 15.99,
+    "newPrice": 11.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/7610400070577_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Primavera (Woda źródlana)",
+    "oldPrice": null,
+    "newPrice": 1.29,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20877478",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Primavera (Woda źródlana\nróżne rodzaje)",
+    "oldPrice": null,
+    "newPrice": 1.29,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20877379",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona ciemne",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830020000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Por (luzem)",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830040000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie jabłka Gala (luzem)",
+    "oldPrice": 4.99,
+    "newPrice": 3.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700870A",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cebula żółta",
+    "oldPrice": 3.99,
+    "newPrice": 1.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903111860080_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K- Stąd Takie Dobre (Polski brokuł)",
+    "oldPrice": 5.99,
+    "newPrice": 3.89,
+    "discountPct": 35,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700660_P-3",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Ogórki gruntowe (luzem)",
+    "oldPrice": 6.99,
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Brzoskwinie",
+    "oldPrice": 11.99,
+    "newPrice": 6.99,
+    "discountPct": 41,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903034458241_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Manufaktura Piwna (Piwo 4,7% alk.)",
     "oldPrice": 6.49,
     "newPrice": 4.99,
@@ -7367,6 +7467,36 @@
     "newPrice": 4.29,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2861670000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mosso (Sos węgierski)",
+    "oldPrice": 6.49,
+    "newPrice": 5.99,
+    "discountPct": 7,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20950571_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mosso (Sos włoski)",
+    "oldPrice": 6.49,
+    "newPrice": 5.99,
+    "discountPct": 7,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20950572_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mosso (Sos meksykański)",
+    "oldPrice": 6.49,
+    "newPrice": 5.99,
+    "discountPct": 7,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20950812_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
