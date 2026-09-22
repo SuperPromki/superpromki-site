@@ -199,17 +199,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": 4.99,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus; zy zakupie 3 opak. Limi",
-    "image": "https://imgproxy-retcat.assets.schwarz/oiApEpmca0EhY1FqxgeWtvsV5g2CorVgPckjafTOIHA/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9EODU0OUY3RDFERjU4RTA4RTNGRTVDNjc/4REZFMkFEMDkwNUFGRThEMTk4OUE1QTcyQTI0QURFRTBBMTMyRjE2LmpwZw.jpg",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p10037496"
-  },
-  {
-    "store": "Lidl",
     "category": "Mleko i śmietana",
     "name": "MLEKOVITA Mleko UHT 3,2%",
     "oldPrice": 3.99,
@@ -218,17 +207,6 @@
     "note": "wymaga aplikacji Lidl Plus; zy zakupie 6 opak. lub",
     "image": "https://imgproxy-retcat.assets.schwarz/_fiqE218lrEK9C9mWxIiVI-6nSj_iFsvEdt5uzqIDqA/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS8yMUM4NjU3NEY4QjVDMjFGODczRjNFNzF/BMTY2RTJFQ0Q5QzE4MzcyNjE4RkY4OEQ5QkZGNzI3QjJBOEVFNTNCLnBuZw.png",
     "url": "https://www.lidl.pl/p/mlekovita-mleko-uht-3-2/p10037497"
-  },
-  {
-    "store": "Lidl",
-    "category": "Dżemy, pasty do smarowania i miód",
-    "name": "NUTELLA Krem do smarowania",
-    "oldPrice": null,
-    "newPrice": 18.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://imgproxy-retcat.assets.schwarz/lx4dZN0-01zKEE7S5ZaOGHELBV3hOok7KQ0i4Lk8_Ag/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQyNDdENDVFNTNEOUFENzA0MzEzMzc0OE/NGMUE1OTNDNDQ2MTA3MTJENjAyOTdCOTM0Q0IyQ0Q1NzM1MDdFMjIucG5n.png",
-    "url": "https://www.lidl.pl/p/nutella-krem-do-smarowania/p10037498"
   },
   {
     "store": "Lidl",
@@ -526,6 +504,17 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/15zWuEslnADuQsRi5CqLHsG6ebhEAumZiRYqOpFEw4M/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFBRkUyMDZERjA1MEIwMzlBMURERkU1MD/VDMkVBMEQxMDEwNzU0QTdCRjAxMjFEODVENEUwQzA0OUYzRjkzNTUucG5n.png",
     "url": "https://www.lidl.pl/p/deluxe-chleb-z-zakwasami-recznie-skrecany/p10037529"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Polskie buraki czerwone, luzem",
+    "oldPrice": 2.99,
+    "newPrice": 1.49,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://imgproxy-retcat.assets.schwarz/KZG__IhaQNQyrdhxaZVQHxHMLAnuOlME9K17SU6rl00/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc4RDMyREU2NDZENkM5NDYzRTZBQTFCMU/UyNkNGNUFDRTMwNkQwMzI3QTNEOEIzNEY5MkExODJGODQ1NkQxN0QucG5n.png",
+    "url": "https://www.lidl.pl/p/polskie-buraki-czerwone-luzem/p10037530"
   },
   {
     "store": "Lidl",
