@@ -953,9 +953,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz szklany Róża (czas palenia 28 h)",
-    "oldPrice": 79.92,
+    "oldPrice": null,
     "newPrice": 59.96,
-    "discountPct": 24,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20960722_20zlot",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -8032,26 +8032,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polska rzodkiewka (pęczek)",
-    "oldPrice": 2.69,
-    "newPrice": 1.49,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie pieczarki",
-    "oldPrice": 15.99,
-    "newPrice": 9.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830220000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Awokado zielone",
     "oldPrice": 5.99,
     "newPrice": 4.99,
@@ -8343,9 +8323,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz szklany Róża (czas palenia 28 h)",
-    "oldPrice": 79.92,
+    "oldPrice": null,
     "newPrice": 59.96,
-    "discountPct": 24,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20960722_20zlot",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
