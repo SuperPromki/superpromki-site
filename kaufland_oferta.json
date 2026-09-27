@@ -2,6 +2,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 14.99,
+    "newPrice": 8.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Nektarynki (układane, luzem)",
     "oldPrice": 12.99,
     "newPrice": 5.99,
@@ -92,41 +102,21 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Szynka wieprzowa",
-    "oldPrice": 17.89,
-    "newPrice": 9.99,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728360",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Boczek wieprzowy (łuskany, bez kości, ze skórą)",
-    "oldPrice": 20.89,
-    "newPrice": 11.99,
-    "discountPct": 42,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00100721_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Wątroba z polskiego kurczaka",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000400B_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Kupiec (Wafle ryżowe w polewie)",
     "oldPrice": 4.99,
     "newPrice": 2.99,
     "discountPct": 40,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20870231",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Filet z piersi (polskiego kurczaka)",
+    "oldPrice": 24.7,
+    "newPrice": 14.99,
+    "discountPct": 39,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823030000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -197,6 +187,16 @@
     "newPrice": 4.49,
     "discountPct": 35,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20967482",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Lactima (Produkt spożywczy topiony)",
+    "oldPrice": 2.59,
+    "newPrice": 1.69,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00500403_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1112,6 +1112,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Filet z piersi (polskiego kurczaka)",
+    "oldPrice": 24.7,
+    "newPrice": 14.99,
+    "discountPct": 39,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823030000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Pamso (Pasztet Mistrza Jeremiego)",
     "oldPrice": null,
     "newPrice": 2.79,
@@ -1386,7 +1396,7 @@
     "oldPrice": 8.99,
     "newPrice": 7.99,
     "discountPct": 11,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893246_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20893246_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4192,176 +4202,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "W5 (Pokrowiec na ubrania)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627923067_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "W5 (Regał wiszący)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627923043_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Bergner (Zaparzacz do kawy\npoj. 0,8 l)",
-    "oldPrice": null,
-    "newPrice": 36.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849671959_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Rondel stalowy (śr. 16 cm)",
-    "oldPrice": null,
-    "newPrice": 49.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675841_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia wok (śr. 28 cm)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675780_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 28 cm)",
-    "oldPrice": null,
-    "newPrice": 54.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675766_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 24 cm)",
-    "oldPrice": null,
-    "newPrice": 43.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675728_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 20 cm)",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675704_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Znicz szklany Amfora (wys. 20 cm, śr.12 cm)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20343136_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Znicz Drzewo (bez wkładu)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20874156_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zapalarka długa",
-    "oldPrice": null,
-    "newPrice": 3.79,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904603487440_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Zapalarka lufka",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904603487020_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Wkład olejowy\nczas palenia 120 h)",
-    "oldPrice": null,
-    "newPrice": 6.29,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095547_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Wkład olejowy\nczas palenia 60 h)",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095550_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Angela (Wkład parafinowy\nczas palenia 50 h)",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00075995_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Angela (Wkład olejowy)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20349524_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Znicz szklany Kulka Ryfel",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20285383",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Esmara Men (Kamizelka\nr.M-XL)",
     "oldPrice": null,
     "newPrice": 59.99,
@@ -4897,6 +4737,176 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20980059_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "W5 (Pokrowiec na ubrania)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627923067_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "W5 (Regał wiszący)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627923043_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Bergner (Zaparzacz do kawy\npoj. 0,8 l)",
+    "oldPrice": null,
+    "newPrice": 36.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849671959_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Rondel stalowy (śr. 16 cm)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675841_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia wok (śr. 28 cm)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675780_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 28 cm)",
+    "oldPrice": null,
+    "newPrice": 54.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675766_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 24 cm)",
+    "oldPrice": null,
+    "newPrice": 43.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675728_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 20 cm)",
+    "oldPrice": null,
+    "newPrice": 34.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/6941849675704_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Znicz szklany Amfora (wys. 20 cm, śr.12 cm)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20343136_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Znicz Drzewo (bez wkładu)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20874156_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zapalarka długa",
+    "oldPrice": null,
+    "newPrice": 3.79,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904603487440_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Zapalarka lufka",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904603487020_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Classic (Wkład olejowy\nczas palenia 120 h)",
+    "oldPrice": null,
+    "newPrice": 6.29,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095547_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Classic (Wkład olejowy\nczas palenia 60 h)",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095550_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Angela (Wkład parafinowy\nczas palenia 50 h)",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00075995_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Angela (Wkład olejowy)",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20349524_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Znicz szklany Kulka Ryfel",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20285383",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8112,181 +8122,141 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Czosnek",
-    "oldPrice": 1.99,
-    "newPrice": 1.49,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/czosnek",
+    "name": "Nescafé (Kawa rozpuszczalna)",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02405040_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Maliny)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20266838",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska kukurydza",
-    "oldPrice": 7.99,
-    "newPrice": 5.49,
-    "discountPct": 31,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25051803_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie gruszki Konferencja",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2835900000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Awokado zielone",
-    "oldPrice": 5.99,
-    "newPrice": 4.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700119A_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polska sałata lodowa)",
+    "name": "Lajkonik (Paluszki)",
     "oldPrice": 4.99,
-    "newPrice": 3.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20658913",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mandarynki (luzem)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska dynia (luzem)",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830950000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Marchew (luzem)",
-    "oldPrice": null,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700082a-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polskie kiwi mini)",
-    "oldPrice": 5.99,
-    "newPrice": 4.89,
-    "discountPct": 18,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00111311_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wąwoźny (Kapusta kiszona)",
-    "oldPrice": 18.99,
-    "newPrice": 9.99,
-    "discountPct": 47,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20892643_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Fire & Flame (Węgiel drzewny)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950987039_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Fire & Flame (Brykiet drzewny)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950987398_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski kalafior",
-    "oldPrice": 9.99,
-    "newPrice": 3.99,
-    "discountPct": 60,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Aviko Original (Frytki)",
-    "oldPrice": 17.69,
-    "newPrice": 11.99,
+    "newPrice": 3.39,
     "discountPct": 32,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8710449944675_PL_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00086400_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Borówki amerykańskie",
-    "oldPrice": 7.99,
+    "name": "Tchibo Exclusive (Kawa mielona)",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02403703_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona jasne",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700015_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kurki",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00072181_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska pietruszka (korzeń)",
+    "oldPrice": 6.99,
     "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4260152137290_PL_P",
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830120000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Lay's Oven Baked (Chipsy)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20602161",
+    "name": "K- Stąd Takie Dobre (Polski brokuł)",
+    "oldPrice": 5.99,
+    "newPrice": 3.89,
+    "discountPct": 35,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700660_P-3",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Coca-Cola, Coca-Cola Zero (Napój gazowany)",
+    "name": "Ogórek długi",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893807_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 14.99,
+    "newPrice": 8.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Papryka czerwona",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pepsi, 7Up, Mirinda, (Mountain Dew\nNapój gazowany)",
     "oldPrice": null,
-    "newPrice": 14.94,
+    "newPrice": 3.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876778",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20882227_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pepsi, 7Up, Mirinda (Napój gazowany)",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20882242_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Śliwki podłużne (luzem)",
+    "oldPrice": 7.99,
+    "newPrice": 3.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20865920_sliwki",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska cebula żółta",
+    "oldPrice": 14.99,
+    "newPrice": 7.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700461_P-2",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8542,6 +8512,46 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Dafi (Wkłady filtrujące Classic)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00121045_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi Dzbanek (szklany Crystal LED\npoj. 2 l)",
+    "oldPrice": null,
+    "newPrice": 54.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093219_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Dzbanek Luna)",
+    "oldPrice": 39.99,
+    "newPrice": 32.99,
+    "discountPct": 17,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090360_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Zestaw wkładów Unimax)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123714_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Dafi (Bidon RUSH)",
     "oldPrice": null,
     "newPrice": 27.99,
@@ -8607,46 +8617,6 @@
     "newPrice": 6.99,
     "discountPct": 12,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20763601",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Wkłady filtrujące Classic)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00121045_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi Dzbanek (szklany Crystal LED\npoj. 2 l)",
-    "oldPrice": null,
-    "newPrice": 54.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093219_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Dzbanek Luna)",
-    "oldPrice": 39.99,
-    "newPrice": 32.99,
-    "discountPct": 17,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090360_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Zestaw wkładów Unimax)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123714_P-2",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   }
 ]
