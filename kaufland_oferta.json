@@ -12,16 +12,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Polskie ziemniaki jadalne",
     "oldPrice": 8.99,
     "newPrice": 4.49,
@@ -102,21 +92,31 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Kupiec (Wafle ryżowe w polewie)",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20870231",
+    "name": "Szynka wieprzowa",
+    "oldPrice": 17.89,
+    "newPrice": 9.99,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728360",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Filet z piersi (polskiego kurczaka)",
-    "oldPrice": 24.7,
-    "newPrice": 14.99,
-    "discountPct": 39,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823030000000_PL_P",
+    "name": "Wątroba z polskiego kurczaka",
+    "oldPrice": 9.99,
+    "newPrice": 5.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000400B_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Kupiec (Wafle ryżowe w polewie)",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20870231",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1092,31 +1092,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Nektarynki (układane, luzem)",
-    "oldPrice": 12.99,
-    "newPrice": 5.99,
-    "discountPct": 53,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830150000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polskie ziemniaki jadalne",
     "oldPrice": 8.99,
     "newPrice": 4.49,
     "discountPct": 50,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Filet z piersi (polskiego kurczaka)",
-    "oldPrice": 24.7,
-    "newPrice": 14.99,
-    "discountPct": 39,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823030000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1342,16 +1322,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Mięso mielone (z łopatki wieprzowej)",
-    "oldPrice": null,
-    "newPrice": 10.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100059_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Golonka wieprzowa tylna (cięta od szynki)",
     "oldPrice": 14.99,
     "newPrice": 10.99,
@@ -1362,161 +1332,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Boczek wieprzowy (łuskany, bez kości, ze skórą)",
-    "oldPrice": 20.89,
-    "newPrice": 11.99,
-    "discountPct": 42,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00100721_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polędwiczka wieprzowa",
-    "oldPrice": 32.99,
-    "newPrice": 25.99,
-    "discountPct": 21,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728361_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ligawa wołowa",
-    "oldPrice": 59.9,
-    "newPrice": 54.9,
-    "discountPct": 8,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20086649_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Morliny (Sznycel z szynki)",
-    "oldPrice": 8.99,
-    "newPrice": 7.99,
-    "discountPct": 11,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893246_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Mięso na gulasz\nz szynki wieprzowej)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00088731_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Polski schab wieprzowy)",
-    "oldPrice": 11.99,
-    "newPrice": 7.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00094109_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Szynka wieprzowa",
     "oldPrice": 17.89,
     "newPrice": 9.99,
     "discountPct": 44,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20728360",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-STOISKO MIĘSNE (Mięso z uda indyka)",
-    "oldPrice": null,
-    "newPrice": 23.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876155",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko mięsne (Mięso mielone z nogi indyka)",
-    "oldPrice": 12.49,
-    "newPrice": 9.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904584246159_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "BE FOODIE (Kurczak z warzywami)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20777472_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Morliny (Żeberka wieprzowe)",
-    "oldPrice": 23.09,
-    "newPrice": 17.99,
-    "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20219151_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Burger wołowy)",
-    "oldPrice": 8.99,
-    "newPrice": 6.99,
-    "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00136478_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "INDYKPOL (Potrawka z indyka)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20901404",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wielkopolski Indyk (Indyk z podgrzybkiem)",
-    "oldPrice": null,
-    "newPrice": 13.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20676027_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Paski z fileta\nz piersi polskiego kurczaka)",
-    "oldPrice": 16.99,
-    "newPrice": 11.99,
-    "discountPct": 29,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00144840_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K Blue Bay (Filety z łososia)",
-    "oldPrice": null,
-    "newPrice": 59.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20962403",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1607,26 +1427,6 @@
     "newPrice": 4.49,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20843639_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Connoisseur (Łosoś atlantycki)",
-    "oldPrice": null,
-    "newPrice": 3.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20786219",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Dorsz atlantycki)",
-    "oldPrice": 7.99,
-    "newPrice": 6.79,
-    "discountPct": 15,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2842630000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2166,7 +1966,7 @@
     "oldPrice": 9.99,
     "newPrice": 7.99,
     "discountPct": 20,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00142944_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00142944",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2432,16 +2232,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Janczewscy (Szarlotka)",
-    "oldPrice": 16.79,
-    "newPrice": 11.99,
-    "discountPct": 28,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20861750_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kupiec (Wafle ryżowe w polewie)",
     "oldPrice": 4.99,
     "newPrice": 2.99,
@@ -2457,16 +2247,6 @@
     "newPrice": 2.79,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20822536",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cukiernia P. Chojecki (Sernik na zimno\nz truskawkami)",
-    "oldPrice": 3.49,
-    "newPrice": 2.49,
-    "discountPct": 28,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20729511_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2602,31 +2382,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Cukiernia Michaś (Eklerki jabłkowe\nz dodatkiem cynamonu)",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20981084_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Allnutrition (Owsianka Frulove)",
     "oldPrice": 9.99,
     "newPrice": 7.99,
     "discountPct": 20,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20973154",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cukiernia P. Chojecki (Ciasto Opera)",
-    "oldPrice": 3.99,
-    "newPrice": 2.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2872760000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4736,7 +4496,7 @@
     "oldPrice": null,
     "newPrice": 14.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980059_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980059_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8166,7 +7926,7 @@
     "oldPrice": 14.99,
     "newPrice": 9.99,
     "discountPct": 33,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00072181_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00072181_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8187,16 +7947,6 @@
     "newPrice": 3.89,
     "discountPct": 35,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700660_P-3",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ogórek długi",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893807_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8512,46 +8262,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Dafi (Wkłady filtrujące Classic)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00121045_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi Dzbanek (szklany Crystal LED\npoj. 2 l)",
-    "oldPrice": null,
-    "newPrice": 54.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093219_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Dzbanek Luna)",
-    "oldPrice": 39.99,
-    "newPrice": 32.99,
-    "discountPct": 17,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090360_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Zestaw wkładów Unimax)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123714_P-2",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Dafi (Bidon RUSH)",
     "oldPrice": null,
     "newPrice": 27.99,
@@ -8617,6 +8327,46 @@
     "newPrice": 6.99,
     "discountPct": 12,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20763601",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Wkłady filtrujące Classic)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00121045_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi Dzbanek (szklany Crystal LED\npoj. 2 l)",
+    "oldPrice": null,
+    "newPrice": 54.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093219_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Dzbanek Luna)",
+    "oldPrice": 39.99,
+    "newPrice": 32.99,
+    "discountPct": 17,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090360_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Zestaw wkładów Unimax)",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123714_P-2",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   }
 ]
