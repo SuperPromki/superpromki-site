@@ -186,7 +186,17 @@
     "oldPrice": 1.99,
     "newPrice": 1.29,
     "discountPct": 35,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20969561_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20969561",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Mlekpol (Ser Tylżycki)",
+    "oldPrice": 3.78,
+    "newPrice": 2.49,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20215963_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -797,16 +807,6 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00111811_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wrzos Beauty Trio (don. 13 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20657616_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2226,7 +2226,7 @@
     "oldPrice": 1.99,
     "newPrice": 1.29,
     "discountPct": 35,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20969561_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20969561",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3183,9 +3183,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz szklany solarny",
-    "oldPrice": 19.99,
+    "oldPrice": null,
     "newPrice": 14.99,
-    "discountPct": 25,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20950574_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3303,9 +3303,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Wkład Anioł (z metalowym deklem)",
-    "oldPrice": 7.99,
+    "oldPrice": null,
     "newPrice": 5.99,
-    "discountPct": 25,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20871988_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3353,9 +3353,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Latarnia Krzyż (czas palenia 1440 h)",
-    "oldPrice": 24.99,
+    "oldPrice": null,
     "newPrice": 21.99,
-    "discountPct": 12,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20871445_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3373,9 +3373,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Latarnia anioł (czas palenia 1440 h)",
-    "oldPrice": 24.99,
+    "oldPrice": null,
     "newPrice": 21.99,
-    "discountPct": 12,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20871433_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3383,9 +3383,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz solarny Pnącze (czas palenia 2 lata)",
-    "oldPrice": 59.99,
+    "oldPrice": null,
     "newPrice": 49.99,
-    "discountPct": 16,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20960732_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3457,16 +3457,6 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20883458_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Energizer (Bateria A76/LR44 BP4 4 szt.)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20378721_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3596,7 +3586,7 @@
     "oldPrice": null,
     "newPrice": 39.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20990565_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20990565_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3923,9 +3913,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Wkład płomień",
-    "oldPrice": 14.99,
+    "oldPrice": null,
     "newPrice": 11.99,
-    "discountPct": 20,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20960805_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3973,9 +3963,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Znicz szklany kaplica (bez wkładu)",
-    "oldPrice": 29.99,
+    "oldPrice": null,
     "newPrice": 24.99,
-    "discountPct": 16,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20285390_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -4476,7 +4466,7 @@
     "oldPrice": null,
     "newPrice": 29.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20870854_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20870854_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4652,16 +4642,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Pojemnik na chleb",
-    "oldPrice": null,
-    "newPrice": 44.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988766_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kubek jesienny (z ceramiki)",
     "oldPrice": null,
     "newPrice": 11.99,
@@ -4823,9 +4803,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Wkład Serce (z metalowym deklem)",
-    "oldPrice": 7.99,
+    "oldPrice": null,
     "newPrice": 5.99,
-    "discountPct": 25,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20871985_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -4833,9 +4813,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Wkład Baloniki (z metalowym deklem)",
-    "oldPrice": 7.99,
+    "oldPrice": null,
     "newPrice": 5.99,
-    "discountPct": 25,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20871986_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -5297,36 +5277,6 @@
     "newPrice": 9.99,
     "discountPct": 9,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/07800341_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Bluza)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20964606_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Bluza)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20964605_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Esmara (Bluza)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20964604_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6212,36 +6162,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Townland (Bokserki męskie\nr.M-XXL)",
-    "oldPrice": 34.99,
-    "newPrice": 19.99,
-    "discountPct": 42,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20666221_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Townland (Bokserki męskie\nr.M-XXL)",
-    "oldPrice": 34.99,
-    "newPrice": 19.99,
-    "discountPct": 42,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20666238_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Townland (Bokserki męskie\nr.M-XXL)",
-    "oldPrice": 34.99,
-    "newPrice": 19.99,
-    "discountPct": 42,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20666246_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Townland (Bokserki\nr.M-XXL)",
     "oldPrice": 34.99,
     "newPrice": 19.99,
@@ -6352,7 +6272,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Parkside Performance (Zest. ze stołem warsztatowym\n17 el.)",
+    "name": "Parkside Performance (Stół warsztatowy\n17 el.)",
     "oldPrice": null,
     "newPrice": 499.0,
     "discountPct": null,
@@ -7446,7 +7366,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991457_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20991457_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7456,57 +7376,17 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991207_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20991207_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Delickcious (Przysmak dla kotów lub psów)",
+    "name": "K-Classic (Żwirek dla kotów)",
     "oldPrice": null,
-    "newPrice": 3.99,
+    "newPrice": 14.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980041_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Delickcious (Karma dla kotów)",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980049_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Delickcious (Napój dla kotów)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980409_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Delickcious (Karma dla psów lub kotów)",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980810_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Delickcious (Karma dla kotów)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980815_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/03402017_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7982,76 +7862,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Folk (Karma dla psów)",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987009_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla psów)",
-    "oldPrice": null,
-    "newPrice": 69.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987012_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla kotów)",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987210_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla psów)",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20987219_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla psów)",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987225_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla kotów)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987531_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Folk (Karma dla kotów)",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987209_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Joy & Toy (Przysmak + zabawka)",
     "oldPrice": null,
     "newPrice": 16.99,
@@ -8367,16 +8177,6 @@
     "newPrice": 2.99,
     "discountPct": 40,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700094_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska rzodkiewka (pęczek)",
-    "oldPrice": 2.69,
-    "newPrice": 1.49,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
