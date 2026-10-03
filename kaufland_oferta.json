@@ -652,116 +652,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Krakuski Barbakanki (Ciastka korzenne)",
-    "oldPrice": null,
-    "newPrice": 15.98,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093513_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Paluszki z galaretką)",
-    "oldPrice": 22.47,
-    "newPrice": 14.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414203146_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Herbatniki Petit Beurre)",
-    "oldPrice": 11.97,
-    "newPrice": 7.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02804030_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski Maltanki (Ciastka w polewie)",
-    "oldPrice": 9.87,
-    "newPrice": 6.58,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414205096_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski Petit Beurre (Herbatniki)",
-    "oldPrice": 3.87,
-    "newPrice": 2.58,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414200039_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Ciastka)",
-    "oldPrice": 17.97,
-    "newPrice": 11.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414204457_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Ciastka)",
-    "oldPrice": 23.97,
-    "newPrice": 15.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00089524_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kit Kat 4 paluszki (Multipack 3x41,5g\n124,5g)",
-    "oldPrice": null,
-    "newPrice": 23.97,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20896110_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kit Kat Chunky Duo (Baton Duo)",
-    "oldPrice": 29.94,
-    "newPrice": 14.97,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20175071_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nestle (Baton KitKat)",
-    "oldPrice": 25.14,
-    "newPrice": 12.57,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/40052489_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nestlé (Baton KitKat Chunky)",
-    "oldPrice": 23.94,
-    "newPrice": 11.97,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02500520_V_423922",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Krzew owocowy (forma pienna)",
     "oldPrice": null,
     "newPrice": 19.99,
@@ -1587,6 +1477,16 @@
     "newPrice": 3.39,
     "discountPct": 24,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20271724_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kotlina Natury (Jaja świeże)",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20989004",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5046,7 +4946,7 @@
     "oldPrice": null,
     "newPrice": 99.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20971635_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20971635_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7962,6 +7862,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Chipsi (Trociny)",
+    "oldPrice": 12.49,
+    "newPrice": 6.99,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20974782_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Cleo (Żwirek dla kotów)",
     "oldPrice": null,
     "newPrice": 12.99,
@@ -8457,116 +8367,6 @@
     "newPrice": 25.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627757013_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski Barbakanki (Ciastka korzenne)",
-    "oldPrice": null,
-    "newPrice": 15.98,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093513_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Paluszki z galaretką)",
-    "oldPrice": 22.47,
-    "newPrice": 14.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414203146_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Herbatniki Petit Beurre)",
-    "oldPrice": 11.97,
-    "newPrice": 7.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02804030_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski Maltanki (Ciastka w polewie)",
-    "oldPrice": 9.87,
-    "newPrice": 6.58,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414205096_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski Petit Beurre (Herbatniki)",
-    "oldPrice": 3.87,
-    "newPrice": 2.58,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414200039_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Ciastka)",
-    "oldPrice": 17.97,
-    "newPrice": 11.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5901414204457_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Krakuski (Ciastka)",
-    "oldPrice": 23.97,
-    "newPrice": 15.98,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00089524_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kit Kat 4 paluszki (Multipack 3x41,5g\n124,5g)",
-    "oldPrice": null,
-    "newPrice": 23.97,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20896110_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kit Kat Chunky Duo (Baton Duo)",
-    "oldPrice": 29.94,
-    "newPrice": 14.97,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20175071_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nestle (Baton KitKat)",
-    "oldPrice": 25.14,
-    "newPrice": 12.57,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/40052489_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nestlé (Baton KitKat Chunky)",
-    "oldPrice": 23.94,
-    "newPrice": 11.97,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02500520_V_423922",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
