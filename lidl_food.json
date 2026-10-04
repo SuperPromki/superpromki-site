@@ -1,36 +1,168 @@
 [
   {
     "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Pieczarki",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
+    "category": "Mrożona pizza i przekąski",
+    "name": "ITALIAMO Pizza quattro formaggi",
+    "oldPrice": 13.99,
+    "newPrice": 9.99,
+    "discountPct": 28,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9b12a9abdb7f454486733dfd7ebd74d4.png",
-    "url": "https://www.lidl.pl/p/pieczarki/p11029529"
+    "image": "https://www.lidl.pl/assets/gcp862b8f59d4b14e17866997c2290aa847.png",
+    "url": "https://www.lidl.pl/p/italiamo-pizza-quattro-formaggi/p11008537"
   },
   {
     "store": "Lidl",
-    "category": "Kwiaty i rośliny",
-    "name": "GOLIAT Bukiet 18 chryzantem",
+    "category": "Zupy i sosy",
+    "name": "ITALIAMO Sos z pomidorów koktajlowych",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp79929c941f0b4796a8fbc0a30d602a91.png",
+    "url": "https://www.lidl.pl/p/italiamo-sos-z-pomidorow-koktajlowych/p11139874"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zupy i sosy",
+    "name": "ITALIAMO Przecier z pomidorów wiśniowych",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp4c44a94c206c42b3a9a7661718711897.png",
+    "url": "https://www.lidl.pl/p/italiamo-przecier-z-pomidorow-wisniowych/p11146973"
+  },
+  {
+    "store": "Lidl",
+    "category": "Tosty i pieczywo o przedłużonej trwałości",
+    "name": "ITALIAMO Spody do pizzy",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp302a950e58c6429fb6bfb71e0cd69296.png",
+    "url": "https://www.lidl.pl/p/italiamo-spody-do-pizzy/p11147175"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "ITALIAMO Prosciutto cotto",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5a9c605f2b79429dbfdab191b881b669.png",
+    "url": "https://www.lidl.pl/p/italiamo-prosciutto-cotto/p11151552"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
+    "oldPrice": 24.8,
+    "newPrice": 14.99,
+    "discountPct": 39,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "ITALIAMO Prosciutto crudo",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp0099e59d1fe44a4bb2caf51086b63673.png",
+    "url": "https://www.lidl.pl/p/italiamo-prosciutto-crudo/p11220204"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "ITALIAMO Salami",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpced40a83bc424c028896ed3f59c823c9.png",
+    "url": "https://www.lidl.pl/p/italiamo-salami/p11252550"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "Dulano Selection Bresaola della Valtellina",
     "oldPrice": null,
     "newPrice": 14.99,
     "discountPct": null,
     "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/uZF4lcMitCoezzCoc8YvtelzB-wRMuc65hT0fXRNMFQ/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc1NzIzNzRBNDdFMzI2QTJGNkMzM0JFMT/lEQ0E5RkZFRjNFNkJGNjdFRUNDMDk0NkI4N0M3MjVDNTU3N0REMUIucG5n.png",
-    "url": "https://www.lidl.pl/p/goliat-bukiet-18-chryzantem/p10037678"
+    "image": "https://www.lidl.pl/assets/gcp16dff92a4bb746d78e84496ba543e51b.png",
+    "url": "https://www.lidl.pl/p/dulano-selection-bresaola-della-valtellina/p11257816"
   },
   {
     "store": "Lidl",
-    "category": "Kwiaty i rośliny",
-    "name": "GOLIAT Bukiet 6 chryzantem strzępiastych",
+    "category": "Drób",
+    "name": "MÄSIAROVA ČERSTVÁ PORCIA Polski kurczak – podudzia, XXL",
     "oldPrice": null,
-    "newPrice": 11.99,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpe8c12fa4a4d241259b17d7f0345fc2c1.png",
+    "url": "https://www.lidl.pl/p/masiarova-cerstva-porcia-polski-kurczak-podudzia-xxl/p11408105"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – uda, XXL",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp29d82fa831044f8b882b04542ab5d86e.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-uda-xxl/p11408127"
+  },
+  {
+    "store": "Lidl",
+    "category": "Mleko i śmietana",
+    "name": "MLEKPOL Mleko UHT 3,2% Mazurski Smak",
+    "oldPrice": null,
+    "newPrice": 1.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp39d833f1525e4e5593a117f57ebb6757.png",
+    "url": "https://www.lidl.pl/p/mlekpol-mleko-uht-3-2-mazurski-smak/p11419448"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 83%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "PILOS Ser edam w plastrach, XXL",
+    "oldPrice": 29.89,
+    "newPrice": 17.99,
+    "discountPct": 39,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp1137e78f5b4c4cf19f8a04da625b04de.png",
+    "url": "https://www.lidl.pl/p/pilos-ser-edam-w-plastrach-xxl/p11432037"
+  },
+  {
+    "store": "Lidl",
+    "category": "Napoje bezalkoholowe",
+    "name": "Coca-Cola, Coca-Cola Zero, Fanta Orange lub Sprite",
+    "oldPrice": null,
+    "newPrice": 13.98,
     "discountPct": null,
     "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/gmSF9S5DaAR9ulAjWrsp5W5jN_3NFhFdxzYax1rpKtY/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc0QzgxQjk2RTUxQzQxNjFCOENENEM1NU/Q5QThBNTExQkQzMkJFQ0NDQzM0ODE0OTZERkVGQTQ5M0MzMTBGMUQucG5n.png",
-    "url": "https://www.lidl.pl/p/goliat-bukiet-6-chryzantem-strzepiastych/p10037680"
+    "image": "https://www.lidl.pl/assets/gcpe5cfc5723a4642708b77ee7e8c9e6755.png",
+    "url": "https://www.lidl.pl/p/coca-cola-coca-cola-zero-fanta-orange-lub-sprite/p12232429"
   },
   {
     "store": "Lidl",
@@ -339,83 +471,6 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/ng-JEaAjZbc5wGkGGnqMA0hbw6PVK2ZXxSj20w14FA8/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9DQTI2MkVCQ0QzQzEzQTE3MjdEQzRBNkE/wN0UwOTUwM0VCN0FEQTMyRTczOEE2QzRFQkUzMTkwOTNBODc5NUFFLmpwZw.jpg",
     "url": "https://www.lidl.pl/p/nepomucen-little-spike/p10037735"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Winogrona jasne bezpestkowe, luzem",
-    "oldPrice": 14.99,
-    "newPrice": 7.99,
-    "discountPct": 46,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpe7a7301c6e5443aab95ea3d7dc69ca16.png",
-    "url": "https://www.lidl.pl/p/winogrona-jasne-bezpestkowe-luzem/p11030010"
-  },
-  {
-    "store": "Lidl",
-    "category": "Mleko i śmietana",
-    "name": "ŁOWICZ Mleko łowickie, UHT 3,2%",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus; zy zakupie 6 opak. lub",
-    "image": "https://imgproxy-retcat.assets.schwarz/dNUwJv07FNlncsoVC_Z03cLriYIbXksdhLDkmHHpR0k/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzkyMEJEMTRCNUQ5Q0JCRkI0REZBM0JEOD/NCOTA2Q0RBRDkyOTc4NkNGOEZFODA4NkVDRjU0RDZDNzgzMkQwMzcucG5n.png",
-    "url": "https://www.lidl.pl/p/lowicz-mleko-lowickie-uht-3-2/p10037642"
-  },
-  {
-    "store": "Lidl",
-    "category": "Woda",
-    "name": "ŻYWIEC ZDRÓJ Woda źródlana niegazowana",
-    "oldPrice": null,
-    "newPrice": 10.74,
-    "discountPct": null,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/xjhPWrcavBr-HP25McyPLIDFFBCdZaiwy4FqsysdGvc/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhEMzE2OTFGODk3ODMzQTk1NEIwREY1Nj/FCRTk0MUZBOTdFQ0M2QzJDMjEyRkVGMjVDMzY1NEQyQkU0MUU5MjUucG5n.png",
-    "url": "https://www.lidl.pl/p/zywiec-zdroj-woda-zrodlana-niegazowana/p10037671"
-  },
-  {
-    "store": "Lidl",
-    "category": "Woda",
-    "name": "MUSZYNIANKA Woda mineralna magnezowo-wapniowa",
-    "oldPrice": null,
-    "newPrice": 13.14,
-    "discountPct": null,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/njqW-r-8HyncA8A6hWls4VOKfo9Ccgt8fn640YMtaVQ/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFEQTRDRDQ1RDkzRkYxMjZFRThDRTNCMj/VBMzlBRDYyOUEzQ0ZEN0VBQTlGQzk0NThGMDg4QzA3RkNBMUQ0ODYucG5n.png",
-    "url": "https://www.lidl.pl/p/muszynianka-woda-mineralna-magnezowo-wapniowa/p10037672"
-  },
-  {
-    "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Coca-Cola",
-    "oldPrice": null,
-    "newPrice": 19.96,
-    "discountPct": null,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/qbR5257KinZvfgbykhnkGqTAdYkSC7pEJY02IlBUxkQ/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MyODhBODM5RkZBMTgzMUExMEIxM0Y2Mz/c2Nzk4NzkwNjcyRTdFRDdCNDA3QTMyN0E4N0I0NzVCRTgxQkNDN0UucG5n.png",
-    "url": "https://www.lidl.pl/p/coca-cola/p10037673"
-  },
-  {
-    "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Coca-Cola lub Coca-Cola Zero",
-    "oldPrice": null,
-    "newPrice": 27.96,
-    "discountPct": null,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/6VfBbYkpA5By5tXOJhvUTeqcerkkrLevfCcJJpovFNs/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS8zMDU5NzAzQUI5NDMyRkJBOUM3Mjg4MDI/1Q0EzQkQ3RUM3MkZEODZENDZCMjg2OTcxQTczMEY4QkZDODgzRDA3LnBuZw.png",
-    "url": "https://www.lidl.pl/p/coca-cola-lub-coca-cola-zero/p10037674"
-  },
-  {
-    "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Pepsi, Pepsi Zero, Mirinda lub 7UP",
-    "oldPrice": null,
-    "newPrice": 7.98,
-    "discountPct": null,
-    "note": null,
-    "image": "https://imgproxy-retcat.assets.schwarz/wnXdKWjOz1jMu2PDmfuoRS9uvMG_6W-ghhKIjksdev8/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0EzMDQ0RTM5QTkyMzQwRTcyQTUxMzFFRT/YwQzNDODE3RjQxOEYzNjk5NzQ4REY5OTYzNDlDQjMzNDcwRjIxRTEucG5n.png",
-    "url": "https://www.lidl.pl/p/pepsi-pepsi-zero-mirinda-lub-7up/p10037675"
   },
   {
     "store": "Lidl",
