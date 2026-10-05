@@ -67,17 +67,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Parówki classic Berlinki 270 g",
-    "oldPrice": null,
-    "newPrice": 4.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2588aca6-f608-438f-bbde-c2d003644feb/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/parowki-classic-berlinki-270-g/00607049",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Sery",
     "name": "Twój Smak serek naturalny Piątnica 200 g",
     "oldPrice": 5.58,
@@ -86,17 +75,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/83318b3a-0dc4-4570-a337-3affcc1b9787/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/twoj-smak-serek-naturalny-piatnica-200-g/00498355",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Papier toaletowy, ręczniki i chusteczki",
-    "name": "Papier toaletowy trójwarstwowy o neutralnym pH Foxy 8 rolek",
-    "oldPrice": null,
-    "newPrice": 13.78,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/149708ba-1474-4a6f-be16-83bc45e6e13c/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papier-toaletowy-trojwarstwowy-o-neutralnym-ph-foxy-8-rolek/00016508",
-    "note": "Drugi 60% taniej"
   },
   {
     "store": "Auchan",
@@ -112,12 +90,56 @@
   {
     "store": "Auchan",
     "category": "Papier toaletowy, ręczniki i chusteczki",
+    "name": "Papier toaletowy trójwarstwowy o neutralnym pH Foxy 8 rolek",
+    "oldPrice": null,
+    "newPrice": 13.78,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/149708ba-1474-4a6f-be16-83bc45e6e13c/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papier-toaletowy-trojwarstwowy-o-neutralnym-ph-foxy-8-rolek/00016508",
+    "note": "Drugi 60% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Masło ekstra 82% tłuszczu Auchan 200g",
+    "oldPrice": null,
+    "newPrice": 4.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/526d77d1-e270-4f16-b6bc-bed2c1edc5ef/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-82-tluszczu-auchan-200g/00526577",
+    "note": "Drugi 60% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Parówki classic Berlinki 270 g",
+    "oldPrice": null,
+    "newPrice": 4.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2588aca6-f608-438f-bbde-c2d003644feb/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/parowki-classic-berlinki-270-g/00607049",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Papier toaletowy, ręczniki i chusteczki",
     "name": "Ręcznik Papierowy 3 warstwowy 340 listków Auchan 1 rolka",
     "oldPrice": 11.99,
     "newPrice": 10.98,
     "discountPct": 8,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/65f0d2cb-ccf1-487f-a537-1d39986c7c51/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/recznik-papierowy-3-warstwowy-340-listkow-auchan-1-rolka/00040718",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Awokado Ready to Eat kaliber 12 Owoce  Auchan sztuka",
+    "oldPrice": 8.89,
+    "newPrice": 5.49,
+    "discountPct": 38,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0e865eaf-55f2-43a7-9fc0-b8311f243c80/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/awokado-ready-to-eat-kaliber-12-owoce-auchan-sztuka/00221735",
     "note": null
   },
   {
@@ -133,17 +155,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Pieczywo i wyroby cukiernicze",
-    "name": "Chleb tostowy pszenny maślany Auchan 500 g",
-    "oldPrice": null,
-    "newPrice": 3.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/6ae9b0dc-bd90-45bb-9156-0404d4ee79dc/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/chleb-tostowy-pszenny-maslany-auchan-500-g/00303947",
-    "note": "Drugi 30% taniej"
-  },
-  {
-    "store": "Auchan",
     "category": "Mięso i drób",
     "name": "Mięso mielone z łopatki wieprzowej  MAP Auchan 500 g",
     "oldPrice": null,
@@ -155,25 +166,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Awokado Ready to Eat kaliber 12 Owoce  Auchan sztuka",
-    "oldPrice": 8.89,
-    "newPrice": 5.49,
-    "discountPct": 38,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0e865eaf-55f2-43a7-9fc0-b8311f243c80/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/awokado-ready-to-eat-kaliber-12-owoce-auchan-sztuka/00221735",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Polędwica z kurczaka Drobimex 100 g",
+    "category": "Pieczywo i wyroby cukiernicze",
+    "name": "Chleb tostowy pszenny maślany Auchan 500 g",
     "oldPrice": null,
-    "newPrice": 4.49,
+    "newPrice": 3.98,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/18694ede-390e-4f07-8bb9-4e2c8332cbf9/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/poledwica-z-kurczaka-drobimex-100-g/00912639",
-    "note": "Drugi 40% taniej"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/6ae9b0dc-bd90-45bb-9156-0404d4ee79dc/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/chleb-tostowy-pszenny-maslany-auchan-500-g/00303947",
+    "note": "Drugi 30% taniej"
   },
   {
     "store": "Auchan",
@@ -188,36 +188,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Pomidory włoskie krojone  Auchan 240 g",
+    "category": "Wędliny",
+    "name": "Polędwica z kurczaka Drobimex 100 g",
     "oldPrice": null,
-    "newPrice": 3.49,
+    "newPrice": 4.49,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d440c89b-8319-46c5-89ad-06535bf180ef/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/pomidory-wloskie-krojone-auchan-240-g/00390987",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Herbata",
-    "name": "Herbata czarna aromatyzowana Lipton 92 torebki",
-    "oldPrice": null,
-    "newPrice": 15.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f19a40a1-1b60-41c8-a574-b38fe7d65336/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/herbata-czarna-aromatyzowana-lipton-92-torebki/00435351",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Mąka z kłoskiem tortowa typ 450  Gdańskie Młyny 1 kg",
-    "oldPrice": null,
-    "newPrice": 3.69,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/67bf7bc0-e510-496b-b11e-7b7376a0c1ab/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/maka-z-kloskiem-tortowa-typ-450-gdanskie-mlyny-1-kg/00059425",
-    "note": "Drugi za 1 zł"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/18694ede-390e-4f07-8bb9-4e2c8332cbf9/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/poledwica-z-kurczaka-drobimex-100-g/00912639",
+    "note": "Drugi 40% taniej"
   },
   {
     "store": "Auchan",
@@ -232,6 +210,50 @@
   },
   {
     "store": "Auchan",
+    "category": "Sypkie i produkty zbożowe",
+    "name": "Mąka z kłoskiem tortowa typ 450  Gdańskie Młyny 1 kg",
+    "oldPrice": null,
+    "newPrice": 3.69,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/67bf7bc0-e510-496b-b11e-7b7376a0c1ab/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/maka-z-kloskiem-tortowa-typ-450-gdanskie-mlyny-1-kg/00059425",
+    "note": "Drugi za 1 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Herbata",
+    "name": "Herbata czarna aromatyzowana Lipton 92 torebki",
+    "oldPrice": null,
+    "newPrice": 15.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f19a40a1-1b60-41c8-a574-b38fe7d65336/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/herbata-czarna-aromatyzowana-lipton-92-torebki/00435351",
+    "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Pomidory włoskie krojone  Auchan 240 g",
+    "oldPrice": null,
+    "newPrice": 3.49,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d440c89b-8319-46c5-89ad-06535bf180ef/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/pomidory-wloskie-krojone-auchan-240-g/00390987",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Papryka czerwona podłużna Warzywa Auchan 500 g",
+    "oldPrice": 9.99,
+    "newPrice": 6.79,
+    "discountPct": 32,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554e7681-e88f-45d1-8801-c98ec619a27a/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papryka-czerwona-podluzna-warzywa-auchan-500-g/00132786",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Włoszczyzna młoda Warzywa Auchan 1 sztuka",
     "oldPrice": 7.49,
@@ -239,28 +261,6 @@
     "discountPct": 34,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/84bbcda6-c526-42c9-8be4-b937a0e29b41/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/wloszczyzna-mloda-warzywa-auchan-1-sztuka/00041183",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Słodka śmietanka 30% do deserów i zup Piątnica 400 g",
-    "oldPrice": 7.88,
-    "newPrice": 6.75,
-    "discountPct": 14,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a1c1c3c7-b655-4060-9e02-dd40637b7d13/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/slodka-smietanka-30-do-deserow-i-zup-piatnica-400-g/00362764",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Sałata rzymska mini Warzywa Auchan 2 sztuki",
-    "oldPrice": 5.94,
-    "newPrice": 3.89,
-    "discountPct": 35,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8f79635e-44be-4093-aead-54451e2e4818/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/salata-rzymska-mini-warzywa-auchan-2-sztuki/00825850",
     "note": null
   },
   {
@@ -287,17 +287,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Papryka czerwona podłużna Warzywa Auchan 500 g",
-    "oldPrice": 9.99,
-    "newPrice": 6.79,
-    "discountPct": 32,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554e7681-e88f-45d1-8801-c98ec619a27a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papryka-czerwona-podluzna-warzywa-auchan-500-g/00132786",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Bez glutenu",
     "name": "Pierś kurczaka pieczona w plastrach Drobimex 100 g",
     "oldPrice": null,
@@ -320,6 +309,28 @@
   },
   {
     "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Sałata rzymska mini Warzywa Auchan 2 sztuki",
+    "oldPrice": 5.94,
+    "newPrice": 3.89,
+    "discountPct": 35,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8f79635e-44be-4093-aead-54451e2e4818/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/salata-rzymska-mini-warzywa-auchan-2-sztuki/00825850",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Słodka śmietanka 30% do deserów i zup Piątnica 400 g",
+    "oldPrice": 7.88,
+    "newPrice": 6.75,
+    "discountPct": 14,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a1c1c3c7-b655-4060-9e02-dd40637b7d13/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/slodka-smietanka-30-do-deserow-i-zup-piatnica-400-g/00362764",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Ryż biały długi Cenos 4 x 100 g",
     "oldPrice": 3.49,
@@ -327,6 +338,17 @@
     "discountPct": 6,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/006a5dbc-536a-4d5f-902e-c6e0a7a89c43/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ryz-bialy-dlugi-cenos-4-x-100-g/00684461",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Kefir 1.5%            Pewni Dobrego 400 g",
+    "oldPrice": 2.79,
+    "newPrice": 2.45,
+    "discountPct": 12,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2ca6134-90ce-4c1d-857f-b1301dd9204f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/kefir-1-5-pewni-dobrego-400-g/00182554",
     "note": null
   },
   {
@@ -353,17 +375,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Kefir 1.5%            Pewni Dobrego 400 g",
-    "oldPrice": 2.79,
-    "newPrice": 2.45,
-    "discountPct": 12,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2ca6134-90ce-4c1d-857f-b1301dd9204f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/kefir-1-5-pewni-dobrego-400-g/00182554",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Mąka z kłoskiem luksusowa typ 550 Gdańskie Młyny 1 kg",
     "oldPrice": null,
@@ -375,13 +386,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Wyposażenie domu",
-    "name": "Znicz zalewany Z-211 10 cm 11h 40 g mix Barbara 1 sztuka",
-    "oldPrice": 2.89,
-    "newPrice": 1.99,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/18b097e0-6ab0-40b7-8e3f-2f56eb8ef326/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/znicz-zalewany-z-211-10-cm-11h-40-g-mix-barbara-1-sztuka/00606722",
+    "category": "Pewni Dobrego",
+    "name": "Ayran Pewni Dobrego 330 g",
+    "oldPrice": 2.69,
+    "newPrice": 2.45,
+    "discountPct": 9,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7aa3bc47-4d59-40f9-8af0-039a1da8b1c6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ayran-pewni-dobrego-330-g/00367552",
     "note": null
   },
   {
@@ -397,25 +408,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Pewni Dobrego",
-    "name": "Ayran Pewni Dobrego 330 g",
-    "oldPrice": 2.69,
-    "newPrice": 2.45,
-    "discountPct": 9,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7aa3bc47-4d59-40f9-8af0-039a1da8b1c6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ayran-pewni-dobrego-330-g/00367552",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Masło ekstra osełka 83% tłuszczu Auchan 500 g",
+    "oldPrice": 18.99,
+    "newPrice": 13.95,
+    "discountPct": 27,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/10ba8da9-c449-4543-9200-1fa6212dec0f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-83-tluszczu-auchan-500-g/00917010",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
-    "name": "Boczek wędzony plastry Auchan 95 g",
-    "oldPrice": null,
-    "newPrice": 5.55,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d6f659b3-3442-4bc2-adf7-4d0e64e57e4d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/boczek-wedzony-plastry-auchan-95-g/00850897",
-    "note": "Drugi 30% taniej"
   },
   {
     "store": "Auchan",
@@ -430,6 +430,28 @@
   },
   {
     "store": "Auchan",
+    "category": "Wyposażenie domu",
+    "name": "Znicz zalewany Z-211 10 cm 11h 40 g mix Barbara 1 sztuka",
+    "oldPrice": 2.89,
+    "newPrice": 1.99,
+    "discountPct": 31,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/18b097e0-6ab0-40b7-8e3f-2f56eb8ef326/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/znicz-zalewany-z-211-10-cm-11h-40-g-mix-barbara-1-sztuka/00606722",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Fasola biała konserwowa Dawtona 400 g",
+    "oldPrice": null,
+    "newPrice": 3.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1ee06f2f-522d-47c7-a377-d852d7cada19/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/fasola-biala-konserwowa-dawtona-400-g/00212676",
+    "note": "Drugi 50% taniej"
+  },
+  {
+    "store": "Auchan",
     "category": "Mięso i drób",
     "name": "Mięso mielone wieprzowe z szynki Pewni Dobrego 400 g ",
     "oldPrice": null,
@@ -438,28 +460,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f4d94536-4c4e-4144-9345-c8db5a576b4c/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/mieso-mielone-wieprzowe-z-szynki-pewni-dobrego-400-g/00626923",
     "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Makaron nitki 5 jajeczny Goliard 250 g",
-    "oldPrice": null,
-    "newPrice": 6.19,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8ce4a261-d2c5-4fe5-accc-dfc02d6511a6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/makaron-nitki-5-jajeczny-goliard-250-g/00106442",
-    "note": "2  za 6,96 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Napoje",
-    "name": "Niegazowany napój herbaciany ZERO z ekstraktem z zielonej herbaty Lipton 1,5 l",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a2483ce1-1396-49b2-bb49-c8496892e20d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/niegazowany-napoj-herbaciany-zero-z-ekstraktem-z-zielonej-herbaty-lipton-1-5-l/00634200",
-    "note": "2  za 9,56 zł"
   },
   {
     "store": "Auchan",
@@ -486,6 +486,17 @@
   {
     "store": "Auchan",
     "category": "Napoje",
+    "name": "Niegazowany napój herbaciany ZERO z ekstraktem z zielonej herbaty Lipton 1,5 l",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a2483ce1-1396-49b2-bb49-c8496892e20d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/niegazowany-napoj-herbaciany-zero-z-ekstraktem-z-zielonej-herbaty-lipton-1-5-l/00634200",
+    "note": "2  za 9,56 zł"
+  },
+  {
+    "store": "Auchan",
+    "category": "Napoje",
     "name": "Napój gazowany o smaku cola PEPSI 1,5 l",
     "oldPrice": null,
     "newPrice": 8.18,
@@ -496,57 +507,46 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Biszkopty Auchan 120 g",
+    "category": "Sypkie i produkty zbożowe",
+    "name": "Makaron nitki 5 jajeczny Goliard 250 g",
     "oldPrice": null,
-    "newPrice": 2.79,
+    "newPrice": 6.19,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/315ae259-7be7-48e1-8368-e38178e76441/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/biszkopty-auchan-120-g/00859579",
-    "note": "2+1 za grosz"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8ce4a261-d2c5-4fe5-accc-dfc02d6511a6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/makaron-nitki-5-jajeczny-goliard-250-g/00106442",
+    "note": "2  za 6,96 zł"
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Fasola biała konserwowa Dawtona 400 g",
-    "oldPrice": null,
-    "newPrice": 3.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1ee06f2f-522d-47c7-a377-d852d7cada19/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/fasola-biala-konserwowa-dawtona-400-g/00212676",
-    "note": "Drugi 50% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Masło ekstra osełka 83% tłuszczu Auchan 500 g",
-    "oldPrice": 18.99,
-    "newPrice": 13.95,
-    "discountPct": 27,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/10ba8da9-c449-4543-9200-1fa6212dec0f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-83-tluszczu-auchan-500-g/00917010",
+    "category": "Mrożonki",
+    "name": "Dynia kostka Hortex 450 g",
+    "oldPrice": 7.98,
+    "newPrice": 5.98,
+    "discountPct": 25,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/748f0651-c935-4197-9d41-46517ad5360d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/dynia-kostka-hortex-450-g/00980530",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Sery",
-    "name": "Ricotta Auchan 250 g",
-    "oldPrice": 5.95,
-    "newPrice": 4.99,
-    "discountPct": 16,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e2dc3790-c26b-400d-b496-8cc4f02ea2a0/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ricotta-auchan-250-g/00916370",
-    "note": null
+    "category": "Wędliny",
+    "name": "Boczek wędzony plastry Auchan 95 g",
+    "oldPrice": null,
+    "newPrice": 5.55,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d6f659b3-3442-4bc2-adf7-4d0e64e57e4d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/boczek-wedzony-plastry-auchan-95-g/00850897",
+    "note": "Drugi 30% taniej"
   },
   {
     "store": "Auchan",
     "category": "Słodycze",
-    "name": "Wafle Snack minis z kremem mleczno - orzechowym Manner 5 x 25 g",
+    "name": "Żelki malinki Auchan 100 g",
     "oldPrice": null,
-    "newPrice": 6.89,
+    "newPrice": 2.99,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3ac881de-94f2-448e-a6ca-9784fb0c547e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafle-snack-minis-z-kremem-mleczno-orzechowym-manner-5-x-25-g/00397311",
-    "note": "1+1 za grosz"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/15e785b1-62aa-4108-b54a-a79558da26e0/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/zelki-malinki-auchan-100-g/00385576",
+    "note": "2  za 4,00 zł"
   }
 ]

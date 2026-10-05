@@ -1,6 +1,28 @@
 [
   {
     "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "ITALIAMO Mortadella Bologna",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpec622953027c4c7295a5201f6b6a31a4.png",
+    "url": "https://www.lidl.pl/p/italiamo-mortadella-bologna/p11001766"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "ITALIAMO Salami spianata rossa piccante",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp8bbf9ecb7e0f4a91833edfdb2539549c.png",
+    "url": "https://www.lidl.pl/p/italiamo-salami-spianata-rossa-piccante/p11004918"
+  },
+  {
+    "store": "Lidl",
     "category": "Mrożona pizza i przekąski",
     "name": "ITALIAMO Pizza quattro formaggi",
     "oldPrice": 13.99,
@@ -101,13 +123,13 @@
   {
     "store": "Lidl",
     "category": "Drób",
-    "name": "MÄSIAROVA ČERSTVÁ PORCIA Polski kurczak – podudzia, XXL",
+    "name": "RZEŹNIK Polski kurczak – podudzia, XXL",
     "oldPrice": null,
     "newPrice": 6.49,
     "discountPct": null,
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpe8c12fa4a4d241259b17d7f0345fc2c1.png",
-    "url": "https://www.lidl.pl/p/masiarova-cerstva-porcia-polski-kurczak-podudzia-xxl/p11408105"
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-podudzia-xxl/p11408105"
   },
   {
     "store": "Lidl",
@@ -482,5 +504,16 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp1ca1365d726045469b33af678cbea6c1.jpg",
     "url": "https://www.lidl.pl/p/parkside-zestaw-mat-kokosowych-10-sztuk/p100411895001"
+  },
+  {
+    "store": "Lidl",
+    "category": "Artykuły ogrodnicze",
+    "name": "PARKSIDE® Folia zastępcza do szklarni",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
+    "url": "https://www.lidl.pl/p/parkside-folia-zastepcza-do-szklarni/p100413461"
   }
 ]
