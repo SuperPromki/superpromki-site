@@ -1,6 +1,149 @@
 [
   {
     "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
+  },
+  {
+    "store": "Lidl",
+    "category": "Soki owocowe",
+    "name": "Solevita Sok 100% pomarańcza",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpbb660a9469c8425c853953bdae339ea0.png",
+    "url": "https://www.lidl.pl/p/solevita-sok-100-pomarancza/p11257774"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 83%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Kiwi",
+    "oldPrice": null,
+    "newPrice": 1.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpcbb14a873bd041d3a30523d45b210bc4.png",
+    "url": "https://www.lidl.pl/p/kiwi/p11030005"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Winogrona jasne bezpestkowe",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp4d140e4906d24b22820408665f84f91e.png",
+    "url": "https://www.lidl.pl/p/winogrona-jasne-bezpestkowe/p11030020"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Banany, luzem",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpee9b5edda4384d6fba0ac93727dd6b8c.png",
+    "url": "https://www.lidl.pl/p/banany-luzem/p11150766"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Bataty, luzem",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpd358cfab406b47a39eda4a4fcb478fd5.png",
+    "url": "https://www.lidl.pl/p/bataty-luzem/p11150934"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Awokado zielone",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
+    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "RZEŹNIK Schab wieprzowy bez kości",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpf4995eeb8a2f44acb22301e381e6967b.png",
+    "url": "https://www.lidl.pl/p/rzeznik-schab-wieprzowy-bez-kosci/p11305121"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "Mlekpol Ser gouda w plastrach",
+    "oldPrice": 29.89,
+    "newPrice": 14.99,
+    "discountPct": 49,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpaf9499b72e0a497f82be7b130ff02075.png",
+    "url": "https://www.lidl.pl/p/mlekpol-ser-gouda-w-plastrach/p11414909"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – mięso z nogi, XXL",
+    "oldPrice": 21.98,
+    "newPrice": 12.99,
+    "discountPct": 40,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe818a1b7f04d49dfad3a7d0b98f076af.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-mieso-z-nogi-xxl/p11416078"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "PIKOK Parówki z szynki, XXL",
+    "oldPrice": 11.39,
+    "newPrice": 6.99,
+    "discountPct": 38,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp598bf72a630b4590a90dafc23da1faab.png",
+    "url": "https://www.lidl.pl/p/pikok-parowki-z-szynki-xxl/p11437364"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Mango dojrzałe, luzem",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp3db125cf9f8542659bafc12f031b1ea5.png",
+    "url": "https://www.lidl.pl/p/mango-dojrzale-luzem/p11491877"
+  },
+  {
+    "store": "Lidl",
     "category": "Kiełbasy i wędliny",
     "name": "ITALIAMO Mortadella Bologna",
     "oldPrice": null,
@@ -78,17 +221,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Drób",
-    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
-    "oldPrice": 24.8,
-    "newPrice": 14.99,
-    "discountPct": 39,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
-  },
-  {
-    "store": "Lidl",
     "category": "Kiełbasy i wędliny",
     "name": "ITALIAMO Prosciutto crudo",
     "oldPrice": null,
@@ -152,17 +284,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcp39d833f1525e4e5593a117f57ebb6757.png",
     "url": "https://www.lidl.pl/p/mlekpol-mleko-uht-3-2-mazurski-smak/p11419448"
-  },
-  {
-    "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
   },
   {
     "store": "Lidl",
@@ -493,17 +614,6 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/ng-JEaAjZbc5wGkGGnqMA0hbw6PVK2ZXxSj20w14FA8/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9DQTI2MkVCQ0QzQzEzQTE3MjdEQzRBNkE/wN0UwOTUwM0VCN0FEQTMyRTczOEE2QzRFQkUzMTkwOTNBODc5NUFFLmpwZw.jpg",
     "url": "https://www.lidl.pl/p/nepomucen-little-spike/p10037735"
-  },
-  {
-    "store": "Lidl",
-    "category": "Artykuły ogrodnicze",
-    "name": "PARKSIDE® Zestaw mat kokosowych, 10 sztuk (Okrągły)",
-    "oldPrice": null,
-    "newPrice": 44.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp1ca1365d726045469b33af678cbea6c1.jpg",
-    "url": "https://www.lidl.pl/p/parkside-zestaw-mat-kokosowych-10-sztuk/p100411895001"
   },
   {
     "store": "Lidl",
