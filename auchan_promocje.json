@@ -46,17 +46,6 @@
   {
     "store": "Auchan",
     "category": "Wędliny",
-    "name": "Parówki 100 % polskiej szynki Dolina Dobra 200 g",
-    "oldPrice": 7.38,
-    "newPrice": 4.98,
-    "discountPct": 33,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c3fb31d6-b522-46ca-9c5f-3d2cf952f814/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/parowki-100-polskiej-szynki-dolina-dobra-200-g/00408512",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Wędliny",
     "name": "Szynka eksportowa wieprzowa Krakus 120 g",
     "oldPrice": 5.39,
     "newPrice": 3.98,
@@ -67,6 +56,28 @@
   },
   {
     "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Parówki 100 % polskiej szynki Dolina Dobra 200 g",
+    "oldPrice": 7.38,
+    "newPrice": 4.98,
+    "discountPct": 33,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c3fb31d6-b522-46ca-9c5f-3d2cf952f814/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/parowki-100-polskiej-szynki-dolina-dobra-200-g/00408512",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Monte Deser mleczny z czekoladą i orzechami Zott 150 g",
+    "oldPrice": null,
+    "newPrice": 4.18,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/db91faf1-65bd-415a-b890-d6e19a50c97a/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/monte-deser-mleczny-z-czekolada-i-orzechami-zott-150-g/00773389",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Gruszki Owoce  Auchan na wagę ok. 600 g",
     "oldPrice": 5.39,
@@ -74,28 +85,6 @@
     "discountPct": 56,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1e77a44c-736b-4954-be71-0b15dc3e7bbf/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/gruszki-owoce-auchan-na-wage-ok-600-g/00033964",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser żółty Królewski plastry Sierpc 150 g",
-    "oldPrice": 7.88,
-    "newPrice": 6.49,
-    "discountPct": 18,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1f269848-1ce2-454f-8779-f69529f33aa7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-zolty-krolewski-plastry-sierpc-150-g/00643509",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Mleko świeże 3.2% Łaciate 1 l",
-    "oldPrice": 4.18,
-    "newPrice": 3.39,
-    "discountPct": 19,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa9e3188-755c-4d4c-a048-1cbc3624ca61/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mleko-swieze-3-2-laciate-1-l/00041595",
     "note": null
   },
   {
@@ -123,34 +112,23 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Monte Deser mleczny z czekoladą i orzechami Zott 150 g",
-    "oldPrice": null,
-    "newPrice": 4.18,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/db91faf1-65bd-415a-b890-d6e19a50c97a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/monte-deser-mleczny-z-czekolada-i-orzechami-zott-150-g/00773389",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Pomidory drobno krojone bez skórek  Mutti 400 g",
-    "oldPrice": 6.58,
-    "newPrice": 6.28,
-    "discountPct": 5,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2790d299-bd85-4a99-8c99-f0fe7e8ac5ab/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/pomidory-drobno-krojone-bez-skorek-mutti-400-g/00473147",
+    "name": "Mleko świeże 3.2% Łaciate 1 l",
+    "oldPrice": 4.18,
+    "newPrice": 3.39,
+    "discountPct": 19,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa9e3188-755c-4d4c-a048-1cbc3624ca61/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mleko-swieze-3-2-laciate-1-l/00041595",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Mleko świeże 2% Łaciate 1 l",
-    "oldPrice": 3.98,
-    "newPrice": 3.39,
-    "discountPct": 15,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1e9b0625-6abb-4164-9a0b-b8181fc0abc9/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mleko-swieze-2-laciate-1-l/00041594",
+    "category": "Sery",
+    "name": "Ser żółty Królewski plastry Sierpc 150 g",
+    "oldPrice": 7.88,
+    "newPrice": 6.49,
+    "discountPct": 18,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1f269848-1ce2-454f-8779-f69529f33aa7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-zolty-krolewski-plastry-sierpc-150-g/00643509",
     "note": null
   },
   {
@@ -167,6 +145,39 @@
   {
     "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
+    "name": "Makaron Spagetti Lubella 400 g",
+    "oldPrice": null,
+    "newPrice": 4.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2da2c0bf-a10f-4b0e-a309-7e687edbd7b3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/makaron-spagetti-lubella-400-g/00414484",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Mleko świeże 2% Łaciate 1 l",
+    "oldPrice": 3.98,
+    "newPrice": 3.39,
+    "discountPct": 15,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1e9b0625-6abb-4164-9a0b-b8181fc0abc9/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mleko-swieze-2-laciate-1-l/00041594",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Pomidory drobno krojone bez skórek  Mutti 400 g",
+    "oldPrice": 6.58,
+    "newPrice": 6.28,
+    "discountPct": 5,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2790d299-bd85-4a99-8c99-f0fe7e8ac5ab/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/pomidory-drobno-krojone-bez-skorek-mutti-400-g/00473147",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sypkie i produkty zbożowe",
     "name": "Płatki owsiane górskie Auchan 500 g",
     "oldPrice": null,
     "newPrice": 2.89,
@@ -178,56 +189,12 @@
   {
     "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
-    "name": "Makaron Spagetti Lubella 400 g",
-    "oldPrice": null,
-    "newPrice": 4.48,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2da2c0bf-a10f-4b0e-a309-7e687edbd7b3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/makaron-spagetti-lubella-400-g/00414484",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
     "name": "Makaron świderki Lubella 400 g",
     "oldPrice": null,
     "newPrice": 4.88,
     "discountPct": null,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3902f609-e670-4cf5-899e-42e643355411/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/makaron-swiderki-lubella-400-g/00414506",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Jabłka szkolne bez pozostałości pestycydów Pewni Dobrego 1,5 kg",
-    "oldPrice": 8.99,
-    "newPrice": 6.49,
-    "discountPct": 28,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ceaf67a6-1e32-42b1-b836-145f6525edd7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jablka-szkolne-bez-pozostalosci-pestycydow-pewni-dobrego-1-5-kg/00009724",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Passata pomidorowa klasyczna Auchan 680 g",
-    "oldPrice": null,
-    "newPrice": 6.55,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa23886f-9493-4c5f-bd8c-5c2c3794c605/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-klasyczna-auchan-680-g/00796846",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Papryka słodka mielona Prymat 20 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/887bc29d-e30c-4fe4-9fcb-ae8b93d13a20/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papryka-slodka-mielona-prymat-20-g/00192074",
     "note": "2+1 za grosz"
   },
   {
@@ -243,6 +210,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Jabłka szkolne bez pozostałości pestycydów Pewni Dobrego 1,5 kg",
+    "oldPrice": 8.99,
+    "newPrice": 6.49,
+    "discountPct": 28,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ceaf67a6-1e32-42b1-b836-145f6525edd7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jablka-szkolne-bez-pozostalosci-pestycydow-pewni-dobrego-1-5-kg/00009724",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
     "name": "Cynamon mielony Prymat 15 g",
     "oldPrice": null,
@@ -250,17 +228,6 @@
     "discountPct": null,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2adfa493-4f40-4e3e-b20c-5f1e42adc615/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/cynamon-mielony-prymat-15-g/00192097",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Czosnek suszony Prymat 20 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cd80e71c-19f6-4eaf-99d3-354cabae9439/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czosnek-suszony-prymat-20-g/00192104",
     "note": "2+1 za grosz"
   },
   {
@@ -276,17 +243,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Jogurt naturalny typ grecki Bakoma 170 g",
-    "oldPrice": 3.38,
-    "newPrice": 2.55,
-    "discountPct": 25,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2a54f4e1-2c93-4dcd-bb41-cef0461d14db/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-typ-grecki-bakoma-170-g/00563487",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Sery",
     "name": "Ser Burrata AURICCHIO 125 g",
     "oldPrice": 6.99,
@@ -294,6 +250,50 @@
     "discountPct": 14,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a239e3cf-0c7c-489a-872e-22f9edab1a69/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ser-burrata-auricchio-125-g/00404651",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Czosnek suszony Prymat 20 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cd80e71c-19f6-4eaf-99d3-354cabae9439/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/czosnek-suszony-prymat-20-g/00192104",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Papryka słodka mielona Prymat 20 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/887bc29d-e30c-4fe4-9fcb-ae8b93d13a20/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papryka-slodka-mielona-prymat-20-g/00192074",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Passata pomidorowa klasyczna Auchan 680 g",
+    "oldPrice": null,
+    "newPrice": 6.55,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa23886f-9493-4c5f-bd8c-5c2c3794c605/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-klasyczna-auchan-680-g/00796846",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Jogurt naturalny typ grecki Bakoma 170 g",
+    "oldPrice": 3.38,
+    "newPrice": 2.55,
+    "discountPct": 25,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2a54f4e1-2c93-4dcd-bb41-cef0461d14db/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-typ-grecki-bakoma-170-g/00563487",
     "note": null
   },
   {
@@ -309,14 +309,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Pieprz czarny mielony Prymat 20 g",
-    "oldPrice": null,
-    "newPrice": 1.28,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e5212ea-a52d-4c23-abf8-50200da7e130/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/pieprz-czarny-mielony-prymat-20-g/00192066",
-    "note": "2+1 za grosz"
+    "category": "Mleko, nabiał i jaja",
+    "name": "Twaróg z kujaw i ziemi dobrzyńskiej półtłusty Pewni Dobrego 350 g",
+    "oldPrice": 7.85,
+    "newPrice": 5.85,
+    "discountPct": 25,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2769cf0-5157-4eb3-9f4d-d4b9e9114c38/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/twarog-z-kujaw-i-ziemi-dobrzynskiej-poltlusty-pewni-dobrego-350-g/00266297",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -338,6 +338,17 @@
     "discountPct": null,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d1906e10-6254-457f-8876-8ed9524d63b7/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/przyprawa-do-kurczaka-prymat-30-g/00192076",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Pieprz czarny mielony Prymat 20 g",
+    "oldPrice": null,
+    "newPrice": 1.28,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e5212ea-a52d-4c23-abf8-50200da7e130/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/pieprz-czarny-mielony-prymat-20-g/00192066",
     "note": "2+1 za grosz"
   },
   {
@@ -365,57 +376,13 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Twaróg z kujaw i ziemi dobrzyńskiej półtłusty Pewni Dobrego 350 g",
-    "oldPrice": 7.85,
-    "newPrice": 5.85,
-    "discountPct": 25,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2769cf0-5157-4eb3-9f4d-d4b9e9114c38/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/twarog-z-kujaw-i-ziemi-dobrzynskiej-poltlusty-pewni-dobrego-350-g/00266297",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "7 Zbóż men jogurt z brzoskwinią gruszką i zbożami Bakoma 300 g",
-    "oldPrice": 5.74,
-    "newPrice": 4.25,
-    "discountPct": 26,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f18e8e8f-fe67-4f43-b2e9-ff89c1ec2aa2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-brzoskwinia-gruszka-i-zbozami-bakoma-300-g/00782620",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Musztarda sarepska Kamis 185 g",
+    "name": "Masło ekstra osełka Łaciate 300 g",
     "oldPrice": null,
-    "newPrice": 3.48,
+    "newPrice": 9.59,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/304ebd96-f9ff-4bf5-bf53-656988f6e5c3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/musztarda-sarepska-kamis-185-g/00679890",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Goździki całe Prymat 10 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890e1987-d671-420c-8711-f0fd360658f7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/gozdziki-cale-prymat-10-g/00192095",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Passata pomidorowa z bazylią Auchan 680 g",
-    "oldPrice": null,
-    "newPrice": 6.55,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/233ad5fb-281a-427d-81c9-f1562104f15e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-z-bazylia-auchan-680-g/00794084",
-    "note": "2+1 za grosz"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0e6ecd2-5035-4ab2-95d4-ed6abdddcee1/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-laciate-300-g/00917007",
+    "note": "2  za 15,70 zł"
   },
   {
     "store": "Auchan",
@@ -430,46 +397,24 @@
   },
   {
     "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Płatki owsiane błyskawiczne Auchan 500 g",
+    "category": "Sosy i przeciery",
+    "name": "Musztarda sarepska Kamis 185 g",
     "oldPrice": null,
-    "newPrice": 2.95,
+    "newPrice": 3.48,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/94015b05-8221-4c5e-bb2b-d83aa7121470/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/platki-owsiane-blyskawiczne-auchan-500-g/00354794",
-    "note": "2  za 4,50 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Masło ekstra osełka Łaciate 300 g",
-    "oldPrice": null,
-    "newPrice": 9.59,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0e6ecd2-5035-4ab2-95d4-ed6abdddcee1/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-laciate-300-g/00917007",
-    "note": "2  za 15,70 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Oregano suszone.  Prymat 8 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5598dc53-2e8a-4cc6-b6be-474b1b14efd7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/oregano-suszone-prymat-8-g/00326756",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/304ebd96-f9ff-4bf5-bf53-656988f6e5c3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/musztarda-sarepska-kamis-185-g/00679890",
     "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
-    "category": "Wyposażenie domu",
-    "name": "Znicz szklany Z-350 60 g 21h 20 cm Dam-Pol  1 sztuka",
-    "oldPrice": 3.99,
-    "newPrice": 3.49,
-    "discountPct": 13,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e124bb02-1f70-45e4-81c3-6adb904438d5/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/znicz-szklany-z-350-60-g-21h-20-cm-dam-pol-1-sztuka/00803666",
+    "category": "Mleko, nabiał i jaja",
+    "name": "7 Zbóż men jogurt z brzoskwinią gruszką i zbożami Bakoma 300 g",
+    "oldPrice": 5.74,
+    "newPrice": 4.25,
+    "discountPct": 26,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f18e8e8f-fe67-4f43-b2e9-ff89c1ec2aa2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/7-zboz-men-jogurt-z-brzoskwinia-gruszka-i-zbozami-bakoma-300-g/00782620",
     "note": null
   },
   {
@@ -485,6 +430,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Sypkie i produkty zbożowe",
+    "name": "Płatki owsiane błyskawiczne Auchan 500 g",
+    "oldPrice": null,
+    "newPrice": 2.95,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/94015b05-8221-4c5e-bb2b-d83aa7121470/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/platki-owsiane-blyskawiczne-auchan-500-g/00354794",
+    "note": "2  za 4,50 zł"
+  },
+  {
+    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
     "name": "Fantasia Jogurt kremowy m&m's Danone 120 g",
     "oldPrice": null,
@@ -493,6 +449,61 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/55d0c293-9715-4b0f-8fde-c97fb8969cf0/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-m-m-s-danone-120-g/00608769",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Oregano suszone.  Prymat 8 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5598dc53-2e8a-4cc6-b6be-474b1b14efd7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/oregano-suszone-prymat-8-g/00326756",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Goździki całe Prymat 10 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890e1987-d671-420c-8711-f0fd360658f7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/gozdziki-cale-prymat-10-g/00192095",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Jabłka Jonagold odmiana Red Prince Owoce  Auchan 2 kg",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1b28ec6c-f674-4792-ab1d-703042f3dc63/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jablka-jonagold-odmiana-red-prince-owoce-auchan-2-kg/00729970",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Passata pomidorowa z bazylią Auchan 680 g",
+    "oldPrice": null,
+    "newPrice": 6.55,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/233ad5fb-281a-427d-81c9-f1562104f15e/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-z-bazylia-auchan-680-g/00794084",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Ser camembert lekki 12% tłuszczu Président 120 g",
+    "oldPrice": 6.98,
+    "newPrice": 4.79,
+    "discountPct": 31,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/397c511a-30de-4df8-8c93-432c44300920/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-camembert-lekki-12-tluszczu-pr-sident-120-g/00362910",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -507,14 +518,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Majeranek suszony Prymat 8 g",
-    "oldPrice": null,
-    "newPrice": 1.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ddc2db3f-2710-43ae-981e-e25713c86fe7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/majeranek-suszony-prymat-8-g/00192101",
-    "note": "2+1 za grosz"
+    "category": "Wyposażenie domu",
+    "name": "Znicz szklany Z-350 60 g 21h 20 cm Dam-Pol  1 sztuka",
+    "oldPrice": 3.99,
+    "newPrice": 3.49,
+    "discountPct": 13,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e124bb02-1f70-45e4-81c3-6adb904438d5/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/znicz-szklany-z-350-60-g-21h-20-cm-dam-pol-1-sztuka/00803666",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -529,24 +540,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Wyposażenie domu",
-    "name": "Zapalarka z lufka 5 ml, 7,5 cm Flame 1 sztuka",
-    "oldPrice": 2.89,
-    "newPrice": 1.99,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/297f90ed-f36f-4837-b2d4-d62dbd0f4f2a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/zapalarka-z-lufka-5-ml-7-5-cm-flame-1-sztuka/00318174",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser camembert lekki 12% tłuszczu Président 120 g",
-    "oldPrice": 6.98,
-    "newPrice": 4.79,
-    "discountPct": 31,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/397c511a-30de-4df8-8c93-432c44300920/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-camembert-lekki-12-tluszczu-pr-sident-120-g/00362910",
+    "category": "Słodycze",
+    "name": "Płatki śniadaniowe czekoladowe w formie batonika Nestlé 25 g",
+    "oldPrice": 2.14,
+    "newPrice": 1.78,
+    "discountPct": 17,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/dc17f793-0ff6-4981-8f3d-289e3546492f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/platki-sniadaniowe-czekoladowe-w-formie-batonika-nestl-25-g/00709255",
     "note": null
   }
 ]
