@@ -177,6 +177,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Awokado zielone",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
+    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
+  },
+  {
+    "store": "Lidl",
     "category": "Owoce",
     "name": "Kiwi Gold",
     "oldPrice": null,
@@ -240,17 +251,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpa047357027bb4fcfb8baf20961493443.png",
     "url": "https://www.lidl.pl/p/pilos-ser-gouda-w-kawalku/p11418990"
-  },
-  {
-    "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
   },
   {
     "store": "Lidl",
