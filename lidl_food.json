@@ -155,17 +155,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Pieczarki",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9b12a9abdb7f454486733dfd7ebd74d4.png",
-    "url": "https://www.lidl.pl/p/pieczarki/p11029529"
-  },
-  {
-    "store": "Lidl",
     "category": "Mrożone owoce i warzywa",
     "name": "Maliny",
     "oldPrice": null,
@@ -174,61 +163,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpdfc2ecfc748e458f95ef1862135585ce.png",
     "url": "https://www.lidl.pl/p/maliny/p11029869"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Mango, luzem",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp20f24b3d4f844353956650f8f28ab52e.png",
-    "url": "https://www.lidl.pl/p/mango-luzem/p11029894"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Jeżyny",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpb13d8f5043164ae88f146a2a7cbeed49.png",
-    "url": "https://www.lidl.pl/p/jezyny/p11029944"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Śliwki okrągłe, luzem",
-    "oldPrice": 12.99,
-    "newPrice": 4.99,
-    "discountPct": 61,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp99ae3aa086d942a69304da4ea84b9348.png",
-    "url": "https://www.lidl.pl/p/sliwki-okragle-luzem/p11029953"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Kaki",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa5e058c5b34f44429b5d862ebd561d74.png",
-    "url": "https://www.lidl.pl/p/kaki/p11029962"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Winogrona ciemne, luzem",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9a234235e7294a9fa19180c176a6fa40.png",
-    "url": "https://www.lidl.pl/p/winogrona-ciemne-luzem/p11030018"
   },
   {
     "store": "Lidl",
@@ -255,28 +189,6 @@
   {
     "store": "Lidl",
     "category": "Owoce",
-    "name": "Grejpfrut czerwony, luzem",
-    "oldPrice": 6.99,
-    "newPrice": 4.89,
-    "discountPct": 30,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp19bc26b7d24a484fbcea0f738fd340ac.png",
-    "url": "https://www.lidl.pl/p/grejpfrut-czerwony-luzem/p11150771"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "RYNECZEK LIDLA Pomelo czerwone, luzem",
-    "oldPrice": 12.99,
-    "newPrice": 8.99,
-    "discountPct": 30,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpaf9c0b3dd5024ceaa659f63be315a43a.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-pomelo-czerwone-luzem/p11150775"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
     "name": "Pomarańcze deserowe, luzem",
     "oldPrice": 5.99,
     "newPrice": 3.99,
@@ -284,17 +196,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpbb15602454304b76ac85c07bbc5b4337.png",
     "url": "https://www.lidl.pl/p/pomarancze-deserowe-luzem/p11150785"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Cebula dymka, pęczek",
-    "oldPrice": 2.99,
-    "newPrice": 1.99,
-    "discountPct": 33,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp5b36043468664107a14d993c5043ce16.png",
-    "url": "https://www.lidl.pl/p/cebula-dymka-peczek/p11151058"
   },
   {
     "store": "Lidl",
@@ -353,17 +254,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Wieprzowina",
-    "name": "RZEŹNIK Łopatka wieprzowa",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp111ed4c928db4015873e2ddd4c0ec015.png",
-    "url": "https://www.lidl.pl/p/rzeznik-lopatka-wieprzowa/p11305117"
-  },
-  {
-    "store": "Lidl",
     "category": "Mleko i śmietana",
     "name": "Mleko Zambrowskie UHT 3,2%",
     "oldPrice": null,
@@ -372,28 +262,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcp4692655d9613473c8f1175054f8c506e.png",
     "url": "https://www.lidl.pl/p/mleko-zambrowskie-uht-3-2/p11409362"
-  },
-  {
-    "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "PIKOK Parówki z indyka, XXL",
-    "oldPrice": 12.99,
-    "newPrice": 6.49,
-    "discountPct": 50,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpcdd31c32d3ab42778961eccfcbac03e6.png",
-    "url": "https://www.lidl.pl/p/pikok-parowki-z-indyka-xxl/p11410152"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ser",
-    "name": "PILOS Ser gouda w kawałku",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa047357027bb4fcfb8baf20961493443.png",
-    "url": "https://www.lidl.pl/p/pilos-ser-gouda-w-kawalku/p11418990"
   },
   {
     "store": "Lidl",
