@@ -12,17 +12,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Kasztany jadalne, luzem",
-    "oldPrice": 2.99,
-    "newPrice": 2.39,
-    "discountPct": 20,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp552bd7fff6984b1f917748bff1e01976.png",
-    "url": "https://www.lidl.pl/p/kasztany-jadalne-luzem/p11028851"
-  },
-  {
-    "store": "Lidl",
     "category": "Warzywa",
     "name": "Ziemniaki jadalne",
     "oldPrice": 8.99,
@@ -101,24 +90,13 @@
   {
     "store": "Lidl",
     "category": "Drób",
-    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
-    "oldPrice": 24.8,
-    "newPrice": 14.99,
-    "discountPct": 39,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
-  },
-  {
-    "store": "Lidl",
-    "category": "Drób",
-    "name": "SKONIO ŽENKLAS Polski kurczak – ćwiartki, XXL",
+    "name": "RZEŹNIK Polski kurczak – ćwiartki, XXL",
     "oldPrice": 8.99,
     "newPrice": 4.99,
     "discountPct": 44,
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp9a65e7a4f1ce425cb1b8ccb3eac23645.png",
-    "url": "https://www.lidl.pl/p/skonio-zenklas-polski-kurczak-cwiartki-xxl/p11408319"
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-cwiartki-xxl/p11408319"
   },
   {
     "store": "Lidl",
