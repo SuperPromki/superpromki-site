@@ -1746,7 +1746,7 @@
     "oldPrice": 5.99,
     "newPrice": 3.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4047902004886_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00123835_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8652,16 +8652,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kaki",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700494",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polska włoszczyzna",
     "oldPrice": 7.99,
     "newPrice": 5.99,
@@ -8772,11 +8762,41 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Mango Osteen",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20095335-1",
+    "name": "MK Cafe Premium (Kawa rozpuszczalna)",
+    "oldPrice": 19.99,
+    "newPrice": 17.49,
+    "discountPct": 12,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00085416_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mandarynki",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702240",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski kalafior",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Ogórki konserwowe)",
+    "oldPrice": 6.89,
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00048402_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
