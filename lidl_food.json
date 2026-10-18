@@ -1,14 +1,36 @@
 [
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "Pilos Masło ekstra 82%",
+    "category": "Pikantne przekąski",
+    "name": "MCENNEDY",
     "oldPrice": null,
-    "newPrice": 2.49,
+    "newPrice": 18.99,
     "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpf5382298b6724c2ab6ec48b6652000ef.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p11407867"
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp80a5393017d841b6bec78b5a18af311b.png",
+    "url": "https://www.lidl.pl/p/mcennedy/p11000724"
+  },
+  {
+    "store": "Lidl",
+    "category": "Dżemy, pasty do smarowania i miód",
+    "name": "MCENNEDY Krem do smarowania z orzechami nerkowca",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp44f58e51104c41979cd51ee729063bb6.png",
+    "url": "https://www.lidl.pl/p/mcennedy-krem-do-smarowania-z-orzechami-nerkowca/p11004747"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Kasztany jadalne, luzem",
+    "oldPrice": 2.99,
+    "newPrice": 2.39,
+    "discountPct": 20,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp552bd7fff6984b1f917748bff1e01976.png",
+    "url": "https://www.lidl.pl/p/kasztany-jadalne-luzem/p11028851"
   },
   {
     "store": "Lidl",
@@ -23,113 +45,14 @@
   },
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Winogrona jasne bezpestkowe, luzem",
-    "oldPrice": 14.99,
-    "newPrice": 7.99,
-    "discountPct": 46,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpe7a7301c6e5443aab95ea3d7dc69ca16.png",
-    "url": "https://www.lidl.pl/p/winogrona-jasne-bezpestkowe-luzem/p11030010"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "RYNECZEK LIDLA Gruszki Konferencja, luzem",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp1367b3af57304264ba3fd278391b8962.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-gruszki-konferencja-luzem/p11030060"
-  },
-  {
-    "store": "Lidl",
     "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Fasola szparagowa żółta, luzem",
-    "oldPrice": 16.99,
-    "newPrice": 8.99,
-    "discountPct": 47,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp3420b3779c1942049d91f25fa7154ab2.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-fasola-szparagowa-zolta-luzem/p11151049"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Brokuły",
-    "oldPrice": 5.99,
-    "newPrice": 3.89,
-    "discountPct": 35,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpbea0d8b51cf940e9b8a4c65c658dc9bc.png",
-    "url": "https://www.lidl.pl/p/brokuly/p11151157"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Rukola",
-    "oldPrice": 5.99,
-    "newPrice": 3.49,
-    "discountPct": 41,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpc12c9fb35da74425a09f71c0c775790d.png",
-    "url": "https://www.lidl.pl/p/rukola/p11214496"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Polskie jabłka czerwone, luzem",
-    "oldPrice": 4.49,
-    "newPrice": 2.49,
-    "discountPct": 44,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp4ff1104c6799483fa1a9bc182a845026.png",
-    "url": "https://www.lidl.pl/p/polskie-jablka-czerwone-luzem/p11214563"
-  },
-  {
-    "store": "Lidl",
-    "category": "Drób",
-    "name": "RZEŹNIK Polski kurczak – ćwiartki, XXL",
-    "oldPrice": 8.99,
-    "newPrice": 4.99,
-    "discountPct": 44,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9a65e7a4f1ce425cb1b8ccb3eac23645.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-cwiartki-xxl/p11408319"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ser",
-    "name": "PILOS Ser Carski w plastrach, XXL",
-    "oldPrice": 34.99,
-    "newPrice": 19.99,
+    "name": "RYNECZEK LIDLA Dynia hokkaido, luzem",
+    "oldPrice": 6.99,
+    "newPrice": 3.99,
     "discountPct": 42,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpbd841c6f97b443d8a8eb3f211c5b31fb.png",
-    "url": "https://www.lidl.pl/p/pilos-ser-carski-w-plastrach-xxl/p11433750"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ryby i owoce morza",
-    "name": "Łosoś atlantycki, filet ze skórą, XXL",
-    "oldPrice": 6.99,
-    "newPrice": 4.99,
-    "discountPct": 28,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp66b31d8ae4a148afaf06a4a89a4eeb8b.png",
-    "url": "https://www.lidl.pl/p/losos-atlantycki-filet-ze-skora-xxl/p11434402"
-  },
-  {
-    "store": "Lidl",
-    "category": "Lody",
-    "name": "Mochi",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpdda24cf3e9a04a709c3822a94d316e0e.png",
-    "url": "https://www.lidl.pl/p/mochi/p11007117"
+    "image": "https://www.lidl.pl/assets/gcpcceea42dc94048d7940ae5e7d376bc59.png",
+    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-hokkaido-luzem/p11029664"
   },
   {
     "store": "Lidl",
@@ -144,58 +67,69 @@
   },
   {
     "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "ITALIAMO Salami strolghino",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
+    "category": "Owoce",
+    "name": "Winogrona ciemne, luzem",
+    "oldPrice": 9.99,
+    "newPrice": 5.99,
+    "discountPct": 40,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpcd2898e99bea48cca820c3b7c5f4e470.png",
-    "url": "https://www.lidl.pl/p/italiamo-salami-strolghino/p11039862"
+    "image": "https://www.lidl.pl/assets/gcp9a234235e7294a9fa19180c176a6fa40.png",
+    "url": "https://www.lidl.pl/p/winogrona-ciemne-luzem/p11030018"
   },
   {
     "store": "Lidl",
-    "category": "Ser",
-    "name": "ITALIAMO Ser squacquerone di romagna",
+    "category": "Kiełbasy i wędliny",
+    "name": "MCENNEDY Boczek z miodem",
     "oldPrice": null,
-    "newPrice": 12.99,
+    "newPrice": 13.99,
     "discountPct": null,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcp359441c9d3b744288db8fd1d3fe4707b.png",
-    "url": "https://www.lidl.pl/p/italiamo-ser-squacquerone-di-romagna/p11141611"
+    "image": "https://www.lidl.pl/assets/gcp0b6376bef74d4c5cbeb22da0434327e6.png",
+    "url": "https://www.lidl.pl/p/mcennedy-boczek-z-miodem/p11034154"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "MCENNEDY Żeberka wieprzowe marynowane",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpc2ead8b16e474cccba1fec39679328ae.png",
+    "url": "https://www.lidl.pl/p/mcennedy-zeberka-wieprzowe-marynowane/p11120765"
   },
   {
     "store": "Lidl",
     "category": "Owoce",
-    "name": "Pomarańcze deserowe, luzem",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
+    "name": "Pomelo żółte, luzem",
+    "oldPrice": 12.99,
+    "newPrice": 8.99,
+    "discountPct": 30,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpbb15602454304b76ac85c07bbc5b4337.png",
-    "url": "https://www.lidl.pl/p/pomarancze-deserowe-luzem/p11150785"
+    "image": "https://www.lidl.pl/assets/gcpb5f58c1e33e14cbdaebf7c4fc20d4797.png",
+    "url": "https://www.lidl.pl/p/pomelo-zolte-luzem/p11150773"
   },
   {
     "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "ITALIAMO Prosciutto crudo, szynka wieprzowa",
+    "category": "Warzywa",
+    "name": "Bataty, luzem",
     "oldPrice": null,
-    "newPrice": 14.99,
+    "newPrice": 7.99,
     "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpb5b3427955d24ec48695b0cb407485a6.png",
-    "url": "https://www.lidl.pl/p/italiamo-prosciutto-crudo-szynka-wieprzowa/p11208654"
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpd358cfab406b47a39eda4a4fcb478fd5.png",
+    "url": "https://www.lidl.pl/p/bataty-luzem/p11150934"
   },
   {
     "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "ITALIAMO Zestaw salami",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
+    "category": "Warzywa",
+    "name": "RYNECZEK LIDLA Dynia ozdobna, luzem",
+    "oldPrice": 7.99,
+    "newPrice": 5.99,
+    "discountPct": 25,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpdd531462de574fdaa3ce9dcc55eaaa64.png",
-    "url": "https://www.lidl.pl/p/italiamo-zestaw-salami/p11209463"
+    "image": "https://www.lidl.pl/assets/gcpae721da620cb49e28297e58dfc94dbde.png",
+    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-ozdobna-luzem/p11214421"
   },
   {
     "store": "Lidl",
@@ -211,46 +145,145 @@
   {
     "store": "Lidl",
     "category": "Owoce",
-    "name": "Kiwi Gold",
-    "oldPrice": null,
-    "newPrice": 3.49,
-    "discountPct": null,
+    "name": "Polskie jabłka czerwone, luzem",
+    "oldPrice": 4.49,
+    "newPrice": 2.49,
+    "discountPct": 44,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcp2c4001b2426142b8a3b20bb063ad542e.png",
-    "url": "https://www.lidl.pl/p/kiwi-gold/p11214533"
+    "image": "https://www.lidl.pl/assets/gcp4ff1104c6799483fa1a9bc182a845026.png",
+    "url": "https://www.lidl.pl/p/polskie-jablka-czerwone-luzem/p11214563"
   },
   {
     "store": "Lidl",
-    "category": "Mrożone owoce i warzywa",
-    "name": "VITASIA Edamame",
+    "category": "Owoce",
+    "name": "Gruszka Nashi",
     "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpd2f9aaeb897b4b678deea030b62f4b75.png",
-    "url": "https://www.lidl.pl/p/vitasia-edamame/p11235464"
-  },
-  {
-    "store": "Lidl",
-    "category": "Mleko i śmietana",
-    "name": "Mleko Zambrowskie UHT 3,2%",
-    "oldPrice": null,
-    "newPrice": 1.99,
+    "newPrice": 2.99,
     "discountPct": null,
     "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp4692655d9613473c8f1175054f8c506e.png",
-    "url": "https://www.lidl.pl/p/mleko-zambrowskie-uht-3-2/p11409362"
+    "image": "https://www.lidl.pl/assets/gcpdd4816541f574b6e948bbd59ccce863f.png",
+    "url": "https://www.lidl.pl/p/gruszka-nashi/p11214565"
   },
   {
     "store": "Lidl",
-    "category": "Mrożone mięso i drób",
-    "name": "Italiamo Klopsiki",
+    "category": "Mrożona pizza i przekąski",
+    "name": "MCENNEDY Frytki w panierce z przyprawami BBQ",
+    "oldPrice": 8.99,
+    "newPrice": 6.69,
+    "discountPct": 25,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp4a6f9e4e320d4e7096225f09b3071230.png",
+    "url": "https://www.lidl.pl/p/mcennedy-frytki-w-panierce-z-przyprawami-bbq/p11235453"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "BIO ORGANIC Bio Dynia Hokkaido, luzem",
+    "oldPrice": 9.99,
+    "newPrice": 6.99,
+    "discountPct": 30,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp1071bea725934a50984d5d4c127860e5.png",
+    "url": "https://www.lidl.pl/p/bio-organic-bio-dynia-hokkaido-luzem/p11259941"
+  },
+  {
+    "store": "Lidl",
+    "category": "Sałatki, owoce i przystawki na wynos",
+    "name": "Sałata chrupka mix",
+    "oldPrice": 9.99,
+    "newPrice": 6.99,
+    "discountPct": 30,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa1aa6e09e91d4b6cb1ace8f651e5eb9c.png",
+    "url": "https://www.lidl.pl/p/salata-chrupka-mix/p11314798"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "- Mięso mielone z łopatki wieprzowej",
     "oldPrice": null,
-    "newPrice": 12.99,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp4c47653f35ea454bbe6306f6d75e2e4d.png",
+    "url": "https://www.lidl.pl/p/mieso-mielone-z-lopatki-wieprzowej/p11405938"
+  },
+  {
+    "store": "Lidl",
+    "category": "Jajka",
+    "name": "ZŁOTA NIOSKA Świeże jaja ściółkowe, wielkość M, klasa A",
+    "oldPrice": null,
+    "newPrice": 20.99,
     "discountPct": null,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcp4fb94e4e3a0244c3ba9cb248288f9e54.png",
-    "url": "https://www.lidl.pl/p/italiamo-klopsiki/p11713856"
+    "image": "https://www.lidl.pl/assets/gcp4d0b26ba4a104315bcc9e4c8f3afc618.png",
+    "url": "https://www.lidl.pl/p/zlota-nioska-swieze-jaja-sciolkowe-wielkosc-m-klasa-a/p11410158"
+  },
+  {
+    "store": "Lidl",
+    "category": "Woda",
+    "name": "Woda mineralna niegazowana niskosodowa",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpfc9b69608daf4873ad92d0824c87a7c0.png",
+    "url": "https://www.lidl.pl/p/woda-mineralna-niegazowana-niskosodowa/p11411375"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "Boczek góralski",
+    "oldPrice": 2.89,
+    "newPrice": 1.49,
+    "discountPct": 48,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpd53087563d594754972c6a9a9eee0c3f.png",
+    "url": "https://www.lidl.pl/p/boczek-goralski/p11419085"
+  },
+  {
+    "store": "Lidl",
+    "category": "Woda",
+    "name": "Woda mineralna magnezowo-wapniowa",
+    "oldPrice": null,
+    "newPrice": 11.94,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa27b4d79e1aa428692682affde4adcc3.png",
+    "url": "https://www.lidl.pl/p/woda-mineralna-magnezowo-wapniowa/p11426182"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "PILOS Holenderska gouda w plastrach",
+    "oldPrice": 9.99,
+    "newPrice": 4.99,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3e4269474ea640c8a789bdf7109543f5.png",
+    "url": "https://www.lidl.pl/p/pilos-holenderska-gouda-w-plastrach/p11426673"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 83%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
+    "category": "Napoje bezalkoholowe",
+    "name": "Coca-Cola lub Coca-Cola Zero",
+    "oldPrice": null,
+    "newPrice": 27.96,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp34b9d1888a3f41648cc2d0d131a21fee.png",
+    "url": "https://www.lidl.pl/p/coca-cola-lub-coca-cola-zero/p12215685"
   },
   {
     "store": "Lidl",
@@ -570,5 +603,16 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
     "url": "https://www.lidl.pl/p/parkside-folia-zastepcza-do-szklarni/p100413461"
+  },
+  {
+    "store": "Lidl",
+    "category": "wyroby czekoladowe",
+    "name": "FINCARRÉ",
+    "oldPrice": null,
+    "newPrice": 4.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe7b5f6959b964a738c187d5545b4f561.png",
+    "url": "https://www.lidl.pl/p/fincarre/p11001765"
   }
 ]
