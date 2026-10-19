@@ -100,6 +100,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Desery",
+    "name": "MCENNEDY Deser mleczny o smaku brownie",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp24361580b9c74917bb2ab2def89411e2.png",
+    "url": "https://www.lidl.pl/p/mcennedy-deser-mleczny-o-smaku-brownie/p11139172"
+  },
+  {
+    "store": "Lidl",
     "category": "Owoce",
     "name": "Pomelo żółte, luzem",
     "oldPrice": 12.99,
@@ -119,6 +130,17 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpd358cfab406b47a39eda4a4fcb478fd5.png",
     "url": "https://www.lidl.pl/p/bataty-luzem/p11150934"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Brokuły",
+    "oldPrice": null,
+    "newPrice": 3.89,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpbea0d8b51cf940e9b8a4c65c658dc9bc.png",
+    "url": "https://www.lidl.pl/p/brokuly/p11151157"
   },
   {
     "store": "Lidl",
@@ -273,6 +295,17 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
     "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "RZEŹNIK Schab wieprzowy, XXL",
+    "oldPrice": 16.95,
+    "newPrice": 9.99,
+    "discountPct": 41,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3c65f8b3374544f9abdb88c02acf8047.png",
+    "url": "https://www.lidl.pl/p/rzeznik-schab-wieprzowy-xxl/p11437346"
   },
   {
     "store": "Lidl",
@@ -598,7 +631,7 @@
     "category": "Artykuły ogrodnicze",
     "name": "PARKSIDE® Folia zastępcza do szklarni",
     "oldPrice": null,
-    "newPrice": 39.99,
+    "newPrice": 44.99,
     "discountPct": null,
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
