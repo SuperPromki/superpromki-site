@@ -1,6 +1,17 @@
 [
   {
     "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – uda, XXL",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb68e528b7405462c8e79b852255c02b4.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-uda-xxl/p11408127"
+  },
+  {
+    "store": "Lidl",
     "category": "Pikantne przekąski",
     "name": "MCENNEDY",
     "oldPrice": null,
@@ -284,17 +295,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp3e4269474ea640c8a789bdf7109543f5.png",
     "url": "https://www.lidl.pl/p/pilos-holenderska-gouda-w-plastrach/p11426673"
-  },
-  {
-    "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
   },
   {
     "store": "Lidl",
