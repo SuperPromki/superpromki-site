@@ -4712,16 +4712,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "SodaStream (Butelka biała 2 szt.)",
-    "oldPrice": 79.99,
-    "newPrice": 54.99,
-    "discountPct": 31,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20689735_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "SodaStream (Butelka czarna 2 szt.)",
     "oldPrice": null,
     "newPrice": 54.99,
@@ -8827,6 +8817,16 @@
     "newPrice": 9.54,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/02306437_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Żywiec Zdrój (Woda źródlana)",
+    "oldPrice": null,
+    "newPrice": 9.54,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/02306856_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {

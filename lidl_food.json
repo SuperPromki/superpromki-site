@@ -2,6 +2,171 @@
   {
     "store": "Lidl",
     "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 83%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza",
+    "name": "Łosoś atlantycki, filet ze skórą, XXL",
+    "oldPrice": 6.99,
+    "newPrice": 4.99,
+    "discountPct": 28,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa756bd22fbdc46938f6617597723856a.png",
+    "url": "https://www.lidl.pl/p/losos-atlantycki-filet-ze-skora-xxl/p11006115"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Imbir, luzem",
+    "oldPrice": 2.49,
+    "newPrice": 1.69,
+    "discountPct": 32,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3a08530cce3c438c923cf6f65980ddc3.png",
+    "url": "https://www.lidl.pl/p/imbir-luzem/p11029618"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Śliwki okrągłe, luzem",
+    "oldPrice": 12.99,
+    "newPrice": 5.99,
+    "discountPct": 53,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp99ae3aa086d942a69304da4ea84b9348.png",
+    "url": "https://www.lidl.pl/p/sliwki-okragle-luzem/p11029953"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Kaki",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpa5e058c5b34f44429b5d862ebd561d74.png",
+    "url": "https://www.lidl.pl/p/kaki/p11029962"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Cytryny, luzem",
+    "oldPrice": 5.99,
+    "newPrice": 3.99,
+    "discountPct": 33,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3456d82507944fa7bfcfea3114fc7b6a.png",
+    "url": "https://www.lidl.pl/p/cytryny-luzem/p11030000"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Winogrona jasne bezpestkowe, luzem",
+    "oldPrice": 14.99,
+    "newPrice": 7.99,
+    "discountPct": 46,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe7a7301c6e5443aab95ea3d7dc69ca16.png",
+    "url": "https://www.lidl.pl/p/winogrona-jasne-bezpestkowe-luzem/p11030010"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Pomarańcze deserowe, luzem",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpbb15602454304b76ac85c07bbc5b4337.png",
+    "url": "https://www.lidl.pl/p/pomarancze-deserowe-luzem/p11150785"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Arbuz drobnopestkowy, luzem",
+    "oldPrice": 7.99,
+    "newPrice": 4.79,
+    "discountPct": 40,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5be420723e4b44f1ad810f7eb8cd3d0a.png",
+    "url": "https://www.lidl.pl/p/arbuz-drobnopestkowy-luzem/p11150904"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Ziemniaki jadalne, luzem",
+    "oldPrice": 1.99,
+    "newPrice": 0.99,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp892e61e1f4eb4789aa6280f714cf654e.png",
+    "url": "https://www.lidl.pl/p/ziemniaki-jadalne-luzem/p11214363"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Pomidory koktajlowe kiściowe",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf3b3166aa1df4dfc9596e0a9a07a2072.png",
+    "url": "https://www.lidl.pl/p/pomidory-koktajlowe-kisciowe/p11214485"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Kiwi Gold",
+    "oldPrice": null,
+    "newPrice": 3.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp2c4001b2426142b8a3b20bb063ad542e.png",
+    "url": "https://www.lidl.pl/p/kiwi-gold/p11214533"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "MILBONA Ser gouda w kawałku, XXL",
+    "oldPrice": 14.99,
+    "newPrice": 7.49,
+    "discountPct": 50,
+    "note": null,
+    "image": null,
+    "url": "https://www.lidl.pl/p/milbona-ser-gouda-w-kawalku-xxl/p11219541"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – podudzia, XXL",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpe8c12fa4a4d241259b17d7f0345fc2c1.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-podudzia-xxl/p11408105"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
     "name": "RZEŹNIK Polski kurczak – uda, XXL",
     "oldPrice": null,
     "newPrice": 6.49,
@@ -9,6 +174,50 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpb68e528b7405462c8e79b852255c02b4.png",
     "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-uda-xxl/p11408127"
+  },
+  {
+    "store": "Lidl",
+    "category": "Konserwy mięsne i rybne",
+    "name": "PIKOK Szynka konserwowa, XXL",
+    "oldPrice": 8.99,
+    "newPrice": 4.99,
+    "discountPct": 44,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp13e287c80a0540319eea73f29838617b.png",
+    "url": "https://www.lidl.pl/p/pikok-szynka-konserwowa-xxl/p11418468"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza mrożone",
+    "name": "TARG RYBNY LIDLA Halibut, filet bez skóry",
+    "oldPrice": null,
+    "newPrice": 69.9,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpc215fc07617c41569a9f8e97408770e3.png",
+    "url": "https://www.lidl.pl/p/targ-rybny-lidla-halibut-filet-bez-skory/p11428347"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "RZEŹNIK Boczek, XXL",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpc87b7609e7cb4622aa93f29b5ee849e3.png",
+    "url": "https://www.lidl.pl/p/rzeznik-boczek-xxl/p11431673"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "PIKOK Kiełbasa śląska, XXL",
+    "oldPrice": 33.9,
+    "newPrice": 14.9,
+    "discountPct": 56,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe71f4cb9cf724bcbbc13fa772cf33eae.png",
+    "url": "https://www.lidl.pl/p/pikok-kielbasa-slaska-xxl/p11437091"
   },
   {
     "store": "Lidl",
@@ -171,7 +380,7 @@
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
+    "note": null,
     "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
     "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
   },
@@ -647,5 +856,16 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpe7b5f6959b964a738c187d5545b4f561.png",
     "url": "https://www.lidl.pl/p/fincarre/p11001765"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza",
+    "name": "LUPILU® Zestaw zabawek drewnianych: kuchnia z zestawem do robienia kanapek, rybą i mięsem",
+    "oldPrice": null,
+    "newPrice": 369.53,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp25ca2b7960d94e79ba389bd6c512c47d.jpg",
+    "url": "https://www.lidl.pl/p/lupilu-zestaw-zabawek-drewnianych-kuchnia-z-zestawem-do-robienia-kanapek-ryba-i-miesem/p800014900"
   }
 ]

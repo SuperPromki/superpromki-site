@@ -100,6 +100,28 @@
   },
   {
     "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Ciastko biszkoptowe z nadzieniem czekoladowym  Lubisie 30 g",
+    "oldPrice": null,
+    "newPrice": 1.59,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/19ac6674-6649-4942-a879-ff708a5f8927/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ciastko-biszkoptowe-z-nadzieniem-czekoladowym-lubisie-30-g/00418966",
+    "note": "4+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Passata pomidorowa klasyczna Auchan 680 g",
+    "oldPrice": null,
+    "newPrice": 6.55,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa23886f-9493-4c5f-bd8c-5c2c3794c605/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-klasyczna-auchan-680-g/00796846",
+    "note": "Trzeci za 1 zł"
+  },
+  {
+    "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
     "name": "Kukurydza super słodka   Auchan 340 /285 g",
     "oldPrice": null,
@@ -123,24 +145,13 @@
   {
     "store": "Auchan",
     "category": "Sosy i przeciery",
-    "name": "Passata pomidorowa klasyczna Auchan 680 g",
+    "name": "Koncentrat pomidorowy 30% Pudliszki 90 g ",
     "oldPrice": null,
-    "newPrice": 6.55,
+    "newPrice": 2.98,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/aa23886f-9493-4c5f-bd8c-5c2c3794c605/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/passata-pomidorowa-klasyczna-auchan-680-g/00796846",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/eff2ef6b-4df3-498e-964c-6ddfe8fa9b53/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/koncentrat-pomidorowy-30-pudliszki-90-g/00491241",
     "note": "Trzeci za 1 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Ciastko biszkoptowe z nadzieniem czekoladowym  Lubisie 30 g",
-    "oldPrice": null,
-    "newPrice": 1.59,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/19ac6674-6649-4942-a879-ff708a5f8927/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ciastko-biszkoptowe-z-nadzieniem-czekoladowym-lubisie-30-g/00418966",
-    "note": "4+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -163,17 +174,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/228610e3-36e9-488c-8c12-182e28b1a77f/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/twarog-wiejski-lekki-0-piatnica-250-g/00489163",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Koncentrat pomidorowy 30% Pudliszki 90 g ",
-    "oldPrice": null,
-    "newPrice": 2.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/eff2ef6b-4df3-498e-964c-6ddfe8fa9b53/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/koncentrat-pomidorowy-30-pudliszki-90-g/00491241",
-    "note": "Trzeci za 1 zł"
   },
   {
     "store": "Auchan",
@@ -210,6 +210,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Kuchnia",
+    "name": "Papier do pieczenia 16 arkuszy Auchan 1 sztuka",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/bbe3abb8-05e0-4564-99a9-1a236fcfd3b2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papier-do-pieczenia-16-arkuszy-auchan-1-sztuka/00507246",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Mrożonki",
     "name": "Brokuł różyczki Auchan 450 g",
     "oldPrice": 4.99,
@@ -232,35 +243,24 @@
   },
   {
     "store": "Auchan",
-    "category": "Kuchnia",
-    "name": "Papier do pieczenia 16 arkuszy Auchan 1 sztuka",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/bbe3abb8-05e0-4564-99a9-1a236fcfd3b2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papier-do-pieczenia-16-arkuszy-auchan-1-sztuka/00507246",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Ciastko biszkoptowe z nadzieniem mlecznym  Lubisie 30 g",
+    "category": "Napoje",
+    "name": "Piwo jasne bezalkoholowe Cero alk. 0.0% obj. Corona 330 ml",
     "oldPrice": null,
-    "newPrice": 1.59,
+    "newPrice": 4.98,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7471baae-0e33-4f7c-8acf-400b598abc04/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ciastko-biszkoptowe-z-nadzieniem-mlecznym-lubisie-30-g/00544781",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d03c90b8-c056-4ea0-9157-2afd91372bc5/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/piwo-jasne-bezalkoholowe-cero-alk-0-0-obj-corona-330-ml/00265154",
     "note": "4+1 za grosz"
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Twaróg wiejski tłusty Piątnica 250 g",
-    "oldPrice": 5.88,
-    "newPrice": 4.85,
-    "discountPct": 18,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/640c3374-f15e-43e3-8527-35267c8e6480/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/twarog-wiejski-tlusty-piatnica-250-g/00342894",
+    "category": "Sery",
+    "name": "Ser Mascarpone miękki z włoskiej śmietanki  Auchan 250 g",
+    "oldPrice": 7.49,
+    "newPrice": 6.79,
+    "discountPct": 9,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/031dfe8a-9ba0-46ef-8985-1493ecd83ea4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-mascarpone-miekki-z-wloskiej-smietanki-auchan-250-g/00693085",
     "note": null
   },
   {
@@ -276,7 +276,7 @@
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "category": "Pewni Dobrego",
     "name": "Olej rzepakowy Pewni Dobrego 1 l",
     "oldPrice": 7.99,
     "newPrice": 6.99,
@@ -287,29 +287,29 @@
   },
   {
     "store": "Auchan",
-    "category": "Wyposażenie domu",
-    "name": "Znicz szklany Z-498 29 cm 100g 36h SADOWSCY 1 sztuka",
-    "oldPrice": 7.99,
-    "newPrice": 6.49,
-    "discountPct": 19,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/51fefd9b-e1d5-40c8-95f2-22d9e9deb4a9/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/znicz-szklany-z-498-29-cm-100g-36h-sadowscy-1-sztuka/00800348",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Twaróg wiejski tłusty Piątnica 250 g",
+    "oldPrice": 5.88,
+    "newPrice": 4.85,
+    "discountPct": 18,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/640c3374-f15e-43e3-8527-35267c8e6480/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/twarog-wiejski-tlusty-piatnica-250-g/00342894",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser Mascarpone miękki z włoskiej śmietanki  Auchan 250 g",
-    "oldPrice": 7.49,
-    "newPrice": 6.79,
-    "discountPct": 9,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/031dfe8a-9ba0-46ef-8985-1493ecd83ea4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-mascarpone-miekki-z-wloskiej-smietanki-auchan-250-g/00693085",
-    "note": null
+    "category": "Słodycze",
+    "name": "Ciastko biszkoptowe z nadzieniem mlecznym  Lubisie 30 g",
+    "oldPrice": null,
+    "newPrice": 1.59,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7471baae-0e33-4f7c-8acf-400b598abc04/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ciastko-biszkoptowe-z-nadzieniem-mlecznym-lubisie-30-g/00544781",
+    "note": "4+1 za grosz"
   },
   {
     "store": "Auchan",
-    "category": "Bez cukru",
+    "category": "Sosy i przeciery",
     "name": "Ketchup premium łagodny bez cukru Roleski 425 g",
     "oldPrice": null,
     "newPrice": 6.48,
@@ -317,50 +317,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b8e5dcbe-53c0-4fc7-adc6-67c27b5e2dc0/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ketchup-premium-lagodny-bez-cukru-roleski-425-g/00850924",
     "note": "2  za 9,98 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Śliwka ciemna duża   Owoce  Auchan na wagę ok. 500 g",
-    "oldPrice": 6.5,
-    "newPrice": 2.25,
-    "discountPct": 65,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f17e0054-7d3f-4202-a03f-1700c485fe87/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/sliwka-ciemna-duza-owoce-auchan-na-wage-ok-500-g/00290570",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Śląskie oblaty Śląskie 30 g",
-    "oldPrice": 1.98,
-    "newPrice": 1.78,
-    "discountPct": 10,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/61421625-72c9-43f6-840d-a8471013bade/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/slaskie-oblaty-slaskie-30-g/00973783",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Napoje",
-    "name": "Syrop o smaku malinowym  Herbapol 420 ml",
-    "oldPrice": null,
-    "newPrice": 6.78,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1bce00f7-e492-4ad4-af07-f4aa9d4b13b7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/syrop-o-smaku-malinowym-herbapol-420-ml/00195112",
-    "note": "2  za 11,38 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Napoje",
-    "name": "Piwo jasne bezalkoholowe Cero alk. 0.0% obj. Corona 330 ml",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d03c90b8-c056-4ea0-9157-2afd91372bc5/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/piwo-jasne-bezalkoholowe-cero-alk-0-0-obj-corona-330-ml/00265154",
-    "note": "4+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -375,46 +331,46 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Actimel truskawkowy  Danone 4 x 100 g",
-    "oldPrice": 9.78,
-    "newPrice": 5.95,
-    "discountPct": 39,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c08d91c9-a94f-49c6-a998-3d97d577358e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/actimel-truskawkowy-danone-4-x-100-g/00609078",
-    "note": null
+    "category": "Napoje",
+    "name": "Syrop o smaku malinowym  Herbapol 420 ml",
+    "oldPrice": null,
+    "newPrice": 6.78,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1bce00f7-e492-4ad4-af07-f4aa9d4b13b7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/syrop-o-smaku-malinowym-herbapol-420-ml/00195112",
+    "note": "2  za 11,38 zł"
   },
   {
     "store": "Auchan",
-    "category": "Bez laktozy",
-    "name": "Serek homogenizowany waniliowy bez laktozy Maluta 220 g",
-    "oldPrice": 3.99,
-    "newPrice": 2.85,
-    "discountPct": 29,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/786393ec-ca33-41ec-917a-5b4bec156066/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-waniliowy-bez-laktozy-maluta-220-g/00097859",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Actimel Kids truskawka banan Danone 4 x 100 g",
-    "oldPrice": 9.78,
-    "newPrice": 5.95,
-    "discountPct": 39,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f42b6a78-3594-4c32-8ca1-6338611b61b3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/actimel-kids-truskawka-banan-danone-4-x-100-g/00070146",
-    "note": null
+    "category": "Wyposażenie domu",
+    "name": "Znicz szklany Z-498 29 cm 100g 36h SADOWSCY 1 sztuka",
+    "oldPrice": null,
+    "newPrice": 6.48,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/51fefd9b-e1d5-40c8-95f2-22d9e9deb4a9/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/znicz-szklany-z-498-29-cm-100g-36h-sadowscy-1-sztuka/00800348",
+    "note": "19% taniej"
   },
   {
     "store": "Auchan",
     "category": "Słodycze",
-    "name": "Ciasteczka z kawałkami czekolady mlecznej z mleka alpejskiego Milka 135 g",
-    "oldPrice": 5.58,
-    "newPrice": 4.99,
-    "discountPct": 11,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7c426820-394f-4b5b-ad22-379092b4fd0b/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ciasteczka-z-kawalkami-czekolady-mlecznej-z-mleka-alpejskiego-milka-135-g/00458513",
+    "name": "Śląskie oblaty Śląskie 30 g",
+    "oldPrice": 1.98,
+    "newPrice": 1.78,
+    "discountPct": 10,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/61421625-72c9-43f6-840d-a8471013bade/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/slaskie-oblaty-slaskie-30-g/00973783",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Śliwka ciemna duża   Owoce  Auchan na wagę ok. 500 g",
+    "oldPrice": 6.5,
+    "newPrice": 2.25,
+    "discountPct": 65,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f17e0054-7d3f-4202-a03f-1700c485fe87/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/sliwka-ciemna-duza-owoce-auchan-na-wage-ok-500-g/00290570",
     "note": null
   },
   {
@@ -430,28 +386,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Mrożonki",
-    "name": "Groszek zielony Auchan 450 g",
-    "oldPrice": 5.64,
-    "newPrice": 3.99,
-    "discountPct": 29,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c1e28ced-2561-422e-ab27-fd9b94edff72/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/groszek-zielony-auchan-450-g/00883801",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Serek homogenizowany waniliowy Maluta 200 g",
-    "oldPrice": 3.89,
-    "newPrice": 2.85,
-    "discountPct": 27,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4cd4bbad-dc3e-44ca-babc-1869e6bdb18a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-waniliowy-maluta-200-g/00433750",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Sery",
     "name": "Ser maasdamer w plastrach Hochland 135 g",
     "oldPrice": null,
@@ -460,6 +394,17 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/938b2151-f4aa-4166-b40c-e0011e4b6c64/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ser-maasdamer-w-plastrach-hochland-135-g/00445096",
     "note": "Drugi 30% taniej"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Serek homogenizowany waniliowy bez laktozy Maluta 220 g",
+    "oldPrice": 3.99,
+    "newPrice": 2.85,
+    "discountPct": 29,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/786393ec-ca33-41ec-917a-5b4bec156066/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-waniliowy-bez-laktozy-maluta-220-g/00097859",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -474,6 +419,50 @@
   },
   {
     "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Actimel truskawkowy  Danone 4 x 100 g",
+    "oldPrice": 9.78,
+    "newPrice": 5.95,
+    "discountPct": 39,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c08d91c9-a94f-49c6-a998-3d97d577358e/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/actimel-truskawkowy-danone-4-x-100-g/00609078",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Actimel Kids truskawka banan Danone 4 x 100 g",
+    "oldPrice": 9.78,
+    "newPrice": 5.95,
+    "discountPct": 39,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f42b6a78-3594-4c32-8ca1-6338611b61b3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/actimel-kids-truskawka-banan-danone-4-x-100-g/00070146",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mrożonki",
+    "name": "Groszek zielony Auchan 450 g",
+    "oldPrice": 5.64,
+    "newPrice": 3.99,
+    "discountPct": 29,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c1e28ced-2561-422e-ab27-fd9b94edff72/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/groszek-zielony-auchan-450-g/00883801",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Ciasteczka z kawałkami czekolady mlecznej z mleka alpejskiego Milka 135 g",
+    "oldPrice": 5.58,
+    "newPrice": 4.99,
+    "discountPct": 11,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7c426820-394f-4b5b-ad22-379092b4fd0b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ciasteczka-z-kawalkami-czekolady-mlecznej-z-mleka-alpejskiego-milka-135-g/00458513",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Bez glutenu",
     "name": "Sokoliki Foodbolówki Sokołów 130 g",
     "oldPrice": null,
@@ -485,29 +474,7 @@
   },
   {
     "store": "Auchan",
-    "category": "Produkty wysokobiałkowe",
-    "name": "YoPro Jogurt pitny o smaku truskawka - malina Danone 270g",
-    "oldPrice": null,
-    "newPrice": 4.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fdf6d8e4-4b1f-41cc-b997-6a6f9cb51593/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/yopro-jogurt-pitny-o-smaku-truskawka-malina-danone-270g/00447435",
-    "note": "3+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafelek z kremem kakaowym oblany czekoladą Prince Polo 21 x 17,5 g",
-    "oldPrice": 23.18,
-    "newPrice": 16.14,
-    "discountPct": 30,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2766f00-5e1c-450a-852c-69fab940391d/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafelek-z-kremem-kakaowym-oblany-czekolada-prince-polo-21-x-17-5-g/00543592",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Bez laktozy",
+    "category": "Mleko, nabiał i jaja",
     "name": "Serek homogenizowany waniliowy bez laktozy  Mlekovita 150 g",
     "oldPrice": 3.49,
     "newPrice": 2.85,
@@ -529,6 +496,50 @@
   },
   {
     "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Wafelek z kremem kakaowym oblany czekoladą Prince Polo 21 x 17,5 g",
+    "oldPrice": 23.18,
+    "newPrice": 16.14,
+    "discountPct": 30,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b2766f00-5e1c-450a-852c-69fab940391d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafelek-z-kremem-kakaowym-oblany-czekolada-prince-polo-21-x-17-5-g/00543592",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Produkty wysokobiałkowe",
+    "name": "YoPro Jogurt pitny o smaku truskawka - malina Danone 270g",
+    "oldPrice": null,
+    "newPrice": 4.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/fdf6d8e4-4b1f-41cc-b997-6a6f9cb51593/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/yopro-jogurt-pitny-o-smaku-truskawka-malina-danone-270g/00447435",
+    "note": "3+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Twój Smak puszysty serek śmietankowy ze szczypiorkiem Piątnica 150 g",
+    "oldPrice": 5.18,
+    "newPrice": 3.65,
+    "discountPct": 30,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2414908b-bb98-40b8-931a-af919488322b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/twoj-smak-puszysty-serek-smietankowy-ze-szczypiorkiem-piatnica-150-g/00440977",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Duńskie masło lekko solone 82% tłuszczu Lurpak 200 g",
+    "oldPrice": 9.98,
+    "newPrice": 6.45,
+    "discountPct": 35,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5bcbecd7-9971-4b94-b1ee-d1dc0d72c49e/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/dunskie-maslo-lekko-solone-82-tluszczu-lurpak-200-g/00640705",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Napoje",
     "name": "Napój gazowany Zero o smaku cola Coca-Cola 4 x 330  ml",
     "oldPrice": 18.32,
@@ -537,16 +548,5 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f17887ab-17ac-4286-b0a0-cadec2e384ea/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-o-smaku-cola-coca-cola-4-x-330-ml/00633698",
     "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Śmietankowy ser żółty w plastrach Hochland 135 g",
-    "oldPrice": null,
-    "newPrice": 6.69,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8230bd4b-de35-4529-a6a0-8909a386319b/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/smietankowy-ser-zolty-w-plastrach-hochland-135-g/00229843",
-    "note": "Drugi 30% taniej"
   }
 ]
