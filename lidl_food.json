@@ -243,39 +243,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Kasztany jadalne, luzem",
-    "oldPrice": 2.99,
-    "newPrice": 2.39,
-    "discountPct": 20,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp552bd7fff6984b1f917748bff1e01976.png",
-    "url": "https://www.lidl.pl/p/kasztany-jadalne-luzem/p11028851"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Ziemniaki jadalne",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp7f904d4e370d4ae58f5162ef407d6b26.png",
-    "url": "https://www.lidl.pl/p/ziemniaki-jadalne/p11029598"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Dynia hokkaido, luzem",
-    "oldPrice": 6.99,
-    "newPrice": 3.99,
-    "discountPct": 42,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpcceea42dc94048d7940ae5e7d376bc59.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-hokkaido-luzem/p11029664"
-  },
-  {
-    "store": "Lidl",
     "category": "Mrożone owoce i warzywa",
     "name": "Maliny",
     "oldPrice": null,
@@ -284,17 +251,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpdfc2ecfc748e458f95ef1862135585ce.png",
     "url": "https://www.lidl.pl/p/maliny/p11029869"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Winogrona ciemne, luzem",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9a234235e7294a9fa19180c176a6fa40.png",
-    "url": "https://www.lidl.pl/p/winogrona-ciemne-luzem/p11030018"
   },
   {
     "store": "Lidl",
@@ -331,17 +287,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Pomelo żółte, luzem",
-    "oldPrice": 12.99,
-    "newPrice": 8.99,
-    "discountPct": 30,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpb5f58c1e33e14cbdaebf7c4fc20d4797.png",
-    "url": "https://www.lidl.pl/p/pomelo-zolte-luzem/p11150773"
-  },
-  {
-    "store": "Lidl",
     "category": "Warzywa",
     "name": "Bataty, luzem",
     "oldPrice": null,
@@ -355,23 +300,12 @@
     "store": "Lidl",
     "category": "Warzywa",
     "name": "Brokuły",
-    "oldPrice": null,
+    "oldPrice": 5.99,
     "newPrice": 3.89,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
+    "discountPct": 35,
+    "note": null,
     "image": "https://www.lidl.pl/assets/gcpbea0d8b51cf940e9b8a4c65c658dc9bc.png",
     "url": "https://www.lidl.pl/p/brokuly/p11151157"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Dynia ozdobna, luzem",
-    "oldPrice": 7.99,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpae721da620cb49e28297e58dfc94dbde.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-ozdobna-luzem/p11214421"
   },
   {
     "store": "Lidl",
@@ -386,28 +320,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Polskie jabłka czerwone, luzem",
-    "oldPrice": 4.49,
-    "newPrice": 2.49,
-    "discountPct": 44,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp4ff1104c6799483fa1a9bc182a845026.png",
-    "url": "https://www.lidl.pl/p/polskie-jablka-czerwone-luzem/p11214563"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Gruszka Nashi",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdd4816541f574b6e948bbd59ccce863f.png",
-    "url": "https://www.lidl.pl/p/gruszka-nashi/p11214565"
-  },
-  {
-    "store": "Lidl",
     "category": "Mrożona pizza i przekąski",
     "name": "MCENNEDY Frytki w panierce z przyprawami BBQ",
     "oldPrice": 8.99,
@@ -419,17 +331,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Warzywa",
-    "name": "BIO ORGANIC Bio Dynia Hokkaido, luzem",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp1071bea725934a50984d5d4c127860e5.png",
-    "url": "https://www.lidl.pl/p/bio-organic-bio-dynia-hokkaido-luzem/p11259941"
-  },
-  {
-    "store": "Lidl",
     "category": "Sałatki, owoce i przystawki na wynos",
     "name": "Sałata chrupka mix",
     "oldPrice": 9.99,
@@ -438,83 +339,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpa1aa6e09e91d4b6cb1ace8f651e5eb9c.png",
     "url": "https://www.lidl.pl/p/salata-chrupka-mix/p11314798"
-  },
-  {
-    "store": "Lidl",
-    "category": "Wieprzowina",
-    "name": "- Mięso mielone z łopatki wieprzowej",
-    "oldPrice": null,
-    "newPrice": 10.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp4c47653f35ea454bbe6306f6d75e2e4d.png",
-    "url": "https://www.lidl.pl/p/mieso-mielone-z-lopatki-wieprzowej/p11405938"
-  },
-  {
-    "store": "Lidl",
-    "category": "Jajka",
-    "name": "ZŁOTA NIOSKA Świeże jaja ściółkowe, wielkość M, klasa A",
-    "oldPrice": null,
-    "newPrice": 20.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp4d0b26ba4a104315bcc9e4c8f3afc618.png",
-    "url": "https://www.lidl.pl/p/zlota-nioska-swieze-jaja-sciolkowe-wielkosc-m-klasa-a/p11410158"
-  },
-  {
-    "store": "Lidl",
-    "category": "Woda",
-    "name": "Woda mineralna niegazowana niskosodowa",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpfc9b69608daf4873ad92d0824c87a7c0.png",
-    "url": "https://www.lidl.pl/p/woda-mineralna-niegazowana-niskosodowa/p11411375"
-  },
-  {
-    "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "Boczek góralski",
-    "oldPrice": 2.89,
-    "newPrice": 1.49,
-    "discountPct": 48,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpd53087563d594754972c6a9a9eee0c3f.png",
-    "url": "https://www.lidl.pl/p/boczek-goralski/p11419085"
-  },
-  {
-    "store": "Lidl",
-    "category": "Woda",
-    "name": "Woda mineralna magnezowo-wapniowa",
-    "oldPrice": null,
-    "newPrice": 11.94,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa27b4d79e1aa428692682affde4adcc3.png",
-    "url": "https://www.lidl.pl/p/woda-mineralna-magnezowo-wapniowa/p11426182"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ser",
-    "name": "PILOS Holenderska gouda w plastrach",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp3e4269474ea640c8a789bdf7109543f5.png",
-    "url": "https://www.lidl.pl/p/pilos-holenderska-gouda-w-plastrach/p11426673"
-  },
-  {
-    "store": "Lidl",
-    "category": "Wieprzowina",
-    "name": "RZEŹNIK Schab wieprzowy, XXL",
-    "oldPrice": 16.95,
-    "newPrice": 9.99,
-    "discountPct": 41,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp3c65f8b3374544f9abdb88c02acf8047.png",
-    "url": "https://www.lidl.pl/p/rzeznik-schab-wieprzowy-xxl/p11437346"
   },
   {
     "store": "Lidl",
@@ -862,7 +686,7 @@
     "category": "Ryby i owoce morza",
     "name": "LUPILU® Zestaw zabawek drewnianych: kuchnia z zestawem do robienia kanapek, rybą i mięsem",
     "oldPrice": null,
-    "newPrice": 369.53,
+    "newPrice": 375.0,
     "discountPct": null,
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp25ca2b7960d94e79ba389bd6c512c47d.jpg",
