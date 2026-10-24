@@ -2292,7 +2292,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Oskroba (Ciasto Cynamonka)",
+    "name": "Oskroba (Cynamonka lub Makowiec)",
     "oldPrice": null,
     "newPrice": 7.99,
     "discountPct": null,
@@ -3033,9 +3033,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Fairy (Płyn do mycia naczyń)",
-    "oldPrice": 18.99,
+    "oldPrice": null,
     "newPrice": 14.99,
-    "discountPct": 21,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00072450-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -6163,9 +6163,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "My project (Przyrząd do diagnozy\nakumulatorów)",
-    "oldPrice": 149.0,
+    "oldPrice": null,
     "newPrice": 99.99,
-    "discountPct": 32,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627406096_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -9057,6 +9057,46 @@
     "newPrice": 7.99,
     "discountPct": 38,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20175312_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-STOISKO MIĘSNE (Karkówka wieprzowa)",
+    "oldPrice": 20.99,
+    "newPrice": 10.99,
+    "discountPct": 47,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00070483_P_%28002%29",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Skrzydła z kurczaka",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/01000394_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie pieczarki",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830220000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona (jasne bezpestkowe)",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700242_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
