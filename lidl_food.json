@@ -67,6 +67,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Owoce",
+    "name": "Mandarynki, luzem",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp22d6c15dedbe4cc1ae9441e20500fac3.png",
+    "url": "https://www.lidl.pl/p/mandarynki-luzem/p11030024"
+  },
+  {
+    "store": "Lidl",
     "category": "Warzywa",
     "name": "Kalafior",
     "oldPrice": null,
@@ -97,6 +108,17 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpb5f58c1e33e14cbdaebf7c4fc20d4797.png",
     "url": "https://www.lidl.pl/p/pomelo-zolte-luzem/p11150773"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Ananas, luzem",
+    "oldPrice": 7.99,
+    "newPrice": 4.79,
+    "discountPct": 40,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa2139f580dc84c3284853415f9de85aa.png",
+    "url": "https://www.lidl.pl/p/ananas-luzem/p11150912"
   },
   {
     "store": "Lidl",
@@ -141,6 +163,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpae721da620cb49e28297e58dfc94dbde.png",
     "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-ozdobna-luzem/p11214421"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Awokado zielone",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
+    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
   },
   {
     "store": "Lidl",
