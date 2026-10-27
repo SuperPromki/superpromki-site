@@ -243,17 +243,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 82%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb2470ac9ef4a4bdf9f83a8c9b79ec784.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p12283776"
-  },
-  {
-    "store": "Lidl",
     "category": "Piwo i cydr",
     "name": "Funky Fluid Game Over: Bazooka",
     "oldPrice": null,
@@ -570,6 +559,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
     "url": "https://www.lidl.pl/p/parkside-folia-zastepcza-do-szklarni/p100413461"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 82%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb2470ac9ef4a4bdf9f83a8c9b79ec784.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p12283776"
   },
   {
     "store": "Lidl",
