@@ -1,6 +1,182 @@
 [
   {
     "store": "Lidl",
+    "category": "Owoce",
+    "name": "Cytryny, luzem",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp651cbff0db89474aa66c8b961cf1ed68.png",
+    "url": "https://www.lidl.pl/p/cytryny-luzem/p11030083"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpf6f954c928f44f1ababe219597e27dfe.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-filety-z-piersi-xxl/p11219220"
+  },
+  {
+    "store": "Lidl",
+    "category": "Dżemy, pasty do smarowania i miód",
+    "name": "Krem do smarowania",
+    "oldPrice": null,
+    "newPrice": 18.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpe533cbd1e65547948d1e2bb9713db24c.png",
+    "url": "https://www.lidl.pl/p/krem-do-smarowania/p11407975"
+  },
+  {
+    "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 82%",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb2470ac9ef4a4bdf9f83a8c9b79ec784.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p12283776"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Buraki czerwone, luzem",
+    "oldPrice": 2.49,
+    "newPrice": 1.49,
+    "discountPct": 40,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa3793dd05a264fb7aefc080737c99106.png",
+    "url": "https://www.lidl.pl/p/buraki-czerwone-luzem/p11029663"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Papryka czerwona, luzem",
+    "oldPrice": 17.99,
+    "newPrice": 9.99,
+    "discountPct": 44,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpcd65940380b94a61b757afd8fb246e82.png",
+    "url": "https://www.lidl.pl/p/papryka-czerwona-luzem/p11029717"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Mandarynki, luzem",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp22d6c15dedbe4cc1ae9441e20500fac3.png",
+    "url": "https://www.lidl.pl/p/mandarynki-luzem/p11030024"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Banany, luzem",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpee9b5edda4384d6fba0ac93727dd6b8c.png",
+    "url": "https://www.lidl.pl/p/banany-luzem/p11150766"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "RZEŹNIK Schab wieprzowy bez kości",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpf4995eeb8a2f44acb22301e381e6967b.png",
+    "url": "https://www.lidl.pl/p/rzeznik-schab-wieprzowy-bez-kosci/p11305121"
+  },
+  {
+    "store": "Lidl",
+    "category": "Wieprzowina",
+    "name": "RZEŹNIK Mięso mielone z łopatki wieprzowej, XXL",
+    "oldPrice": 21.98,
+    "newPrice": 10.99,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp74ff5ccca8ce4cc9ba0b9e3b2f286f50.png",
+    "url": "https://www.lidl.pl/p/rzeznik-mieso-mielone-z-lopatki-wieprzowej-xxl/p11412175"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "PIKOK Parówki z szynki, XXL",
+    "oldPrice": 13.59,
+    "newPrice": 6.79,
+    "discountPct": 50,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpd7b760b66a634ca0943346e092c55c5e.png",
+    "url": "https://www.lidl.pl/p/pikok-parowki-z-szynki-xxl/p11418604"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "PILOS Ser Carski w plastrach, XXL",
+    "oldPrice": 13.99,
+    "newPrice": 9.99,
+    "discountPct": 28,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe2aeb1bd354f48f991db82102f94d57e.png",
+    "url": "https://www.lidl.pl/p/pilos-ser-carski-w-plastrach-xxl/p11433378"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "PIKOK Kiełbasa podwawelska, XXL",
+    "oldPrice": 17.99,
+    "newPrice": 9.99,
+    "discountPct": 44,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp714ab844a35446ac8d36732e1d6dbb7f.png",
+    "url": "https://www.lidl.pl/p/pikok-kielbasa-podwawelska-xxl/p11434147"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "PIKOK Kiełbasa żywiecka, XXL",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp9845b9f7fb6a4ee3baf6203084d13b8d.png",
+    "url": "https://www.lidl.pl/p/pikok-kielbasa-zywiecka-xxl/p11434966"
+  },
+  {
+    "store": "Lidl",
+    "category": "Napoje bezalkoholowe",
+    "name": "Coca-Cola, Coca-Cola Zero, Fanta lub Sprite",
+    "oldPrice": null,
+    "newPrice": 9.98,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa6a092c88b414d6fa4459ab319f7f049.png",
+    "url": "https://www.lidl.pl/p/coca-cola-coca-cola-zero-fanta-lub-sprite/p12228853"
+  },
+  {
+    "store": "Lidl",
+    "category": "Napoje bezalkoholowe",
+    "name": "Coca-Cola",
+    "oldPrice": null,
+    "newPrice": 15.98,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpbf70743c9fc147fb9de01eaff46aa272.png",
+    "url": "https://www.lidl.pl/p/coca-cola/p12232548"
+  },
+  {
+    "store": "Lidl",
     "category": "Suszone owoce i orzechy",
     "name": "ALESTO Mieszanka orzechów i owoców",
     "oldPrice": null,
@@ -34,17 +210,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Mrożone owoce i warzywa",
-    "name": "Maliny",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdfc2ecfc748e458f95ef1862135585ce.png",
-    "url": "https://www.lidl.pl/p/maliny/p11029869"
-  },
-  {
-    "store": "Lidl",
     "category": "Owoce",
     "name": "Polskie gruszki",
     "oldPrice": 6.99,
@@ -64,17 +229,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp9a234235e7294a9fa19180c176a6fa40.png",
     "url": "https://www.lidl.pl/p/winogrona-ciemne-luzem/p11030018"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Mandarynki, luzem",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp22d6c15dedbe4cc1ae9441e20500fac3.png",
-    "url": "https://www.lidl.pl/p/mandarynki-luzem/p11030024"
   },
   {
     "store": "Lidl",
@@ -119,17 +273,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpa2139f580dc84c3284853415f9de85aa.png",
     "url": "https://www.lidl.pl/p/ananas-luzem/p11150912"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Borówki amerykańskie",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpf1fd6dc8a3c04ab0b8b978d090749b61.png",
-    "url": "https://www.lidl.pl/p/borowki-amerykanskie/p11150945"
   },
   {
     "store": "Lidl",
@@ -559,17 +702,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
     "url": "https://www.lidl.pl/p/parkside-folia-zastepcza-do-szklarni/p100413461"
-  },
-  {
-    "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 82%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb2470ac9ef4a4bdf9f83a8c9b79ec784.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p12283776"
   },
   {
     "store": "Lidl",
