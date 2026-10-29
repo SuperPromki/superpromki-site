@@ -68,17 +68,6 @@
   {
     "store": "Lidl",
     "category": "Owoce",
-    "name": "Mandarynki, luzem",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp22d6c15dedbe4cc1ae9441e20500fac3.png",
-    "url": "https://www.lidl.pl/p/mandarynki-luzem/p11030024"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
     "name": "Banany, luzem",
     "oldPrice": null,
     "newPrice": 2.99,
@@ -177,39 +166,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Suszone owoce i orzechy",
-    "name": "ALESTO Mieszanka orzechów i owoców",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpe3b8e4efc4e447d68f43ed8ae95d3551.png",
-    "url": "https://www.lidl.pl/p/alesto-mieszanka-orzechow-i-owocow/p11006110"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Pieczarki mini",
-    "oldPrice": 5.49,
-    "newPrice": 3.99,
-    "discountPct": 27,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp56cdc09beec74419b2045ef3d0966760.png",
-    "url": "https://www.lidl.pl/p/pieczarki-mini/p11029654"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Dynia hokkaido, luzem",
-    "oldPrice": 6.99,
-    "newPrice": 3.99,
-    "discountPct": 42,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpcceea42dc94048d7940ae5e7d376bc59.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-hokkaido-luzem/p11029664"
-  },
-  {
-    "store": "Lidl",
     "category": "Owoce",
     "name": "Polskie gruszki",
     "oldPrice": 6.99,
@@ -218,105 +174,6 @@
     "note": null,
     "image": "https://www.lidl.fr/assets/gcpa9376ebc0aa94214b9b33a105abed76a.png",
     "url": "https://www.lidl.pl/p/polskie-gruszki/p11029973"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Winogrona ciemne, luzem",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9a234235e7294a9fa19180c176a6fa40.png",
-    "url": "https://www.lidl.pl/p/winogrona-ciemne-luzem/p11030018"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Kalafior",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb12e405e770744fba97ead980c506270.png",
-    "url": "https://www.lidl.pl/p/kalafior/p11041473"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Grejpfrut czerwony, luzem",
-    "oldPrice": 6.99,
-    "newPrice": 5.49,
-    "discountPct": 21,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp19bc26b7d24a484fbcea0f738fd340ac.png",
-    "url": "https://www.lidl.pl/p/grejpfrut-czerwony-luzem/p11150771"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Pomelo żółte, luzem",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb5f58c1e33e14cbdaebf7c4fc20d4797.png",
-    "url": "https://www.lidl.pl/p/pomelo-zolte-luzem/p11150773"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Ananas, luzem",
-    "oldPrice": 7.99,
-    "newPrice": 4.79,
-    "discountPct": 40,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa2139f580dc84c3284853415f9de85aa.png",
-    "url": "https://www.lidl.pl/p/ananas-luzem/p11150912"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Bakłażan, luzem",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp3293052fc4b14c28ac87fa10f4e3f43a.png",
-    "url": "https://www.lidl.pl/p/baklazan-luzem/p11151046"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Fasola szparagowa żółta, luzem",
-    "oldPrice": 16.99,
-    "newPrice": 9.99,
-    "discountPct": 41,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp3420b3779c1942049d91f25fa7154ab2.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-fasola-szparagowa-zolta-luzem/p11151049"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "RYNECZEK LIDLA Dynia ozdobna, luzem",
-    "oldPrice": 7.99,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpae721da620cb49e28297e58dfc94dbde.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-dynia-ozdobna-luzem/p11214421"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Awokado zielone",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
-    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
   },
   {
     "store": "Lidl",
@@ -331,28 +188,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Wieprzowina",
-    "name": "RZEŹNIK Łopatka wieprzowa",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp111ed4c928db4015873e2ddd4c0ec015.png",
-    "url": "https://www.lidl.pl/p/rzeznik-lopatka-wieprzowa/p11305117"
-  },
-  {
-    "store": "Lidl",
-    "category": "Drób",
-    "name": "RZEŹNIK Polski kurczak – ćwiartki, XXL",
-    "oldPrice": 8.99,
-    "newPrice": 4.99,
-    "discountPct": 44,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9a65e7a4f1ce425cb1b8ccb3eac23645.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-cwiartki-xxl/p11408319"
-  },
-  {
-    "store": "Lidl",
     "category": "Mleko i śmietana",
     "name": "Polmlek Mleko UHT 3,2%",
     "oldPrice": null,
@@ -361,28 +196,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcp84b1f58d0e76435ea0f9c6fc15ecd435.png",
     "url": "https://www.lidl.pl/p/polmlek-mleko-uht-3-2/p11409627"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ser",
-    "name": "Mlekpol Ser gouda w plastrach",
-    "oldPrice": 29.89,
-    "newPrice": 14.99,
-    "discountPct": 49,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpaf9499b72e0a497f82be7b130ff02075.png",
-    "url": "https://www.lidl.pl/p/mlekpol-ser-gouda-w-plastrach/p11414909"
-  },
-  {
-    "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Pepsi, Pepsi Zero, Mirinda lub 7UP",
-    "oldPrice": null,
-    "newPrice": 7.98,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpeb1cc2d0ec814d3ba477407339f2cfb1.png",
-    "url": "https://www.lidl.pl/p/pepsi-pepsi-zero-mirinda-lub-7up/p12213968"
   },
   {
     "store": "Lidl",
@@ -691,17 +504,6 @@
     "note": null,
     "image": "https://imgproxy-retcat.assets.schwarz/ng-JEaAjZbc5wGkGGnqMA0hbw6PVK2ZXxSj20w14FA8/sm:0/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvcGwvMS9DQTI2MkVCQ0QzQzEzQTE3MjdEQzRBNkE/wN0UwOTUwM0VCN0FEQTMyRTczOEE2QzRFQkUzMTkwOTNBODc5NUFFLmpwZw.jpg",
     "url": "https://www.lidl.pl/p/nepomucen-little-spike/p10037735"
-  },
-  {
-    "store": "Lidl",
-    "category": "Artykuły ogrodnicze",
-    "name": "PARKSIDE® Folia zastępcza do szklarni",
-    "oldPrice": null,
-    "newPrice": 40.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp870b21df5f114ef486b38a06e8e58404.png",
-    "url": "https://www.lidl.pl/p/parkside-folia-zastepcza-do-szklarni/p100413461"
   },
   {
     "store": "Lidl",
