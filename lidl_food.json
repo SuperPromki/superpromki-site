@@ -1,17 +1,6 @@
 [
   {
     "store": "Lidl",
-    "category": "Owoce",
-    "name": "Cytryny, luzem",
-    "oldPrice": 11.99,
-    "newPrice": 5.99,
-    "discountPct": 50,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp651cbff0db89474aa66c8b961cf1ed68.png",
-    "url": "https://www.lidl.pl/p/cytryny-luzem/p11030083"
-  },
-  {
-    "store": "Lidl",
     "category": "Drób",
     "name": "RZEŹNIK Polski kurczak – filety z piersi, XXL",
     "oldPrice": null,
@@ -34,17 +23,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 82%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb2470ac9ef4a4bdf9f83a8c9b79ec784.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-82/p12283776"
-  },
-  {
-    "store": "Lidl",
     "category": "Warzywa",
     "name": "Buraki czerwone, luzem",
     "oldPrice": 2.49,
@@ -56,14 +34,14 @@
   },
   {
     "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Papryka czerwona, luzem",
-    "oldPrice": 17.99,
-    "newPrice": 9.99,
-    "discountPct": 44,
+    "category": "Owoce",
+    "name": "Cytryny, luzem",
+    "oldPrice": 11.99,
+    "newPrice": 5.99,
+    "discountPct": 50,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpcd65940380b94a61b757afd8fb246e82.png",
-    "url": "https://www.lidl.pl/p/papryka-czerwona-luzem/p11029717"
+    "image": "https://www.lidl.pl/assets/gcp651cbff0db89474aa66c8b961cf1ed68.png",
+    "url": "https://www.lidl.pl/p/cytryny-luzem/p11030083"
   },
   {
     "store": "Lidl",

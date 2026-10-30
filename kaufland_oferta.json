@@ -162,16 +162,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "K-Stąd Takie Dobre (Polskie pieczarki)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700056_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Rolmopsy (w zalewie estragonowej)",
     "oldPrice": 3.49,
     "newPrice": 2.19,
@@ -197,6 +187,16 @@
     "newPrice": 2.79,
     "discountPct": 37,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2819470000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Wasa (Kanapka)",
+    "oldPrice": 3.49,
+    "newPrice": 2.19,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20327245",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -737,16 +737,6 @@
     "newPrice": 80.0,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627820335_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polskie pieczarki)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700056_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1347,6 +1337,16 @@
     "newPrice": 2.29,
     "discountPct": 42,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2815600000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Serenada (Ser Gouda z kurkami i cebulą)",
+    "oldPrice": 4.29,
+    "newPrice": 2.99,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20882604_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8302,16 +8302,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Tesori D'oriente (Płyn do płukania tkanin)",
-    "oldPrice": null,
-    "newPrice": 10.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20987459_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Hagi (Sól do kąpieli)",
     "oldPrice": null,
     "newPrice": 24.99,
@@ -8337,16 +8327,6 @@
     "newPrice": 12.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20979814_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "AXE (Żel pod prysznic)",
-    "oldPrice": null,
-    "newPrice": 22.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20869312_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10017,26 +9997,6 @@
     "newPrice": 1.49,
     "discountPct": 62,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2831740000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska rzodkiewka (pęczek)",
-    "oldPrice": null,
-    "newPrice": 1.79,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700017_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska sałata masłowa",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008555_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
