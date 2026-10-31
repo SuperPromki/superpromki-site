@@ -2542,6 +2542,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Nic Nac's (Orzeszki ziemne)",
+    "oldPrice": 6.99,
+    "newPrice": 4.99,
+    "discountPct": 28,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20995575_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Bakalland BA! (Baton zbożowy)",
     "oldPrice": 1.79,
     "newPrice": 0.99,
@@ -8356,16 +8366,6 @@
     "oldPrice": null,
     "newPrice": 3.49,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980468_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Triggy (Shot)",
-    "oldPrice": null,
-    "newPrice": 3.49,
-    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20980413_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -9502,16 +9502,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Orjena (Maska w płachcie)",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20654743_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Oshee Drop In (Elektrolity)",
     "oldPrice": null,
     "newPrice": 11.99,
@@ -9592,16 +9582,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Astonish Frizz&Fresh (Tabletki czyszczące do WC)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20995468_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Stella (Gąbki do zmywania)",
     "oldPrice": 20.97,
     "newPrice": 13.98,
@@ -9652,16 +9632,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Finish (Kapsułki do zmywarki)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967829_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Head & Shoulders (Szampon do włosów)",
     "oldPrice": null,
     "newPrice": 21.99,
@@ -9677,16 +9647,6 @@
     "newPrice": 19.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20977088_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Perwoll Renew 7 (Płyn do płukania)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991080_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10002,16 +9962,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kaki",
-    "oldPrice": 3.99,
-    "newPrice": 2.49,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700494",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polska włoszczyzna",
     "oldPrice": 7.99,
     "newPrice": 5.99,
@@ -10077,6 +10027,56 @@
     "newPrice": 2.99,
     "discountPct": 57,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00046079_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MK CAFÉ CREMA (Kawa mielona)",
+    "oldPrice": 39.99,
+    "newPrice": 23.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20690634_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pepsi, 7Up, Mirinda, (Mountain Dew\nNapój gazowany)",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20882227_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-STOISKO MIĘSNE (Szynka wieprzowa)",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00011890_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Cytryny (luzem)",
+    "oldPrice": 11.99,
+    "newPrice": 4.99,
+    "discountPct": 58,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700052_P-2",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie ziemniaki jadalne",
+    "oldPrice": 9.99,
+    "newPrice": 4.49,
+    "discountPct": 55,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700087_ziemniakiXXL",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
