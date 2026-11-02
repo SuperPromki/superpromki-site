@@ -34,6 +34,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Napoje",
+    "name": "Napój gazowany Zero Cukru o smaku cola nieposiadający wartości energetycznej PEPSI 1,5 l",
+    "oldPrice": null,
+    "newPrice": 7.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/698717ce-4cbf-468e-b119-a9198fc0ffc8/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-cukru-o-smaku-cola-nieposiadajacy-wartosci-energetycznej-pepsi-1-5-l/00634173",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
     "category": "Owoce, warzywa i zioła",
     "name": "Cytryny Owoce  Auchan 500 g",
     "oldPrice": null,
@@ -56,17 +67,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Napoje",
-    "name": "Napój gazowany Zero Cukru o smaku cola nieposiadający wartości energetycznej PEPSI 1,5 l",
-    "oldPrice": null,
-    "newPrice": 7.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/698717ce-4cbf-468e-b119-a9198fc0ffc8/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-cukru-o-smaku-cola-nieposiadajacy-wartosci-energetycznej-pepsi-1-5-l/00634173",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
     "name": "Skyr jogurt typu islandzkiego naturalny   Piątnica 330 g",
     "oldPrice": 5.48,
@@ -74,17 +74,6 @@
     "discountPct": 17,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/1b235a3e-9359-404a-b26c-267fdaf50b18/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-naturalny-piatnica-330-g/00528688",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Serek naturalny  Bieluch 150 g",
-    "oldPrice": 3.54,
-    "newPrice": 2.89,
-    "discountPct": 18,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cf81b7a9-e79f-4e93-bc0d-7d88caeda1da/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-naturalny-bieluch-150-g/00151239",
     "note": null
   },
   {
@@ -111,17 +100,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Sosy i przeciery",
-    "name": "Przecier pomidorowy Podravka 500 g",
-    "oldPrice": null,
-    "newPrice": 4.68,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/134930a0-8120-436d-a71b-e3b81acc6212/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/przecier-pomidorowy-podravka-500-g/00488448",
-    "note": "2  za 5,96 zł"
-  },
-  {
-    "store": "Auchan",
     "category": "Sery",
     "name": "Ser radamer dojrzewający tłusty Serenada 135 g",
     "oldPrice": null,
@@ -144,24 +122,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Czekolada mleczna E.Wedel 90 g",
-    "oldPrice": null,
-    "newPrice": 6.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4c46e6a6-2a8f-4ab3-9df4-6ba9a148bd61/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czekolada-mleczna-e-wedel-90-g/00643957",
-    "note": "2+2 za grosz każdy"
-  },
-  {
-    "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Tuńczyk stek z kroplą sosu własnego Lisner 120 g",
-    "oldPrice": 9.19,
-    "newPrice": 5.49,
-    "discountPct": 40,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a2b7e6c4-6586-4d3b-9ef0-37a31b61ea50/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/tunczyk-stek-z-kropla-sosu-wlasnego-lisner-120-g/00399233",
+    "category": "Sery",
+    "name": "Serek naturalny  Bieluch 150 g",
+    "oldPrice": 3.54,
+    "newPrice": 2.89,
+    "discountPct": 18,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cf81b7a9-e79f-4e93-bc0d-7d88caeda1da/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/serek-naturalny-bieluch-150-g/00151239",
     "note": null
   },
   {
@@ -177,25 +144,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Artykuły papiernicze",
-    "name": "Papier Xero A4 bialy 80g Ryza MMnexo Everyday 1 sztuka",
-    "oldPrice": 16.95,
-    "newPrice": 11.95,
-    "discountPct": 29,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/96366587-d647-41e2-b1c9-8e7a89b91e79/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/papier-xero-a4-bialy-80g-ryza-mmnexo-everyday-1-sztuka/00948273",
-    "note": null
+    "category": "Sosy i przeciery",
+    "name": "Przecier pomidorowy Podravka 500 g",
+    "oldPrice": null,
+    "newPrice": 4.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/134930a0-8120-436d-a71b-e3b81acc6212/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/przecier-pomidorowy-podravka-500-g/00488448",
+    "note": "2  za 5,96 zł"
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Skyr jogurt typu islandzkiego mango i marakuja Piątnica 330 ml",
-    "oldPrice": 5.48,
-    "newPrice": 4.55,
-    "discountPct": 17,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554ae9c7-aaf2-49ba-ba0a-206a85df6575/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-mango-i-marakuja-piatnica-330-ml/00903403",
-    "note": null
+    "category": "Słodycze",
+    "name": "Czekolada mleczna E.Wedel 90 g",
+    "oldPrice": null,
+    "newPrice": 6.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4c46e6a6-2a8f-4ab3-9df4-6ba9a148bd61/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/czekolada-mleczna-e-wedel-90-g/00643957",
+    "note": "2+2 za grosz każdy"
   },
   {
     "store": "Auchan",
@@ -210,17 +177,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafelek z kremem kakaowym oblany mleczną czekoladą   Prince Polo 45 g",
-    "oldPrice": null,
-    "newPrice": 3.08,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5a94782f-a27f-475f-bdc3-c6b22b6486f0/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafelek-z-kremem-kakaowym-oblany-mleczna-czekolada-prince-polo-45-g/00736959",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Ryż Basmati Auchan 500 g",
     "oldPrice": null,
@@ -232,14 +188,47 @@
   },
   {
     "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Skyr jogurt typu islandzkiego mango i marakuja Piątnica 330 ml",
+    "oldPrice": 5.48,
+    "newPrice": 4.55,
+    "discountPct": 17,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/554ae9c7-aaf2-49ba-ba0a-206a85df6575/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/skyr-jogurt-typu-islandzkiego-mango-i-marakuja-piatnica-330-ml/00903403",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Tuńczyk stek z kroplą sosu własnego Lisner 120 g",
+    "oldPrice": 9.19,
+    "newPrice": 5.49,
+    "discountPct": 40,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/a2b7e6c4-6586-4d3b-9ef0-37a31b61ea50/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/tunczyk-stek-z-kropla-sosu-wlasnego-lisner-120-g/00399233",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Artykuły papiernicze",
+    "name": "Papier Xero A4 bialy 80g Ryza MMnexo Everyday 1 sztuka",
+    "oldPrice": 16.95,
+    "newPrice": 11.95,
+    "discountPct": 29,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/96366587-d647-41e2-b1c9-8e7a89b91e79/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/papier-xero-a4-bialy-80g-ryza-mmnexo-everyday-1-sztuka/00948273",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Wędliny",
-    "name": "Boczek wieprzowy wędzony kostka Auchan 150 g",
+    "name": "Parówki 100 % polskiej szynki Dolina Dobra 200 g",
     "oldPrice": null,
-    "newPrice": 8.49,
+    "newPrice": 7.38,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/dc9565b0-3b23-4b51-a5fe-0f80474f7ff7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/boczek-wieprzowy-wedzony-kostka-auchan-150-g/00614102",
-    "note": "Drugi 40% taniej"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c3fb31d6-b522-46ca-9c5f-3d2cf952f814/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/parowki-100-polskiej-szynki-dolina-dobra-200-g/00408512",
+    "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -254,25 +243,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Produkty BIO",
-    "name": "BIO Awokado Hass kaliber 18 Owoce  Auchan sztuka",
-    "oldPrice": 7.75,
-    "newPrice": 3.99,
-    "discountPct": 49,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/32a3ec8e-32fa-450b-8cda-967f0451c260/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/bio-awokado-hass-kaliber-18-owoce-auchan-sztuka/00574038",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Serek o smaku waniliowym Bieluch 150 g",
-    "oldPrice": 3.54,
-    "newPrice": 2.89,
-    "discountPct": 18,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/25d6a72d-83fd-462d-ad83-d8bd422992b6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-o-smaku-waniliowym-bieluch-150-g/00817146",
-    "note": null
+    "category": "Słodycze",
+    "name": "Wafelek z kremem kakaowym oblany mleczną czekoladą   Prince Polo 45 g",
+    "oldPrice": null,
+    "newPrice": 3.08,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5a94782f-a27f-475f-bdc3-c6b22b6486f0/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafelek-z-kremem-kakaowym-oblany-mleczna-czekolada-prince-polo-45-g/00736959",
+    "note": "1+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -298,14 +276,36 @@
   },
   {
     "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Ryż jaśminowy Auchan 500 g",
-    "oldPrice": null,
+    "category": "Produkty BIO",
+    "name": "BIO Awokado Hass kaliber 18 Owoce  Auchan sztuka",
+    "oldPrice": 7.75,
     "newPrice": 3.99,
+    "discountPct": 49,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/32a3ec8e-32fa-450b-8cda-967f0451c260/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/bio-awokado-hass-kaliber-18-owoce-auchan-sztuka/00574038",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Szynka 100% mięsa Dolina Dobra 100 g",
+    "oldPrice": null,
+    "newPrice": 7.18,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3ba570eb-1686-4a3a-b2a6-044b81c10f9f/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ryz-jasminowy-auchan-500-g/00289009",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/88a6e976-b465-4730-b737-d34dd4663814/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/szynka-100-miesa-dolina-dobra-100-g/00785995",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Wędliny",
+    "name": "Boczek wieprzowy wędzony kostka Auchan 150 g",
+    "oldPrice": null,
+    "newPrice": 8.49,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/dc9565b0-3b23-4b51-a5fe-0f80474f7ff7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/boczek-wieprzowy-wedzony-kostka-auchan-150-g/00614102",
+    "note": "Drugi 40% taniej"
   },
   {
     "store": "Auchan",
@@ -317,6 +317,61 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f252e3a3-624a-46e0-9b79-f563839f1b3f/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/czekolada-gorzka-o-smaku-espresso-e-wedel-100-g/00029839",
     "note": "2+2 za grosz każdy"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Serek o smaku waniliowym Bieluch 150 g",
+    "oldPrice": 3.54,
+    "newPrice": 2.89,
+    "discountPct": 18,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/25d6a72d-83fd-462d-ad83-d8bd422992b6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/serek-o-smaku-waniliowym-bieluch-150-g/00817146",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sypkie i produkty zbożowe",
+    "name": "Ryż jaśminowy Auchan 500 g",
+    "oldPrice": null,
+    "newPrice": 3.99,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3ba570eb-1686-4a3a-b2a6-044b81c10f9f/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ryz-jasminowy-auchan-500-g/00289009",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Napoje",
+    "name": "Napój gazowany o smaku cola PEPSI 1,5 l",
+    "oldPrice": null,
+    "newPrice": 7.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890746a2-fdd2-4444-a378-9933faa26ad6/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-o-smaku-cola-pepsi-1-5-l/00634226",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mrożonki",
+    "name": "Złote paluszki rybne FRoSTA 450 g",
+    "oldPrice": 19.98,
+    "newPrice": 15.99,
+    "discountPct": 20,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9ebc2f6d-1d54-42ad-a07c-3b0cb367ac35/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/zlote-paluszki-rybne-frosta-450-g/00307822",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Produkty wysokobiałkowe",
+    "name": "Jogurt naturalny wysokobiałkowy bez laktozy Maluta 200 g",
+    "oldPrice": null,
+    "newPrice": 2.88,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cc1214d0-b86f-416b-a0f3-743ed7b94ce2/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-wysokobialkowy-bez-laktozy-maluta-200-g/00397304",
+    "note": "3+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -342,14 +397,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Mrożonki",
-    "name": "Złote paluszki rybne FRoSTA 450 g",
-    "oldPrice": 19.98,
-    "newPrice": 15.99,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9ebc2f6d-1d54-42ad-a07c-3b0cb367ac35/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/zlote-paluszki-rybne-frosta-450-g/00307822",
-    "note": null
+    "category": "Owoce, warzywa i zioła",
+    "name": "Ziemniaki kulinarne Warzywa Auchan 2 kg",
+    "oldPrice": null,
+    "newPrice": 8.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4a5ce52b-8063-4410-80a5-bb36c312584e/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ziemniaki-kulinarne-warzywa-auchan-2-kg/00581231",
+    "note": "2  za 7,98 zł"
   },
   {
     "store": "Auchan",
@@ -364,6 +419,17 @@
   },
   {
     "store": "Auchan",
+    "category": "Soki, nektary",
+    "name": "Mus bananowo jabłkowy Kubuś 100 g",
+    "oldPrice": null,
+    "newPrice": 2.28,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/03b2651e-34a5-46fb-8759-f7ed13ae90f8/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mus-bananowo-jablkowy-kubus-100-g/00903148",
+    "note": "2  za 3,94 zł"
+  },
+  {
+    "store": "Auchan",
     "category": "Sypkie i produkty zbożowe",
     "name": "Ryż Basmati Auchan 4 x 100 g",
     "oldPrice": null,
@@ -372,17 +438,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f2785cf9-eeca-4a82-ac11-23fa0879fddf/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/ryz-basmati-auchan-4-x-100-g/00447621",
     "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Ziemniaki kulinarne Warzywa Auchan 2 kg",
-    "oldPrice": null,
-    "newPrice": 8.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4a5ce52b-8063-4410-80a5-bb36c312584e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ziemniaki-kulinarne-warzywa-auchan-2-kg/00581231",
-    "note": "2  za 7,98 zł"
   },
   {
     "store": "Auchan",
@@ -397,14 +452,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Napoje",
-    "name": "Napój gazowany o smaku cola PEPSI 1,5 l",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Śmietana 18% ekstra kremowa  Zott 180 g",
     "oldPrice": null,
-    "newPrice": 7.98,
+    "newPrice": 3.79,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890746a2-fdd2-4444-a378-9933faa26ad6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-o-smaku-cola-pepsi-1-5-l/00634226",
-    "note": "2+1 za grosz"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c6612169-f657-46fa-9876-472f30c1286a/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/smietana-18-ekstra-kremowa-zott-180-g/00158695",
+    "note": "1+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -419,50 +474,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Produkty wysokobiałkowe",
-    "name": "Jogurt naturalny wysokobiałkowy bez laktozy Maluta 200 g",
-    "oldPrice": null,
-    "newPrice": 2.88,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/cc1214d0-b86f-416b-a0f3-743ed7b94ce2/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/jogurt-naturalny-wysokobialkowy-bez-laktozy-maluta-200-g/00397304",
-    "note": "3+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Czekolada mleczna z nadzieniem truskawkowym E.Wedel 100 g",
-    "oldPrice": null,
-    "newPrice": 5.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0c4b5308-6ceb-4cb2-845b-4a6c7b10dd17/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czekolada-mleczna-z-nadzieniem-truskawkowym-e-wedel-100-g/00030411",
-    "note": "2+2 za grosz każdy"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Czekolada biała E.Wedel 80 g",
-    "oldPrice": null,
-    "newPrice": 5.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c75812d0-29ad-4d8d-8cd9-8a6d8636c05e/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/czekolada-biala-e-wedel-80-g/00643969",
-    "note": "2+2 za grosz każdy"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Śmietana 18% ekstra kremowa  Zott 180 g",
-    "oldPrice": null,
-    "newPrice": 3.79,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c6612169-f657-46fa-9876-472f30c1286a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/smietana-18-ekstra-kremowa-zott-180-g/00158695",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Słodycze",
     "name": "Wafelek o smaku orzechowym XXL Prince Polo 45 g",
     "oldPrice": null,
@@ -471,50 +482,6 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/614e8ef2-b2d5-4647-a9e6-9ee856604b19/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/wafelek-o-smaku-orzechowym-xxl-prince-polo-45-g/00638613",
     "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Soki, nektary",
-    "name": "Mus bananowo jabłkowy Kubuś 100 g",
-    "oldPrice": null,
-    "newPrice": 2.28,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/03b2651e-34a5-46fb-8759-f7ed13ae90f8/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/mus-bananowo-jablkowy-kubus-100-g/00903148",
-    "note": "2  za 3,94 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafelek XXL o smaku Oreo  Prince Polo 45 g",
-    "oldPrice": null,
-    "newPrice": 3.08,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ddf1ea05-69c1-4761-b396-05942c0723e3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafelek-xxl-o-smaku-oreo-prince-polo-45-g/00759688",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mięso i drób",
-    "name": "Porcja rosołowa wołowa Auchan na wagę ok. 350 g",
-    "oldPrice": 13.99,
-    "newPrice": 12.25,
-    "discountPct": 12,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/16c5ffe1-e77b-41da-9efe-1524fd3ce872/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/porcja-rosolowa-wolowa-auchan-na-wage-ok-350-g/00569975",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Owoce, warzywa i zioła",
-    "name": "Kapusta kiszona z marchewką Auchan 900 g",
-    "oldPrice": 6.19,
-    "newPrice": 4.99,
-    "discountPct": 19,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b01afece-3537-4fb5-8321-5373f12373f4/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/kapusta-kiszona-z-marchewka-auchan-900-g/00488759",
-    "note": null
   },
   {
     "store": "Auchan",
@@ -529,14 +496,47 @@
   },
   {
     "store": "Auchan",
-    "category": "Napoje",
-    "name": "Napój gazowany o smaku pomarańczowym bez cukru. Zawiera substancje słodzące.  Mirinda 1,5 l",
+    "category": "Słodycze",
+    "name": "Wafelek XXL o smaku Oreo  Prince Polo 45 g",
     "oldPrice": null,
-    "newPrice": 7.98,
+    "newPrice": 3.08,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0d1c988-c2c7-4b63-841c-d81284b72eaf/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-o-smaku-pomaranczowym-bez-cukru-zawiera-substancje-slodzace-mirinda-1-5-l/00634215",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/ddf1ea05-69c1-4761-b396-05942c0723e3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafelek-xxl-o-smaku-oreo-prince-polo-45-g/00759688",
+    "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Czekolada mocno mleczna E.Wedel 80 g",
+    "oldPrice": null,
+    "newPrice": 5.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8b23b10d-8325-4316-be1d-66a6a87ec71d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/czekolada-mocno-mleczna-e-wedel-80-g/00643711",
+    "note": "2+2 za grosz każdy"
+  },
+  {
+    "store": "Auchan",
+    "category": "Produkty wysokobiałkowe",
+    "name": "Mullermilch Protein o smaku ciasteczkowym  Müller 400 g",
+    "oldPrice": null,
+    "newPrice": 5.88,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d9604568-d87f-46b4-b1bc-6dc4411198c7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/mullermilch-protein-o-smaku-ciasteczkowym-m-ller-400-g/00528846",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Owoce, warzywa i zioła",
+    "name": "Kapusta kiszona z marchewką Auchan 900 g",
+    "oldPrice": 6.19,
+    "newPrice": 4.99,
+    "discountPct": 19,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/b01afece-3537-4fb5-8321-5373f12373f4/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/kapusta-kiszona-z-marchewka-auchan-900-g/00488759",
+    "note": null
   },
   {
     "store": "Auchan",
