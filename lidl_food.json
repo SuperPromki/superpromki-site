@@ -2,13 +2,13 @@
   {
     "store": "Lidl",
     "category": "Ryby i owoce morza",
-    "name": "Łosoś atlantycki, filet ze skórą, XXL",
+    "name": "MOWI Łosoś atlantycki, filet ze skórą, XXL",
     "oldPrice": 6.99,
     "newPrice": 4.99,
     "discountPct": 28,
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpa756bd22fbdc46938f6617597723856a.png",
-    "url": "https://www.lidl.pl/p/losos-atlantycki-filet-ze-skora-xxl/p11006115"
+    "url": "https://www.lidl.pl/p/mowi-losos-atlantycki-filet-ze-skora-xxl/p11006115"
   },
   {
     "store": "Lidl",
@@ -155,17 +155,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
-  },
-  {
-    "store": "Lidl",
     "category": "Kiełbasy i wędliny",
     "name": "PIKOK Parówki z szynki, XXL",
     "oldPrice": 11.39,
@@ -174,5 +163,16 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp598bf72a630b4590a90dafc23da1faab.png",
     "url": "https://www.lidl.pl/p/pikok-parowki-z-szynki-xxl/p11437364"
+  },
+  {
+    "store": "Lidl",
+    "category": "Napoje bezalkoholowe",
+    "name": "Coca-Cola lub Coca-Cola Zero",
+    "oldPrice": null,
+    "newPrice": 31.96,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp941f8f02c32d455bad348968596881fb.png",
+    "url": "https://www.lidl.pl/p/coca-cola-lub-coca-cola-zero/p12215685"
   }
 ]

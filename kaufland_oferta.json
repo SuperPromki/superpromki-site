@@ -142,7 +142,7 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "K-classic (Krem ciasteczkowy)",
+    "name": "K-Classic (Krem ciasteczkowy)",
     "oldPrice": 9.99,
     "newPrice": 5.99,
     "discountPct": 40,
@@ -1842,7 +1842,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-classic (Krem ciasteczkowy)",
+    "name": "K-Classic (Krem ciasteczkowy)",
     "oldPrice": 9.99,
     "newPrice": 5.99,
     "discountPct": 40,
@@ -5926,7 +5926,7 @@
     "oldPrice": 49.99,
     "newPrice": 24.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20285100_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627330889_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5936,7 +5936,7 @@
     "oldPrice": 49.99,
     "newPrice": 24.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20285256_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627330896_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5946,7 +5946,7 @@
     "oldPrice": 39.99,
     "newPrice": 19.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20285258_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066628022967_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5956,7 +5956,7 @@
     "oldPrice": 39.99,
     "newPrice": 19.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20341957_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627330858_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -5976,7 +5976,7 @@
     "oldPrice": 24.99,
     "newPrice": 19.99,
     "discountPct": 20,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20149282_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627330841_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6016,7 +6016,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00136315_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066633060619_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8553,9 +8553,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Dorota&Aroma Home (Chusteczki funkcyjne)",
-    "oldPrice": 9.99,
+    "oldPrice": null,
     "newPrice": 6.99,
-    "discountPct": 30,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20342967",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
