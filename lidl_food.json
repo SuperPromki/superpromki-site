@@ -122,6 +122,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Słodkie wypieki",
+    "name": "- Rogal świętomarciński",
+    "oldPrice": 7.49,
+    "newPrice": 3.49,
+    "discountPct": 53,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpc5af492247c242f18b754ccbed34711e.png",
+    "url": "https://www.lidl.pl/p/rogal-swietomarcinski/p11406146"
+  },
+  {
+    "store": "Lidl",
     "category": "Drób",
     "name": "RZEŹNIK Kaczka – tuszka",
     "oldPrice": 16.99,
@@ -188,168 +199,14 @@
   },
   {
     "store": "Lidl",
-    "category": "Ryby i owoce morza",
-    "name": "MOWI Łosoś atlantycki, filet ze skórą, XXL",
-    "oldPrice": 6.99,
-    "newPrice": 4.99,
-    "discountPct": 28,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa756bd22fbdc46938f6617597723856a.png",
-    "url": "https://www.lidl.pl/p/mowi-losos-atlantycki-filet-ze-skora-xxl/p11006115"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Pieczarki",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9b12a9abdb7f454486733dfd7ebd74d4.png",
-    "url": "https://www.lidl.pl/p/pieczarki/p11029529"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Kaki",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpa5e058c5b34f44429b5d862ebd561d74.png",
-    "url": "https://www.lidl.pl/p/kaki/p11029962"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Ryneczek Lidla Gruszki Konferencja, luzem",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp1367b3af57304264ba3fd278391b8962.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-gruszki-konferencja-luzem/p11030060"
-  },
-  {
-    "store": "Lidl",
-    "category": "Owoce",
-    "name": "Grejpfrut czerwony, luzem",
-    "oldPrice": 6.99,
-    "newPrice": 5.49,
-    "discountPct": 21,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp19bc26b7d24a484fbcea0f738fd340ac.png",
-    "url": "https://www.lidl.pl/p/grejpfrut-czerwony-luzem/p11150771"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Bataty, luzem",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpd358cfab406b47a39eda4a4fcb478fd5.png",
-    "url": "https://www.lidl.pl/p/bataty-luzem/p11150934"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Ryneczek Lidla Ogórek długi zielony",
-    "oldPrice": null,
-    "newPrice": 2.39,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp7c5d9adbeeed4af7ba340e784635f4fe.png",
-    "url": "https://www.lidl.pl/p/ryneczek-lidla-ogorek-dlugi-zielony/p11151055"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Papryka mix",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcp2a101dc073ec4a74972b3013dd84e69b.png",
-    "url": "https://www.lidl.pl/p/papryka-mix/p11151119"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Awokado zielone",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
-    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
-  },
-  {
-    "store": "Lidl",
-    "category": "Słodkie wypieki",
-    "name": "- Rogal świętomarciński",
-    "oldPrice": 7.49,
-    "newPrice": 3.99,
-    "discountPct": 46,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpc5af492247c242f18b754ccbed34711e.png",
-    "url": "https://www.lidl.pl/p/rogal-swietomarcinski/p11406146"
-  },
-  {
-    "store": "Lidl",
-    "category": "Drób",
-    "name": "Rzeźnik Polski kurczak – podudzia, XXL",
-    "oldPrice": null,
-    "newPrice": 6.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpe8c12fa4a4d241259b17d7f0345fc2c1.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-podudzia-xxl/p11408105"
-  },
-  {
-    "store": "Lidl",
-    "category": "Drób",
-    "name": "Rzeźnik Polski kurczak – uda, XXL",
-    "oldPrice": null,
-    "newPrice": 6.49,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb68e528b7405462c8e79b852255c02b4.png",
-    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-uda-xxl/p11408127"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ser",
-    "name": "PILOS Ser gouda w kawałku",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa047357027bb4fcfb8baf20961493443.png",
-    "url": "https://www.lidl.pl/p/pilos-ser-gouda-w-kawalku/p11418990"
-  },
-  {
-    "store": "Lidl",
     "category": "Mleko i śmietana",
-    "name": "Mleko UHT 3,2% z Polskiej Mleczarni",
+    "name": "MLEKOVITA Mleko UHT 3,2% z Polskiej Mleczarni",
     "oldPrice": null,
     "newPrice": 1.99,
     "discountPct": null,
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpe54d65eaabbd4bf386cc82d33e3912ee.png",
-    "url": "https://www.lidl.pl/p/mleko-uht-3-2-z-polskiej-mleczarni/p11421274"
-  },
-  {
-    "store": "Lidl",
-    "category": "Kiełbasy i wędliny",
-    "name": "PIKOK Parówki z szynki, XXL",
-    "oldPrice": 11.39,
-    "newPrice": 6.99,
-    "discountPct": 38,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp598bf72a630b4590a90dafc23da1faab.png",
-    "url": "https://www.lidl.pl/p/pikok-parowki-z-szynki-xxl/p11437364"
+    "url": "https://www.lidl.pl/p/mlekovita-mleko-uht-3-2-z-polskiej-mleczarni/p11421274"
   },
   {
     "store": "Lidl",
