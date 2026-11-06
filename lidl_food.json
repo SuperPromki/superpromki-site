@@ -80,10 +80,10 @@
     "store": "Lidl",
     "category": "Owoce",
     "name": "Banany, luzem",
-    "oldPrice": 6.99,
+    "oldPrice": null,
     "newPrice": 2.99,
-    "discountPct": 57,
-    "note": null,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpee9b5edda4384d6fba0ac93727dd6b8c.png",
     "url": "https://www.lidl.pl/p/banany-luzem/p11150766"
   },
@@ -108,17 +108,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcp8e92625ccfbc465a830e7d0352bde2a9.png",
     "url": "https://www.lidl.pl/p/rzeznik-szynka-wieprzowa-xxl/p11305114"
-  },
-  {
-    "store": "Lidl",
-    "category": "Desery",
-    "name": "PILOS Polski twaróg sernikowy 6%",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpf1e8bd652a494aa0afa73f50f379512c.png",
-    "url": "https://www.lidl.pl/p/pilos-polski-twarog-sernikowy-6/p11405713"
   },
   {
     "store": "Lidl",

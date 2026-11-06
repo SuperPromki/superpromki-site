@@ -52,6 +52,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Spomlek Old Poland (Ser\nGrand Radamer/Grand Gouda)",
+    "oldPrice": 4.79,
+    "newPrice": 2.99,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/01006283_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Mlekovita (Skyr pitny SBA)",
     "oldPrice": 5.99,
     "newPrice": 3.99,
@@ -177,16 +187,6 @@
     "newPrice": 3.19,
     "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00128990_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "SM Ryki (Ser Rycki Edam)",
-    "oldPrice": 6.19,
-    "newPrice": 4.49,
-    "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902208000811_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -772,6 +772,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Makrela wędzona",
+    "oldPrice": 4.29,
+    "newPrice": 3.69,
+    "discountPct": 13,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20345527_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Sierpc (Ser Królewski)",
     "oldPrice": 3.99,
     "newPrice": 2.99,
@@ -887,6 +897,16 @@
     "newPrice": 7.99,
     "discountPct": 5,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/01600406_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spomlek Old Poland (Ser\nGrand Radamer/Grand Gouda)",
+    "oldPrice": 4.79,
+    "newPrice": 2.99,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/01006283_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
