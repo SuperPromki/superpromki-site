@@ -2,16 +2,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Pomidory (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 8.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700028",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Polskie ziemniaki (jadalne, luzem)",
     "oldPrice": 1.99,
     "newPrice": 0.99,
@@ -187,6 +177,16 @@
     "newPrice": 3.19,
     "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00128990_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "SM Ryki (Ser Rycki Edam)",
+    "oldPrice": 6.19,
+    "newPrice": 4.49,
+    "discountPct": 27,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902208000811_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3312,7 +3312,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Serwetki TaT (wym. 33 x 33 cm)",
+    "name": "Serwetki (wym. 33 x 33 cm)",
     "oldPrice": 6.99,
     "newPrice": 3.99,
     "discountPct": 42,
@@ -3322,7 +3322,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Serwetki TaT (wym. 33 x 33 cm)",
+    "name": "Serwetki (wym. 33 x 33 cm)",
     "oldPrice": 6.99,
     "newPrice": 3.99,
     "discountPct": 42,
@@ -3332,7 +3332,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Serwetki TaT (wym. 33 x 33 cm)",
+    "name": "Serwetki (wym. 33 x 33 cm)",
     "oldPrice": 6.99,
     "newPrice": 3.99,
     "discountPct": 42,
@@ -3342,7 +3342,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Serwetki TaT (wym. 33 x 33 cm)",
+    "name": "Serwetki (wym. 33 x 33 cm)",
     "oldPrice": 6.99,
     "newPrice": 3.99,
     "discountPct": 42,
@@ -3352,7 +3352,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Serwetki TaT (wym. 33 x 33 cm)",
+    "name": "Serwetki (wym. 33 x 33 cm)",
     "oldPrice": 6.99,
     "newPrice": 3.99,
     "discountPct": 42,
@@ -7982,16 +7982,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Pomidory (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 8.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700028",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Polska cebula żółta",
     "oldPrice": 3.99,
     "newPrice": 1.99,
@@ -8062,16 +8052,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 9.99,
-    "newPrice": 7.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kaki",
     "oldPrice": 14.99,
     "newPrice": 9.99,
@@ -8087,6 +8067,46 @@
     "newPrice": 7.99,
     "discountPct": 46,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/8718868968081_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Jaja ściółkowe)",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097307",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Borówki amerykańskie",
+    "oldPrice": 8.99,
+    "newPrice": 5.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4260152137290_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polski kalafior",
+    "oldPrice": 7.99,
+    "newPrice": 3.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Angela (Wkład parafinowy)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00058047_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {

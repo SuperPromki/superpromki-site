@@ -2,12 +2,23 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
+    "name": "Pieczarki polskie",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
     "name": "Mleko UHT Mleczna Dolina 3,2%",
     "oldPrice": null,
     "newPrice": 1.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534231/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -18,18 +29,7 @@
     "newPrice": 7.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534231/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Winogrona",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534231/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -40,18 +40,18 @@
     "newPrice": 7.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534231/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Pieczarki polskie",
+    "name": "Winogrona",
     "oldPrice": null,
-    "newPrice": 4.99,
+    "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534231/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -62,7 +62,7 @@
     "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534219/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -73,7 +73,7 @@
     "newPrice": 4.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534219/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -84,29 +84,18 @@
     "newPrice": 14.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534219/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Masło ekstra Mleczna Dolina",
+    "name": "Masło ekstra Łaciate",
     "oldPrice": null,
-    "newPrice": 2.99,
+    "newPrice": 3.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534219/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Kiełbasa Podwawelska Kraina Wędlin",
-    "oldPrice": null,
-    "newPrice": 12.9,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -117,7 +106,18 @@
     "newPrice": 8.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Kiełbasa Podwawelska Kraina Wędlin",
+    "oldPrice": null,
+    "newPrice": 12.9,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -128,7 +128,7 @@
     "newPrice": 8.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -139,18 +139,7 @@
     "newPrice": 12.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Awokado",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -161,7 +150,18 @@
     "newPrice": 12.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Awokado",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -172,7 +172,7 @@
     "newPrice": 2.49,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534204/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534330/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -183,7 +183,51 @@
     "newPrice": 8.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534189/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534324/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Napój gazowany Pepsi Zero",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534411/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Herbatniki Maltanki Krakuski",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534411/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Napój gazowany 7up",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534411/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Napój gazowany Mirinda",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534411/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -354,23 +398,12 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Ser żółty w plastrach Rycerski Światowid",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534147/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
     "name": "Karma dla kota Felix Fantastic",
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534147/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/534345/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -503,94 +536,6 @@
     "discountPct": null,
     "image": null,
     "url": "https://blix.pl/sklep/biedronka/gazetka/533871/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ostrzałka uniwersalna do noży Tefal Essential",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Zestaw nóż i obieraczka Tefal Essential",
-    "oldPrice": null,
-    "newPrice": 39.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Lampka nocna LED Lethe",
-    "oldPrice": null,
-    "newPrice": 27.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Zestaw do szycia w kuferku",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Bluza-koc damska Clevé",
-    "oldPrice": null,
-    "newPrice": 49.9,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Tablica świetlna LED Kayet do pisania i rysowania",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Zasłony welurowe na taśmie Smukee Home",
-    "oldPrice": null,
-    "newPrice": 99.0,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Metalowa dekoracja ścienna Smukee Home z motywem kowbojki",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/533301/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
