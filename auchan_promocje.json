@@ -89,17 +89,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Serek homogenizowany waniliowy Piątnica 150 g",
-    "oldPrice": 3.18,
-    "newPrice": 2.45,
-    "discountPct": 23,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7d8e8e7d-43de-4b9d-ac62-e7419c44c2c5/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-waniliowy-piatnica-150-g/00629944",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Napoje",
     "name": "Napój gazowany o smaku cola Coca-Cola 1,5 l",
     "oldPrice": null,
@@ -108,6 +97,17 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/8a5dd98e-7211-4d79-9a90-1319d44ae51a/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/napoj-gazowany-o-smaku-cola-coca-cola-1-5-l/00633560",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Serek homogenizowany waniliowy Piątnica 150 g",
+    "oldPrice": 3.18,
+    "newPrice": 2.45,
+    "discountPct": 23,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7d8e8e7d-43de-4b9d-ac62-e7419c44c2c5/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-waniliowy-piatnica-150-g/00629944",
+    "note": null
   },
   {
     "store": "Auchan",
@@ -144,14 +144,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser mozzarella półtłusty wiórki Galbani 150 g",
-    "oldPrice": 8.48,
-    "newPrice": 5.35,
-    "discountPct": 37,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/65bb8337-f0cb-4d5d-8b37-7e886cd16318/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-mozzarella-poltlusty-wiorki-galbani-150-g/00564563",
-    "note": null
+    "category": "Mleko, nabiał i jaja",
+    "name": "Fantasia Jogurt kremowy z mleczną czekoladą Danone 106 g",
+    "oldPrice": null,
+    "newPrice": 3.44,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/758e0425-b9c4-4e35-b6e7-017b0d1c2c87/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-mleczna-czekolada-danone-106-g/00181513",
+    "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -162,6 +162,17 @@
     "discountPct": 16,
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/f5532363-e1a5-488e-a8fa-8a4671a5d488/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/szpinak-warzywa-auchan-200-g/00535781",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Sery",
+    "name": "Ser mozzarella półtłusty wiórki Galbani 150 g",
+    "oldPrice": 8.48,
+    "newPrice": 5.35,
+    "discountPct": 37,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/65bb8337-f0cb-4d5d-8b37-7e886cd16318/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-mozzarella-poltlusty-wiorki-galbani-150-g/00564563",
     "note": null
   },
   {
@@ -188,39 +199,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Fantasia Jogurt kremowy z mleczną czekoladą Danone 106 g",
-    "oldPrice": null,
-    "newPrice": 3.44,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/758e0425-b9c4-4e35-b6e7-017b0d1c2c87/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-mleczna-czekolada-danone-106-g/00181513",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sypkie i produkty zbożowe",
-    "name": "Mąka pszenna typ 405 Auchan 1 kg",
-    "oldPrice": null,
-    "newPrice": 2.19,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0086234d-dee0-4f3f-a9cf-332f3c23a525/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/maka-pszenna-typ-405-auchan-1-kg/00415576",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Ser żółty typu szwajcarskiego w plastrach Włoszczowa 150 g",
-    "oldPrice": 7.94,
-    "newPrice": 4.59,
-    "discountPct": 42,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/64913ddc-efbe-478e-8afb-36687dd48b48/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/ser-zolty-typu-szwajcarskiego-w-plastrach-wloszczowa-150-g/00092385",
-    "note": null
-  },
-  {
-    "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
     "name": "Cynamon mielony Prymat 15 g",
     "oldPrice": null,
@@ -232,13 +210,13 @@
   },
   {
     "store": "Auchan",
-    "category": "Akcesoria do sprzątania",
-    "name": "Worki na śmieci łatwo wiązane 35 L Auchan 30 sztuk",
-    "oldPrice": 3.89,
-    "newPrice": 2.99,
-    "discountPct": 23,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d0f97db2-2049-4203-a6ff-57838314d0fc/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/worki-na-smieci-latwo-wiazane-35-l-auchan-30-sztuk/00323618",
+    "category": "Ryby i owoce morza",
+    "name": "Łosos wędzony Auchan 100 g",
+    "oldPrice": 12.98,
+    "newPrice": 10.99,
+    "discountPct": 15,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7806f809-8a43-4c5b-8b20-fba41d0cfd41/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/losos-wedzony-auchan-100-g/00391973",
     "note": null
   },
   {
@@ -254,24 +232,35 @@
   },
   {
     "store": "Auchan",
-    "category": "Bez glutenu",
-    "name": "Szynka Basiuni Sokołów 140 g",
-    "oldPrice": null,
-    "newPrice": 6.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0bcfa8ec-7060-4c5d-8af7-b9351b3749e3/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szynka-basiuni-sokolow-140-g/00110274",
-    "note": "Drugi 40% taniej"
+    "category": "Akcesoria do sprzątania",
+    "name": "Worki na śmieci łatwo wiązane 35 L Auchan 30 sztuk",
+    "oldPrice": 3.89,
+    "newPrice": 2.99,
+    "discountPct": 23,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/d0f97db2-2049-4203-a6ff-57838314d0fc/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/worki-na-smieci-latwo-wiazane-35-l-auchan-30-sztuk/00323618",
+    "note": null
   },
   {
     "store": "Auchan",
-    "category": "Ryby i owoce morza",
-    "name": "Łosos wędzony Auchan 100 g",
-    "oldPrice": 12.98,
-    "newPrice": 10.99,
-    "discountPct": 15,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/7806f809-8a43-4c5b-8b20-fba41d0cfd41/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/losos-wedzony-auchan-100-g/00391973",
+    "category": "Sery",
+    "name": "Ser żółty typu szwajcarskiego w plastrach Włoszczowa 150 g",
+    "oldPrice": 7.94,
+    "newPrice": 4.59,
+    "discountPct": 42,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/64913ddc-efbe-478e-8afb-36687dd48b48/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/ser-zolty-typu-szwajcarskiego-w-plastrach-wloszczowa-150-g/00092385",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Pieczywo i wyroby cukiernicze",
+    "name": "Wafle ryżowe w czekoladzie mlecznej Auchan 60 g",
+    "oldPrice": 3.49,
+    "newPrice": 2.79,
+    "discountPct": 20,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e4e985b-dac8-4586-a6c2-416414ba53ab/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafle-ryzowe-w-czekoladzie-mlecznej-auchan-60-g/00000818",
     "note": null
   },
   {
@@ -298,28 +287,6 @@
   },
   {
     "store": "Auchan",
-    "category": "Pieczywo i wyroby cukiernicze",
-    "name": "Wafle ryżowe w czekoladzie mlecznej Auchan 60 g",
-    "oldPrice": 3.49,
-    "newPrice": 2.79,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/2e4e985b-dac8-4586-a6c2-416414ba53ab/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafle-ryzowe-w-czekoladzie-mlecznej-auchan-60-g/00000818",
-    "note": null
-  },
-  {
-    "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Wafel przekładany kremem kakaowym w czekoladzie Grześki 36 g",
-    "oldPrice": null,
-    "newPrice": 2.19,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0efed731-4856-4b00-a2a7-ce0a395ec5eb/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/wafel-przekladany-kremem-kakaowym-w-czekoladzie-grzeski-36-g/00028826",
-    "note": "1+1 za grosz"
-  },
-  {
-    "store": "Auchan",
     "category": "Sosy i przeciery",
     "name": "Passata pomidorowa klasyczna Auchan 680 g",
     "oldPrice": null,
@@ -331,25 +298,14 @@
   },
   {
     "store": "Auchan",
-    "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Goździki całe Prymat 10 g",
+    "category": "Bez glutenu",
+    "name": "Szynka Basiuni Sokołów 140 g",
     "oldPrice": null,
-    "newPrice": 1.68,
+    "newPrice": 6.98,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890e1987-d671-420c-8711-f0fd360658f7/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/gozdziki-cale-prymat-10-g/00192095",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Fantasia Jogurt kremowy z gwiazdkami w czekoladzie Danone 102 g",
-    "oldPrice": null,
-    "newPrice": 3.44,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e7745a83-1f1c-4153-9b5f-0b1a26728b36/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-gwiazdkami-w-czekoladzie-danone-102-g/00181511",
-    "note": "2+1 za grosz"
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0bcfa8ec-7060-4c5d-8af7-b9351b3749e3/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/szynka-basiuni-sokolow-140-g/00110274",
+    "note": "Drugi 40% taniej"
   },
   {
     "store": "Auchan",
@@ -386,6 +342,83 @@
   },
   {
     "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Fantasia Jogurt kremowy z gwiazdkami w czekoladzie Danone 102 g",
+    "oldPrice": null,
+    "newPrice": 3.44,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e7745a83-1f1c-4153-9b5f-0b1a26728b36/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-gwiazdkami-w-czekoladzie-danone-102-g/00181511",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Goździki całe Prymat 10 g",
+    "oldPrice": null,
+    "newPrice": 1.68,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/890e1987-d671-420c-8711-f0fd360658f7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/gozdziki-cale-prymat-10-g/00192095",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Lindor Pralinki z czekolady mlecznej z nadzieniem Lindt 200 g",
+    "oldPrice": 39.98,
+    "newPrice": 21.48,
+    "discountPct": 46,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/01f94a8c-3e7f-4f20-bb2d-8fabf5a3111b/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/lindor-pralinki-z-czekolady-mlecznej-z-nadzieniem-lindt-200-g/00303392",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Wafel przekładany kremem kakaowym w czekoladzie Grześki 36 g",
+    "oldPrice": null,
+    "newPrice": 2.19,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0efed731-4856-4b00-a2a7-ce0a395ec5eb/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/wafel-przekladany-kremem-kakaowym-w-czekoladzie-grzeski-36-g/00028826",
+    "note": "1+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Serek homogenizowany ciasteczkowy Piątnica 150 g",
+    "oldPrice": 3.18,
+    "newPrice": 2.45,
+    "discountPct": 23,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/07f55e0b-2c3d-416a-89ac-d4311927e3be/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-ciasteczkowy-piatnica-150-g/00994051",
+    "note": null
+  },
+  {
+    "store": "Auchan",
+    "category": "Napoje",
+    "name": "Napój gazowany Zero Sugar o smaku cytrynowo-limonkowym  Sprite 1,5 l",
+    "oldPrice": null,
+    "newPrice": 8.98,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3c652e8f-b3af-4bdf-837b-9e59c4e96749/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-sugar-o-smaku-cytrynowo-limonkowym-sprite-1-5-l/00633708",
+    "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Mleko, nabiał i jaja",
+    "name": "Masło ekstra osełka Łaciate 300 g",
+    "oldPrice": 9.99,
+    "newPrice": 7.95,
+    "discountPct": 20,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0e6ecd2-5035-4ab2-95d4-ed6abdddcee1/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-laciate-300-g/00917007",
+    "note": null
+  },
+  {
+    "store": "Auchan",
     "category": "Dania gotowe i wyroby garmażeryjne",
     "name": "Zupa-danie o smaku sera w ziołach Knorr 61 g",
     "oldPrice": 3.38,
@@ -408,47 +441,25 @@
   },
   {
     "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Serek homogenizowany ciasteczkowy Piątnica 150 g",
-    "oldPrice": 3.18,
-    "newPrice": 2.45,
-    "discountPct": 23,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/07f55e0b-2c3d-416a-89ac-d4311927e3be/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/serek-homogenizowany-ciasteczkowy-piatnica-150-g/00994051",
+    "category": "Sery",
+    "name": "Kortos ser sałatkowy naturalny Turek 160 g",
+    "oldPrice": 7.94,
+    "newPrice": 4.99,
+    "discountPct": 37,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60b824e3-d696-4358-b539-4265663de56a/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/kortos-ser-salatkowy-naturalny-turek-160-g/00113287",
     "note": null
   },
   {
     "store": "Auchan",
-    "category": "Słodycze",
-    "name": "Śmiejżelki Sokki z witaminami nimm2 90 g",
+    "category": "Konserwy, przetwory i dodatki kulinarne",
+    "name": "Liść laurowy Prymat 6 g",
     "oldPrice": null,
-    "newPrice": 4.24,
+    "newPrice": 1.68,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/897ec821-4347-42d1-91bc-ab20ba248c26/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/smiejzelki-sokki-z-witaminami-nimm2-90-g/00582647",
-    "note": "2  za 6,00 zł"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mrożonki",
-    "name": "Szpinak rozdrobniony brykiet Auchan 450 g",
-    "oldPrice": null,
-    "newPrice": 3.44,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/9070fef4-4572-4e93-bbdb-1049a17da7e6/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/szpinak-rozdrobniony-brykiet-auchan-450-g/00858038",
-    "note": "Drugi 50% taniej"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Masło ekstra osełka Łaciate 300 g",
-    "oldPrice": 9.99,
-    "newPrice": 7.95,
-    "discountPct": 20,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0e6ecd2-5035-4ab2-95d4-ed6abdddcee1/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/maslo-ekstra-oselka-laciate-300-g/00917007",
-    "note": null
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4aea8817-9294-44ce-a031-60ae71fbb5bb/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/lisc-laurowy-prymat-6-g/00192102",
+    "note": "2+1 za grosz"
   },
   {
     "store": "Auchan",
@@ -464,46 +475,13 @@
   {
     "store": "Auchan",
     "category": "Konserwy, przetwory i dodatki kulinarne",
-    "name": "Liść laurowy Prymat 6 g",
+    "name": "Oregano suszone.  Prymat 8 g",
     "oldPrice": null,
     "newPrice": 1.68,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4aea8817-9294-44ce-a031-60ae71fbb5bb/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/lisc-laurowy-prymat-6-g/00192102",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/5598dc53-2e8a-4cc6-b6be-474b1b14efd7/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/oregano-suszone-prymat-8-g/00326756",
     "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Napoje",
-    "name": "Napój gazowany Zero Sugar o smaku cytrynowo-limonkowym  Sprite 1,5 l",
-    "oldPrice": null,
-    "newPrice": 8.98,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/3c652e8f-b3af-4bdf-837b-9e59c4e96749/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/napoj-gazowany-zero-sugar-o-smaku-cytrynowo-limonkowym-sprite-1-5-l/00633708",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Mleko, nabiał i jaja",
-    "name": "Fantasia Jogurt kremowy z wiśniami Danone 118 g",
-    "oldPrice": null,
-    "newPrice": 3.44,
-    "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4b1e3199-2de7-42df-9549-8142b68a3aab/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-wisniami-danone-118-g/00181509",
-    "note": "2+1 za grosz"
-  },
-  {
-    "store": "Auchan",
-    "category": "Sery",
-    "name": "Kortos ser sałatkowy naturalny Turek 160 g",
-    "oldPrice": 7.94,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/60b824e3-d696-4358-b539-4265663de56a/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/kortos-ser-salatkowy-naturalny-turek-160-g/00113287",
-    "note": null
   },
   {
     "store": "Auchan",
@@ -515,6 +493,17 @@
     "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/c91dbb0c-7e1f-415f-9904-7eb9117b4ceb/300x300.jpg",
     "url": "https://zakupy.auchan.pl/products/przyprawa-kebab-gyros-prymat-30-g/00521720",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Słodycze",
+    "name": "Śmiejżelki Sokki z witaminami nimm2 90 g",
+    "oldPrice": null,
+    "newPrice": 4.24,
+    "discountPct": null,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/897ec821-4347-42d1-91bc-ab20ba248c26/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/smiejzelki-sokki-z-witaminami-nimm2-90-g/00582647",
+    "note": "2  za 6,00 zł"
   },
   {
     "store": "Auchan",
@@ -530,13 +519,24 @@
   {
     "store": "Auchan",
     "category": "Mleko, nabiał i jaja",
-    "name": "Fantasia Jogurt kremowy z kulkami w czekoladzie  Danone 100 g",
+    "name": "Fantasia Jogurt kremowy z wiśniami Danone 118 g",
     "oldPrice": null,
     "newPrice": 3.44,
     "discountPct": null,
-    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/0126acbc-55de-4ed9-bb9e-0f046fcc3e28/300x300.jpg",
-    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-kulkami-w-czekoladzie-danone-100-g/00623281",
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/4b1e3199-2de7-42df-9549-8142b68a3aab/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/fantasia-jogurt-kremowy-z-wisniami-danone-118-g/00181509",
     "note": "2+1 za grosz"
+  },
+  {
+    "store": "Auchan",
+    "category": "Sosy i przeciery",
+    "name": "Majonez stołowy. Majonez Kielecki 500 ml",
+    "oldPrice": 10.58,
+    "newPrice": 8.36,
+    "discountPct": 21,
+    "image": "https://zakupy.auchan.pl/images-v3/91f3b8f0-9eaa-434b-8554-b0f1db433c99/e0163fde-fb22-4dd1-92d0-5ea5f9cf0b9d/300x300.jpg",
+    "url": "https://zakupy.auchan.pl/products/majonez-stolowy-majonez-kielecki-500-ml/00314418",
+    "note": null
   },
   {
     "store": "Auchan",

@@ -2,11 +2,21 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 17.99,
+    "newPrice": 8.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Polskie ziemniaki (jadalne, luzem)",
     "oldPrice": 1.99,
     "newPrice": 0.99,
     "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700010_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700010_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -36,7 +46,7 @@
     "oldPrice": 4.39,
     "newPrice": 2.69,
     "discountPct": 38,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2813000000000_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00044055_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -46,7 +56,7 @@
     "oldPrice": 4.79,
     "newPrice": 2.99,
     "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01006283_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_01006283_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -66,7 +76,7 @@
     "oldPrice": 8.99,
     "newPrice": 5.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00401892",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00401892_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -177,16 +187,6 @@
     "newPrice": 3.19,
     "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00128990_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "SM Ryki (Ser Rycki Edam)",
-    "oldPrice": 6.19,
-    "newPrice": 4.49,
-    "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902208000811_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -566,7 +566,7 @@
     "oldPrice": null,
     "newPrice": 1.79,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20872443_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20872443_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -596,7 +596,7 @@
     "oldPrice": 1.99,
     "newPrice": 0.99,
     "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700010_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700010_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -606,7 +606,7 @@
     "oldPrice": null,
     "newPrice": 3.79,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/pomarancze_siatka",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700036_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -766,7 +766,7 @@
     "oldPrice": 4.39,
     "newPrice": 2.69,
     "discountPct": 38,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2813000000000_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00044055_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -906,7 +906,7 @@
     "oldPrice": 4.79,
     "newPrice": 2.99,
     "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/01006283_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_01006283_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -916,7 +916,7 @@
     "oldPrice": 8.99,
     "newPrice": 5.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00401892",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00401892_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1036,7 +1036,7 @@
     "oldPrice": null,
     "newPrice": 10.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20096713_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20096713_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1046,7 +1046,7 @@
     "oldPrice": 8.99,
     "newPrice": 7.99,
     "discountPct": 11,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900242001610_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_01300951_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1186,7 +1186,7 @@
     "oldPrice": null,
     "newPrice": 12.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20091547_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20091547_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1196,7 +1196,7 @@
     "oldPrice": null,
     "newPrice": 4.49,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900977002159_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_04001130_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1206,7 +1206,7 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20100099_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20100099_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1216,7 +1216,7 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20100126_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20100126_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1226,7 +1226,7 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20100127_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20100127_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1416,7 +1416,7 @@
     "oldPrice": null,
     "newPrice": 17.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4014400901191_PL_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_02700132_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1426,7 +1426,7 @@
     "oldPrice": null,
     "newPrice": 7.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00089941_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00089941_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1436,7 +1436,7 @@
     "oldPrice": null,
     "newPrice": 2.69,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/02701642_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_02701642_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1446,7 +1446,7 @@
     "oldPrice": null,
     "newPrice": 16.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00125703_20hr",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00125703_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1836,7 +1836,7 @@
     "oldPrice": 24.99,
     "newPrice": 16.49,
     "discountPct": 34,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20747154",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20747154_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1846,7 +1846,7 @@
     "oldPrice": 8.99,
     "newPrice": 5.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/05000922_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_05000922_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1856,7 +1856,7 @@
     "oldPrice": 99.99,
     "newPrice": 64.99,
     "discountPct": 35,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20949835",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949835_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4466,7 +4466,7 @@
     "oldPrice": 21.99,
     "newPrice": 17.99,
     "discountPct": 18,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20983907_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20983907_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4486,7 +4486,7 @@
     "oldPrice": 26.99,
     "newPrice": 22.99,
     "discountPct": 14,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984326_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20984326_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4496,7 +4496,7 @@
     "oldPrice": null,
     "newPrice": 8.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066628167873_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980971_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4506,7 +4506,7 @@
     "oldPrice": null,
     "newPrice": 8.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066628167866_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20980972_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4796,7 +4796,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/21003069_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21003069_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -4806,7 +4806,7 @@
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/21003070_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21003070_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7076,7 +7076,7 @@
     "oldPrice": null,
     "newPrice": 69.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5055964707224_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20905353_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7086,7 +7086,7 @@
     "oldPrice": null,
     "newPrice": 69.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5055964714215_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20717915_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7096,7 +7096,7 @@
     "oldPrice": null,
     "newPrice": 99.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20919921_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20919921_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7106,7 +7106,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20972487_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972487_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7116,7 +7116,7 @@
     "oldPrice": null,
     "newPrice": 49.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066628180131_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20978653_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7126,7 +7126,7 @@
     "oldPrice": null,
     "newPrice": 29.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20886766_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20886766_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7136,7 +7136,7 @@
     "oldPrice": 119.99,
     "newPrice": 99.99,
     "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20665763C_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20665763_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7146,7 +7146,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D524984_S-E-Spielzeug-Kuechenzubehoer-v01__23IW00_FS_EU-KL_NFVP",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967722_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7156,7 +7156,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D524984_S-A-Spielzeug-Kuechenzubehoer-v01__23IW00_FS_EU-KL_NFVP",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967721_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7166,7 +7166,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D524984_S-C-Spielzeug-Kuechenzubehoer-v01__23IW00_FS_EU-KL_NFVP",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967720_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7176,7 +7176,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D524984_S-B-Spielzeug-Kuechenzubehoer-v01__23IW00_FS_EU-KL_NFVP",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967719_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7186,7 +7186,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D524984_S-D-Spielzeug-Kuechenzubehoer-v01__23IW00_FS_EU-KL_NFVP",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967718_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7196,7 +7196,7 @@
     "oldPrice": 34.99,
     "newPrice": 29.99,
     "discountPct": 14,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8411936727817_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20841352_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7206,7 +7206,7 @@
     "oldPrice": null,
     "newPrice": 99.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20884970_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20884970_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7216,7 +7216,7 @@
     "oldPrice": 119.99,
     "newPrice": 99.99,
     "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20885051B_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20885051_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7236,7 +7236,7 @@
     "oldPrice": null,
     "newPrice": 99.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/10475_Lifestyle_Cons_crop",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20884835_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7246,7 +7246,7 @@
     "oldPrice": 79.99,
     "newPrice": 49.99,
     "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981387_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20981387_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7256,7 +7256,7 @@
     "oldPrice": 69.99,
     "newPrice": 49.99,
     "discountPct": 28,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981384_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20981384_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7266,7 +7266,7 @@
     "oldPrice": 29.99,
     "newPrice": 19.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20981380_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20981380_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7276,7 +7276,7 @@
     "oldPrice": 299.99,
     "newPrice": 199.0,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20986013_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20986013_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7286,7 +7286,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986727_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972415_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7296,7 +7296,7 @@
     "oldPrice": 129.99,
     "newPrice": 99.99,
     "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20974055A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20974055_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7306,7 +7306,7 @@
     "oldPrice": 149.99,
     "newPrice": 99.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20974054_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20974054_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7316,7 +7316,7 @@
     "oldPrice": 39.99,
     "newPrice": 24.99,
     "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975808_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975808_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7326,7 +7326,7 @@
     "oldPrice": 49.99,
     "newPrice": 29.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975809B_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975809_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7336,7 +7336,7 @@
     "oldPrice": 49.99,
     "newPrice": 29.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975811E_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975811_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7346,7 +7346,7 @@
     "oldPrice": 44.99,
     "newPrice": 24.99,
     "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975812_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975812_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7356,7 +7356,7 @@
     "oldPrice": 14.99,
     "newPrice": 9.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975825E_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975825_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7376,7 +7376,7 @@
     "oldPrice": 49.99,
     "newPrice": 29.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975835A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975835_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7386,7 +7386,7 @@
     "oldPrice": null,
     "newPrice": 34.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975836D_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975836_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7396,7 +7396,7 @@
     "oldPrice": 59.99,
     "newPrice": 34.99,
     "discountPct": 41,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975837A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975837_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7406,7 +7406,7 @@
     "oldPrice": 49.99,
     "newPrice": 29.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975838C_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975838_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7416,7 +7416,7 @@
     "oldPrice": 49.99,
     "newPrice": 29.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20975949L_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20975949_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7426,7 +7426,7 @@
     "oldPrice": 59.99,
     "newPrice": 39.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988336A_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988336_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7436,7 +7436,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984966_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20984966_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7446,7 +7446,7 @@
     "oldPrice": null,
     "newPrice": 89.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20890170",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20890170_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7456,7 +7456,7 @@
     "oldPrice": null,
     "newPrice": 34.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20890166_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20890166_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7466,7 +7466,7 @@
     "oldPrice": null,
     "newPrice": 29.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20890165_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20890165_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7476,7 +7476,7 @@
     "oldPrice": null,
     "newPrice": 79.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987175_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972711_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7486,7 +7486,7 @@
     "oldPrice": null,
     "newPrice": 79.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987182_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972620_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7496,7 +7496,7 @@
     "oldPrice": null,
     "newPrice": 79.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987168_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972545_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7506,7 +7506,7 @@
     "oldPrice": null,
     "newPrice": 79.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987199_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972541_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7516,7 +7516,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986734_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972421_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7526,7 +7526,7 @@
     "oldPrice": null,
     "newPrice": 34.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986529_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972418_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7536,7 +7536,7 @@
     "oldPrice": null,
     "newPrice": 34.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986543_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972416_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7546,7 +7546,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986703_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972410_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7556,7 +7556,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986710_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972409_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7566,7 +7566,7 @@
     "oldPrice": null,
     "newPrice": 69.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987007_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972364_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7576,7 +7576,7 @@
     "oldPrice": null,
     "newPrice": 69.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627987014_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20972363_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7586,7 +7586,7 @@
     "oldPrice": 129.99,
     "newPrice": 99.99,
     "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984379_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20984379_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7596,7 +7596,7 @@
     "oldPrice": 69.99,
     "newPrice": 49.99,
     "discountPct": 28,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984383_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20984383_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7606,7 +7606,7 @@
     "oldPrice": 44.99,
     "newPrice": 34.99,
     "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984394A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20984394_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7616,7 +7616,7 @@
     "oldPrice": 199.99,
     "newPrice": 99.99,
     "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20908890_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20908890_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7626,7 +7626,7 @@
     "oldPrice": null,
     "newPrice": 12.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988472B_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988472_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7636,7 +7636,7 @@
     "oldPrice": null,
     "newPrice": 7.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988473G_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988473_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7646,7 +7646,7 @@
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988474F_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988474_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7656,7 +7656,7 @@
     "oldPrice": 59.99,
     "newPrice": 49.99,
     "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20884934_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20884934_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7666,7 +7666,7 @@
     "oldPrice": 59.99,
     "newPrice": 39.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20843001_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20843001_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7676,7 +7676,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986482_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20971882_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7686,7 +7686,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986499_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20971973_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7696,7 +7696,7 @@
     "oldPrice": null,
     "newPrice": 24.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627986505_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20971974_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7706,7 +7706,7 @@
     "oldPrice": null,
     "newPrice": 39.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20849161",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20849161_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7716,7 +7716,7 @@
     "oldPrice": null,
     "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20887344_20_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20887344_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7726,7 +7726,7 @@
     "oldPrice": null,
     "newPrice": 34.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20887347_2",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20887347_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7736,7 +7736,7 @@
     "oldPrice": null,
     "newPrice": 59.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20887394_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20887394_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7746,7 +7746,7 @@
     "oldPrice": null,
     "newPrice": 79.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20892405_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20892405_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7756,7 +7756,7 @@
     "oldPrice": 39.99,
     "newPrice": 29.99,
     "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20967617E_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967617_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7766,7 +7766,7 @@
     "oldPrice": 149.99,
     "newPrice": 129.0,
     "discountPct": 13,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20967611_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20967611_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7776,7 +7776,7 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/0019720C_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00019720_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7786,7 +7786,7 @@
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00019721F_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00019721_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7816,7 +7816,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00081043_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00081043_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7826,7 +7826,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095573_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00095573_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7836,7 +7836,7 @@
     "oldPrice": null,
     "newPrice": 7.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/05501765A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_05501765_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7846,7 +7846,7 @@
     "oldPrice": 29.99,
     "newPrice": 19.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/06103806_P-1",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_06103806_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7856,7 +7856,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00075973_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00075973_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7866,7 +7866,7 @@
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00075974_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_00075974_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7876,7 +7876,7 @@
     "oldPrice": 26.99,
     "newPrice": 19.99,
     "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/06100913_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_06100913_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7886,7 +7886,7 @@
     "oldPrice": 10.99,
     "newPrice": 9.99,
     "discountPct": 9,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/074299057854_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_06101491_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7896,7 +7896,7 @@
     "oldPrice": 69.99,
     "newPrice": 39.99,
     "discountPct": 42,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/DE6124168_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_06101494_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7906,7 +7906,7 @@
     "oldPrice": null,
     "newPrice": 59.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20665436_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20665436_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7916,7 +7916,7 @@
     "oldPrice": 54.99,
     "newPrice": 39.99,
     "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/194735166756_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20566084_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7926,7 +7926,7 @@
     "oldPrice": 69.99,
     "newPrice": 39.99,
     "discountPct": 42,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20664826A_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20664826_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7936,7 +7936,7 @@
     "oldPrice": null,
     "newPrice": 49.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20664827_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20664827_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7946,167 +7946,47 @@
     "oldPrice": 24.99,
     "newPrice": 19.99,
     "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20096256_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20096256_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polski por (luzem)",
-    "oldPrice": 8.0,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830040000000_PL_P",
+    "name": "K-Stąd Takie Dobre (Ser Gouda)",
+    "oldPrice": 29.89,
+    "newPrice": 15.99,
+    "discountPct": 46,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00144919_308",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polski seler (korzeń, luzem)",
-    "oldPrice": 4.79,
-    "newPrice": 3.49,
-    "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830060000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Granat",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049718000724_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska cebula żółta",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903111860080_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mango",
-    "oldPrice": 5.99,
-    "newPrice": 4.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/25008586_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska kapusta biała (luzem)",
-    "oldPrice": 2.99,
-    "newPrice": 1.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700075_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska marchew (luzem)",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700082a-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie gruszki Konferencja",
-    "oldPrice": 7.99,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2835900000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska włoszczyzna",
-    "oldPrice": 7.99,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904730257008_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Śliwki (luzem)",
+    "name": "Winogrona ciemne",
     "oldPrice": 9.99,
     "newPrice": 5.99,
     "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700069aa_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830020000000_PL_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kaki",
-    "oldPrice": 14.99,
-    "newPrice": 9.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00142785_0-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Ananas XL",
-    "oldPrice": 14.99,
-    "newPrice": 7.99,
-    "discountPct": 46,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8718868968081_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Jaja ściółkowe)",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20097307",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Borówki amerykańskie",
-    "oldPrice": 8.99,
-    "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4260152137290_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski kalafior",
-    "oldPrice": 7.99,
-    "newPrice": 3.99,
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 17.99,
+    "newPrice": 8.99,
     "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700076",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Angela (Wkład parafinowy)",
+    "name": "Wysoka Grzęda (Jaja BIO)",
     "oldPrice": null,
-    "newPrice": 5.99,
+    "newPrice": 19.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00058047_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20783894_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8256,7 +8136,27 @@
     "oldPrice": null,
     "newPrice": 1.79,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20872443_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20872443_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Wkład filtrujący Classic\npoprawia jakość wody)",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950929213_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Wkład filtrujący Unimax)",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950925680_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8307,26 +8207,6 @@
     "newPrice": 39.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00131748_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Wkład filtrujący Classic\npoprawia jakość wody)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950929213_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Wkład filtrujący Unimax)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900950925680_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   }
 ]
