@@ -1,6 +1,16 @@
 [
   {
     "store": "Lidl",
+    "category": "Elektronarzędzia",
+    "name": "PARKSIDE® Kompresor pionowy PVKO 50 D4",
+    "oldPrice": 599.0,
+    "newPrice": 499.0,
+    "discountPct": 16,
+    "image": "https://www.lidl.pl/assets/gcpfda7ff4e8ba8479e8c82fe35b548dc94.jpg",
+    "url": "https://www.lidl.pl/p/parkside-kompresor-pionowy-pvko-50-d4/p100411309"
+  },
+  {
+    "store": "Lidl",
     "category": "Fitness",
     "name": "CRIVIT Spodnie dresowe męskie",
     "oldPrice": 39.99,
@@ -102,32 +112,22 @@
   {
     "store": "Lidl",
     "category": "Zabawki",
+    "name": "SIMBA Pluszak maskotka Disney Król Lew",
+    "oldPrice": 50.29,
+    "newPrice": 29.99,
+    "discountPct": 40,
+    "image": "https://www.lidl.pl/assets/gcp847264fbe8444f11a1978d599a2943c2.jpeg",
+    "url": "https://www.lidl.pl/p/simba-pluszak-maskotka-disney-krol-lew/p100376336"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawki",
     "name": "LUPILU® Drewniane artykuły spożywcze do zabawy",
     "oldPrice": 34.99,
     "newPrice": 29.99,
     "discountPct": 14,
     "image": "https://www.lidl.pl/assets/gcp06c3f31993644ff4bc2d713f26cdff2e.jpg",
     "url": "https://www.lidl.pl/p/lupilu-drewniane-artykuly-spozywcze-do-zabawy/p100410923"
-  },
-  {
-    "store": "Lidl",
-    "category": "Rower",
-    "name": "CRIVIT Kask rowerowy",
-    "oldPrice": 69.99,
-    "newPrice": 59.99,
-    "discountPct": 14,
-    "image": "https://www.lidl.pl/assets/gcp14f04c277c4b434d8e03785a909b5291.jpg",
-    "url": "https://www.lidl.pl/p/crivit-kask-rowerowy/p100400330"
-  },
-  {
-    "store": "Lidl",
-    "category": "Narzędzia akumulatorowe",
-    "name": "PARKSIDE® Akumulatorowa młotowiertarka 20 V, PABH 20-Li D4 (bez akumulatora i ładowarki)",
-    "oldPrice": 179.0,
-    "newPrice": 119.0,
-    "discountPct": 33,
-    "image": "https://www.lidl.pl/assets/gcp19931ba423ff48e8a9f3d312a970b20d.jpg",
-    "url": "https://www.lidl.pl/p/parkside-akumulatorowa-mlotowiertarka-20-v-pabh-20-li-d4-bez-akumulatora-i-ladowarki/p100407831"
   },
   {
     "store": "Lidl",
@@ -138,6 +138,16 @@
     "discountPct": 21,
     "image": "https://www.lidl.pl/assets/gcpd7250a68b0074533a365f201b7bcc42a.jpg",
     "url": "https://www.lidl.pl/p/lupilu-kurtka-przeciwdeszczowa-dziecieca/p100408733"
+  },
+  {
+    "store": "Lidl",
+    "category": "Rower",
+    "name": "CRIVIT Kask rowerowy",
+    "oldPrice": 69.99,
+    "newPrice": 59.99,
+    "discountPct": 14,
+    "image": "https://www.lidl.pl/assets/gcp14f04c277c4b434d8e03785a909b5291.jpg",
+    "url": "https://www.lidl.pl/p/crivit-kask-rowerowy/p100400330"
   },
   {
     "store": "Lidl",
@@ -181,33 +191,33 @@
   },
   {
     "store": "Lidl",
-    "category": "Kemping i outdoor",
-    "name": "CRIVIT Bluza damska z polaru (Czarny, S(36/38))",
-    "oldPrice": 37.99,
-    "newPrice": 26.99,
-    "discountPct": 28,
-    "image": "https://www.lidl.pl/assets/gcp96b3217bac5243b983270de35fdcc662.jpg",
-    "url": "https://www.lidl.pl/p/crivit-bluza-damska-z-polaru/p100399064002"
-  },
-  {
-    "store": "Lidl",
     "category": "Gotowanie i pieczenie",
-    "name": "SILVERCREST® Silikonowa forma do frytkownicy beztłuszczowej",
+    "name": "SILVERCREST® Silikonowa forma do frytkownicy Air Fryer",
     "oldPrice": 12.99,
     "newPrice": 11.49,
     "discountPct": 11,
     "image": "https://www.lidl.pl/assets/gcpaf66bd5e428f453da67cc31ab28e9035.png",
-    "url": "https://www.lidl.pl/p/silvercrest-silikonowa-forma-do-frytkownicy-beztluszczowej/p100408310"
+    "url": "https://www.lidl.pl/p/silvercrest-silikonowa-forma-do-frytkownicy-air-fryer/p100408310"
   },
   {
     "store": "Lidl",
     "category": "Zabawki",
-    "name": "LUPILU® Zabawka drewniana z zestawem akcesoriów",
+    "name": "LUPILU® Zabawka drewniana z zestawem akcesoriów (Zestaw śniadaniowy)",
     "oldPrice": 44.99,
     "newPrice": 34.99,
     "discountPct": 22,
-    "image": "https://www.lidl.pl/assets/gcp3e7effeee8f94216b1c50fd0e66f26b3.jpg",
-    "url": "https://www.lidl.pl/p/lupilu-zabawka-drewniana-z-zestawem-akcesoriow/p100410520"
+    "image": "https://www.lidl.pl/assets/gcp36a1ba4635704b8eaf3537f926f48512.jpg",
+    "url": "https://www.lidl.pl/p/lupilu-zabawka-drewniana-z-zestawem-akcesoriow/p100410520002"
+  },
+  {
+    "store": "Lidl",
+    "category": "Odzież dziecięca 9-14 lat",
+    "name": "Piżama dziecięca Kuromi lub Hello Kitty",
+    "oldPrice": 27.99,
+    "newPrice": 24.99,
+    "discountPct": 10,
+    "image": "https://www.lidl.pl/assets/gcpa72c72f687d14569ae4cf8cc1d81c9ad.jpg",
+    "url": "https://www.lidl.pl/p/pizama-dziecieca-kuromi-lub-hello-kitty/p100412305"
   },
   {
     "store": "Lidl",
@@ -261,6 +271,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Odzież męska",
+    "name": "DIESEL Jeansy męskie z bawełną",
+    "oldPrice": 329.0,
+    "newPrice": 259.49,
+    "discountPct": 21,
+    "image": "https://www.lidl.pl/assets/gcp2b5ae5cd149342dd8cbf605788401f46.jpg",
+    "url": "https://www.lidl.pl/p/diesel-jeansy-meskie-z-bawelna/p100400976"
+  },
+  {
+    "store": "Lidl",
     "category": "Maszyna do szycia i akcesoria",
     "name": "SILVERCREST® Maszyna do szycia Carina, 70 W",
     "oldPrice": 599.0,
@@ -278,16 +298,6 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/6886b055776ba01c7766b54fd82493bf.jpeg",
     "url": "https://www.lidl.pl/p/beco-koldra-zimowa-duo-steppett-royal-soft-perfecta-regulacja-ciepla/p100301505002"
-  },
-  {
-    "store": "Lidl",
-    "category": "Zabawa i sporty zespołowe",
-    "name": "ADIDAS Męskie Szorty Entrada 26",
-    "oldPrice": 50.9,
-    "newPrice": 37.67,
-    "discountPct": 25,
-    "image": "https://www.lidl.pl/assets/gcp46eacbbe4089409ba2b42740400c02f6.png",
-    "url": "https://www.lidl.pl/p/adidas-meskie-szorty-entrada-26/p100412328"
   },
   {
     "store": "Lidl",
@@ -331,26 +341,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Elektronarzędzia",
-    "name": "PARKSIDE® Spawarka inwerterowa PISG 120 D5",
-    "oldPrice": 259.0,
-    "newPrice": 199.0,
-    "discountPct": 23,
-    "image": "https://www.lidl.pl/assets/gcp11bd6cc5a1b54caa9988e3aee707b2d4.jpg",
-    "url": "https://www.lidl.pl/p/parkside-spawarka-inwerterowa-pisg-120-d5/p100406163"
-  },
-  {
-    "store": "Lidl",
-    "category": "Dekoracja",
-    "name": "LIVARNO® Bombki choinkowe, zestaw 16 sztuk",
-    "oldPrice": 26.99,
-    "newPrice": 19.99,
-    "discountPct": 25,
-    "image": "https://www.lidl.pl/assets/gcp79927c7cdd034e6c81bfd05c1a7a1d13.jpg",
-    "url": "https://www.lidl.pl/p/livarno-bombki-choinkowe-zestaw-16-sztuk/p100413560"
-  },
-  {
-    "store": "Lidl",
     "category": "Bieganie",
     "name": "CRIVIT Legginsy funkcyjne damskie",
     "oldPrice": 33.99,
@@ -368,16 +358,6 @@
     "discountPct": 25,
     "image": "https://www.lidl.pl/assets/gcpdf7551d89dac495697290a5a98212ec2.jpg",
     "url": "https://www.lidl.pl/p/parkside-zestaw-kluczy-plasko-oczkowych-z-grzechotka/p100394470"
-  },
-  {
-    "store": "Lidl",
-    "category": "Urządzenia kuchenne",
-    "name": "SILVERCREST® Dwustrefowa frytkownica Air Fryer, 2 x 4,75 l, 2470 W",
-    "oldPrice": 449.0,
-    "newPrice": 399.0,
-    "discountPct": 11,
-    "image": "https://www.lidl.pl/assets/gcpf3ecb718c64343cb815432069bb1aa26.jpg",
-    "url": "https://www.lidl.pl/p/silvercrest-dwustrefowa-frytkownica-air-fryer-2-x-4-75-l-2470-w/p100405742"
   },
   {
     "store": "Lidl",
@@ -432,12 +412,12 @@
   {
     "store": "Lidl",
     "category": "Dekoracja",
-    "name": "LIVARNO® Skrzat dekoracyjny XXL (Czapka/biała)",
+    "name": "LIVARNO® Skrzat dekoracyjny XXL",
     "oldPrice": 39.99,
     "newPrice": 29.99,
     "discountPct": 25,
-    "image": "https://www.lidl.pl/assets/gcpefa545acea9f40ad869476adbdeb12e7.png",
-    "url": "https://www.lidl.pl/p/livarno-skrzat-dekoracyjny-xxl/p100411537001"
+    "image": "https://www.lidl.pl/assets/gcpaaf786ad3ec149baaa86d4877a8ef9e0.png",
+    "url": "https://www.lidl.pl/p/livarno-skrzat-dekoracyjny-xxl/p100411537"
   },
   {
     "store": "Lidl",
@@ -451,16 +431,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Zabawa i sporty zespołowe",
-    "name": "ADIDAS Męska kurtka treningowa Entrada 26",
-    "oldPrice": 117.99,
-    "newPrice": 98.0,
-    "discountPct": 16,
-    "image": "https://www.lidl.pl/assets/gcpb7d779185abf4dde88497c27a0e7cb9a.png",
-    "url": "https://www.lidl.pl/p/adidas-meska-kurtka-treningowa-entrada-26/p100412155"
-  },
-  {
-    "store": "Lidl",
     "category": "Moda damska",
     "name": "ESMARA® Sweter damski dzianinowy",
     "oldPrice": 50.9,
@@ -468,6 +438,16 @@
     "discountPct": 15,
     "image": "https://www.lidl.pl/assets/gcp0404115f7cc646eca2d6f7217f385bf3.jpg",
     "url": "https://www.lidl.pl/p/esmara-sweter-damski-dzianinowy/p100394320"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawa i sporty zespołowe",
+    "name": "ADIDAS Męska kurtka treningowa Entrada 26",
+    "oldPrice": 117.99,
+    "newPrice": 98.0,
+    "discountPct": 16,
+    "image": "https://www.lidl.pl/assets/gcpb7d779185abf4dde88497c27a0e7cb9a.png",
+    "url": "https://www.lidl.pl/p/adidas-meska-kurtka-treningowa-entrada-26/p100412155"
   },
   {
     "store": "Lidl",
@@ -568,16 +548,6 @@
     "discountPct": 8,
     "image": "https://www.lidl.pl/assets/gcpd0270ea8e833472eb611d72260c6c5f8.jpg",
     "url": "https://www.lidl.pl/p/dunlopillo-koldra-caloroczna-z-satynowa-poszewka/p100248774"
-  },
-  {
-    "store": "Lidl",
-    "category": "Sprzęt ogrodniczy i narzędzia ogrodnicze",
-    "name": "PARKSIDE® Akumulatorowa dmuchawa z funkcją ssania, 12 V",
-    "oldPrice": 99.0,
-    "newPrice": 69.0,
-    "discountPct": 30,
-    "image": "https://www.lidl.pl/assets/gcp745c8ada6292489f8fa7d80772cd6f97.jpg",
-    "url": "https://www.lidl.pl/p/parkside-akumulatorowa-dmuchawa-z-funkcja-ssania-12-v/p100413868"
   },
   {
     "store": "Lidl",
@@ -701,6 +671,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Narzędzia akumulatorowe",
+    "name": "PARKSIDE® Akumulatorowy klucz udarowy 20 V (bez akumulatora i ładowarki)",
+    "oldPrice": 179.0,
+    "newPrice": 99.0,
+    "discountPct": 44,
+    "image": "https://www.lidl.pl/assets/gcpa1fd2d928b704d2b82951676c7c723d4.png",
+    "url": "https://www.lidl.pl/p/parkside-akumulatorowy-klucz-udarowy-20-v-bez-akumulatora-i-ladowarki/p100391222"
+  },
+  {
+    "store": "Lidl",
     "category": "Sprzątanie domu",
     "name": "CLEANMAXX Urządzenie do czyszczenia tapicerki i dywanów",
     "oldPrice": 389.0,
@@ -722,12 +702,32 @@
   {
     "store": "Lidl",
     "category": "Gotowanie i pieczenie",
-    "name": "JAMIE OLIVER BY TEFAL Patelnia ze stali szlachetnej E3140634, ⌀ 28 cm",
+    "name": "JAMIE OLIVER BY TEFAL TEFAL JAMIE OLIVER Patelnia ze stali szlachetnej, ⌀ 28 cm",
     "oldPrice": 366.21,
     "newPrice": 156.0,
     "discountPct": 57,
     "image": "https://www.lidl.pl/assets/gcpdb7d8b70c49c41de826fa0328574bf95.jpg",
-    "url": "https://www.lidl.pl/p/jamie-oliver-by-tefal-patelnia-ze-stali-szlachetnej-e3140634-28-cm/p100396181"
+    "url": "https://www.lidl.pl/p/jamie-oliver-by-tefal-tefal-jamie-oliver-patelnia-ze-stali-szlachetnej-28-cm/p100396181"
+  },
+  {
+    "store": "Lidl",
+    "category": "Moda damska",
+    "name": "ESMARA® Sweter damski z dzianiny",
+    "oldPrice": 49.99,
+    "newPrice": 34.99,
+    "discountPct": 30,
+    "image": "https://www.lidl.pl/assets/gcp3a5a1f60c87649fbab64e02cfc4d2f46.jpg",
+    "url": "https://www.lidl.pl/p/esmara-sweter-damski-z-dzianiny/p100412923"
+  },
+  {
+    "store": "Lidl",
+    "category": "Narzędzia akumulatorowe",
+    "name": "PARKSIDE PERFORMANCE® Akumulatorowy laser krzyżowy 20 V Limited Edition PKLLP 3360 A1 (z akumulatorem i z ładowarką)",
+    "oldPrice": 499.0,
+    "newPrice": 379.0,
+    "discountPct": 24,
+    "image": "https://www.lidl.pl/assets/gcpbaad0335df874ef8bef5a899cba46a5b.jpg",
+    "url": "https://www.lidl.pl/p/parkside-performance-akumulatorowy-laser-krzyzowy-20-v-limited-edition-pkllp-3360-a1-z-akumulatorem-i-z-ladowarka/p100408971"
   },
   {
     "store": "Lidl",
@@ -831,6 +831,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Zabawki",
+    "name": "CASDON Zestaw do stylizacji włosów Dyson©",
+    "oldPrice": 80.54,
+    "newPrice": 72.27,
+    "discountPct": 10,
+    "image": "https://www.lidl.pl/assets/gcp22cbf7a2f7d9440880924c12b7052375.jpg",
+    "url": "https://www.lidl.pl/p/casdon-zestaw-do-stylizacji-wlosow-dyson/p100380821"
+  },
+  {
+    "store": "Lidl",
     "category": "Elektronarzędzia",
     "name": "PARKSIDE® Zestaw 20 V: Pilarka tarczowa z akumulatorem 2 Ah i ładowarką 2,4 A",
     "oldPrice": 283.1,
@@ -931,6 +941,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Fitness",
+    "name": "CRIVIT Zestaw ciężarów, 20 kg",
+    "oldPrice": 119.0,
+    "newPrice": 89.99,
+    "discountPct": 24,
+    "image": "https://www.lidl.pl/assets/gcpd9ff515e90684d888427001718b02c02.jpg",
+    "url": "https://www.lidl.pl/p/crivit-zestaw-ciezarow-20-kg/p100397730"
+  },
+  {
+    "store": "Lidl",
     "category": "Moda damska",
     "name": "ESMARA® Sweter damski",
     "oldPrice": 49.99,
@@ -938,6 +958,26 @@
     "discountPct": 14,
     "image": "https://www.lidl.pl/assets/gcp9fc46e9d16ee499894438717ffb03243.jpg",
     "url": "https://www.lidl.pl/p/esmara-sweter-damski/p100392895"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawki",
+    "name": "LUPILU® Drewniane piec do pizzy lub magiczny garnek",
+    "oldPrice": 99.99,
+    "newPrice": 79.99,
+    "discountPct": 20,
+    "image": "https://www.lidl.pl/assets/gcp652aa1e1cd8e47748e3f9a478287d20d.jpg",
+    "url": "https://www.lidl.pl/p/lupilu-drewniane-piec-do-pizzy-lub-magiczny-garnek/p100414070"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawa i sporty zespołowe",
+    "name": "ADIDAS Męskie spodnie treningowe",
+    "oldPrice": 108.04,
+    "newPrice": 96.26,
+    "discountPct": 10,
+    "image": "https://www.lidl.pl/assets/gcp7d8efbb853154f66b132957c6f697a04.png",
+    "url": "https://www.lidl.pl/p/adidas-meskie-spodnie-treningowe/p100412184"
   },
   {
     "store": "Lidl",
@@ -971,16 +1011,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Zabawki",
-    "name": "LUPILU® Drewniane piec do pizzy lub magiczny garnek",
-    "oldPrice": 99.99,
-    "newPrice": 79.99,
-    "discountPct": 20,
-    "image": "https://www.lidl.pl/assets/gcp652aa1e1cd8e47748e3f9a478287d20d.jpg",
-    "url": "https://www.lidl.pl/p/lupilu-drewniane-piec-do-pizzy-lub-magiczny-garnek/p100414070"
-  },
-  {
-    "store": "Lidl",
     "category": "Moda damska",
     "name": "ESMARA® Damski kardigan pluszowy",
     "oldPrice": 59.9,
@@ -991,16 +1021,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Zabawa i sporty zespołowe",
-    "name": "ADIDAS Męskie spodnie treningowe",
-    "oldPrice": 108.04,
-    "newPrice": 96.26,
-    "discountPct": 10,
-    "image": "https://www.lidl.pl/assets/gcp7d8efbb853154f66b132957c6f697a04.png",
-    "url": "https://www.lidl.pl/p/adidas-meskie-spodnie-treningowe/p100412184"
-  },
-  {
-    "store": "Lidl",
     "category": "Przedpokój i magazyn",
     "name": "HJH LIVING Komoda SANTJAGO WOOD z litego drewna brązowa",
     "oldPrice": 909.0,
@@ -1008,36 +1028,6 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/gcp32795528914141aca0108c02c2025e08.jpg",
     "url": "https://www.lidl.pl/p/hjh-living-komoda-santjago-wood-z-litego-drewna-brazowa/p100397516"
-  },
-  {
-    "store": "Lidl",
-    "category": "Fitness",
-    "name": "CRIVIT Hantel, 4 kg",
-    "oldPrice": 48.99,
-    "newPrice": 34.99,
-    "discountPct": 28,
-    "image": "https://www.lidl.pl/assets/gcp59644b6aac6e4dd3a5d7a1aaadc033fc.jpg",
-    "url": "https://www.lidl.pl/p/crivit-hantel-4-kg/p100397489"
-  },
-  {
-    "store": "Lidl",
-    "category": "Zabawa i sporty zespołowe",
-    "name": "ADIDAS Samba",
-    "oldPrice": 384.0,
-    "newPrice": 335.87,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcpd243cc2d94f147c9810330aae54eca12.jpg",
-    "url": "https://www.lidl.pl/p/adidas-samba/p100408613"
-  },
-  {
-    "store": "Lidl",
-    "category": "Dekoracja",
-    "name": "LIVARNO® Girlanda lub wieniec świąteczny (Wianek z twardych igieł)",
-    "oldPrice": 99.99,
-    "newPrice": 69.99,
-    "discountPct": 30,
-    "image": "https://www.lidl.pl/assets/gcp5b2849777e584c51b444e8e47ee3a5e7.png",
-    "url": "https://www.lidl.pl/p/livarno-girlanda-lub-wieniec-swiateczny/p100412984002"
   },
   {
     "store": "Lidl",
@@ -1081,6 +1071,26 @@
   },
   {
     "store": "Lidl",
+    "category": "Zabawa i sporty zespołowe",
+    "name": "EXIT Bramka EXIT Tempo (240 x 160cm)",
+    "oldPrice": 578.0,
+    "newPrice": 497.99,
+    "discountPct": 13,
+    "image": "https://www.lidl.pl/assets/gcp90ac5022af994bd29733c23793c5f482.jpg",
+    "url": "https://www.lidl.pl/p/exit-bramka-exit-tempo/p100270766002"
+  },
+  {
+    "store": "Lidl",
+    "category": "Budowa i renowacja",
+    "name": "PARKSIDE® Pistolet do kartuszy",
+    "oldPrice": 22.99,
+    "newPrice": 19.99,
+    "discountPct": 13,
+    "image": "https://www.lidl.pl/assets/gcp3f404126776c48d99f925ce6e8303200.jpg",
+    "url": "https://www.lidl.pl/p/parkside-pistolet-do-kartuszy/p100406619"
+  },
+  {
+    "store": "Lidl",
     "category": "Multimedia i technologia",
     "name": "GRUNDIG Grundig odkurzacz ręczny »VCH 9932«, czas pracy 75 min, technologia cyklonowa.",
     "oldPrice": 549.0,
@@ -1088,6 +1098,16 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/9a6493c7c07e77101e84c8b135df5932.jpeg",
     "url": "https://www.lidl.pl/p/grundig-grundig-odkurzacz-reczny-vch-9932-czas-pracy-75-min-technologia-cyklonowa/p100276385"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawki",
+    "name": "LUPILU® Drzewko edukacyjne lub Stolik edukacyjny z drewnianymi elementami (Drzewo umiejętności motorycznych)",
+    "oldPrice": 199.0,
+    "newPrice": 99.0,
+    "discountPct": 50,
+    "image": "https://www.lidl.pl/assets/gcp04c10fe5083544779f5c1990bbe03283.png",
+    "url": "https://www.lidl.pl/p/lupilu-drzewko-edukacyjne-lub-stolik-edukacyjny-z-drewnianymi-elementami/p100412257001"
   },
   {
     "store": "Lidl",
@@ -1101,6 +1121,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Gotowanie i pieczenie",
+    "name": "JAMIE OLIVER BY TEFAL Patelnia ze stali szlachetnej z kolekcji Jamie Olivera, Ø 24 cm",
+    "oldPrice": 167.43,
+    "newPrice": 110.48,
+    "discountPct": 34,
+    "image": "https://www.lidl.pl/assets/gcp4eacc8d2fa824f499db4c4f455d8beca.jpeg",
+    "url": "https://www.lidl.pl/p/jamie-oliver-by-tefal-patelnia-ze-stali-szlachetnej-z-kolekcji-jamie-olivera-o-24-cm/p100353563"
+  },
+  {
+    "store": "Lidl",
     "category": "Walizki i akcesoria podróżne",
     "name": "TOPMOVE® Walizka, twarda, L, 77/87,5 L, rozszerzalna.",
     "oldPrice": 329.0,
@@ -1108,16 +1138,6 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/gcp893f95c8ffb54a089c27ba70c429599d.jpeg",
     "url": "https://www.lidl.pl/p/topmove-walizka-twarda-l-77-87-5-l-rozszerzalna/p100372240"
-  },
-  {
-    "store": "Lidl",
-    "category": "Budowa i renowacja",
-    "name": "HOME DELUXE Płytki WPC imitujące drewno",
-    "oldPrice": 319.0,
-    "newPrice": 175.0,
-    "discountPct": 45,
-    "image": "https://www.lidl.pl/assets/gcpa37dca7b59fa4efab14a1eb0238f437b.jpg",
-    "url": "https://www.lidl.pl/p/home-deluxe-plytki-wpc-imitujace-drewno/p100397776"
   },
   {
     "store": "Lidl",
@@ -1131,6 +1151,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Moda damska",
+    "name": "HELLO BY SLOGGI Majtki damskie, 3 pary",
+    "oldPrice": 50.48,
+    "newPrice": 45.0,
+    "discountPct": 10,
+    "image": "https://www.lidl.pl/assets/gcp8cbca1c6dcfa4564af53670cc3d57c05.jpg",
+    "url": "https://www.lidl.pl/p/hello-by-sloggi-majtki-damskie-3-pary/p100407723"
+  },
+  {
+    "store": "Lidl",
     "category": "Dekoracja",
     "name": "DISNEY Zestaw 8 bombek świątecznych",
     "oldPrice": 40.49,
@@ -1138,16 +1168,6 @@
     "discountPct": 25,
     "image": "https://www.lidl.pl/assets/gcp52e0af3691be4b9e99dc241f71221911.jpeg",
     "url": "https://www.lidl.pl/p/disney-zestaw-8-bombek-swiatecznych/p100368585"
-  },
-  {
-    "store": "Lidl",
-    "category": "Zabawa i sporty zespołowe",
-    "name": "EXIT Bramka EXIT Tempo (240 x 160cm)",
-    "oldPrice": 578.0,
-    "newPrice": 497.99,
-    "discountPct": 13,
-    "image": "https://www.lidl.pl/assets/gcp90ac5022af994bd29733c23793c5f482.jpg",
-    "url": "https://www.lidl.pl/p/exit-bramka-exit-tempo/p100270766002"
   },
   {
     "store": "Lidl",
@@ -1168,16 +1188,6 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/gcp2623a0b29d6645709dd1034f9df42e7b.jpg",
     "url": "https://www.lidl.pl/p/pkm-zmywarka-nablatowa-gsp3-7l-3-komplety-naczyn/p100382426"
-  },
-  {
-    "store": "Lidl",
-    "category": "Budowa i renowacja",
-    "name": "PARKSIDE® Pistolet do kartuszy",
-    "oldPrice": 22.99,
-    "newPrice": 19.99,
-    "discountPct": 13,
-    "image": "https://www.lidl.pl/assets/gcp3f404126776c48d99f925ce6e8303200.jpg",
-    "url": "https://www.lidl.pl/p/parkside-pistolet-do-kartuszy/p100406619"
   },
   {
     "store": "Lidl",
@@ -1231,6 +1241,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Warsztat i sprzęt",
+    "name": "QBRICK SYSTEM Pojemnik do przechowywania małych elementów PRO Organizer Multi",
+    "oldPrice": 28.99,
+    "newPrice": 17.99,
+    "discountPct": 37,
+    "image": "https://www.lidl.pl/assets/gcpa0d6789f1f8b482aafddc4e015bf852d.jpg",
+    "url": "https://www.lidl.pl/p/qbrick-system-pojemnik-do-przechowywania-malych-elementow-pro-organizer-multi/p100350515"
+  },
+  {
+    "store": "Lidl",
     "category": "Oświetlenie",
     "name": "LIVARNO HOME Lampa sufitowa LED z efektem 3D (Kwadrat)",
     "oldPrice": 249.0,
@@ -1278,6 +1298,16 @@
     "discountPct": 52,
     "image": "https://www.lidl.pl/assets/gcp4118ddddbc1b4a6abc25aeefaada77a1.jpg",
     "url": "https://www.lidl.pl/p/coox-silikonowa-forma-do-pieczenia-z-dnem-technicznym-kwiat/p100395407"
+  },
+  {
+    "store": "Lidl",
+    "category": "Oświetlenie",
+    "name": "LIVARNO® Akumulatorowa lampa podszafkowa",
+    "oldPrice": 44.99,
+    "newPrice": 26.99,
+    "discountPct": 40,
+    "image": "https://www.lidl.pl/assets/gcpa1da3f2e464d4b1db297db48eac98148.jpg",
+    "url": "https://www.lidl.pl/p/livarno-akumulatorowa-lampa-podszafkowa/p100398045"
   },
   {
     "store": "Lidl",
@@ -1332,6 +1362,16 @@
   {
     "store": "Lidl",
     "category": "Ogród i balkon",
+    "name": "LIVARNO HOME Wielofunkcyjny ogrodowy zestaw wypoczynkowy, 5 elementów, jasnoszary",
+    "oldPrice": 2599.0,
+    "newPrice": 2399.0,
+    "discountPct": 7,
+    "image": "https://www.lidl.pl/assets/gcp291783deb98c46efb955b7e50d694d94.jpeg",
+    "url": "https://www.lidl.pl/p/livarno-home-wielofunkcyjny-ogrodowy-zestaw-wypoczynkowy-5-elementow-jasnoszary/p100344640"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ogród i balkon",
     "name": "LIVARNO HOME Hamak z ramą",
     "oldPrice": 229.0,
     "newPrice": 209.0,
@@ -1358,16 +1398,6 @@
     "discountPct": 8,
     "image": "https://www.lidl.pl/assets/gcpa02e3eca2a6b4dca88a8570da5ed26c5.jpeg",
     "url": "https://www.lidl.pl/p/obb-puchowa-koldra-kasetowa-premium-elegance-medium/p100344878"
-  },
-  {
-    "store": "Lidl",
-    "category": "Sprzątanie domu",
-    "name": "ECOVACS Robot odkurzająco-mopujący DEEBOT T50 OMNI",
-    "oldPrice": 1499.0,
-    "newPrice": 1399.0,
-    "discountPct": 6,
-    "image": "https://www.lidl.pl/assets/gcpa4d43432008f423b9684ca45e66f5b56.jpg",
-    "url": "https://www.lidl.pl/p/ecovacs-robot-odkurzajaco-mopujacy-deebot-t50-omni/p100407642"
   },
   {
     "store": "Lidl",
@@ -1581,6 +1611,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Pokój dzienny",
+    "name": "LIVARNO® Koc, 140 x 180 cm.",
+    "oldPrice": 54.99,
+    "newPrice": 44.99,
+    "discountPct": 18,
+    "image": "https://www.lidl.pl/assets/gcp60ccb606b3344df08135850ab50d1a4d.png",
+    "url": "https://www.lidl.pl/p/livarno-koc-140-x-180-cm/p100413294"
+  },
+  {
+    "store": "Lidl",
     "category": "Sprzątanie domu",
     "name": "BISSELL Odkurzacz i parownica, 1600 W",
     "oldPrice": 949.0,
@@ -1638,16 +1678,6 @@
     "discountPct": 42,
     "image": "https://www.lidl.pl/assets/gcp0057b7f0cbbf47b0a6282e4f4639ec43.png",
     "url": "https://www.lidl.pl/p/sanitas-cyfrowe-urzadzenie-do-elektrostymulacji-sem-46/p100413017"
-  },
-  {
-    "store": "Lidl",
-    "category": "Sypialnia",
-    "name": "ROBA roba kompletny zestaw łóżeczkowy (biała)",
-    "oldPrice": 969.0,
-    "newPrice": 889.0,
-    "discountPct": 8,
-    "image": "https://www.lidl.pl/assets/bc39b2bd0c5d238923ce8f815906e7a5.jpeg",
-    "url": "https://www.lidl.pl/p/roba-roba-kompletny-zestaw-lozeczkowy/p100274520001"
   },
   {
     "store": "Lidl",
@@ -1821,6 +1851,16 @@
   },
   {
     "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z mikrowłókna feinbiber, 140 x 200 cm",
+    "oldPrice": 49.99,
+    "newPrice": 39.99,
+    "discountPct": 20,
+    "image": "https://www.lidl.pl/assets/gcpcd96fd88020c4c349707b8231ff91760.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-mikrowlokna-feinbiber-140-x-200-cm/p100413707"
+  },
+  {
+    "store": "Lidl",
     "category": "Fitness",
     "name": "CRIVIT Szorty funkcyjne męskie",
     "oldPrice": 33.99,
@@ -1831,13 +1871,23 @@
   },
   {
     "store": "Lidl",
-    "category": "Urządzenia kuchenne",
-    "name": "KLEIN Ekspres do kawy Barista",
-    "oldPrice": 44.99,
-    "newPrice": 40.48,
-    "discountPct": 10,
-    "image": "https://www.lidl.pl/assets/gcp7909541b68fc4201aafe4a9c5b0cacbf.jpg",
-    "url": "https://www.lidl.pl/p/klein-ekspres-do-kawy-barista/p100394926"
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z bawełny renforce, 140 x 200 cm",
+    "oldPrice": 54.99,
+    "newPrice": 44.99,
+    "discountPct": 18,
+    "image": "https://www.lidl.pl/assets/gcpc32ac9442a13464c902ba025ae5c921e.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-bawelny-renforce-140-x-200-cm/p100413130"
+  },
+  {
+    "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z delikatnej flaneli, 140 x 200 cm",
+    "oldPrice": 60.0,
+    "newPrice": 42.0,
+    "discountPct": 30,
+    "image": "https://www.lidl.pl/assets/gcp35a1c111a36945868d0aa20989ba9fca.jpg",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-delikatnej-flaneli-140-x-200-cm/p100413724"
   },
   {
     "store": "Lidl",
@@ -1848,26 +1898,6 @@
     "discountPct": 5,
     "image": "https://www.lidl.pl/assets/gcp2724ef61d8374b92931ad581f397d4be.jpeg",
     "url": "https://www.lidl.pl/p/livarno-home-krzeslo-obrotowe-z-regulowanym-oparciem/p100342925"
-  },
-  {
-    "store": "Lidl",
-    "category": "Ogród i balkon",
-    "name": "LIVARNO HOME Wielofunkcyjny ogrodowy zestaw wypoczynkowy, 5 elementów, jasnoszary",
-    "oldPrice": 2599.0,
-    "newPrice": 2399.0,
-    "discountPct": 7,
-    "image": "https://www.lidl.pl/assets/gcp291783deb98c46efb955b7e50d694d94.jpeg",
-    "url": "https://www.lidl.pl/p/livarno-home-wielofunkcyjny-ogrodowy-zestaw-wypoczynkowy-5-elementow-jasnoszary/p100344640"
-  },
-  {
-    "store": "Lidl",
-    "category": "Rower",
-    "name": "ZÜNDAPP X600 E-City Bosch Mittelmotor (Szary/żółty)",
-    "oldPrice": 14049.0,
-    "newPrice": 11981.0,
-    "discountPct": 14,
-    "image": "https://www.lidl.pl/assets/gcp7bc45680a354433099dcedd5ae7ed39b.jpg",
-    "url": "https://www.lidl.pl/p/zundapp-x600-e-city-bosch-mittelmotor/p100395685001"
   },
   {
     "store": "Lidl",
@@ -1901,16 +1931,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Dekoracja",
-    "name": "LIVARNO® Skrzat z podświetleniem LED",
-    "oldPrice": 34.99,
-    "newPrice": 24.99,
-    "discountPct": 28,
-    "image": "https://www.lidl.pl/assets/gcp4754e83acad34015a010c05237a0bd05.png",
-    "url": "https://www.lidl.pl/p/livarno-skrzat-z-podswietleniem-led/p100412381"
-  },
-  {
-    "store": "Lidl",
     "category": "Pokój dla niemowląt i dzieci",
     "name": "ROBA Warkocz do łóżeczka",
     "oldPrice": 194.0,
@@ -1931,6 +1951,26 @@
   },
   {
     "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z delikatnej flaneli, 220 x 200 cm",
+    "oldPrice": 99.0,
+    "newPrice": 69.0,
+    "discountPct": 30,
+    "image": "https://www.lidl.pl/assets/gcp4a70d3221a80490d87ce580d7529074e.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-delikatnej-flaneli-220-x-200-cm/p100413075"
+  },
+  {
+    "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z delikatnej flaneli, 160 x 200 cm",
+    "oldPrice": 75.0,
+    "newPrice": 52.0,
+    "discountPct": 30,
+    "image": "https://www.lidl.pl/assets/gcpde1a14dc3bbf4aad8d1c7515a22647b2.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-delikatnej-flaneli-160-x-200-cm/p100413077"
+  },
+  {
+    "store": "Lidl",
     "category": "Zabawki",
     "name": "BARBIE Lalka Cutie Reveal Sweet Bows",
     "oldPrice": 129.0,
@@ -1941,6 +1981,26 @@
   },
   {
     "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z mikrowłókna feinbiber, 160 x 200 cm",
+    "oldPrice": 59.99,
+    "newPrice": 49.99,
+    "discountPct": 16,
+    "image": "https://www.lidl.pl/assets/gcp50e5a74bd1034847adcb2bc0b05497b2.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-mikrowlokna-feinbiber-160-x-200-cm/p100413491"
+  },
+  {
+    "store": "Lidl",
+    "category": "Sypialnia",
+    "name": "LIVARNO® Pościel z mikrowłókna feinbiber, 220 x 200 cm",
+    "oldPrice": 79.99,
+    "newPrice": 69.99,
+    "discountPct": 12,
+    "image": "https://www.lidl.pl/assets/gcpd9189809322941b982819f6bd080d2ac.png",
+    "url": "https://www.lidl.pl/p/livarno-posciel-z-mikrowlokna-feinbiber-220-x-200-cm/p100413600"
+  },
+  {
+    "store": "Lidl",
     "category": "Sprzęt dla niemowląt i dzieci",
     "name": "ROBA Krzesełko do karmienia schodkowe Sit Up Flex",
     "oldPrice": 249.0,
@@ -1948,16 +2008,6 @@
     "discountPct": 12,
     "image": "https://www.lidl.pl/assets/gcp294e83427cad49d68fadfdcc35b1a909.jpg",
     "url": "https://www.lidl.pl/p/roba-krzeselko-do-karmienia-schodkowe-sit-up-flex/p100414260"
-  },
-  {
-    "store": "Lidl",
-    "category": "Sprzęt dla niemowląt i dzieci",
-    "name": "BAYER DESIGN Zestaw ze spacerówką dla lalek",
-    "oldPrice": 174.6,
-    "newPrice": 149.99,
-    "discountPct": 14,
-    "image": "https://www.lidl.pl/assets/gcp1298de41484f47389b5717581a967751.jpg",
-    "url": "https://www.lidl.pl/p/bayer-design-zestaw-ze-spacerowka-dla-lalek/p100414305"
   },
   {
     "store": "Lidl",
@@ -2018,16 +2068,6 @@
     "discountPct": 5,
     "image": "https://www.lidl.pl/assets/gcp2a09463e06cf45afb4722f08a632fd30.png",
     "url": "https://www.lidl.pl/p/singer-prasa-parowa/p100411892"
-  },
-  {
-    "store": "Lidl",
-    "category": "Odzież męska",
-    "name": "JACK & JONES T-shirt męski (Czarny, M)",
-    "oldPrice": 35.99,
-    "newPrice": 31.34,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcp350b30515e2a47a5a51e74793d94709e.jpg",
-    "url": "https://www.lidl.pl/p/jack-jones-t-shirt-meski/p100409351001"
   },
   {
     "store": "Lidl",
@@ -2291,16 +2331,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Elektronarzędzia",
-    "name": "GÜDE Elektrowyciągarka linowa, 1200 / 12 Volt.",
-    "oldPrice": 442.85,
-    "newPrice": 399.0,
-    "discountPct": 9,
-    "image": "https://www.lidl.pl/assets/gcpd466ef4bff31418bbc579e6fb8b392dc.jpeg",
-    "url": "https://www.lidl.pl/p/gude-elektrowyciagarka-linowa-1200-12-volt/p100366703"
-  },
-  {
-    "store": "Lidl",
     "category": "Kwiaty, rośliny i akcesoria do roślin",
     "name": "DOBAR Podwyższona grządka na kółkach Rollfi, z włókniną do roślin, sosna, brązowa",
     "oldPrice": 319.0,
@@ -2371,16 +2401,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Pokój dla niemowląt i dzieci",
-    "name": "ROBA Łóżeczko dziecięce multifunkcyjne „Lilo”, 70x140 cm.",
-    "oldPrice": 789.0,
-    "newPrice": 719.0,
-    "discountPct": 8,
-    "image": "https://www.lidl.pl/assets/gcp4c0810e1121743daa1ffb7de567d25c3.jpg",
-    "url": "https://www.lidl.pl/p/roba-lozeczko-dzieciece-multifunkcyjne-lilo-70x140-cm/p100397040"
-  },
-  {
-    "store": "Lidl",
     "category": "Pokój dzienny",
     "name": "LIVARNO® Modułowy element narożny sofy Vacumo, lewy",
     "oldPrice": 619.0,
@@ -2408,6 +2428,16 @@
     "discountPct": 9,
     "image": "https://www.lidl.pl/assets/gcp69083c0b09094e32b24bd68f838f9907.png",
     "url": "https://www.lidl.pl/p/livarno-modul-naroznik-kanapy-vacumo-prawy-bezowy/p100412513"
+  },
+  {
+    "store": "Lidl",
+    "category": "Sprzęt dla niemowląt i dzieci",
+    "name": "SANITAS Aspirator do nosa SNA 15",
+    "oldPrice": 56.9,
+    "newPrice": 41.99,
+    "discountPct": 26,
+    "image": "https://www.lidl.pl/assets/gcp23fcb602b82a4c52a94962e36446d5be.jpg",
+    "url": "https://www.lidl.pl/p/sanitas-aspirator-do-nosa-sna-15/p100408650"
   },
   {
     "store": "Lidl",
@@ -2451,16 +2481,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Sprzęt dla niemowląt i dzieci",
-    "name": "SANITAS Aspirator do nosa SNA 15",
-    "oldPrice": 56.9,
-    "newPrice": 41.99,
-    "discountPct": 26,
-    "image": "https://www.lidl.pl/assets/gcp23fcb602b82a4c52a94962e36446d5be.jpg",
-    "url": "https://www.lidl.pl/p/sanitas-aspirator-do-nosa-sna-15/p100408650"
-  },
-  {
-    "store": "Lidl",
     "category": "Walizki i akcesoria podróżne",
     "name": "TOPMOVE® Walizka podróżna na kółkach, twarda, 30/35 l",
     "oldPrice": 229.0,
@@ -2468,16 +2488,6 @@
     "discountPct": 8,
     "image": "https://www.lidl.pl/assets/gcp115625fbb17748eab0a5413490b1acfb.jpg",
     "url": "https://www.lidl.pl/p/topmove-walizka-podrozna-na-kolkach-twarda-30-35-l/p100386620"
-  },
-  {
-    "store": "Lidl",
-    "category": "Zabawki",
-    "name": "SCHLEICH HORSE CLUB Boks dla konia Tori Princess",
-    "oldPrice": 96.28,
-    "newPrice": 84.48,
-    "discountPct": 12,
-    "image": "https://www.lidl.pl/assets/gcp4bc4c3de4688431f96347e0f95765c21.jpg",
-    "url": "https://www.lidl.pl/p/schleich-horse-club-boks-dla-konia-tori-princess/p100392201"
   },
   {
     "store": "Lidl",
@@ -2951,16 +2961,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Sprzęt ogrodniczy i narzędzia ogrodnicze",
-    "name": "GARDENA Akumulatorowy trymer \"EasyCut 23/18V Power For All\", 18 V",
-    "oldPrice": 549.0,
-    "newPrice": 492.07,
-    "discountPct": 10,
-    "image": "https://www.lidl.pl/assets/gcp20b029d0ec8643b093e79b30b229e6a3.jpeg",
-    "url": "https://www.lidl.pl/p/gardena-akumulatorowy-trymer-easycut-23-18v-power-for-all-18-v/p100347920"
-  },
-  {
-    "store": "Lidl",
     "category": "Sypialnia",
     "name": "LIVARNO® Topper na materac z pianki żelowej, 180 x 200 cm",
     "oldPrice": 459.0,
@@ -2971,13 +2971,13 @@
   },
   {
     "store": "Lidl",
-    "category": "Ogród i balkon",
-    "name": "GREEMOTION Zestaw mebli ogrodowych »Toulouse«",
-    "oldPrice": null,
-    "newPrice": 1799.0,
-    "discountPct": null,
-    "image": "https://www.lidl.pl/assets/gcp7832f3769a72451eb62bd04814850942.jpg",
-    "url": "https://www.lidl.pl/p/greemotion-zestaw-mebli-ogrodowych-toulouse/p100399381"
+    "category": "Sprzęt ogrodniczy i narzędzia ogrodnicze",
+    "name": "GARDENA Akumulatorowy trymer \"EasyCut 23/18V Power For All\", 18 V",
+    "oldPrice": 549.0,
+    "newPrice": 492.07,
+    "discountPct": 10,
+    "image": "https://www.lidl.pl/assets/gcp20b029d0ec8643b093e79b30b229e6a3.jpeg",
+    "url": "https://www.lidl.pl/p/gardena-akumulatorowy-trymer-easycut-23-18v-power-for-all-18-v/p100347920"
   },
   {
     "store": "Lidl",
@@ -3048,16 +3048,6 @@
     "discountPct": 5,
     "image": "https://www.lidl.pl/assets/gcp2622b6976d454101a0524205ab592bb2.jpg",
     "url": "https://www.lidl.pl/p/tambu-namiot-trekkingowy-2-osobowy-szaro-niebieski/p100385394"
-  },
-  {
-    "store": "Lidl",
-    "category": "Szkoła i kreatywność",
-    "name": "SMOBY Stół kreatywny dziecięcy do rysowania",
-    "oldPrice": 266.45,
-    "newPrice": 239.38,
-    "discountPct": 10,
-    "image": "https://www.lidl.pl/assets/gcp4e1b43854fc540faa50546b203b54369.jpg",
-    "url": "https://www.lidl.pl/p/smoby-stol-kreatywny-dzieciecy-do-rysowania/p100396152"
   },
   {
     "store": "Lidl",
@@ -3241,16 +3231,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Zabawki",
-    "name": "INFANTINO Zestaw zabawek edukacyjnych dla dzieci",
-    "oldPrice": 112.88,
-    "newPrice": 99.89,
-    "discountPct": 11,
-    "image": "https://www.lidl.pl/assets/gcpe1daadd0a1f54fe59d1619dd4ae42e5b.png",
-    "url": "https://www.lidl.pl/p/infantino-zestaw-zabawek-edukacyjnych-dla-dzieci/p100391711"
-  },
-  {
-    "store": "Lidl",
     "category": "Rower",
     "name": "HAUCK Przyczepka rowerowa 2w1 Dryk Duo",
     "oldPrice": 1699.0,
@@ -3278,5 +3258,15 @@
     "discountPct": 8,
     "image": "https://www.lidl.pl/assets/gcp95d65a96759e42618d32b485b268c48f.jpeg",
     "url": "https://www.lidl.pl/p/tambu-spiwor-mumia-tongi-750/p100374355"
+  },
+  {
+    "store": "Lidl",
+    "category": "Zabawki",
+    "name": "JURASSIC WORLD Materac dmuchany, 174 x 59 x 18 cm",
+    "oldPrice": 50.9,
+    "newPrice": 39.99,
+    "discountPct": 21,
+    "image": "https://www.lidl.pl/assets/gcpc6d88750be5045929549e26960dcb7ae.jpeg",
+    "url": "https://www.lidl.pl/p/jurassic-world-materac-dmuchany-174-x-59-x-18-cm/p100373693"
   }
 ]

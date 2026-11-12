@@ -2,6 +2,39 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
+    "name": "Pieczarki",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535299/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Ser żółty Gouda Światowid",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535299/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Schab wieprzowy bez kości pakowany próżniowo Kraina Mięs",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535296/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
     "name": "Kiełbasa żywiecka Kraina Wędlin",
     "oldPrice": null,
     "newPrice": 10.99,
@@ -35,100 +68,199 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Pieczarki polskie",
+    "name": "Lody Kinder Bueno",
     "oldPrice": null,
-    "newPrice": 4.99,
+    "newPrice": 21.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Mleko UHT Mleczna Dolina 3,2%",
+    "name": "Sernik z kremem brulee i jeżynami",
     "oldPrice": null,
-    "newPrice": 1.99,
+    "newPrice": 23.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Świeże podudzie z kurczaka",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Świeże udo z kurczaka",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Winogrona",
+    "name": "Skyr pitny o smaku waniliowym Jogobella",
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534351/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Winogrona na wagę",
+    "name": "Frankfurterki drobiowe Kraina Wędlin Select",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Danie Mac & Cheese Family Food",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Zupa w pouchu Krakus grochowa z kiełbasą wieprzową",
+    "oldPrice": null,
+    "newPrice": 6.19,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Zupa w pouchu Krakus pomidorowa z kurczakiem i ryżem",
+    "oldPrice": null,
+    "newPrice": 6.19,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Zupa w pouchu Krakus ogórkowa z szynką wieprzową",
+    "oldPrice": null,
+    "newPrice": 6.19,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535392/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Świeży filet z piersi kurczaka",
+    "oldPrice": null,
+    "newPrice": 16.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535302/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Porcje z fileta z łososia atlantyckiego Marinero",
     "oldPrice": null,
     "newPrice": 5.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535302/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Pieczarki",
+    "name": "Kawa ziarnista Jacobs Krönung",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535302/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Folia aluminiowa Jan Niezbędny 50 m",
+    "oldPrice": null,
+    "newPrice": 22.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Worki na śmieci Magnum Odor Jan Niezbędny 60 l 8-pak",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Papier do pieczenia Jan Niezbędny w arkuszach Xxl",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Papier do pieczenia Jan Niezbędny",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Worki na śmieci Jan Niezbędny Easy Pack 60 l 18-pak",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Zmywaki kuchenne Jan Niezbędny 5-pak",
+    "oldPrice": null,
+    "newPrice": 3.79,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Zmywak kuchenny Jan Niezbędny Power Fresh 2-pak",
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Świeży filet z piersi kurczaka Mega Paka Kraina Mięs",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Masło ekstra Łaciate",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534327/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535287/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -277,89 +409,12 @@
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Buraki czerwone",
+    "name": "T-shirt męski Patriotic",
     "oldPrice": null,
-    "newPrice": 2.99,
+    "newPrice": 34.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Pomidor polski malinowy",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Pomidor koktajlowy gałązka opakowanie Biedronka",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Pomidory malinowe polskie luz",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Ananas cały",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Melon żółty",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Papryka czerwona",
-    "oldPrice": null,
-    "newPrice": 12.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Awokado Hass",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534297/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -370,7 +425,7 @@
     "newPrice": 49.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -381,29 +436,7 @@
     "newPrice": 59.9,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "T-shirt męski Patriotic",
-    "oldPrice": null,
-    "newPrice": 34.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Skarpety męskie 3-pak Patriotic",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -414,7 +447,7 @@
     "newPrice": 19.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -425,7 +458,18 @@
     "newPrice": 29.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Skarpety męskie 3-pak Patriotic",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -436,18 +480,18 @@
     "newPrice": 79.9,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
     "store": "Biedronka",
     "category": "Spożywcze i inne",
-    "name": "Czapka Patriotic",
+    "name": "Rękawiczki Patriotic",
     "oldPrice": null,
     "newPrice": 29.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534753/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535338/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -722,18 +766,7 @@
     "newPrice": 59.9,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Figurka na teleskopowych nogach",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -744,7 +777,29 @@
     "newPrice": 2.99,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Figurka na teleskopowych nogach",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Chlebak dwupoziomowy Smukee 36x20x29 cm",
+    "oldPrice": null,
+    "newPrice": 69.9,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -755,40 +810,7 @@
     "newPrice": 69.9,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Obrotowy stojak na 16 pojemniczków Smukee",
-    "oldPrice": null,
-    "newPrice": 69.9,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Kubek z pokrywką Sistema",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
-    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
-  },
-  {
-    "store": "Biedronka",
-    "category": "Spożywcze i inne",
-    "name": "Pojemnik kwadratowy ze sztućcami Sistema",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   },
   {
@@ -799,7 +821,29 @@
     "newPrice": 69.9,
     "discountPct": null,
     "image": null,
-    "url": "https://blix.pl/sklep/biedronka/gazetka/534750/",
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Łyżka, widelec i nóż w etui Sistema",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
+    "note": "hit z gazetki — dane za pośrednictwem blix.pl"
+  },
+  {
+    "store": "Biedronka",
+    "category": "Spożywcze i inne",
+    "name": "Pojemnik okrągły z pojemniczkiem na sos lub muesli i łyżeczką Sistema",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": null,
+    "url": "https://blix.pl/sklep/biedronka/gazetka/535326/",
     "note": "hit z gazetki — dane za pośrednictwem blix.pl"
   }
 ]

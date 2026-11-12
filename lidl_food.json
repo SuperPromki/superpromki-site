@@ -2,39 +2,6 @@
   {
     "store": "Lidl",
     "category": "Karma dla psów",
-    "name": "MAX'S WORLD Pasztet dla psa",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp5ce933beb984468aa592d2bd253d08ea.png",
-    "url": "https://www.lidl.pl/p/max-s-world-pasztet-dla-psa/p11316017"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla kotów",
-    "name": "Mila's World Karma mokra dla kota, kawałki w galaretce, saszetki",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpb05721b9bb3d49a6aed4c441c5c2b9e7.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-galaretce-saszetki/p11330857"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla kotów",
-    "name": "MILA'S WORLD Karma mokra dla kota, pasztet",
-    "oldPrice": null,
-    "newPrice": 1.49,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpb4ce56bc79064effb9b413a5cb432c5b.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-pasztet/p11713656"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla psów",
     "name": "Max's World Karma mokra dla psa, pâté, saszetki",
     "oldPrice": null,
     "newPrice": 26.99,
@@ -42,17 +9,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpfd5d83e5b28c401daffc9472bd5a4494.png",
     "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pate-saszetki/p11329249"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla kotów",
-    "name": "MILA'S WORLD Karma mokra dla kota, delikatne kawałki w sosie",
-    "oldPrice": null,
-    "newPrice": 1.69,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp9243b16ade074f76b9d2b988cc69a1e0.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-delikatne-kawalki-w-sosie/p11678701"
   },
   {
     "store": "Lidl",
@@ -309,6 +265,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Pasztet dla psa",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5ce933beb984468aa592d2bd253d08ea.png",
+    "url": "https://www.lidl.pl/p/max-s-world-pasztet-dla-psa/p11316017"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla kotów",
     "name": "MILA'S WORLD Karma mokra dla kota, filety rybne",
     "oldPrice": null,
@@ -339,6 +306,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp00c49f698bb446de87600d0d12bb7850.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-sosie/p11329229"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "Mila's World Karma mokra dla kota, kawałki w galaretce, saszetki",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb05721b9bb3d49a6aed4c441c5c2b9e7.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-galaretce-saszetki/p11330857"
   },
   {
     "store": "Lidl",
@@ -376,13 +354,13 @@
   {
     "store": "Lidl",
     "category": "Opieka nad zwierzętami i przekąski",
-    "name": "MILLA'S WORLD Funkcyjny przysmak dla kota",
+    "name": "MILA'S WORLD Funkcyjny przysmak dla kota",
     "oldPrice": null,
     "newPrice": 9.99,
     "discountPct": null,
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpead50bb5a7c74912ab1196f502ea1e52.png",
-    "url": "https://www.lidl.pl/p/milla-s-world-funkcyjny-przysmak-dla-kota/p11500158"
+    "url": "https://www.lidl.pl/p/mila-s-world-funkcyjny-przysmak-dla-kota/p11500158"
   },
   {
     "store": "Lidl",
@@ -394,6 +372,72 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp1c330348a6be4182970bc18dcdd8e6a5.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-pasztet/p11677614"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, delikatne kawałki w sosie",
+    "oldPrice": null,
+    "newPrice": 1.69,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp9243b16ade074f76b9d2b988cc69a1e0.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-delikatne-kawalki-w-sosie/p11678701"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma mokra dla, psa pasztet",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5f2a38d85b0f4a17b8d415f535114754.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pasztet/p11679191"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma sucha dla psa junior/senior",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpcb0c40ee5a6645799309c8a999f27440.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-sucha-dla-psa-junior-senior/p11679279"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa rolki/ciasteczka",
+    "oldPrice": null,
+    "newPrice": 8.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpabf3c8fc287e407899effab21eb234e4.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-rolki-ciasteczka/p11679307"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MILA'S WORLD Snack dla kota, pałeczki",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp2a874c01f98347cd87bb4171f1cf5f5d.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-paleczki/p11679806"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, dentalsticks",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp575c1bcd9615427d8c44ef1a15acd50b.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-dentalsticks/p11688529"
   },
   {
     "store": "Lidl",
@@ -427,5 +471,27 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp4e58e99238764ba6ab9691056ab44c1c.png",
     "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pasztet/p11713650"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, pasztet",
+    "oldPrice": null,
+    "newPrice": 1.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb4ce56bc79064effb9b413a5cb432c5b.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-pasztet/p11713656"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota kawałki w sosie/galaretce",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpcb4027faab9e42839bc52d1766ee7c88.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-sosie-galaretce/p11713660"
   }
 ]
