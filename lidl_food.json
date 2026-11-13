@@ -1,6 +1,17 @@
 [
   {
     "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Zupa dla kota",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp274052e139464c1c9b98f4b57f9afb3a.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-zupa-dla-kota/p11331191"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "Max's World Karma mokra dla psa, pâté, saszetki",
     "oldPrice": null,
@@ -20,6 +31,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp70ef102eb6884623b889b96824e75569.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-sosie/p11702109"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Cytryny, luzem",
+    "oldPrice": 11.99,
+    "newPrice": 4.99,
+    "discountPct": 58,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3456d82507944fa7bfcfea3114fc7b6a.png",
+    "url": "https://www.lidl.pl/p/cytryny-luzem/p11030000"
   },
   {
     "store": "Lidl",
@@ -177,17 +199,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Napoje bezalkoholowe",
-    "name": "Pepsi, Pepsi Zero, Mirinda lub 7UP",
-    "oldPrice": null,
-    "newPrice": 7.98,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpeb1cc2d0ec814d3ba477407339f2cfb1.png",
-    "url": "https://www.lidl.pl/p/pepsi-pepsi-zero-mirinda-lub-7up/p12213968"
-  },
-  {
-    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "MAX'S WORLD Pasztet dla psa",
     "oldPrice": null,
@@ -240,6 +251,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpfe5e2b0ab9b24f7cbc17cb22554f1771.png",
     "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-paleczki-do-zucia/p11679339"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MILA'S WORLD Snack dla kota, pałeczki",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp2a874c01f98347cd87bb4171f1cf5f5d.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-paleczki/p11679806"
   },
   {
     "store": "Lidl",
@@ -331,17 +353,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Karma dla kotów",
-    "name": "MILA'S WORLD Zupa dla kota",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp274052e139464c1c9b98f4b57f9afb3a.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-zupa-dla-kota/p11331191"
-  },
-  {
-    "store": "Lidl",
     "category": "Opieka nad zwierzętami i przekąski",
     "name": "MILA'S WORLD Snack dla kota, kremowa przekąska",
     "oldPrice": null,
@@ -416,17 +427,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpabf3c8fc287e407899effab21eb234e4.png",
     "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-rolki-ciasteczka/p11679307"
-  },
-  {
-    "store": "Lidl",
-    "category": "Opieka nad zwierzętami i przekąski",
-    "name": "MILA'S WORLD Snack dla kota, pałeczki",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp2a874c01f98347cd87bb4171f1cf5f5d.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-paleczki/p11679806"
   },
   {
     "store": "Lidl",

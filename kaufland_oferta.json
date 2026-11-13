@@ -2,31 +2,21 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Karkówka wieprzowa",
+    "oldPrice": 21.99,
+    "newPrice": 11.99,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728358",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Golonka wieprzowa przednia",
     "oldPrice": 13.49,
     "newPrice": 7.9,
     "discountPct": 41,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00100069_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Mandarynki (luzem)",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "K-Stąd Takie Dobre (Polskie pieczarki)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700056_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -197,6 +187,16 @@
     "newPrice": 3.99,
     "discountPct": 31,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20779151_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Madej Wróbel (Polędwica Rudzińska)",
+    "oldPrice": 4.09,
+    "newPrice": 2.79,
+    "discountPct": 31,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20953851",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -472,20 +472,10 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polskie pieczarki)",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700056_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Mandarynki (luzem)",
-    "oldPrice": 9.99,
+    "oldPrice": null,
     "newPrice": 5.99,
-    "discountPct": 40,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -507,16 +497,6 @@
     "newPrice": 15.99,
     "discountPct": 23,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00100065_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mięso mielone (z łopatki wieprzowej)",
-    "oldPrice": 15.49,
-    "newPrice": 10.9,
-    "discountPct": 29,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100059_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -557,16 +537,6 @@
     "newPrice": 12.99,
     "discountPct": 23,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2817260000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Połówka (kury rosołowej)",
-    "oldPrice": null,
-    "newPrice": 10.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20784184",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -627,16 +597,6 @@
     "newPrice": 4.99,
     "discountPct": null,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988154_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Sokołów (Tatar wołowy)",
-    "oldPrice": 9.99,
-    "newPrice": 8.99,
-    "discountPct": 10,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20964603",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -902,6 +862,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Karkówka wieprzowa",
+    "oldPrice": 21.99,
+    "newPrice": 11.99,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728358",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Kołdras (Kiełbasa wiejska)",
     "oldPrice": 49.9,
     "newPrice": 38.9,
@@ -1037,6 +1007,16 @@
     "newPrice": 2.79,
     "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/01000236_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stad Takie Dobre (Jogurt grecki)",
+    "oldPrice": 7.99,
+    "newPrice": 6.79,
+    "discountPct": 15,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20894537",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1183,9 +1163,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Müller Mix (Jogurt)",
-    "oldPrice": 3.29,
+    "oldPrice": null,
     "newPrice": 2.39,
-    "discountPct": 27,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00110855_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1243,9 +1223,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bracia Koral (Lody)",
-    "oldPrice": null,
+    "oldPrice": 20.99,
     "newPrice": 14.99,
-    "discountPct": null,
+    "discountPct": 28,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00053075_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1602,6 +1582,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "OneDayMore (Musli Cookie)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20990769_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "OneDayMore (Winter Granola)",
     "oldPrice": null,
     "newPrice": 14.99,
@@ -1713,9 +1703,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "K-Classic (Ciasto)",
-    "oldPrice": 9.99,
+    "oldPrice": null,
     "newPrice": 8.49,
-    "discountPct": 15,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4337185699191_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1797,6 +1787,16 @@
     "newPrice": 1.49,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20215350",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Brześć (Ptysie lub Eklery)",
+    "oldPrice": 11.99,
+    "newPrice": 9.99,
+    "discountPct": 16,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20953666_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2102,16 +2102,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kinder Bueno (Batony)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20101304_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Dilmah (Herbata czarna)",
     "oldPrice": 8.99,
     "newPrice": 6.99,
@@ -2217,6 +2207,16 @@
     "newPrice": 74.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20865434_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Davidoff (Kawa ziarnista)",
+    "oldPrice": null,
+    "newPrice": 74.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20997666_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2667,6 +2667,16 @@
     "newPrice": 39.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20756296_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "STR8 (Zestaw prezentowy)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20992042_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6022,6 +6032,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "My Project (Olej silnikowy 5W30)",
+    "oldPrice": 169.9,
+    "newPrice": 149.0,
+    "discountPct": 12,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00130174_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "OXIMO (Wycieraczka\nbezszkieletowa 525mm)",
     "oldPrice": null,
     "newPrice": 24.99,
@@ -8347,16 +8367,6 @@
     "newPrice": 3.49,
     "discountPct": 27,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2830060000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Śliwki (luzem)",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700069aa_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
