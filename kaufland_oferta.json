@@ -1823,9 +1823,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Krakus (Barszcz czerwony familijny)",
-    "oldPrice": 8.49,
+    "oldPrice": null,
     "newPrice": 6.99,
-    "discountPct": 17,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/5900397736702_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2963,9 +2963,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Silvercrest (Robot kuchenny SKMS 1200 C1)",
-    "oldPrice": null,
+    "oldPrice": 1599.0,
     "newPrice": 1499.0,
-    "discountPct": null,
+    "discountPct": 6,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D529144_S-A-Monsieur-Cuisine-Smart-V01__23GQ00_FS_EU-KL_NFVP",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2973,9 +2973,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Silvercrest (Robot kuchenny SKMS 1200)",
-    "oldPrice": null,
+    "oldPrice": 1599.0,
     "newPrice": 1499.0,
-    "discountPct": null,
+    "discountPct": 6,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D525961_S-A-Monsieur-Cuisine-Smart-V01__23GQ00_FS_EU-KL_NFVP",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -2983,9 +2983,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Silvercrest (Robot kuchenny\nSKMS 1200)",
-    "oldPrice": null,
+    "oldPrice": 1599.0,
     "newPrice": 1499.0,
-    "discountPct": null,
+    "discountPct": 6,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/a_3D525957_S-A-Monsieur-Cuisine-Smart-V01__23GQ00_FS_EU-KL_NFVP",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -5282,46 +5282,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Pojemnik OpenStore (poj. 45 l)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991450_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik OpenStore (poj. 45 l)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991451_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik OpenStore (poj. 45 l)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991452_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik OpenStore (poj. 45 l)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20991453_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Pojemnik na pranie OpenStore (poj. 60 l)",
     "oldPrice": null,
     "newPrice": 34.99,
@@ -5822,16 +5782,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "MORAJ (Skarpety damskie długie\nrozm. 35-41)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20654680_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Parkside (Lokalizator POG 70 A1)",
     "oldPrice": null,
     "newPrice": 49.0,
@@ -5942,26 +5892,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "MORAJ (Skarpety męskie długie\nrozm. 39-43)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20990553_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MORAJ (Skarpety męskie długie\nrozm. 43-45)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20990552_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "MORAJ (Skarpety damskie długie\n35-38)",
     "oldPrice": null,
     "newPrice": 6.99,
@@ -6037,76 +5967,6 @@
     "newPrice": 149.0,
     "discountPct": 12,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00130174_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 525mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949782_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 500mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949781_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 650mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949722_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 600mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949721_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 550mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949720_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 475mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949719_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "OXIMO (Wycieraczka\nbezszkieletowa 450 mm)",
-    "oldPrice": null,
-    "newPrice": 24.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20949718_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6312,26 +6172,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kuniboo (Rajstopy dziewczęce\nrozm. 86-92)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098303_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n50-56)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098201_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kuniboo (Body dziecięce 3-pak\nRozmiar 62-68)",
     "oldPrice": 29.99,
     "newPrice": 14.99,
@@ -6342,121 +6182,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n86-92)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098203_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kuniboo (Rajstopy chłopięce\nrozm. 62-68)",
     "oldPrice": 9.99,
     "newPrice": 4.99,
     "discountPct": 50,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098208_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n50-56)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098218_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n62-68)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098219_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n74-80)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098220_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n86-92)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098222_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Rajstopy dziewczęce\nrozm. 74-80)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098228_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Body dziecięce\n74-80)",
-    "oldPrice": 29.99,
-    "newPrice": 14.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098276_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Rajstopy chłopięce\nrozm. 110-116)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098113_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Rajstopy chłopięce\nrozm. 98-104)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098114_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Rajstopy dziewczęce\nrozm. 110-116)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098115_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kuniboo (Rajstopy dziewczęce\nrozm. 98-104)",
-    "oldPrice": 9.99,
-    "newPrice": 4.99,
-    "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098116_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6842,7 +6572,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Maskotka",
+    "name": "Maskotka świąteczna (różne rodzaje)",
     "oldPrice": 29.99,
     "newPrice": 14.99,
     "discountPct": 50,
@@ -8447,6 +8177,26 @@
     "newPrice": 3.99,
     "discountPct": 20,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4000007037173_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Polskie pomidory malinowe)",
+    "oldPrice": 18.99,
+    "newPrice": 9.99,
+    "discountPct": 47,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20898831_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Borówki amerykańskie",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00131762_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
