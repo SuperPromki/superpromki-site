@@ -12,26 +12,6 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Karkówka wieprzowa",
-    "oldPrice": 21.99,
-    "newPrice": 11.99,
-    "discountPct": 45,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728358",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Golonka wieprzowa przednia",
-    "oldPrice": 13.49,
-    "newPrice": 7.9,
-    "discountPct": 41,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100069_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
     "name": "Olewnik (Wędliny podsuszane)",
     "oldPrice": 6.29,
     "newPrice": 3.99,
@@ -197,6 +177,26 @@
     "newPrice": 3.99,
     "discountPct": 31,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20779151_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Madej Wróbel (Polędwica Rudzińska)",
+    "oldPrice": 4.09,
+    "newPrice": 2.79,
+    "discountPct": 31,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20953851",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
+    "name": "Morliny (Kiełbasa morlińska z szynki)",
+    "oldPrice": 14.69,
+    "newPrice": 9.99,
+    "discountPct": 31,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123333_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -502,26 +502,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Golonka wieprzowa przednia",
-    "oldPrice": 13.49,
-    "newPrice": 7.9,
-    "discountPct": 41,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100069_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Żeberka wieprzowe (ekstramięsne)",
-    "oldPrice": 16.99,
-    "newPrice": 11.99,
-    "discountPct": 29,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00100220_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Udziec wołowy (ekstra)",
     "oldPrice": 49.99,
     "newPrice": 44.99,
@@ -542,81 +522,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-STOISKO MIĘSNE (Mięso mielone wołowe)",
-    "oldPrice": 16.99,
-    "newPrice": 12.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5900562543500_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Sokołów (Big burger wołowy)",
-    "oldPrice": 15.99,
-    "newPrice": 12.99,
-    "discountPct": 18,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20827644_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Kostka z fileta\nz piersi kurczaka)",
-    "oldPrice": null,
-    "newPrice": 11.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20856263",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stoisko Mięsne (Noga z indyka)",
-    "oldPrice": null,
-    "newPrice": 13.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20979819_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mięso z uda kurczaka",
-    "oldPrice": null,
-    "newPrice": 15.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2812940000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Lukullus (Kabanosy bez dodatku E)",
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20988154_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Wątroba wieprzowa",
-    "oldPrice": 6.99,
-    "newPrice": 5.49,
-    "discountPct": 21,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2801000000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "BEFOODIE (Gyros z kurczaka)",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20911462_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -822,51 +732,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "K-Favourites (Argentyński\nrostbef)",
-    "oldPrice": null,
-    "newPrice": 89.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20754527_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Favourites (Stek wołowy)",
-    "oldPrice": null,
-    "newPrice": 89.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20086329_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Favourites (Udziec jagnięcy\nz kością)",
-    "oldPrice": 69.9,
-    "newPrice": 59.9,
-    "discountPct": 14,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20708573_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Krakus (Szynka od Szwagra)",
     "oldPrice": 9.99,
     "newPrice": 6.99,
     "discountPct": 30,
     "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20923683_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Karkówka wieprzowa",
-    "oldPrice": 21.99,
-    "newPrice": 11.99,
-    "discountPct": 45,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728358",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -892,41 +762,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "SuperFish (Morszczuk Argentyński)",
-    "oldPrice": null,
-    "newPrice": 4.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20991403",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Connoisseur (Łosoś pocyficzny)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20090097",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Filety śledziowe (a la matias)",
     "oldPrice": 2.29,
     "newPrice": 1.59,
     "discountPct": 30,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20351705_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Blue Bay (Karmazyn\nfilet bez skóry)",
-    "oldPrice": null,
-    "newPrice": 5.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20999249",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1692,16 +1532,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Cukiernia P. Chojecki (Babeczki kajmakowe)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20168740_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "K-Classic (Ciasto)",
     "oldPrice": null,
     "newPrice": 8.49,
@@ -1757,16 +1587,6 @@
     "newPrice": 2.59,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00123886",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Michaś (Kremówki z  Częstochowy)",
-    "oldPrice": 3.99,
-    "newPrice": 2.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20928847",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6176,7 +5996,7 @@
     "oldPrice": 29.99,
     "newPrice": 14.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098202_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20098202_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6186,7 +6006,7 @@
     "oldPrice": 9.99,
     "newPrice": 4.99,
     "discountPct": 50,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20098208_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20098208_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
