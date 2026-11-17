@@ -12,6 +12,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Mandarynki (luzem)",
+    "oldPrice": 9.99,
+    "newPrice": 5.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Olewnik (Wędliny podsuszane)",
     "oldPrice": 6.29,
     "newPrice": 3.99,
@@ -187,16 +197,6 @@
     "newPrice": 2.79,
     "discountPct": 31,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20953851",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "Morliny (Kiełbasa morlińska z szynki)",
-    "oldPrice": 14.69,
-    "newPrice": 9.99,
-    "discountPct": 31,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00123333_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -473,9 +473,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Mandarynki (luzem)",
-    "oldPrice": null,
+    "oldPrice": 9.99,
     "newPrice": 5.99,
-    "discountPct": null,
+    "discountPct": 40,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2830130000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1003,9 +1003,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Müller Mix (Jogurt)",
-    "oldPrice": null,
+    "oldPrice": 3.29,
     "newPrice": 2.39,
-    "discountPct": null,
+    "discountPct": 27,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00110855_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1063,9 +1063,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bracia Koral (Lody)",
-    "oldPrice": 20.99,
+    "oldPrice": null,
     "newPrice": 14.99,
-    "discountPct": 28,
+    "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00053075_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1523,9 +1523,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Bagietka pszenna (duża)",
-    "oldPrice": 2.89,
+    "oldPrice": 2.69,
     "newPrice": 2.19,
-    "discountPct": 24,
+    "discountPct": 18,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20781422_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1533,9 +1533,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "K-Classic (Ciasto)",
-    "oldPrice": null,
+    "oldPrice": 9.99,
     "newPrice": 8.49,
-    "discountPct": null,
+    "discountPct": 15,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4337185699191_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -3006,7 +3006,7 @@
     "oldPrice": 43.55,
     "newPrice": 20.0,
     "discountPct": 54,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627193958_PL_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20666399_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3066,7 +3066,7 @@
     "oldPrice": 49.99,
     "newPrice": 35.0,
     "discountPct": 29,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20783773_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20783773_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7997,16 +7997,6 @@
     "newPrice": 5.99,
     "discountPct": 40,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2830020000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Papryka czerwona",
-    "oldPrice": 17.99,
-    "newPrice": 13.99,
-    "discountPct": 22,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
