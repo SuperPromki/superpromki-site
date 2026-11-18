@@ -402,16 +402,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Monstera (śr. don. 14 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00033909_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Kalanchoe (śr. don. 12 cm)",
     "oldPrice": null,
     "newPrice": 7.99,
@@ -1346,7 +1336,7 @@
     "oldPrice": 12.99,
     "newPrice": 9.99,
     "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20910316_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20910316_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2047,16 +2037,6 @@
     "newPrice": 9.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/21003680",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Kinder (Batoniki Pół Metra)",
-    "oldPrice": null,
-    "newPrice": 16.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00097532_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3006,7 +2986,7 @@
     "oldPrice": 43.55,
     "newPrice": 20.0,
     "discountPct": 54,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20666399_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627193958_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3066,7 +3046,7 @@
     "oldPrice": 49.99,
     "newPrice": 35.0,
     "discountPct": 29,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20783773_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20783773_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -7862,21 +7842,51 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kupiec (Wafle ryżowe w polewie\njogurtowej)",
-    "oldPrice": 4.99,
-    "newPrice": 2.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20870231",
+    "name": "Udo z kurczaka (duża porcja)",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00070927_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Ogórek długi",
+    "name": "Podudzie z kurczaka (duże opakowanie)",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00070928_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Podudzie lub Udo z kurczaka (świeże)",
+    "oldPrice": 11.99,
+    "newPrice": 6.49,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823240000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Udo z kurczaka",
+    "oldPrice": 11.99,
+    "newPrice": 6.49,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2823310000000_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Kupiec (Wafle ryżowe w polewie\njogurtowej)",
     "oldPrice": 4.99,
-    "newPrice": 2.39,
-    "discountPct": 52,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20893807_P",
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20870231",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -8002,16 +8012,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Cukinia (luzem)",
-    "oldPrice": 8.99,
-    "newPrice": 6.99,
-    "discountPct": 22,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700061C_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Żurawina świeża (luzem)",
     "oldPrice": 39.9,
     "newPrice": 29.9,
@@ -8027,16 +8027,6 @@
     "newPrice": 1.99,
     "discountPct": 50,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/2830950000000_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska włoszczyzna",
-    "oldPrice": 7.99,
-    "newPrice": 5.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904730257008_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
