@@ -166,6 +166,28 @@
   },
   {
     "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Pomidory rzymskie, luzem",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpc8a7de9763064563a2d5b52d82a27aba.png",
+    "url": "https://www.lidl.pl/p/pomidory-rzymskie-luzem/p11029692"
+  },
+  {
+    "store": "Lidl",
+    "category": "Drób",
+    "name": "RZEŹNIK Polski kurczak Biesiadny",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp996fd7d28a5243a499f11d341a4503c0.png",
+    "url": "https://www.lidl.pl/p/rzeznik-polski-kurczak-biesiadny/p11409446"
+  },
+  {
+    "store": "Lidl",
     "category": "Masło",
     "name": "PILOS Masło ekstra 83%",
     "oldPrice": null,
@@ -328,17 +350,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp5a810c08198140af935dc9960a4c6c6a.png",
     "url": "https://www.lidl.pl/p/papryczki-slodkie/p11214441"
-  },
-  {
-    "store": "Lidl",
-    "category": "Warzywa",
-    "name": "Awokado zielone",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
-    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
   },
   {
     "store": "Lidl",

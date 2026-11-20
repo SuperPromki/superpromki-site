@@ -42,6 +42,16 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
+    "name": "Pomarańcze (luzem)",
+    "oldPrice": 6.99,
+    "newPrice": 3.99,
+    "discountPct": 42,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700035_a",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Hity tygodnia",
     "name": "Fantasia (Jogurt kremowy)",
     "oldPrice": 3.49,
     "newPrice": 1.99,
@@ -191,16 +201,6 @@
   },
   {
     "store": "Kaufland",
-    "category": "Hity tygodnia",
-    "name": "MK Café Premium Crema (Kawa rozpuszczalna)",
-    "oldPrice": 29.99,
-    "newPrice": 19.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00142485_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
     "category": "Inne",
     "name": "PARKSIDE® (Wiertarko-wkrętarka\nakumulatorowa)",
     "oldPrice": 99.99,
@@ -292,7 +292,7 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Mini Gwiazda betlejemska (śr. don. 6 cm)",
+    "name": "Gwiazda betlejemska mini (śr. don. 6 cm)",
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
@@ -323,9 +323,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Pomarańcze (luzem)",
-    "oldPrice": 5.59,
+    "oldPrice": 6.99,
     "newPrice": 3.99,
-    "discountPct": 28,
+    "discountPct": 42,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700035_a",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -1242,6 +1242,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "K-Stąd Takie Dobre (Pyzy z mięsem)",
+    "oldPrice": 8.49,
+    "newPrice": 7.99,
+    "discountPct": 5,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4047905002858_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Dros (Chrzan z Osjakowa)",
     "oldPrice": 5.99,
     "newPrice": 5.49,
@@ -1723,9 +1733,9 @@
     "store": "Kaufland",
     "category": "Inne",
     "name": "Chleb z makiem (w stylu rustykalnym)",
-    "oldPrice": null,
+    "oldPrice": 3.99,
     "newPrice": 3.49,
-    "discountPct": null,
+    "discountPct": 12,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20882266_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
@@ -7902,6 +7912,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Kotliński (Ketchup)",
+    "oldPrice": 6.59,
+    "newPrice": 5.79,
+    "discountPct": 12,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20785304_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "OSM Międzybórz (Jogurt grecki)",
     "oldPrice": 5.49,
     "newPrice": 4.59,
@@ -9432,6 +9452,16 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "Majorette (Pojazd wyścigowy\n1:64)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20748082_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Pluszak",
     "oldPrice": 79.99,
     "newPrice": 59.99,
@@ -9752,11 +9782,11 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Majorette (Pojazd wyścigowy\n1:64)",
-    "oldPrice": null,
-    "newPrice": 22.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20748082_P",
+    "name": "UNO (Gra karciana\nElite Formuła 1 2025)",
+    "oldPrice": 99.99,
+    "newPrice": 49.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984380_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10167,16 +10197,6 @@
     "newPrice": 29.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20980534O_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "UNO (Gra karciana\nElite Formuła 1 2025)",
-    "oldPrice": 99.99,
-    "newPrice": 9.99,
-    "discountPct": 90,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20984380_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
