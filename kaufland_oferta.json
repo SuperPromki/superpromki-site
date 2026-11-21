@@ -2,11 +2,11 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Pomidory (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 9.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700028",
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 17.99,
+    "newPrice": 8.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -806,7 +806,7 @@
     "oldPrice": null,
     "newPrice": 15.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20997461_P",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20997461_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -846,7 +846,7 @@
     "oldPrice": null,
     "newPrice": 2.49,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/21001866",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21001866_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1176,7 +1176,7 @@
     "oldPrice": 8.99,
     "newPrice": 6.49,
     "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20957774",
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20957774_P.jpg",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1307,16 +1307,6 @@
     "newPrice": 6.99,
     "discountPct": 30,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00104464_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dan Cake (Pinsa)",
-    "oldPrice": 12.49,
-    "newPrice": 8.99,
-    "discountPct": 28,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20866662",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -1766,7 +1756,17 @@
     "oldPrice": 6.99,
     "newPrice": 5.99,
     "discountPct": 14,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20951140_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20951140-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dan Cake (Pinsa)",
+    "oldPrice": 12.49,
+    "newPrice": 8.99,
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20866662",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2526,7 +2526,7 @@
     "oldPrice": null,
     "newPrice": 4.99,
     "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20349932_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20349932",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -6556,7 +6556,7 @@
     "oldPrice": null,
     "newPrice": 3.79,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20942893_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20942893_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10352,16 +10352,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Ogórki gruntowe (luzem)",
-    "oldPrice": 9.99,
-    "newPrice": 6.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700312_V_865757",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Papryka szpiczasta",
     "oldPrice": 19.99,
     "newPrice": 13.99,
@@ -10377,16 +10367,6 @@
     "newPrice": 2.99,
     "discountPct": 50,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00091932_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pomidory (luzem)",
-    "oldPrice": 11.99,
-    "newPrice": 9.99,
-    "discountPct": 16,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700028",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10417,36 +10397,6 @@
     "newPrice": 3.99,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Śliwki (luzem)",
-    "oldPrice": 9.99,
-    "newPrice": 5.99,
-    "discountPct": 40,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700069aa_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "San Lucar (Mango RTE)",
-    "oldPrice": 12.99,
-    "newPrice": 9.99,
-    "discountPct": 23,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20812981",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Borówki amerykańskie",
-    "oldPrice": 11.99,
-    "newPrice": 8.99,
-    "discountPct": 25,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4260152137290_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10487,6 +10437,36 @@
     "newPrice": 1.99,
     "discountPct": 50,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/09700082a-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Nałęczowianka (Woda mineralna)",
+    "oldPrice": null,
+    "newPrice": 10.74,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876902",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polędwiczka wieprzowa",
+    "oldPrice": 32.99,
+    "newPrice": 21.99,
+    "discountPct": 33,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728361_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pomidory rzymskie mini",
+    "oldPrice": 17.99,
+    "newPrice": 8.99,
+    "discountPct": 50,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
