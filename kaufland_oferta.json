@@ -2,11 +2,11 @@
   {
     "store": "Kaufland",
     "category": "Hity tygodnia",
-    "name": "Pomidory rzymskie mini",
-    "oldPrice": 17.99,
-    "newPrice": 8.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
+    "name": "Polskie jabłka Szampion (luzem)",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700094_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -806,7 +806,7 @@
     "oldPrice": null,
     "newPrice": 15.99,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20997461_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20997461_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -846,7 +846,7 @@
     "oldPrice": null,
     "newPrice": 2.49,
     "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21001866_P.jpg",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/21001866",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -2102,16 +2102,6 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "SodaStream (Syrop Pepsi Max)",
-    "oldPrice": 24.99,
-    "newPrice": 17.99,
-    "discountPct": 28,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/8719128117249_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
     "name": "Hortex (Sok 100% jabłkowy)",
     "oldPrice": null,
     "newPrice": 3.49,
@@ -2397,6 +2387,16 @@
     "newPrice": 19.14,
     "discountPct": 33,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/20888762",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "SodaStream (Syrop Pepsi Max)",
+    "oldPrice": 24.99,
+    "newPrice": 17.99,
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/8719128117249_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -3462,6 +3462,566 @@
   {
     "store": "Kaufland",
     "category": "Inne",
+    "name": "K-Classic (Wkład olejowy\nczas palenia 120 h)",
+    "oldPrice": null,
+    "newPrice": 6.29,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095547_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tefal (Zestaw patelni\n24 i 28 cm)",
+    "oldPrice": null,
+    "newPrice": 99.9,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/3168430329898_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MG Home (Zestaw garnków)",
+    "oldPrice": null,
+    "newPrice": 122.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993044_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MG Home (Zestaw sztućców)",
+    "oldPrice": null,
+    "newPrice": 64.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993043_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia ceramiczna (śr. 20 cm)",
+    "oldPrice": null,
+    "newPrice": 45.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988538_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia ceramiczna (śr. 24 cm)",
+    "oldPrice": null,
+    "newPrice": 50.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988539_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia ceramiczna (śr. 28 cm)",
+    "oldPrice": null,
+    "newPrice": 60.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988540_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Rondel ceramiczny (śr. 16 cm)",
+    "oldPrice": null,
+    "newPrice": 44.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988541_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek (ceramiczny)",
+    "oldPrice": null,
+    "newPrice": 79.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988542_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek (ceramiczny)",
+    "oldPrice": null,
+    "newPrice": 99.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988543_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywą)",
+    "oldPrice": null,
+    "newPrice": 5.49,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980763_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywą)",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980764_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywą)",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980765_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Dzbanek filtrujący Classic)",
+    "oldPrice": 14.99,
+    "newPrice": 11.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00025826_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dafi (Dzbanek filtrujący Unimax)",
+    "oldPrice": 14.99,
+    "newPrice": 11.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902884100911_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MG Home (Zestaw garnków Verso)",
+    "oldPrice": null,
+    "newPrice": 129.9,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20270287_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MG Home (Patelnia aluminiowa śr.28 cm)",
+    "oldPrice": null,
+    "newPrice": 50.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20723438_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 45.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779911_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 40.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779910_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 35.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779909_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 30.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779908_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Garnek stalowy (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 25.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779906_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757773_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 5.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757807_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pojemnik szklany (z pokrywką)",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757805_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Komplet garnków (nierdzewnych)",
+    "oldPrice": null,
+    "newPrice": 79.9,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757792_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia z powłoką (Qualum Basic)",
+    "oldPrice": null,
+    "newPrice": 33.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120907_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia z powłoką (Qualum Basic)",
+    "oldPrice": null,
+    "newPrice": 44.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120908_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia z powłoką (Qualum Basic)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120909_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mop ze spryskiwaczem (dł. rączki 126 cm)",
+    "oldPrice": null,
+    "newPrice": 20.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20792630_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Deska do prasowania (120 x 38 cm)",
+    "oldPrice": null,
+    "newPrice": 99.9,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741010146_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Suszarka na pranie Universal)",
+    "oldPrice": null,
+    "newPrice": 90.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20707552_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Vileda (Deska do prasowania)",
+    "oldPrice": 299.9,
+    "newPrice": 239.9,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20273383_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tefal (Patelnia character)",
+    "oldPrice": null,
+    "newPrice": 85.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20990954_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tefal (Patelnia character)",
+    "oldPrice": null,
+    "newPrice": 100.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20990955_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Tefal (Patelnia character)",
+    "oldPrice": null,
+    "newPrice": 70.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20991107_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 18 cm)",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20993288_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 22 cm)",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993289_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Patelnia aluminiowa (śr. 26 cm)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993290_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Talerz deserowy Prima (śr. 20 cm)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093206_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Talerz płytki (śr. 26 cm)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093207_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Talerz głęboki Prima (śr. 23 cm)",
+    "oldPrice": null,
+    "newPrice": 4.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093208_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Hama (Łącznik do pralek\ni suszarek)",
+    "oldPrice": 89.99,
+    "newPrice": 50.0,
+    "discountPct": 44,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20612316_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Spice&Soul (Dzbanek termiczny\n2,8 l)",
+    "oldPrice": 79.99,
+    "newPrice": 34.99,
+    "discountPct": 56,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20717343_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "SodaStream (Butelka biała 2 szt.)",
+    "oldPrice": null,
+    "newPrice": 52.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20689735_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Suszarka na pranie (20 m)",
+    "oldPrice": null,
+    "newPrice": 60.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741025546_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MG Home (Zestaw noży w bloku)",
+    "oldPrice": null,
+    "newPrice": 60.0,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/21005657_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Kamizelka odblaskowa\nr.M-XXL)",
+    "oldPrice": null,
+    "newPrice": 69.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627877117_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Kamizelka odblaskowa\nr.M-XXL)",
+    "oldPrice": null,
+    "newPrice": 69.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627877155_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Ogrodniczki robocze\nr.M-XL)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627917882_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Ogrodniczki robocze\nr.M-L)",
+    "oldPrice": null,
+    "newPrice": 59.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627917851_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Kurtka odblaskowa\nr.M-XXL)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627888540_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Parkside Performance (Kurtka odblaskowa\nr.M-XL)",
+    "oldPrice": null,
+    "newPrice": 49.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627888502_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mustang (T-shirt\nS-XXL)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21002905_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Everlast (Bluza męska\nM-3XL)",
+    "oldPrice": null,
+    "newPrice": 80.0,
+    "discountPct": null,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21002902_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Pierre Cardin (T-shirt męski\nM-2XL)",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20958129_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
     "name": "Butelka",
     "oldPrice": null,
     "newPrice": 2.49,
@@ -4397,566 +4957,6 @@
     "newPrice": 9.99,
     "discountPct": null,
     "image": "https://kaufland.media.schwarz/is/image/schwarz/00144714_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Classic (Wkład olejowy\nczas palenia 120 h)",
-    "oldPrice": null,
-    "newPrice": 6.29,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00095547_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tefal (Zestaw patelni\n24 i 28 cm)",
-    "oldPrice": null,
-    "newPrice": 99.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/3168430329898_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MG Home (Zestaw garnków)",
-    "oldPrice": null,
-    "newPrice": 122.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993044_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MG Home (Zestaw sztućców)",
-    "oldPrice": null,
-    "newPrice": 64.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993043_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia ceramiczna (śr. 20 cm)",
-    "oldPrice": null,
-    "newPrice": 45.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988538_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia ceramiczna (śr. 24 cm)",
-    "oldPrice": null,
-    "newPrice": 50.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988539_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia ceramiczna (śr. 28 cm)",
-    "oldPrice": null,
-    "newPrice": 60.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988540_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Rondel ceramiczny (śr. 16 cm)",
-    "oldPrice": null,
-    "newPrice": 44.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988541_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek (ceramiczny)",
-    "oldPrice": null,
-    "newPrice": 79.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988542_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek (ceramiczny)",
-    "oldPrice": null,
-    "newPrice": 99.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20988543_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywą)",
-    "oldPrice": null,
-    "newPrice": 5.49,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980763_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywą)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980764_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywą)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980765_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Dzbanek filtrujący Classic)",
-    "oldPrice": 14.99,
-    "newPrice": 11.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00025826_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Dafi (Dzbanek filtrujący Unimax)",
-    "oldPrice": 14.99,
-    "newPrice": 11.99,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5902884100911_PL_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MG Home (Zestaw garnków Verso)",
-    "oldPrice": null,
-    "newPrice": 129.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20270287_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MG Home (Patelnia aluminiowa śr.28 cm)",
-    "oldPrice": null,
-    "newPrice": 50.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20723438_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 45.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779911_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 40.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779910_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 35.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779909_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 30.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779908_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Garnek stalowy (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 25.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20779906_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 7.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757773_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 5.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757807_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pojemnik szklany (z pokrywką)",
-    "oldPrice": null,
-    "newPrice": 6.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757805_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Komplet garnków (nierdzewnych)",
-    "oldPrice": null,
-    "newPrice": 79.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20757792_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia z powłoką (Qualum Basic)",
-    "oldPrice": null,
-    "newPrice": 33.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120907_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia z powłoką (Qualum Basic)",
-    "oldPrice": null,
-    "newPrice": 44.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120908_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia z powłoką (Qualum Basic)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00120909_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mop ze spryskiwaczem (dł. rączki 126 cm)",
-    "oldPrice": null,
-    "newPrice": 20.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20792630_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Deska do prasowania (120 x 38 cm)",
-    "oldPrice": null,
-    "newPrice": 99.9,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741010146_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Suszarka na pranie Universal)",
-    "oldPrice": null,
-    "newPrice": 90.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20707552_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Vileda (Deska do prasowania)",
-    "oldPrice": 299.9,
-    "newPrice": 239.9,
-    "discountPct": 20,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20273383_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tefal (Patelnia character)",
-    "oldPrice": null,
-    "newPrice": 85.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20990954_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tefal (Patelnia character)",
-    "oldPrice": null,
-    "newPrice": 100.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20990955_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Tefal (Patelnia character)",
-    "oldPrice": null,
-    "newPrice": 70.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20991107_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 18 cm)",
-    "oldPrice": null,
-    "newPrice": 14.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20993288_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 22 cm)",
-    "oldPrice": null,
-    "newPrice": 19.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993289_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Patelnia aluminiowa (śr. 26 cm)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20993290_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Talerz deserowy Prima (śr. 20 cm)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093206_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Talerz płytki (śr. 26 cm)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093207_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Talerz głęboki Prima (śr. 23 cm)",
-    "oldPrice": null,
-    "newPrice": 4.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20093208_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Hama (Łącznik do pralek\ni suszarek)",
-    "oldPrice": 89.99,
-    "newPrice": 50.0,
-    "discountPct": 44,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20612316_P-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Spice&Soul (Dzbanek termiczny\n2,8 l)",
-    "oldPrice": 79.99,
-    "newPrice": 34.99,
-    "discountPct": 56,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/PL20717343_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "SodaStream (Butelka biała 2 szt.)",
-    "oldPrice": null,
-    "newPrice": 52.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_20689735_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Suszarka na pranie (20 m)",
-    "oldPrice": null,
-    "newPrice": 60.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/9007741025546_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "MG Home (Zestaw noży w bloku)",
-    "oldPrice": null,
-    "newPrice": 60.0,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/21005657_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Kamizelka odblaskowa\nr.M-XXL)",
-    "oldPrice": null,
-    "newPrice": 69.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627877117_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Kamizelka odblaskowa\nr.M-XXL)",
-    "oldPrice": null,
-    "newPrice": 69.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627877155_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Ogrodniczki robocze\nr.M-XL)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627917882_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Ogrodniczki robocze\nr.M-L)",
-    "oldPrice": null,
-    "newPrice": 59.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627917851_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Kurtka odblaskowa\nr.M-XXL)",
-    "oldPrice": null,
-    "newPrice": 49.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627888540_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Parkside Performance (Kurtka odblaskowa\nr.M-XL)",
-    "oldPrice": null,
-    "newPrice": 49.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4066627888502_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Mustang (T-shirt\nS-XXL)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21002905_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Everlast (Bluza męska\nM-3XL)",
-    "oldPrice": null,
-    "newPrice": 80.0,
-    "discountPct": null,
-    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_21002902_P.jpg",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Pierre Cardin (T-shirt męski\nM-2XL)",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20958129_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
@@ -10352,121 +10352,201 @@
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Papryka szpiczasta",
-    "oldPrice": 19.99,
-    "newPrice": 13.99,
-    "discountPct": 30,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2831610000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "K-Stąd Takie Dobre (Polska kapusta na gołąbki)",
-    "oldPrice": 5.99,
+    "name": "Polskie jabłka Ligol",
+    "oldPrice": 4.99,
     "newPrice": 2.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00091932_P",
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700570_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Kiwi",
-    "oldPrice": null,
-    "newPrice": 9.99,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903034455769_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polska cebula żółta",
-    "oldPrice": 3.99,
-    "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/5903111860080_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Cytryny",
-    "oldPrice": 5.99,
-    "newPrice": 3.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/4049107014806_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polskie gruszki Konferencja",
-    "oldPrice": 7.99,
-    "newPrice": 4.99,
-    "discountPct": 37,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2835900000000_PL_P",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polski por (luzem)",
-    "oldPrice": 8.99,
+    "name": "Mandarynki",
+    "oldPrice": 8.79,
     "newPrice": 5.99,
-    "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830040000000_PL_P",
+    "discountPct": 31,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09702240",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polski seler (korzeń, luzem)",
-    "oldPrice": 4.79,
-    "newPrice": 3.49,
-    "discountPct": 27,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830060000000_PL_P",
+    "name": "Polskie pieczarki (luzem)",
+    "oldPrice": 15.99,
+    "newPrice": 9.99,
+    "discountPct": 37,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830220000000_PL_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Polska marchew (luzem)",
-    "oldPrice": 3.99,
+    "name": "Polska pietruszka (korzeń, luzem)",
+    "oldPrice": 6.99,
+    "newPrice": 4.99,
+    "discountPct": 28,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/2830120000000_PL_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska kapusta biała (luzem)",
+    "oldPrice": 2.99,
     "newPrice": 1.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700082a-1",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Nałęczowianka (Woda mineralna)",
-    "oldPrice": null,
-    "newPrice": 10.74,
-    "discountPct": null,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876902",
-    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
-  },
-  {
-    "store": "Kaufland",
-    "category": "Inne",
-    "name": "Polędwiczka wieprzowa",
-    "oldPrice": 32.99,
-    "newPrice": 21.99,
     "discountPct": 33,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/20728361_P",
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700075_P-1",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
     "store": "Kaufland",
     "category": "Inne",
-    "name": "Pomidory rzymskie mini",
+    "name": "Polskie jabłka Szampion (luzem)",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700094_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie jabłka Jonagold (luzem)",
+    "oldPrice": 4.99,
+    "newPrice": 2.99,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700097_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polska włoszczyzna",
+    "oldPrice": 7.99,
+    "newPrice": 5.99,
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/5904730257008_PL_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Polskie buraki czerwone (luzem)",
+    "oldPrice": 2.49,
+    "newPrice": 1.49,
+    "discountPct": 40,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700114D_P-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Coca-Cola, Coca-Cola zero, (Fanta, Sprite\nNapój gazowany)",
+    "oldPrice": null,
+    "newPrice": 9.98,
+    "discountPct": null,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20876513_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Dan Cake (Chleb tostowy)",
+    "oldPrice": 3.59,
+    "newPrice": 2.99,
+    "discountPct": 16,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00091864",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "MORS (Śledzie po kołobrzesku)",
     "oldPrice": 17.99,
+    "newPrice": 13.99,
+    "discountPct": 22,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20879758_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "SmakMAK (Pierogi w stylu azjatyckim)",
+    "oldPrice": 9.99,
+    "newPrice": 7.99,
+    "discountPct": 20,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20860142-1",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Henglein (Ciasto francuskie XXL)",
+    "oldPrice": 6.59,
+    "newPrice": 4.99,
+    "discountPct": 24,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00019716_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Sierpc (Ser Królewski)",
+    "oldPrice": 6.49,
+    "newPrice": 4.49,
+    "discountPct": 30,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20177572_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Łowicz (Śmietanka łowicka 36% tł.)",
+    "oldPrice": 11.99,
     "newPrice": 8.99,
-    "discountPct": 50,
-    "image": "https://kaufland.media.schwarz/is/image/schwarz/00133472_P-1",
+    "discountPct": 25,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00406259_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Mlekovita (Masło klarowane)",
+    "oldPrice": 25.99,
+    "newPrice": 16.99,
+    "discountPct": 34,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/00601290_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Papryka czerwona",
+    "oldPrice": 17.99,
+    "newPrice": 11.99,
+    "discountPct": 33,
+    "image": "https://media.kaufland.com/images/PPIM/KMO/PL300_09700018_P.jpg",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Winogrona czerwone (luzem)",
+    "oldPrice": 19.99,
+    "newPrice": 10.99,
+    "discountPct": 45,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/09700650_P",
+    "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
+  },
+  {
+    "store": "Kaufland",
+    "category": "Inne",
+    "name": "Duda Dudusie (Delikatna szyneczka)",
+    "oldPrice": 6.49,
+    "newPrice": 4.99,
+    "discountPct": 23,
+    "image": "https://kaufland.media.schwarz/is/image/schwarz/20980465_P",
     "url": "https://sklep.kaufland.pl/oferta/przeglad.html"
   },
   {
