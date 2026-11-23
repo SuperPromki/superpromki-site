@@ -1,6 +1,17 @@
 [
   {
     "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma sucha dla kota sterylizowanego",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp9c0c094e3e424a77baa607c82bb70fd0.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-sucha-dla-kota-sterylizowanego/p11316670"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "MAX'S WORLD Karma sucha dla psa",
     "oldPrice": null,
@@ -20,6 +31,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpa172d53f9ee14fe9b46d5b240c1765f3.png",
     "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-kremowa-przekaska/p11331226"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MILA'S WORLD Snack dla kota, nadziewane poduszeczki",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp7bfc123f81074805b6985dd2added576.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-nadziewane-poduszeczki/p11679061"
   },
   {
     "store": "Lidl",
@@ -89,6 +111,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, kostki/twister",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf77c7b69ff0c4ea383fa22099ef6faec.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-kostki-twister/p11713658"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "MAX'S WORLD Pasztet dla psa",
     "oldPrice": null,
@@ -97,6 +130,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp5ce933beb984468aa592d2bd253d08ea.png",
     "url": "https://www.lidl.pl/p/max-s-world-pasztet-dla-psa/p11316017"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Pasztet dla psa",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp1c6b48be0f744844bfbd6d8e766ba434.png",
+    "url": "https://www.lidl.pl/p/max-s-world-pasztet-dla-psa/p11316284"
   },
   {
     "store": "Lidl",
@@ -130,6 +174,61 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp1c330348a6be4182970bc18dcdd8e6a5.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-pasztet/p11677614"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma mokra dla psa, kawałki w sosie",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp2a6e612793c84521a276a3a939a52a2c.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-kawalki-w-sosie/p11679188"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma mokra dla psa, pâté",
+    "oldPrice": null,
+    "newPrice": 6.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpef46a4e42d10454db9472d35a108e04b.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pate/p11679189"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma mokra dla, psa pasztet",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5f2a38d85b0f4a17b8d415f535114754.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pasztet/p11679191"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, mus",
+    "oldPrice": null,
+    "newPrice": 1.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp87a6c1c1b0d7440ca710494cf2e3f2e8.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-mus/p11679399"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, kawałki w sosie",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp70ef102eb6884623b889b96824e75569.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-sosie/p11702109"
   },
   {
     "store": "Lidl",
@@ -189,6 +288,17 @@
   {
     "store": "Lidl",
     "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, kawałki w galaretce",
+    "oldPrice": null,
+    "newPrice": 24.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp91df9ffeb0894472824e21dd0a996222.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-galaretce/p11330843"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
     "name": "Mila's World Karma mokra dla kota, kawałki w galaretce, saszetki",
     "oldPrice": null,
     "newPrice": 24.99,
@@ -196,6 +306,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpb05721b9bb3d49a6aed4c441c5c2b9e7.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-galaretce-saszetki/p11330857"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma mokra dla psa, kawałki w sosie",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp0fcf26f653c4403197ecbbf1786bd08f.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-kawalki-w-sosie/p11331724"
   },
   {
     "store": "Lidl",
@@ -254,6 +375,39 @@
   },
   {
     "store": "Lidl",
+    "category": "Słodkie wypieki",
+    "name": "FAVORINA Piernikowe ludki",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5e2b6e2b442a469e84a84e5cc8c1dbc6.png",
+    "url": "https://www.lidl.pl/p/favorina-piernikowe-ludki/p11003455"
+  },
+  {
+    "store": "Lidl",
+    "category": "wyroby czekoladowe",
+    "name": "FAVORINA Pierniki",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp6c0a302eb59d416d97b2a0d831768301.png",
+    "url": "https://www.lidl.pl/p/favorina-pierniki/p11006488"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ciastka i wypieki",
+    "name": "FAVORINA Pierniki z lukrem i miodem",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb9f4e1e7a11d4d7d855bfec20bc1f750.png",
+    "url": "https://www.lidl.pl/p/favorina-pierniki-z-lukrem-i-miodem/p11007776"
+  },
+  {
+    "store": "Lidl",
     "category": "Warzywa",
     "name": "Pomidory czekoladowe, luzem",
     "oldPrice": 19.99,
@@ -295,6 +449,94 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpaca937096af945919259d4f2f3872953.png",
     "url": "https://www.lidl.pl/p/gruszki-deserowe-luzem/p11030062"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza mrożone",
+    "name": "DELUXE Mieszanka kalmarów z suszonymi pomidorami",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe3f47f845ecd46cb84b146d1cb5f3d39.png",
+    "url": "https://www.lidl.pl/p/deluxe-mieszanka-kalmarow-z-suszonymi-pomidorami/p11031175"
+  },
+  {
+    "store": "Lidl",
+    "category": "Lody",
+    "name": "DELUXE Deluxe Tort",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb4e436fd6f93406cb53636eb729fea76.png",
+    "url": "https://www.lidl.pl/p/deluxe-deluxe-tort/p11041298"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza mrożone",
+    "name": "Deluxe Carpaccio z ośmiornicy w oleju",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb225aa5f6722439e9a38cead2cc8e9ec.png",
+    "url": "https://www.lidl.pl/p/deluxe-carpaccio-z-osmiornicy-w-oleju/p11102009"
+  },
+  {
+    "store": "Lidl",
+    "category": "Świeży makaron i ciasto",
+    "name": "DELUXE Pierożki girasoli z burratą i pesto pistacjowym",
+    "oldPrice": null,
+    "newPrice": 8.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf22389692cc04c12b67c1bc03d437a64.png",
+    "url": "https://www.lidl.pl/p/deluxe-pierozki-girasoli-z-burrata-i-pesto-pistacjowym/p11108950"
+  },
+  {
+    "store": "Lidl",
+    "category": "Konserwy mięsne i rybne",
+    "name": "DELUXE Filety z sardeli solone, w oliwie z oliwek",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp9f372ea119cf439887b0aae8b5f9ff06.png",
+    "url": "https://www.lidl.pl/p/deluxe-filety-z-sardeli-solone-w-oliwie-z-oliwek/p11139901"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "DELUXE Mortadella Bologna IGP z pistacjami",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp50ecddc31b7145738dcc31ee960b9e74.png",
+    "url": "https://www.lidl.pl/p/deluxe-mortadella-bologna-igp-z-pistacjami/p11140049"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "Salami",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp19ab515c7b2345a59eb7abf146c5c1c4.png",
+    "url": "https://www.lidl.pl/p/salami/p11141847"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "DELUXE Deluxe Fiocchetto",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp049ac959051f40989786342eb94fec62.png",
+    "url": "https://www.lidl.pl/p/deluxe-deluxe-fiocchetto/p11147593"
   },
   {
     "store": "Lidl",
@@ -375,6 +617,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Kawa, herbata i kakao",
+    "name": "DELUXE Herbata kwitnąca",
+    "oldPrice": null,
+    "newPrice": 32.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp7cc98bd133b2465194c5793dbf978015.png",
+    "url": "https://www.lidl.pl/p/deluxe-herbata-kwitnaca/p11254449"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "Max's World Karma mokra dla psa, pâté, saszetki",
     "oldPrice": null,
@@ -441,6 +694,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Masło",
+    "name": "PILOS Masło ekstra 83%",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
+    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
+  },
+  {
+    "store": "Lidl",
     "category": "Kiełbasy i wędliny",
     "name": "PIKOK Kiełbasa podwawelska, XXL",
     "oldPrice": 17.99,
@@ -449,6 +713,28 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcp714ab844a35446ac8d36732e1d6dbb7f.png",
     "url": "https://www.lidl.pl/p/pikok-kielbasa-podwawelska-xxl/p11434147"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ciastka i wypieki",
+    "name": "DELUXE Ciasteczka migdałowe z gorzką czekoladą",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf7218a4c1c784e869f548afa4813cacf.png",
+    "url": "https://www.lidl.pl/p/deluxe-ciasteczka-migdalowe-z-gorzka-czekolada/p11503947"
+  },
+  {
+    "store": "Lidl",
+    "category": "wyroby czekoladowe",
+    "name": "Kalendarz adwentowy „Boski Adwent 2026”",
+    "oldPrice": null,
+    "newPrice": 17.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp93832723a2bb4270bfb08624518287cd.png",
+    "url": "https://www.lidl.pl/p/kalendarz-adwentowy-boski-adwent-2026/p11676866"
   },
   {
     "store": "Lidl",
@@ -496,6 +782,17 @@
   },
   {
     "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma sucha dla kota",
+    "oldPrice": null,
+    "newPrice": 12.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpd5394297a76e496182aba6a3550059c9.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-sucha-dla-kota/p11711631"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla psów",
     "name": "MAX'S WORLD Karma mokra dla psa, pasztet",
     "oldPrice": null,
@@ -518,57 +815,123 @@
   },
   {
     "store": "Lidl",
-    "category": "Karma dla psów",
-    "name": "MAX'S WORLD Pasztet dla psa",
-    "oldPrice": null,
-    "newPrice": 2.49,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp1c6b48be0f744844bfbd6d8e766ba434.png",
-    "url": "https://www.lidl.pl/p/max-s-world-pasztet-dla-psa/p11316284"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla psów",
-    "name": "MAX'S WORLD Karma mokra dla psa, pâté",
-    "oldPrice": null,
-    "newPrice": 6.49,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpef46a4e42d10454db9472d35a108e04b.png",
-    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pate/p11679189"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla psów",
-    "name": "MAX'S WORLD Karma mokra dla, psa pasztet",
-    "oldPrice": null,
-    "newPrice": 4.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp5f2a38d85b0f4a17b8d415f535114754.png",
-    "url": "https://www.lidl.pl/p/max-s-world-karma-mokra-dla-psa-pasztet/p11679191"
-  },
-  {
-    "store": "Lidl",
     "category": "Karma dla kotów",
-    "name": "MILA'S WORLD Karma mokra dla kota, kawałki w sosie",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp70ef102eb6884623b889b96824e75569.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-kawalki-w-sosie/p11702109"
-  },
-  {
-    "store": "Lidl",
-    "category": "Karma dla kotów",
-    "name": "MILA'S WORLD Karma sucha dla kota",
+    "name": "MILA'S WORLD Snack dla kota, filety w sosie",
     "oldPrice": null,
     "newPrice": 12.99,
     "discountPct": null,
     "note": null,
-    "image": "https://www.lidl.pl/assets/gcpd5394297a76e496182aba6a3550059c9.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-karma-sucha-dla-kota/p11711631"
+    "image": "https://www.lidl.pl/assets/gcpa4f874d1cbea447790cbdbd5112112ea.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-filety-w-sosie/p11316046"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma sucha dla kota, junior albo senior",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpcc2c816c7abc417580b8f5eb2f94f203.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-sucha-dla-kota-junior-albo-senior/p11331104"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla kotów",
+    "name": "MILA'S WORLD Karma mokra dla kota, filety w sosie",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf291f813ea5542fb85e2b65cc8af1abf.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-filety-w-sosie/p11331712"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, suszona skóra wołowa",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3639a632afd34d999a14afd81106d12a.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-suszona-skora-wolowa/p11332100"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma sucha dla psa",
+    "oldPrice": null,
+    "newPrice": 39.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp66be5c2beb304586a45a1c29c7c47aa3.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-sucha-dla-psa/p11679278"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa uszy/salami",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpe7c22db835c54a0e861ffbca0f966fac.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-uszy-salami/p11679414"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, rolki do żucia",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpba362d521b7447f29b7a6e94476c31b6.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-rolki-do-zucia/p11679454"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, treningowy",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa9e60d7cf1514c46bd776e0f6a2c256f.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-treningowy/p11679594"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, kostki do żucia",
+    "oldPrice": null,
+    "newPrice": 19.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpdc417d1722654e3886c60077edf1526f.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-kostki-do-zucia/p11679595"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, paski do żucia",
+    "oldPrice": null,
+    "newPrice": 4.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp68fc78035e884a60bf95c4c4c0d201cf.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-paski-do-zucia/p11679819"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, suszony",
+    "oldPrice": null,
+    "newPrice": 14.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp299ac29d101449a683b4533e636ae7d8.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-suszony/p11713657"
   }
 ]
