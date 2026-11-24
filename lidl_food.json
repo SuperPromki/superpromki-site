@@ -12,28 +12,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Karma dla psów",
-    "name": "MAX'S WORLD Karma sucha dla psa",
-    "oldPrice": null,
-    "newPrice": 26.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpd68f267547ed41b4b9c9703a0c0accb3.png",
-    "url": "https://www.lidl.pl/p/max-s-world-karma-sucha-dla-psa/p11330928"
-  },
-  {
-    "store": "Lidl",
-    "category": "Opieka nad zwierzętami i przekąski",
-    "name": "MILA'S WORLD Snack dla kota, kremowa przekąska",
-    "oldPrice": null,
-    "newPrice": 10.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcpa172d53f9ee14fe9b46d5b240c1765f3.png",
-    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-kremowa-przekaska/p11331226"
-  },
-  {
-    "store": "Lidl",
     "category": "Opieka nad zwierzętami i przekąski",
     "name": "MILA'S WORLD Snack dla kota, nadziewane poduszeczki",
     "oldPrice": null,
@@ -119,6 +97,28 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpf77c7b69ff0c4ea383fa22099ef6faec.png",
     "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-kostki-twister/p11713658"
+  },
+  {
+    "store": "Lidl",
+    "category": "Karma dla psów",
+    "name": "MAX'S WORLD Karma sucha dla psa",
+    "oldPrice": null,
+    "newPrice": 26.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpd68f267547ed41b4b9c9703a0c0accb3.png",
+    "url": "https://www.lidl.pl/p/max-s-world-karma-sucha-dla-psa/p11330928"
+  },
+  {
+    "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MILA'S WORLD Snack dla kota, kremowa przekąska",
+    "oldPrice": null,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpa172d53f9ee14fe9b46d5b240c1765f3.png",
+    "url": "https://www.lidl.pl/p/mila-s-world-snack-dla-kota-kremowa-przekaska/p11331226"
   },
   {
     "store": "Lidl",
@@ -650,17 +650,6 @@
   },
   {
     "store": "Lidl",
-    "category": "Dżemy, pasty do smarowania i miód",
-    "name": "Krem do smarowania",
-    "oldPrice": null,
-    "newPrice": 8.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpe533cbd1e65547948d1e2bb9713db24c.png",
-    "url": "https://www.lidl.pl/p/krem-do-smarowania/p11407975"
-  },
-  {
-    "store": "Lidl",
     "category": "Drób",
     "name": "Rzeźnik Polski kurczak – ćwiartki, XXL",
     "oldPrice": null,
@@ -691,17 +680,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcp39d833f1525e4e5593a117f57ebb6757.png",
     "url": "https://www.lidl.pl/p/mlekpol-mleko-uht-3-2-mazurski-smak/p11419448"
-  },
-  {
-    "store": "Lidl",
-    "category": "Masło",
-    "name": "PILOS Masło ekstra 83%",
-    "oldPrice": null,
-    "newPrice": 2.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpdf4404f8adf94075ae8585885de5a706.png",
-    "url": "https://www.lidl.pl/p/pilos-maslo-ekstra-83/p11427027"
   },
   {
     "store": "Lidl",
