@@ -1,6 +1,17 @@
 [
   {
     "store": "Lidl",
+    "category": "Opieka nad zwierzętami i przekąski",
+    "name": "MAX'S WORLD Snack dla psa, suszona skóra wołowa",
+    "oldPrice": null,
+    "newPrice": 29.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp3639a632afd34d999a14afd81106d12a.png",
+    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-suszona-skora-wolowa/p11332100"
+  },
+  {
+    "store": "Lidl",
     "category": "Karma dla kotów",
     "name": "MILA'S WORLD Karma sucha dla kota sterylizowanego",
     "oldPrice": null,
@@ -342,6 +353,182 @@
   },
   {
     "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Pomidory rzymskie, luzem",
+    "oldPrice": 14.99,
+    "newPrice": 9.99,
+    "discountPct": 33,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpc8a7de9763064563a2d5b52d82a27aba.png",
+    "url": "https://www.lidl.pl/p/pomidory-rzymskie-luzem/p11029692"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Bio Organic Bio Pomarańcze",
+    "oldPrice": 9.99,
+    "newPrice": 7.99,
+    "discountPct": 20,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpc28dfe96e48049fc8f32ecd7ef3835f3.png",
+    "url": "https://www.lidl.pl/p/bio-organic-bio-pomarancze/p11029840"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Kiwi",
+    "oldPrice": null,
+    "newPrice": 2.49,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp0cc32875330f418fba701ee012bfe013.png",
+    "url": "https://www.lidl.pl/p/kiwi/p11030005"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ryby i owoce morza",
+    "name": "Granat, luzem",
+    "oldPrice": null,
+    "newPrice": 11.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp78cd52bc1be84f86aa8004e8d9f87af9.png",
+    "url": "https://www.lidl.pl/p/granat-luzem/p11115779"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Banany, luzem",
+    "oldPrice": null,
+    "newPrice": 2.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpee9b5edda4384d6fba0ac93727dd6b8c.png",
+    "url": "https://www.lidl.pl/p/banany-luzem/p11150766"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Ryneczek Lidla Pomelo żółte, luzem",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpb5f58c1e33e14cbdaebf7c4fc20d4797.png",
+    "url": "https://www.lidl.pl/p/ryneczek-lidla-pomelo-zolte-luzem/p11150773"
+  },
+  {
+    "store": "Lidl",
+    "category": "Owoce",
+    "name": "Ananas, luzem",
+    "oldPrice": null,
+    "newPrice": 4.79,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpfa5f6177417c43bd84009c7f2c129405.png",
+    "url": "https://www.lidl.pl/p/ananas-luzem/p11150912"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Bataty, luzem",
+    "oldPrice": null,
+    "newPrice": 7.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcpd358cfab406b47a39eda4a4fcb478fd5.png",
+    "url": "https://www.lidl.pl/p/bataty-luzem/p11150934"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Sałata lodowa",
+    "oldPrice": 5.99,
+    "newPrice": 3.49,
+    "discountPct": 41,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpeb805891366c44be80ea427dd470ba76.png",
+    "url": "https://www.lidl.pl/p/salata-lodowa/p11151017"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Ryneczek Lidla Ogórek długi zielony",
+    "oldPrice": 3.99,
+    "newPrice": 2.39,
+    "discountPct": 40,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp7c5d9adbeeed4af7ba340e784635f4fe.png",
+    "url": "https://www.lidl.pl/p/ryneczek-lidla-ogorek-dlugi-zielony/p11151055"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Awokado zielone",
+    "oldPrice": null,
+    "newPrice": 6.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpb967e1993cd249f2b9fa514cc69c1e72.png",
+    "url": "https://www.lidl.pl/p/awokado-zielone/p11214527"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "Pikok Parówki z szynki, XXL",
+    "oldPrice": null,
+    "newPrice": 10.99,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp0f5b033ba922460f90683d2a02f957ad.png",
+    "url": "https://www.lidl.pl/p/pikok-parowki-z-szynki-xxl/p11418493"
+  },
+  {
+    "store": "Lidl",
+    "category": "Kiełbasy i wędliny",
+    "name": "Pikok Polędwica sopocka w plastrach, XXL",
+    "oldPrice": 15.99,
+    "newPrice": 9.99,
+    "discountPct": 37,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpd18060056d0946d387572f1b03bb4b2e.png",
+    "url": "https://www.lidl.pl/p/pikok-poledwica-sopocka-w-plastrach-xxl/p11423080"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "SERENADA Ser radamer w plastrach",
+    "oldPrice": 16.99,
+    "newPrice": 11.99,
+    "discountPct": 29,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp07dab27b5b6f41d9862254270b48cc3f.png",
+    "url": "https://www.lidl.pl/p/serenada-ser-radamer-w-plastrach/p11434742"
+  },
+  {
+    "store": "Lidl",
+    "category": "Ser",
+    "name": "ŁOWICZ Ser edamski w plastrach",
+    "oldPrice": 29.89,
+    "newPrice": 17.99,
+    "discountPct": 39,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcp5f9eadb5bf324dbd8518d4dffc4c3f01.png",
+    "url": "https://www.lidl.pl/p/lowicz-ser-edamski-w-plastrach/p11438144"
+  },
+  {
+    "store": "Lidl",
+    "category": "Warzywa",
+    "name": "Ryneczek Lidla Boczniaki królewskie",
+    "oldPrice": null,
+    "newPrice": 9.99,
+    "discountPct": null,
+    "note": null,
+    "image": "https://www.lidl.pl/assets/gcpf52057e365b0401eba46b60569ca887d.png",
+    "url": "https://www.lidl.pl/p/ryneczek-lidla-boczniaki-krolewskie/p11492942"
+  },
+  {
+    "store": "Lidl",
     "category": "Kiełbasy i wędliny",
     "name": "Pikok Kiełbasa Żywiecka, XXL",
     "oldPrice": null,
@@ -361,17 +548,6 @@
     "note": "wymaga aplikacji Lidl Plus",
     "image": "https://www.lidl.pl/assets/gcpb5892d10a47c4f168cfdefb7cd40802e.png",
     "url": "https://www.lidl.pl/p/pilos-pilos-ser-mozzarella/p11568772"
-  },
-  {
-    "store": "Lidl",
-    "category": "Soki owocowe",
-    "name": "SOLEVITA Sok 100% pomarańcza",
-    "oldPrice": null,
-    "newPrice": 3.99,
-    "discountPct": null,
-    "note": "wymaga aplikacji Lidl Plus",
-    "image": "https://www.lidl.pl/assets/gcpbb660a9469c8425c853953bdae339ea0.png",
-    "url": "https://www.lidl.pl/p/solevita-sok-100-pomarancza/p11257774"
   },
   {
     "store": "Lidl",
@@ -405,6 +581,17 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpb9f4e1e7a11d4d7d855bfec20bc1f750.png",
     "url": "https://www.lidl.pl/p/favorina-pierniki-z-lukrem-i-miodem/p11007776"
+  },
+  {
+    "store": "Lidl",
+    "category": "Suszone owoce i orzechy",
+    "name": "ALESTO Pistacje kalifornijskie",
+    "oldPrice": null,
+    "newPrice": 17.49,
+    "discountPct": null,
+    "note": "wymaga aplikacji Lidl Plus",
+    "image": "https://www.lidl.pl/assets/gcp5b1a0f90364c48438ae7351d71264ebb.png",
+    "url": "https://www.lidl.pl/p/alesto-pistacje-kalifornijskie/p11008466"
   },
   {
     "store": "Lidl",
@@ -823,17 +1010,6 @@
     "note": null,
     "image": "https://www.lidl.pl/assets/gcpf291f813ea5542fb85e2b65cc8af1abf.png",
     "url": "https://www.lidl.pl/p/mila-s-world-karma-mokra-dla-kota-filety-w-sosie/p11331712"
-  },
-  {
-    "store": "Lidl",
-    "category": "Opieka nad zwierzętami i przekąski",
-    "name": "MAX'S WORLD Snack dla psa, suszona skóra wołowa",
-    "oldPrice": null,
-    "newPrice": 29.99,
-    "discountPct": null,
-    "note": null,
-    "image": "https://www.lidl.pl/assets/gcp3639a632afd34d999a14afd81106d12a.png",
-    "url": "https://www.lidl.pl/p/max-s-world-snack-dla-psa-suszona-skora-wolowa/p11332100"
   },
   {
     "store": "Lidl",
